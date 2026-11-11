@@ -205,6 +205,72 @@ if(unpack.skills&&x.code===unpack.code)h+=fold('Skill-specific teaching guidance
 h+=fold(`Related expectations and skills (${related.length})`,related.length?related.slice(0,100).map(v=>`<div class="guide-activity"><strong>${esc(v.code)}</strong> · ${esc(v.type)}<p>${esc(plain(v.text))}</p></div>`).join(''):'<p>No nested records found.</p>');
 return h;
 }
+  function printStudentStandard(code, wording) {
+  const printWindow = window.open('', '_blank');
+
+  if (!printWindow) {
+    alert('Please allow pop-ups to print this standard.');
+    return;
+  }
+
+  printWindow.document.write(`
+    <!doctype html>
+    <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <title>${esc(code)} — Classroom Display</title>
+      <style>
+        @page {
+          size: letter;
+          margin: 0.75in;
+        }
+
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+          color: #111;
+          margin: 0;
+        }
+
+        .standard-code {
+          font-size: 14pt;
+          font-weight: bold;
+          color: #555;
+          margin-bottom: 24pt;
+        }
+
+        .standard-text {
+          font-size: 24pt;
+          line-height: 1.4;
+          font-weight: 600;
+        }
+
+        .footer {
+          margin-top: 36pt;
+          font-size: 10pt;
+          color: #666;
+        }
+
+        @media print {
+          body {
+            print-color-adjust: exact;
+          }
+        }
+      </style>
+    </head>
+    <body>
+      <div class="standard-code">${esc(code)}</div>
+      <div class="standard-text">${esc(wording)}</div>
+      <div class="footer">
+        Student-friendly interpretation of a Georgia ELA standard
+      </div>
+    </body>
+    </html>
+  `);
+
+  printWindow.document.close();
+  printWindow.focus();
+  printWindow.print();
+}
 function openItem(id){
 const x=standards.find(v=>v.id===id);
 if(!x)return;
