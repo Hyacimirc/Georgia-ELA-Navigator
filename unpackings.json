@@ -1,3 +1,1000 @@
+
+{
+  "about": "Independent instructional interpretations; not official Georgia Department of Education unpacking documents. Draft for educator review.",
+  "unpackings": [
+    {
+      "code": "9.L.GC.1",
+      "status": "draft — teacher-developed, not Georgia DOE guidance",
+      "focus": "Grammar, Usage, & Mechanics",
+      "know": [
+        "How grammatical structures, usage choices, and mechanics contribute to clear, purposeful communication.",
+        "How to consult conventions and style guidance when analyzing or composing texts.",
+        "The six specific grade-nine skills identified in the CASE export."
+      ],
+      "understand": [
+        "Conventions are tools for conveying meaning, shaping emphasis, and helping readers follow an argument.",
+        "Effective writers make deliberate choices and revise conventions in context, rather than relying only on isolated drills."
+      ],
+      "do": [
+        "Analyze how language conventions function in authentic texts.",
+        "Apply grade-level conventions in original writing and revision.",
+        "Explain or justify a convention choice using context or an appropriate style guide."
+      ],
+      "targets": [
+        "I can identify and explain the effect of grammatical and mechanical choices in a text.",
+        "I can revise my writing to communicate meaning accurately and effectively.",
+        "I can use an appropriate reference when a convention is uncertain."
+      ],
+      "instruction": [
+        "Begin with a brief mentor-text study, then model a revision and provide guided practice in students’ own drafts.",
+        "Use a focused editing conference or revision checklist tied to one of the six nested skills.",
+        "Teach and assess skills within meaningful reading and writing rather than only through decontextualized worksheets."
+      ],
+      "evidence": [
+        "A before-and-after revision of an authentic paragraph, annotated to explain conventions used.",
+        "A brief transfer task requiring students to apply the same conventions in new writing."
+      ],
+      "watchFor": [
+        "Correct answers on isolated exercises without transfer into authentic writing."
+      ],
+      "skills": {
+        "9.L.GC.1.54": {
+          "focus": "Integrating textual evidence accurately",
+          "know": [
+            "The conventions for integrating quotations, including capitalization, quotation marks, commas, end punctuation, and parenthetical citations.",
+            "The difference between a quotation introduced by a signal phrase and one integrated into the syntax of a sentence."
+          ],
+          "understand": [
+            "Accurate punctuation and citation help readers distinguish a writer’s ideas from a source’s language."
+          ],
+          "do": [
+            "Integrate short quotations into original analytical sentences.",
+            "Apply quotation punctuation and parenthetical citations consistently in an assigned citation style."
+          ],
+          "targets": [
+            "I can introduce and punctuate quoted evidence correctly.",
+            "I can include a parenthetical citation that matches the required style."
+          ],
+          "instruction": [
+            "Compare a dropped quotation with a smoothly integrated quotation and discuss the effect on clarity.",
+            "Revise an analytical paragraph containing deliberately inconsistent quotations and citations."
+          ],
+          "evidence": [
+            "An analytical paragraph with correctly integrated and cited textual evidence."
+          ],
+          "watchFor": [
+            "A quotation dropped into a paragraph without syntactic integration or explanation."
+          ]
+        },
+        "9.L.GC.1.57": {
+          "focus": "Verbals and verbal phrases",
+          "know": [
+            "Participles, gerunds, and infinitives are verb forms that function differently within sentences.",
+            "A verbal phrase includes the verbal and its modifiers or complements."
+          ],
+          "understand": [
+            "A verb form’s grammatical function depends on how it operates in a sentence, not only on its appearance."
+          ],
+          "do": [
+            "Identify participial, gerund, and infinitive phrases in authentic prose.",
+            "Compose and revise sentences using verbal phrases for precision and variety."
+          ],
+          "targets": [
+            "I can distinguish participles, gerunds, and infinitives by function.",
+            "I can revise sentences using verbal phrases without creating dangling modifiers."
+          ],
+          "instruction": [
+            "Sort examples from a shared reading by grammatical function, then justify each classification.",
+            "Combine short sentences using verbal phrases and compare clarity."
+          ],
+          "evidence": [
+            "Annotated examples plus a short original paragraph using varied verbal phrases accurately."
+          ],
+          "watchFor": [
+            "Treating every -ing form as a gerund; dangling participial phrases."
+          ]
+        },
+        "9.L.GC.1.58": {
+          "focus": "Verb tense, aspect, and mood",
+          "know": [
+            "Tense locates an action in time; aspect indicates how an action unfolds or relates to time.",
+            "Verb mood communicates stance, such as fact, command, possibility, or a hypothetical condition."
+          ],
+          "understand": [
+            "Verb forms convey time relationships and a speaker’s attitude, and changes can alter meaning."
+          ],
+          "do": [
+            "Analyze how tense, aspect, and mood affect meaning in a passage.",
+            "Revise sentences to communicate intended time relationships and mood."
+          ],
+          "targets": [
+            "I can explain how a verb form shapes meaning.",
+            "I can select verb forms that express the intended mood and time relationship."
+          ],
+          "instruction": [
+            "Compare sentence pairs that change one verb form; explain the shift in meaning.",
+            "Edit a narrative or argument for purposeful and consistent verb choices."
+          ],
+          "evidence": [
+            "A short revision with annotations explaining selected verb forms."
+          ],
+          "watchFor": [
+            "Assuming tense, aspect, and mood are interchangeable terms."
+          ]
+        },
+        "9.L.GC.1.59": {
+          "focus": "Colons introducing quotations",
+          "know": [
+            "A colon may introduce a quotation after an independent clause when the relationship is appropriate.",
+            "A colon is not interchangeable with a comma after every signal phrase."
+          ],
+          "understand": [
+            "Punctuation signals the grammatical and rhetorical relationship between an introduction and a quotation."
+          ],
+          "do": [
+            "Determine when a colon appropriately introduces quoted material.",
+            "Revise quotation introductions using a colon or other punctuation as warranted."
+          ],
+          "targets": [
+            "I can use a colon appropriately before a quotation.",
+            "I can explain why a colon fits a particular sentence."
+          ],
+          "instruction": [
+            "Compare introductions using a colon, comma, and no punctuation; identify the grammatical differences."
+          ],
+          "evidence": [
+            "Corrected sentences and a paragraph with purposeful quotation introductions."
+          ],
+          "watchFor": [
+            "Placing a colon immediately after an incomplete introductory clause."
+          ]
+        },
+        "9.L.GC.1.60": {
+          "focus": "Using dashes appropriately",
+          "know": [
+            "An em dash can mark a break, interruption, or emphatic insertion.",
+            "Dashes, hyphens, commas, and parentheses have different functions."
+          ],
+          "understand": [
+            "Punctuation choices affect pacing, emphasis, and reader interpretation."
+          ],
+          "do": [
+            "Analyze the rhetorical effect of dashes in published writing.",
+            "Use dashes selectively and correctly in revision."
+          ],
+          "targets": [
+            "I can distinguish a dash from a hyphen.",
+            "I can use dashes to create a purposeful effect without overusing them."
+          ],
+          "instruction": [
+            "Study a short mentor passage and rewrite one sentence using commas, parentheses, and dashes; compare effects."
+          ],
+          "evidence": [
+            "A revised paragraph with a brief explanation of punctuation choices."
+          ],
+          "watchFor": [
+            "Using dashes as a substitute for all other punctuation."
+          ]
+        },
+        "9.L.GC.1.61": {
+          "focus": "Consulting an appropriate style guide",
+          "know": [
+            "Style guides offer conventions for citation, formatting, usage, and editorial decisions.",
+            "Different disciplines or publications may require different style guides."
+          ],
+          "understand": [
+            "Writers resolve complex editorial questions by consulting an appropriate authority and applying it consistently."
+          ],
+          "do": [
+            "Locate relevant guidance in a designated style guide.",
+            "Apply and document a decision about a complex grammar, usage, or mechanics question."
+          ],
+          "targets": [
+            "I can locate an answer to a usage or citation question in an appropriate style guide.",
+            "I can apply the chosen convention consistently."
+          ],
+          "instruction": [
+            "Give pairs a realistic editing question and ask them to find and explain the relevant style-guide rule."
+          ],
+          "evidence": [
+            "An edited excerpt with a short citation or explanation of the consulted rule."
+          ],
+          "watchFor": [
+            "Treating personal preference as a substitute for an assigned style convention."
+          ]
+        }
+      },
+      "studentFriendly": "I can use grammar, punctuation, and sentence structure to communicate clearly, analyze how writers make language choices, and explain my own choices.",
+      "vocabulary": [
+        {
+          "term": "Gerund",
+          "definition": "A verb form ending in -ing that functions as a noun.",
+          "example": "Reading builds empathy."
+        },
+        {
+          "term": "Participle",
+          "definition": "A verb form that functions as an adjective.",
+          "example": "Tired from practice, Maya rested."
+        },
+        {
+          "term": "Infinitive",
+          "definition": "The base form of a verb, often introduced by to.",
+          "example": "To revise takes patience."
+        },
+        {
+          "term": "Verb mood",
+          "definition": "A verb form expressing a statement, command, possibility, or hypothetical condition.",
+          "example": "If I were ready, I would begin."
+        },
+        {
+          "term": "Modifier",
+          "definition": "A word or phrase that describes or limits another element.",
+          "example": "The carefully revised essay was clearer."
+        },
+        {
+          "term": "Citation",
+          "definition": "A reference that identifies the source of borrowed material.",
+          "example": "Use the citation style assigned for the task."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "Eleven",
+          "author": "Sandra Cisneros",
+          "genre": "Short story",
+          "context": "Contemporary · United States",
+          "purpose": "Study fragments, sentence length, and shifts in syntax as markers of a child narrator’s voice. Have students imitate and annotate one syntactic choice.",
+          "access": "Licensed anthology or publisher copy.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Relatable embarrassment, vivid child narrator"
+        },
+        {
+          "title": "We Real Cool",
+          "author": "Gwendolyn Brooks",
+          "genre": "Poetry",
+          "context": "20th century · United States",
+          "purpose": "Analyze enjambment and unconventional punctuation; compare the effect of changing line breaks and stops.",
+          "access": "Check authorized poem publication.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "Very short, striking voice and rhythm"
+        },
+        {
+          "title": "Shooting an Elephant",
+          "author": "George Orwell",
+          "genre": "Essay",
+          "context": "20th century · United Kingdom / Myanmar setting",
+          "purpose": "Compare periodic and direct sentences to examine how syntax conveys hesitation and moral conflict.",
+          "access": "Check authorized text and content suitability.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "Moral dilemma and conflicted narrator"
+        },
+        {
+          "title": "The House on Mango Street",
+          "author": "Sandra Cisneros",
+          "genre": "Novel / vignettes",
+          "context": "Contemporary · United States",
+          "purpose": "Use a short vignette to examine fragments and sentence variety as deliberate stylistic choices.",
+          "access": "Licensed classroom copy.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Brief vivid vignettes about identity and belonging"
+        },
+        {
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "genre": "Autobiography",
+          "context": "19th century · United States",
+          "purpose": "Use a short passage to study punctuation, rhetorical syntax, and integration of textual evidence.",
+          "access": "Public domain in the United States.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "First-person testimony and moral urgency"
+        },
+        {
+          "title": "The Paper Menagerie",
+          "author": "Ken Liu",
+          "genre": "Short story",
+          "context": "Contemporary · United States",
+          "purpose": "Compare sentence structure in reflective and dramatic moments, then revise a paragraph for emotional effect.",
+          "access": "Check authorized publication; preview mature themes.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Fantasy premise and powerful family conflict"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "10–15 min",
+          "title": "Identify, connect, revise",
+          "activity": "Model how participial phrases modify nouns. Students highlight the phrase and the noun it describes in five teacher-created sentences, then repair two misplaced modifiers.",
+          "scaffolds": "Color coding, think-aloud, sentence frames.",
+          "success": "Correctly identify four of five relationships and explain one revision."
+        },
+        {
+          "level": "On level",
+          "time": "15–20 min",
+          "title": "Writer’s workshop",
+          "activity": "Revise an original paragraph by adding two purposeful verbal phrases. Annotate how the changes improve clarity or emphasis.",
+          "scaffolds": "Mentor sentence and partner feedback.",
+          "success": "Two grammatically sound revisions with clear explanations."
+        },
+        {
+          "level": "Enrichment",
+          "time": "20–30 min",
+          "title": "The editor’s challenge",
+          "activity": "Compare syntax in two contrasting prose passages. Rewrite a paragraph for a different audience and justify three grammatical or stylistic choices.",
+          "scaffolds": "Optional style-guide reference.",
+          "success": "Defend three effective choices using accurate terminology and textual evidence."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "Which sentence begins with a participial phrase modifying its subject?",
+          "options": [
+            "She enjoys reading historical fiction.",
+            "Exhausted from the journey, Maria sat down.",
+            "To understand the problem requires patience.",
+            "The students were studying quietly."
+          ],
+          "answer": "Exhausted from the journey, Maria sat down.",
+          "rationale": "Exhausted from the journey modifies Maria."
+        },
+        {
+          "type": "Short response",
+          "prompt": "Explain how the opening phrase in “Exhausted from the journey, Maria sat down” changes the sentence’s emphasis.",
+          "answer": "It foregrounds Maria’s condition before the main action."
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Revise a paragraph of your own writing using two purposeful verbal phrases. Annotate each change and its effect.",
+          "answer": "Evaluate grammatical accuracy, clarity, and explanation of effect."
+        }
+      ],
+      "readingSelectionNote": "Teacher-curated instructional options, not an official or universal school reading list. Choose passages according to skill, grade appropriateness, local policy, and text permissions."
+    },
+
+    {
+      "code": "9.T.C.2",
+      "status": "draft — teacher-developed, not Georgia DOE guidance",
+      "focus": "Authors & Speakers",
+      "studentFriendly": "I can compare how different writers or speakers present a topic, decide how trustworthy they are, and explain how their experiences and circumstances influence their perspectives.",
+      "know": [
+        "Perspective is a position or way of seeing an issue.",
+        "Credibility depends on expertise, evidence, transparency, and context.",
+        "Publication date, audience, and historical circumstances can shape a text."
+      ],
+      "understand": [
+        "Two texts can report the same event while guiding readers toward different interpretations.",
+        "A credible source can still have a perspective; reliability requires examining claims and evidence."
+      ],
+      "do": [
+        "Annotate perspective, supporting details, and omissions in two texts.",
+        "Explain how source context affects credibility and interpretation.",
+        "Synthesize supported conclusions from multiple sources."
+      ],
+      "targets": [
+        "I can identify a writer’s perspective and explain how it develops.",
+        "I can evaluate a source’s credibility using evidence and context."
+      ],
+      "vocabulary": [
+        {
+          "term": "Perspective",
+          "definition": "A particular way of interpreting an issue.",
+          "example": "Two writers may view the same policy differently."
+        },
+        {
+          "term": "Credibility",
+          "definition": "The degree to which a source deserves trust.",
+          "example": "A researcher cites verifiable evidence."
+        },
+        {
+          "term": "Bias",
+          "definition": "A preference or inclination that may shape presentation.",
+          "example": "A headline may favor one side of a debate."
+        },
+        {
+          "term": "Context",
+          "definition": "Conditions surrounding a text’s creation.",
+          "example": "A speech written during a crisis addresses urgent concerns."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "The Danger of a Single Story",
+          "author": "Chimamanda Ngozi Adichie",
+          "genre": "Talk / essay",
+          "context": "Contemporary · Nigeria",
+          "purpose": "Trace how the speaker’s experiences establish perspective and credibility; compare with another account.",
+          "access": "Official talk/transcript where available.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "Personal anecdotes and surprising reversals"
+        },
+        {
+          "title": "Girl",
+          "author": "Jamaica Kincaid",
+          "genre": "Short story",
+          "context": "Contemporary · Antigua and Barbuda",
+          "purpose": "Analyze how a near-unbroken address establishes speaker, audience, and cultural expectations.",
+          "access": "Licensed anthology or publisher copy.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "Unusual single-sentence form and parent-child tension"
+        },
+        {
+          "title": "Theme for English B",
+          "author": "Langston Hughes",
+          "genre": "Poetry",
+          "context": "20th century · United States",
+          "purpose": "Analyze how the speaker complicates assumptions about identity, audience, and authority.",
+          "access": "Check authorized poem publication.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "Direct voice and questions about identity"
+        },
+        {
+          "title": "Persepolis",
+          "author": "Marjane Satrapi",
+          "genre": "Graphic memoir",
+          "context": "Contemporary · Iran / France",
+          "purpose": "Analyze how narration and visual perspective shape a reader’s understanding of historical events.",
+          "access": "Licensed classroom copy; preview content.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "Graphic storytelling and adolescent perspective"
+        },
+        {
+          "title": "The Ones Who Walk Away from Omelas",
+          "author": "Ursula K. Le Guin",
+          "genre": "Short story",
+          "context": "20th century · United States",
+          "purpose": "Examine narrator-reader address and withheld information as techniques shaping judgment.",
+          "access": "Licensed anthology or publisher copy.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "Provocative ethical dilemma and twist"
+        },
+        {
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "genre": "Autobiography",
+          "context": "19th century · United States",
+          "purpose": "Examine first-person testimony and rhetorical audience; compare claims to historical context.",
+          "access": "Public domain in the United States.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "First-person testimony and moral urgency"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "15 min",
+          "title": "Two perspectives, one issue",
+          "activity": "Provide two short, teacher-selected paragraphs on the same school issue. Students underline each claim, circle two framing words, and complete a compare/contrast organizer.",
+          "scaffolds": "Color-coded model, sentence frames, paired reading.",
+          "success": "Identify each perspective and cite one precise phrase from each."
+        },
+        {
+          "level": "On level",
+          "time": "25 min",
+          "title": "Credibility comparison",
+          "activity": "Compare two published articles on one current issue. Annotate author credentials, evidence, publication context, and framing; write a 150-word evaluation of which is more reliable for a specific research question.",
+          "scaffolds": "Four-factor credibility checklist.",
+          "success": "Use at least three specific source details and distinguish perspective from factual error."
+        },
+        {
+          "level": "Enrichment",
+          "time": "35 min",
+          "title": "How context changes the account",
+          "activity": "Compare an archival primary source with a later interpretation of the same event. Write a synthesis that identifies what each contributes and what remains uncertain.",
+          "scaffolds": "Optional archival metadata and historiography prompts.",
+          "success": "Synthesize two supported insights, evaluate limitations, and identify an unresolved question."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "Which detail most directly supports an author’s credibility on a scientific claim?",
+          "answer": "The author describes a reproducible study and identifies its evidence.",
+          "rationale": "Verifiable evidence is more probative than confidence or popularity.",
+          "options": [
+            "The author uses emotional adjectives.",
+            "The author describes a reproducible study and identifies its evidence.",
+            "The article has a colorful design.",
+            "The headline uses a question."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Two writers describe the same event differently. Identify one difference in framing and explain how it could shape a reader’s interpretation.",
+          "answer": "Accept a precise comparison supported by language from both texts.",
+          "rationale": "The response must connect a textual choice to an effect on interpretation."
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Using two sources on a shared topic, write a paragraph evaluating credibility and synthesizing a conclusion.",
+          "answer": "Score for accurate source characterization, two cited details, credibility reasoning, and qualified synthesis.",
+          "rationale": "Do not reward unsupported declarations that a source is biased."
+        }
+      ],
+      "evidence": [
+        "A comparison paragraph citing both texts and explaining credibility."
+      ],
+      "instruction": [
+        "Model the difference between a source’s claim and its perspective.",
+        "Use a source-context annotation routine before evaluating reliability."
+      ],
+      "watchFor": [
+        "Assuming disagreement means one source is automatically unreliable.",
+        "Equating a professional-looking website with credibility."
+      ],
+      "readingSelectionNote": "Teacher-curated instructional options, not an official or universal school reading list. Choose passages according to skill, grade appropriateness, local policy, and text permissions."
+    },
+
+    {
+      "code": "9.T.T.3",
+      "status": "draft — teacher-developed, not Georgia DOE guidance",
+      "focus": "Argumentative Techniques",
+      "studentFriendly": "I can explain how an argument uses reasons, evidence, and rhetorical appeals to influence an audience, and I can use those techniques responsibly in my own writing.",
+      "know": [
+        "Ethos concerns credibility, logos concerns reasoning, and pathos concerns emotion.",
+        "Claims require relevant reasons and support.",
+        "Rhetorical choices are shaped by audience and purpose."
+      ],
+      "understand": [
+        "Appeals work together and can be ethical or misleading depending on evidence and use.",
+        "Effective argument anticipates how its intended audience may respond."
+      ],
+      "do": [
+        "Annotate claims, reasons, evidence, and appeals.",
+        "Evaluate whether an appeal supports or distracts from a claim.",
+        "Revise an argument using purposeful rhetorical techniques."
+      ],
+      "targets": [
+        "I can identify and evaluate ethos, logos, and pathos.",
+        "I can revise an argument for a specific audience."
+      ],
+      "vocabulary": [
+        {
+          "term": "Claim",
+          "definition": "The position an argument asks an audience to accept.",
+          "example": "School lunches should include more fresh produce."
+        },
+        {
+          "term": "Ethos",
+          "definition": "An appeal based on credibility or character.",
+          "example": "A speaker explains relevant professional experience."
+        },
+        {
+          "term": "Logos",
+          "definition": "An appeal using reasoning or evidence.",
+          "example": "The proposal cites a documented cost comparison."
+        },
+        {
+          "term": "Pathos",
+          "definition": "An appeal to audience emotions or values.",
+          "example": "A narrative highlights a family’s experience."
+        },
+        {
+          "term": "Counterclaim",
+          "definition": "A competing position an argument acknowledges.",
+          "example": "Some argue the plan would be too costly."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "Letter from Birmingham Jail",
+          "author": "Martin Luther King Jr.",
+          "genre": "Open letter / argument",
+          "context": "20th century · United States",
+          "purpose": "Map claim, counterargument, ethical appeal, and rhetorical questions in a selected section.",
+          "access": "Use authorized publication or archive.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "Moral argument and response to critics"
+        },
+        {
+          "title": "Ain’t I a Woman? (compare historical versions)",
+          "author": "Sojourner Truth / historical transcribers",
+          "genre": "Speech / historical document",
+          "context": "19th century · United States",
+          "purpose": "Compare differing transcriptions, then discuss evidence, audience, and the reliability of reconstructed speeches.",
+          "access": "Use historical archives; do not present one version as verbatim.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "Contrasting historical transcriptions invite investigation"
+        },
+        {
+          "title": "The Hill We Climb",
+          "author": "Amanda Gorman",
+          "genre": "Poetry / civic address",
+          "context": "Contemporary · United States",
+          "purpose": "Examine repetition, parallelism, and appeals to shared values in public persuasion.",
+          "access": "Use authorized text or performance.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "Contemporary civic performance and imagery"
+        },
+        {
+          "title": "A Modest Proposal",
+          "author": "Jonathan Swift",
+          "genre": "Satirical essay",
+          "context": "18th century · Ireland",
+          "purpose": "Identify apparent claims versus actual critique; analyze irony and appeals.",
+          "access": "Public domain; requires strong contextual scaffolding and content review.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "Dark satire and shocking premise; content review needed"
+        },
+        {
+          "title": "The Declaration of Independence",
+          "author": "Continental Congress, principally drafted by Thomas Jefferson",
+          "genre": "Founding document / argument",
+          "context": "18th century · United States",
+          "purpose": "Trace claims, premises, and rhetorical parallelism; compare ideals with historical exclusions.",
+          "access": "Public domain.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "High-stakes historical argument"
+        },
+        {
+          "title": "The Danger of a Single Story",
+          "author": "Chimamanda Ngozi Adichie",
+          "genre": "Talk / argument",
+          "context": "Contemporary · Nigeria",
+          "purpose": "Analyze anecdotal evidence and reasoning; evaluate how the speaker addresses a global audience.",
+          "access": "Official talk/transcript where available.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "Personal anecdotes and surprising reversals"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "15 min",
+          "title": "Appeal detective",
+          "activity": "Read six short teacher-written claims and supporting statements. Sort each statement by primary appeal, then match two to a claim they would help support.",
+          "scaffolds": "Appeal definitions, color-coded examples, partner talk.",
+          "success": "Classify five of six and explain one choice using a textual clue."
+        },
+        {
+          "level": "On level",
+          "time": "25 min",
+          "title": "Revise the school proposal",
+          "activity": "Draft a 180–250-word proposal for a school improvement. Include a clear claim, two evidence-based reasons, and two purposeful appeals; label them in the margin.",
+          "scaffolds": "Claim–reason–evidence organizer and peer feedback.",
+          "success": "Use credible support and explain how each appeal suits the intended audience."
+        },
+        {
+          "level": "Enrichment",
+          "time": "35 min",
+          "title": "Ethical rhetoric lab",
+          "activity": "Analyze an advertisement or public speech for ethical and questionable uses of appeals. Rewrite a misleading passage to preserve persuasion while improving fairness and accuracy.",
+          "scaffolds": "Rhetorical analysis checklist and optional fact-checking sources.",
+          "success": "Justify three revisions with attention to evidence, audience, and ethical impact."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "A writer cites audited budget figures to support a proposal. Which appeal is most directly used?",
+          "answer": "Logos.",
+          "rationale": "Documented quantitative evidence primarily supports reasoning.",
+          "options": [
+            "Pathos",
+            "Ethos only",
+            "Logos",
+            "Humor"
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Explain how an emotional anecdote could strengthen an argument and when it might mislead readers.",
+          "answer": "Strong answers explain audience engagement and the need for representative, corroborated evidence.",
+          "rationale": "Distinguish emotional impact from factual sufficiency."
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Revise an argumentative paragraph to strengthen its reasoning and audience appeal; annotate three choices.",
+          "answer": "Score claim clarity, relevance of evidence, ethical use of appeals, and quality of annotations.",
+          "rationale": "A persuasive tone alone is not sufficient."
+        }
+      ],
+      "evidence": [
+        "Annotated argument and a revised paragraph with justifications."
+      ],
+      "instruction": [
+        "Think aloud while marking claims, evidence, and appeals in a mentor passage.",
+        "Require students to explain what each appeal does for a specific audience."
+      ],
+      "watchFor": [
+        "Calling every statistic logos without checking relevance.",
+        "Confusing emotional force with sufficient evidence."
+      ],
+      "readingSelectionNote": "Teacher-curated instructional options, not an official or universal school reading list. Choose passages according to skill, grade appropriateness, local policy, and text permissions."
+    },
+
+    {
+      "code": "9.P.EICC.4",
+      "status": "draft — teacher-developed, not Georgia DOE guidance",
+      "focus": "Writing Processes",
+      "studentFriendly": "I can plan, draft, evaluate, revise, and edit my writing to meet a clear purpose and the needs of a particular audience.",
+      "know": [
+        "Purpose, audience, genre, and organization guide writing decisions.",
+        "Revision changes ideas and effectiveness; editing addresses conventions.",
+        "Feedback is useful when interpreted against a writing goal."
+      ],
+      "understand": [
+        "Writing is iterative, and writers may return to earlier steps as their ideas develop.",
+        "A polished draft is not necessarily effective unless it fulfills its purpose for its readers."
+      ],
+      "do": [
+        "Set a purpose and identify an audience.",
+        "Plan and draft with relevant information.",
+        "Use feedback to revise meaning and structure before editing."
+      ],
+      "targets": [
+        "I can select a plan that suits my audience and purpose.",
+        "I can use feedback to make substantive revisions."
+      ],
+      "vocabulary": [
+        {
+          "term": "Audience",
+          "definition": "The readers or listeners a text addresses.",
+          "example": "A proposal to the principal uses a professional tone."
+        },
+        {
+          "term": "Purpose",
+          "definition": "What the writer intends the text to accomplish.",
+          "example": "A guide explains how to complete a task."
+        },
+        {
+          "term": "Draft",
+          "definition": "A working version of a text.",
+          "example": "The first draft tests an organizational plan."
+        },
+        {
+          "term": "Revision",
+          "definition": "Reworking content, organization, and craft to improve effectiveness.",
+          "example": "Move the strongest evidence nearer the claim."
+        },
+        {
+          "term": "Editing",
+          "definition": "Correcting conventions and consistency.",
+          "example": "Check punctuation after revising the paragraph."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "Fish Cheeks",
+          "author": "Amy Tan",
+          "genre": "Personal essay",
+          "context": "Contemporary · United States",
+          "purpose": "Model a focused personal narrative: select a vivid moment, then revise for reflection and audience.",
+          "access": "Licensed anthology or publisher copy.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Humor, embarrassment, and family identity"
+        },
+        {
+          "title": "The Jacket",
+          "author": "Gary Soto",
+          "genre": "Memoir / personal narrative",
+          "context": "Contemporary · United States",
+          "purpose": "Study concrete detail and pacing; draft and revise a short memory scene.",
+          "access": "Licensed anthology or publisher copy.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Relatable school embarrassment and distinctive voice"
+        },
+        {
+          "title": "The Paper Menagerie",
+          "author": "Ken Liu",
+          "genre": "Short story",
+          "context": "Contemporary · United States",
+          "purpose": "Track scene, summary, and emotional turn; revise a draft to strengthen structure and significance.",
+          "access": "Check authorized publication; preview mature themes.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Fantasy premise and powerful family conflict"
+        },
+        {
+          "title": "Brown Girl Dreaming",
+          "author": "Jacqueline Woodson",
+          "genre": "Verse memoir",
+          "context": "Contemporary · United States",
+          "purpose": "Use a selected poem to model drafting with imagery, line breaks, and revision for voice.",
+          "access": "Licensed classroom copy.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Short verse passages and vivid personal memories"
+        },
+        {
+          "title": "The House on Mango Street",
+          "author": "Sandra Cisneros",
+          "genre": "Novel / vignettes",
+          "context": "Contemporary · United States",
+          "purpose": "Use a vignette as a model for concise narrative drafting and peer revision.",
+          "access": "Licensed classroom copy.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Brief vivid vignettes about identity and belonging"
+        },
+        {
+          "title": "On Writing: A Memoir of the Craft",
+          "author": "Stephen King",
+          "genre": "Craft memoir / nonfiction",
+          "context": "Contemporary · United States",
+          "purpose": "Use a brief, licensed excerpt to discuss revision habits and choices writers make.",
+          "access": "Licensed excerpt; preview content.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Short Read",
+          "interestHook": "Concrete, candid advice about writing"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "20 min",
+          "title": "From plan to paragraph",
+          "activity": "Given a familiar school topic and a named audience, complete a purpose–audience organizer, arrange four idea cards, draft one paragraph, and revise it using one focused peer comment.",
+          "scaffolds": "Model organizer, sentence starters, teacher conference.",
+          "success": "Produce a paragraph with a clear purpose and one documented substantive revision."
+        },
+        {
+          "level": "On level",
+          "time": "35 min",
+          "title": "Revision workshop",
+          "activity": "Draft a 250-word explanation or proposal, obtain two peer responses tied to purpose and audience, and submit a revised version with a three-sentence revision memo.",
+          "scaffolds": "Feedback prompts: clarity, relevance, organization.",
+          "success": "Make two meaningful revisions and explain how each helps the target reader."
+        },
+        {
+          "level": "Enrichment",
+          "time": "40 min",
+          "title": "One idea, two audiences",
+          "activity": "Adapt the same core message into a student-facing announcement and a formal administrator memo. Compare organization, diction, evidence, and tone in a reflection.",
+          "scaffolds": "Audience profiles and genre exemplars.",
+          "success": "Demonstrate at least three deliberate audience-driven changes with explanations."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "Which change is primarily revision rather than editing?",
+          "answer": "Reorganizing paragraphs so the argument develops more logically.",
+          "rationale": "Revision addresses content and organization; editing addresses surface conventions.",
+          "options": [
+            "Correcting a misspelled word.",
+            "Adding a missing comma.",
+            "Reorganizing paragraphs so the argument develops more logically.",
+            "Fixing subject–verb agreement."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Describe one piece of feedback that would lead to a substantive revision and explain the change you would make.",
+          "answer": "A valid answer names a purpose-related issue and a concrete revision.",
+          "rationale": "Vague statements such as “make it better” are insufficient."
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Submit an initial draft, a revised draft, and a short memo explaining two purposeful changes.",
+          "answer": "Assess alignment with audience and purpose, quality of changes, and explanation; evaluate editing separately.",
+          "rationale": "Look for evidence of a process, not only a clean final product."
+        }
+      ],
+      "evidence": [
+        "Two drafts and a revision memo showing purposeful changes."
+      ],
+      "instruction": [
+        "Model a revision that improves an idea, not merely punctuation.",
+        "Use feedback protocols with specific audience-and-purpose questions."
+      ],
+      "watchFor": [
+        "Treating proofreading as the entire revision process.",
+        "Requiring every student to follow an inflexible linear sequence."
+      ],
+      "readingSelectionNote": "Teacher-curated instructional options, not an official or universal school reading list. Choose passages according to skill, grade appropriateness, local policy, and text permissions."
+    },
+
+    {
+      "code": "9.T.RA.2",
+      "status": "draft — teacher-developed, not Georgia DOE guidance",
+      "focus": "Curating Sources & Evidence",
+      "studentFriendly": "I can find trustworthy information in print and digital sources, compare evidence across sources, and give credit using MLA citations.",
+      "know": [
+        "Academic databases, catalogs, and search engines have different purposes.",
+        "Source credibility and relevance depend on the research question.",
+        "MLA citations identify where evidence came from."
+      ],
+      "understand": [
+        "Reliable research requires verification and attention to conflicting accounts.",
+        "Accurate citations make evidence traceable and respect source creators."
+      ],
+      "do": [
+        "Find and evaluate sources for a focused question.",
+        "Cross-check important claims and distinguish evidence from interpretation.",
+        "Integrate evidence with MLA-style in-text citations and works-cited entries."
+      ],
+      "targets": [
+        "I can use databases to locate relevant, credible sources.",
+        "I can verify claims and document evidence in MLA style."
+      ],
+      "vocabulary": [
+        {
+          "term": "Relevance",
+          "definition": "How directly a source helps answer a question.",
+          "example": "A local transit report may fit a bus-access study."
+        },
+        {
+          "term": "Corroboration",
+          "definition": "Checking a claim against independent evidence.",
+          "example": "Compare a statistic with its original data report."
+        },
+        {
+          "term": "Primary source",
+          "definition": "Firsthand evidence from the time or event being studied.",
+          "example": "An original letter is a primary source."
+        },
+        {
+          "term": "Paraphrase",
+          "definition": "Restating a source’s idea accurately in new wording.",
+          "example": "Explain a finding without copying its phrasing."
+        },
+        {
+          "term": "Works Cited",
+          "definition": "An MLA list identifying sources cited in a text.",
+          "example": "An entry provides author, title, and publication information."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "The Case for Reparations",
+          "author": "Ta-Nehisi Coates",
+          "genre": "Investigative essay",
+          "context": "Contemporary · United States",
+          "purpose": "Analyze how claims draw on historical documents, interviews, and data; verify one cited source.",
+          "access": "Authorized magazine article; advanced length and subject matter.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "Investigative narrative and historical evidence"
+        },
+        {
+          "title": "Selected anti-lynching investigative reporting",
+          "author": "Ida B. Wells",
           "genre": "Historical journalism",
           "context": "19th century · United States",
           "purpose": "Distinguish documented evidence, eyewitness claims, and editorial argument; contextualize the sources.",
@@ -120,7 +1117,1070 @@
         "Copying quotations without context or citation."
       ],
       "readingSelectionNote": "Teacher-curated instructional options, not an official or universal school reading list. Choose passages according to skill, grade appropriateness, local policy, and text permissions."
+    },
+
+    {
+      "code": "9.T.T.1",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Narrative Techniques",
+      "studentFriendly": "I can explain how stories use conflict, character, point of view, symbols, and structure to develop meaning, and I can use those techniques in my own writing.",
+      "know": [
+        "Narrative elements include conflict, plot structure, characterization, setting, point of view, symbolism, and theme.",
+        "A narrator’s perspective determines what readers know and when.",
+        "Narratives can reuse recognizable character types, patterns, and themes across eras."
+      ],
+      "understand": [
+        "Narrative techniques work together; changing a point of view or sequence changes how readers interpret events.",
+        "Themes gain significance through patterns of character choices and consequences."
+      ],
+      "do": [
+        "Trace interactions among narrative techniques with textual evidence (9.T.T.1.a–b).",
+        "Explain a theme’s development and relevance, comparing moments or texts (9.T.T.1.c–d).",
+        "Write a scene with purposeful characterization, mood, pacing, and structure (9.T.T.1.e)."
+      ],
+      "targets": [
+        "I can support a claim about narrative technique with a precise passage.",
+        "I can explain how two moments develop a theme.",
+        "I can draft a scene and justify two deliberate craft choices."
+      ],
+      "vocabulary": [
+        {
+          "term": "Narrative perspective",
+          "definition": "The position from which events are told.",
+          "example": "A first-person narrator knows only what they perceive."
+        },
+        {
+          "term": "Archetype",
+          "definition": "A recurring character type or pattern found across stories.",
+          "example": "The reluctant hero appears in many traditions."
+        },
+        {
+          "term": "Symbolism",
+          "definition": "The use of a detail or object to suggest an additional meaning.",
+          "example": "A locked gate may represent exclusion."
+        },
+        {
+          "term": "Pacing",
+          "definition": "The speed at which a narrative unfolds.",
+          "example": "Brief sentences can accelerate a chase."
+        },
+        {
+          "term": "Theme",
+          "definition": "A developed insight about human experience.",
+          "example": "Belonging can require difficult choices."
+        },
+        {
+          "term": "Conflict",
+          "definition": "A struggle that shapes a story’s action.",
+          "example": "A character weighs loyalty against honesty."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "The Most Dangerous Game",
+          "author": "Richard Connell",
+          "genre": "Short story",
+          "context": "Classic · United States",
+          "purpose": "Map the reversal of hunter and hunted; analyze pacing, conflict, and irony.",
+          "access": "Public domain; verify a reputable edition and any adaptation.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Immediate danger and suspense",
+          "teachingPrompt": "Where does the power dynamic reverse, and how does the author make the change felt?"
+        },
+        {
+          "title": "The Scholarship Jacket",
+          "author": "Marta Salinas",
+          "genre": "Short story",
+          "context": "Contemporary · Mexican American perspective",
+          "purpose": "Analyze how a concrete object becomes symbolic and how conflict reveals character.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "School injustice and a satisfying moral dilemma",
+          "teachingPrompt": "How does the jacket come to represent something beyond an award?"
+        },
+        {
+          "title": "The Paper Menagerie",
+          "author": "Ken Liu",
+          "genre": "Speculative short story",
+          "context": "Contemporary · Chinese American perspective",
+          "purpose": "Trace how a recurring object connects narrative structure, memory, and theme.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Magical origami and an emotional reveal",
+          "teachingPrompt": "How does the meaning of the paper animals change across the story?"
+        },
+        {
+          "title": "The Tell-Tale Heart",
+          "author": "Edgar Allan Poe",
+          "genre": "Short story",
+          "context": "Classic · United States",
+          "purpose": "Evaluate unreliable narration and escalating pacing.",
+          "access": "Public domain; verify a reputable edition and any adaptation.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Short Read",
+          "interestHook": "Unsettling narrator and psychological suspense",
+          "teachingPrompt": "What evidence makes the narrator less credible as the story continues?"
+        },
+        {
+          "title": "Thank You, M’am",
+          "author": "Langston Hughes",
+          "genre": "Short story",
+          "context": "Twentieth century · African American literature",
+          "purpose": "Study how dialogue and small actions reveal character change.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "Unexpected kindness after a theft",
+          "teachingPrompt": "Which action changes your judgment of a character, and why?"
+        },
+        {
+          "title": "The Veldt",
+          "author": "Ray Bradbury",
+          "genre": "Science-fiction short story",
+          "context": "Twentieth century · United States",
+          "purpose": "Examine setting, foreshadowing, and social relevance of a theme.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Sinister futuristic technology",
+          "teachingPrompt": "How does the nursery’s setting foreshadow the ending?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "15–20 min",
+          "title": "Plot and evidence map",
+          "activity": "After reading a short scene, students arrange six event cards, label the central conflict, and select two details that show how a character responds.",
+          "scaffolds": "Preselected excerpt; event cards; teacher think-aloud; evidence sentence frames.",
+          "success": "Sequence 5 of 6 events and explain one character response using a quoted or paraphrased detail.",
+          "alignment": "9.T.T.1.a–b",
+          "materials": "Short excerpt; event cards; highlighters."
+        },
+        {
+          "level": "On level",
+          "time": "25–30 min",
+          "title": "Two moments, one theme",
+          "activity": "Students compare an early and late scene from the same story, identify one changing symbol or character decision, and write a claim-evidence-reasoning paragraph about theme.",
+          "scaffolds": "Theme-statement model and optional peer conference.",
+          "success": "Use two accurate details from different moments and explain how each advances the same theme.",
+          "alignment": "9.T.T.1.c",
+          "materials": "Story copies; annotation guide."
+        },
+        {
+          "level": "Enrichment",
+          "time": "30–40 min",
+          "title": "Retell the turning point",
+          "activity": "Students rewrite a pivotal scene from another character’s perspective, then annotate three changes in withheld information, tone, pacing, or sympathy.",
+          "scaffolds": "Optional narrative craft checklist.",
+          "success": "Produce a coherent retelling and justify three effects with references to the original.",
+          "alignment": "9.T.T.1.a, 9.T.T.1.e",
+          "materials": "Source passage; writing document."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "Which revision most directly changes narrative perspective?",
+          "answer": "Changing “She heard the door” to “I heard the door.”",
+          "rationale": "The grammatical narrator changes from third person to first person.",
+          "alignment": "9.T.T.1.a",
+          "options": [
+            "Replacing a period with a comma.",
+            "Changing “She heard the door” to “I heard the door.”",
+            "Adding a descriptive adjective.",
+            "Moving a sentence to a new paragraph."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Choose two details from different points in a story and explain how they develop the same theme.",
+          "answer": "Score for a defensible theme statement, two accurate details, and reasoning that connects each detail to the theme.",
+          "rationale": "A theme is developed, not merely mentioned.",
+          "alignment": "9.T.T.1.c"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Write a 250–350-word scene in which a character changes their mind. Use setting to establish mood and one recurring detail as a symbol. Annotate your choices.",
+          "answer": "Score characterization, purposeful setting, meaningful symbol, coherence, and explanation.",
+          "rationale": "Assesses transfer of narrative craft to composition.",
+          "alignment": "9.T.T.1.e"
+        }
+      ],
+      "evidence": [
+        "Annotation of a narrative technique supported by two textual details.",
+        "A scene with purposeful craft choices and an accompanying writer’s note."
+      ],
+      "instruction": [
+        "Model how to move from identifying a device to explaining its effect.",
+        "Compare early and late scenes before asking students to articulate theme."
+      ],
+      "watchFor": [
+        "Naming “foreshadowing” or “symbol” without explaining the reader effect.",
+        "Reducing theme to a single-word topic."
+      ],
+      "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Reading length refers to an assigned excerpt; confirm editions, rights, and age suitability. High Interest and accessibility are editorial judgments, not validated reading-level scores."
+    },
+
+    {
+      "code": "9.T.T.4",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Poetic Techniques",
+      "studentFriendly": "I can explain how poets use sound, imagery, figurative language, line breaks, and form to create meaning, and I can use those choices in my own poems.",
+      "know": [
+        "Poetry can use imagery, metaphor, repetition, sound patterns, lineation, and stanza structure.",
+        "A line break can change pacing, emphasis, or ambiguity.",
+        "Poetic techniques vary across traditions and forms."
+      ],
+      "understand": [
+        "Form and sound are part of meaning, not decoration.",
+        "Poetry invites evidence-based interpretations without requiring a single paraphrase."
+      ],
+      "do": [
+        "Read, discuss, evaluate, and critique poetic choices and their implications for meaning (9.T.T.4.a).",
+        "Compose a poem using intentional poetic techniques for an audience and purpose (9.T.T.4.b)."
+      ],
+      "targets": [
+        "I can identify a poetic choice and explain its effect using specific words or lines.",
+        "I can revise a poem to strengthen an intended effect."
+      ],
+      "vocabulary": [
+        {
+          "term": "Line break",
+          "definition": "The point where a line of poetry ends.",
+          "example": "A break after “only” can create suspense."
+        },
+        {
+          "term": "Enjambment",
+          "definition": "A sentence or phrase continuing beyond a line break.",
+          "example": "Meaning carries into the next line."
+        },
+        {
+          "term": "Imagery",
+          "definition": "Language evoking sensory experience.",
+          "example": "The smell of rain on hot pavement."
+        },
+        {
+          "term": "Connotation",
+          "definition": "The associations a word carries beyond its dictionary meaning.",
+          "example": "“Home” can imply safety."
+        },
+        {
+          "term": "Repetition",
+          "definition": "Intentional reuse of words or structures.",
+          "example": "A repeated phrase becomes a refrain."
+        },
+        {
+          "term": "Speaker",
+          "definition": "The voice speaking in a poem, not automatically the poet.",
+          "example": "A fictional child may narrate a poem."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "Oranges",
+          "author": "Gary Soto",
+          "genre": "Narrative poem",
+          "context": "Contemporary · Mexican American perspective",
+          "purpose": "Study sensory imagery and how a small encounter becomes emotionally significant.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "First-love awkwardness and a memorable moment",
+          "teachingPrompt": "Which sensory detail carries the most emotional weight?"
+        },
+        {
+          "title": "We Real Cool",
+          "author": "Gwendolyn Brooks",
+          "genre": "Poem",
+          "context": "Twentieth century · African American literature",
+          "purpose": "Examine line breaks, collective voice, repetition, and implied consequences.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "Very short, rhythmic, and open to debate",
+          "teachingPrompt": "How does the placement of “We” change the way the poem sounds?"
+        },
+        {
+          "title": "Hanging Fire",
+          "author": "Audre Lorde",
+          "genre": "Poem",
+          "context": "Twentieth century · African American literature",
+          "purpose": "Analyze repetition, speaker, and the emotional effect of absent punctuation.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Direct teenage worries and candid voice",
+          "teachingPrompt": "How does the repeated reference to the mother shape the speaker’s isolation?"
+        },
+        {
+          "title": "The Road Not Taken",
+          "author": "Robert Frost",
+          "genre": "Poem",
+          "context": "Classic · United States",
+          "purpose": "Compare popular interpretations with the poem’s actual diction and ambiguity.",
+          "access": "Public domain; verify a reputable edition and any adaptation.",
+          "highInterest": false,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "A familiar image with a less obvious interpretation",
+          "teachingPrompt": "Which words complicate the claim that one path was clearly less traveled?"
+        },
+        {
+          "title": "The Hill We Climb",
+          "author": "Amanda Gorman",
+          "genre": "Occasional poem",
+          "context": "Contemporary · United States",
+          "purpose": "Analyze repetition, allusion, and rhetorical movement in a public poem.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "Performance energy and civic relevance",
+          "teachingPrompt": "How does a repeated image change from the opening to the ending?"
+        },
+        {
+          "title": "Still I Rise",
+          "author": "Maya Angelou",
+          "genre": "Lyric poem",
+          "context": "Twentieth century · African American literature",
+          "purpose": "Analyze refrain, tone, and shifts in address and confidence.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Defiant voice and strong repetition",
+          "teachingPrompt": "How does the refrain turn resistance into the poem’s central claim?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "15 min",
+          "title": "Hear it, mark it, explain it",
+          "activity": "Read a short poem aloud twice. Students mark repeated words and two vivid images, then explain one effect using a sentence frame.",
+          "scaffolds": "Audio or teacher read-aloud; color-coded annotation; model response.",
+          "success": "Identify two accurate features and explain one using language from the poem.",
+          "alignment": "9.T.T.4.a",
+          "materials": "Poem copy; colored pencils."
+        },
+        {
+          "level": "On level",
+          "time": "20–25 min",
+          "title": "Line-break laboratory",
+          "activity": "Students take an unlineated short poem or teacher-written text, create two different line-break patterns, and compare shifts in emphasis, pacing, and meaning.",
+          "scaffolds": "Partner read-aloud; model comparison.",
+          "success": "Explain at least two meaningful differences with reference to specific breaks.",
+          "alignment": "9.T.T.4.a–b",
+          "materials": "Short text; writing document."
+        },
+        {
+          "level": "Enrichment",
+          "time": "30–35 min",
+          "title": "Poem for two audiences",
+          "activity": "Students write a 12–20-line poem for a chosen audience, then revise its sound, imagery, and lineation for a different audience and provide a craft rationale.",
+          "scaffolds": "Optional mentor-poem analysis and revision checklist.",
+          "success": "Use three deliberate techniques and justify their effects in both versions.",
+          "alignment": "9.T.T.4.b",
+          "materials": "Mentor poems; drafting space."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "What is the strongest reason a poet might break a line immediately after the word “alone”?",
+          "answer": "To emphasize isolation and briefly suspend the thought.",
+          "rationale": "Lineation can create a pause and make a word more prominent.",
+          "alignment": "9.T.T.4.a",
+          "options": [
+            "To guarantee a rhyme.",
+            "To eliminate figurative language.",
+            "To emphasize isolation and briefly suspend the thought.",
+            "To change the poem into prose."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Select one repeated word or phrase in a poem and explain how its effect changes or intensifies.",
+          "answer": "Score a specific quotation or reference and an explanation of cumulative effect.",
+          "rationale": "Repetition must be connected to meaning.",
+          "alignment": "9.T.T.4.a"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Write an original poem for a defined audience using imagery, repetition, and purposeful line breaks. Annotate two craft decisions.",
+          "answer": "Score audience fit, intentional techniques, coherence, and explanation.",
+          "rationale": "Assesses application, not only identification.",
+          "alignment": "9.T.T.4.b"
+        }
+      ],
+      "evidence": [
+        "Annotated poem showing a claim about sound or form and supporting lines.",
+        "Original poem with an audience statement and writer’s note."
+      ],
+      "instruction": [
+        "Read poems aloud before labeling devices.",
+        "Offer several interpretations and require evidence for each."
+      ],
+      "watchFor": [
+        "Treating the speaker as identical to the author.",
+        "Listing techniques without discussing effect."
+      ],
+      "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Reading length refers to an assigned excerpt; confirm editions, rights, and age suitability. High Interest and accessibility are editorial judgments, not validated reading-level scores."
+    },
+
+    {
+      "code": "9.T.C.1",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Purposes & Audiences",
+      "studentFriendly": "I can figure out why a text was created, who it is meant to reach, and how its language and format shape the audience’s response. I can make those choices in my own work.",
+      "know": [
+        "A text may inform, persuade, entertain, reflect, or combine purposes.",
+        "Audience expectations, context, medium, and discipline shape presentation.",
+        "Multimodal texts communicate through words, images, layout, and sound."
+      ],
+      "understand": [
+        "A text’s meaning and reception depend partly on who encounters it and in what context.",
+        "Creators make strategic choices to serve multiple purposes for specific audiences."
+      ],
+      "do": [
+        "Use purpose and disciplinary context to support comprehension (9.T.C.1.a).",
+        "Assess how context and language affect audience reception (9.T.C.1.b).",
+        "Create and evaluate a multimodal text for a specific audience and more than one purpose (9.T.C.1.c)."
+      ],
+      "targets": [
+        "I can identify a likely audience and cite two choices supporting my inference.",
+        "I can explain how a text might be received differently by two audiences.",
+        "I can design and self-evaluate a multimodal message for a defined audience."
+      ],
+      "vocabulary": [
+        {
+          "term": "Purpose",
+          "definition": "What a creator seeks to accomplish.",
+          "example": "A public notice may inform and prompt action."
+        },
+        {
+          "term": "Audience",
+          "definition": "The people a message is designed to reach.",
+          "example": "A flyer targets incoming ninth graders."
+        },
+        {
+          "term": "Context",
+          "definition": "Circumstances surrounding creation or reception.",
+          "example": "A speech given during a crisis."
+        },
+        {
+          "term": "Medium",
+          "definition": "The channel or form used to communicate.",
+          "example": "A video versus a printed letter."
+        },
+        {
+          "term": "Multimodal",
+          "definition": "Combining two or more modes of communication.",
+          "example": "An infographic uses images, text, and data."
+        },
+        {
+          "term": "Register",
+          "definition": "Level or style of language suited to a situation.",
+          "example": "A formal letter differs from a group chat."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "Fish Cheeks",
+          "author": "Amy Tan",
+          "genre": "Personal essay",
+          "context": "Contemporary · Chinese American perspective",
+          "purpose": "Analyze how narrative details address readers’ assumptions about culture and belonging.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "Awkward family dinner and social embarrassment",
+          "teachingPrompt": "Who is the implied audience, and what might the writer want that audience to reconsider?"
+        },
+        {
+          "title": "The Danger of a Single Story",
+          "author": "Chimamanda Ngozi Adichie",
+          "genre": "Public talk / essay",
+          "context": "Contemporary · Nigerian perspective",
+          "purpose": "Analyze examples, humor, and direct address for an international audience.",
+          "access": "Authorized talk transcript/video; check classroom access.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Extended Read",
+          "interestHook": "Personal stories that challenge stereotypes",
+          "teachingPrompt": "Which example most directly changes the audience’s assumptions?"
+        },
+        {
+          "title": "What to the Slave Is the Fourth of July?",
+          "author": "Frederick Douglass",
+          "genre": "Speech",
+          "context": "Classic · United States",
+          "purpose": "Examine audience, occasion, and the tension between celebration and critique.",
+          "access": "Public domain; verify a reputable edition and any adaptation.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "A startling challenge to an expected celebration",
+          "teachingPrompt": "How does the occasion change the force of Douglass’s questions?"
+        },
+        {
+          "title": "Girl",
+          "author": "Jamaica Kincaid",
+          "genre": "Short fiction / prose poem",
+          "context": "Contemporary · Caribbean perspective",
+          "purpose": "Examine implied audience, cultural expectations, and voice.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "Relentless instructions and a striking voice",
+          "teachingPrompt": "How would the effect change if the listener, not the speaker, narrated?"
+        },
+        {
+          "title": "Ain’t I a Woman? (compare versions)",
+          "author": "Sojourner Truth (historical attribution)",
+          "genre": "Historical speech / source comparison",
+          "context": "Nineteenth century · United States",
+          "purpose": "Compare transcriptions to consider how editors mediate audience reception.",
+          "access": "Use reputable historical archives; versions differ and later dialect rendering is contested.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Quick Read",
+          "interestHook": "A powerful question with a complex publication history",
+          "teachingPrompt": "What changes between the versions, and how might those choices shape a reader’s impression?"
+        },
+        {
+          "title": "The Hill We Climb",
+          "author": "Amanda Gorman",
+          "genre": "Occasional poem / public address",
+          "context": "Contemporary · United States",
+          "purpose": "Analyze how public occasion and mixed audiences shape repetition and tone.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "Performance and collective appeal",
+          "teachingPrompt": "What features invite listeners with different backgrounds into the message?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "15–20 min",
+          "title": "Who is this for?",
+          "activity": "Compare two brief school announcements about the same event written for students and parents. Highlight three differences in diction, detail, or format.",
+          "scaffolds": "Teacher-written paired examples; audience cards; comparison chart.",
+          "success": "Identify both audiences and explain two choices with evidence.",
+          "alignment": "9.T.C.1.a–b",
+          "materials": "Paired announcements; highlighters."
+        },
+        {
+          "level": "On level",
+          "time": "25 min",
+          "title": "One message, two audiences",
+          "activity": "Students revise a public-service message for ninth graders and for caregivers, then explain three changes in tone, evidence, or presentation.",
+          "scaffolds": "Audience profile cards; partner feedback.",
+          "success": "Produce two distinct versions and justify three audience-driven revisions.",
+          "alignment": "9.T.C.1.b–c",
+          "materials": "Message prompt; drafting tool."
+        },
+        {
+          "level": "Enrichment",
+          "time": "35–45 min",
+          "title": "Multimodal campaign studio",
+          "activity": "Students create an infographic or slide for a defined community audience that both informs and persuades. They self-assess accessibility, evidence, and design choices.",
+          "scaffolds": "Optional model gallery and design rubric.",
+          "success": "Identify two purposes, use at least three deliberate design choices, and defend their audience fit.",
+          "alignment": "9.T.C.1.c",
+          "materials": "Design tool; reliable source material; self-assessment rubric."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "A principal sends students a short text reminder but emails caregivers a detailed explanation. What best explains the difference?",
+          "answer": "The audience and communication medium shape the amount and kind of detail.",
+          "rationale": "Different audiences and media call for different choices.",
+          "alignment": "9.T.C.1.a–b",
+          "options": [
+            "The two messages must have opposite purposes.",
+            "Students cannot understand detailed information.",
+            "The audience and communication medium shape the amount and kind of detail.",
+            "The principal is required to use informal language."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Identify the likely audience of a chosen speech or essay and explain two textual choices that support your inference.",
+          "answer": "Score plausible audience identification, two accurate features, and explanation of effect.",
+          "rationale": "Purpose and audience claims require evidence.",
+          "alignment": "9.T.C.1.b"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Create a one-page multimodal message that informs and motivates a specified audience about a school issue. Add a 150-word self-evaluation.",
+          "answer": "Score clarity of audience, two identifiable purposes, multimodal design, and evidence-based reflection.",
+          "rationale": "Directly assesses creation and self-evaluation.",
+          "alignment": "9.T.C.1.c"
+        }
+      ],
+      "evidence": [
+        "Audience analysis supported by details of language and context.",
+        "Multimodal artifact and self-evaluation against a purpose-and-audience rubric."
+      ],
+      "instruction": [
+        "Use paired texts on the same topic to isolate audience effects.",
+        "Teach students to distinguish creator intention from actual audience reception."
+      ],
+      "watchFor": [
+        "Assuming a text can have only one purpose.",
+        "Treating every reader as part of the intended audience."
+      ],
+      "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Reading length refers to an assigned excerpt; confirm editions, rights, and age suitability. High Interest and accessibility are editorial judgments, not validated reading-level scores."
+    },
+
+    {
+      "code": "9.T.SS.2",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Craft",
+      "studentFriendly": "I can explain how a writer’s word choices, figurative language, tone, and style affect readers, and I can choose language that creates the effect I want.",
+      "know": [
+        "Connotation, figurative language, rhetorical language, and register shape meaning.",
+        "Tone and mood are related but different: one concerns attitude, the other atmosphere or feeling.",
+        "Formal and informal styles suit different purposes and contexts."
+      ],
+      "understand": [
+        "Craft choices influence how audiences interpret and feel about a message.",
+        "Effective style is deliberate and appropriate, not automatically more elaborate."
+      ],
+      "do": [
+        "Analyze figurative, connotative, or rhetorical language and its effect on meaning, tone, or mood (9.T.SS.2.a).",
+        "Compose with literary and rhetorical techniques for an intended effect (9.T.SS.2.b).",
+        "Choose formal or informal style appropriate to audience and context (9.T.SS.2.c)."
+      ],
+      "targets": [
+        "I can explain the effect of a specific word or figure of speech.",
+        "I can revise a passage to shift its tone for a stated audience."
+      ],
+      "vocabulary": [
+        {
+          "term": "Diction",
+          "definition": "A writer’s selection of words.",
+          "example": "“Slunk” suggests a different movement than “walked.”"
+        },
+        {
+          "term": "Connotation",
+          "definition": "Emotional or cultural associations of a word.",
+          "example": "“Stubborn” and “steadfast” differ in connotation."
+        },
+        {
+          "term": "Tone",
+          "definition": "An author’s or speaker’s attitude conveyed by language.",
+          "example": "A sarcastic tone can undercut praise."
+        },
+        {
+          "term": "Mood",
+          "definition": "The feeling or atmosphere evoked for readers.",
+          "example": "A dim hallway creates unease."
+        },
+        {
+          "term": "Figurative language",
+          "definition": "Language that departs from literal meaning for effect.",
+          "example": "“The city never sleeps.”"
+        },
+        {
+          "term": "Register",
+          "definition": "The degree of formality suited to an audience.",
+          "example": "A scholarship letter uses formal register."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "Eleven",
+          "author": "Sandra Cisneros",
+          "genre": "Short story",
+          "context": "Contemporary · Mexican American perspective",
+          "purpose": "Analyze repetition, figurative comparisons, and a child narrator’s distinctive diction.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "A relatable classroom humiliation",
+          "teachingPrompt": "How does the age metaphor shape our understanding of the narrator?"
+        },
+        {
+          "title": "The Tell-Tale Heart",
+          "author": "Edgar Allan Poe",
+          "genre": "Short story",
+          "context": "Classic · United States",
+          "purpose": "Analyze repetition, sentence rhythm, and diction in creating an unsettling mood.",
+          "access": "Public domain; verify a reputable edition and any adaptation.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Short Read",
+          "interestHook": "Intense voice and mounting suspense",
+          "teachingPrompt": "Which repeated words most strongly change the reader’s sense of the narrator?"
+        },
+        {
+          "title": "Thank You, M’am",
+          "author": "Langston Hughes",
+          "genre": "Short story",
+          "context": "Twentieth century · African American literature",
+          "purpose": "Study dialogue, register, and the difference between what characters say and imply.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "Sharp dialogue and surprising generosity",
+          "teachingPrompt": "What do the characters’ speech patterns reveal without direct description?"
+        },
+        {
+          "title": "We Real Cool",
+          "author": "Gwendolyn Brooks",
+          "genre": "Poem",
+          "context": "Twentieth century · African American literature",
+          "purpose": "Examine how compressed diction and rhythm establish tone.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "Tiny poem with outsized attitude",
+          "teachingPrompt": "Which word choices make the speakers sound confident, and which complicate that tone?"
+        },
+        {
+          "title": "The Ones Who Walk Away from Omelas",
+          "author": "Ursula K. Le Guin",
+          "genre": "Philosophical short story",
+          "context": "Twentieth century · United States",
+          "purpose": "Analyze how inviting, speculative narration shapes readers’ moral response.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "A shocking ethical dilemma",
+          "teachingPrompt": "Where does the narrator’s tone change, and how does that change the reader’s response?"
+        },
+        {
+          "title": "Shooting an Elephant",
+          "author": "George Orwell",
+          "genre": "Essay",
+          "context": "Twentieth century · British colonial Burma",
+          "purpose": "Examine irony, loaded diction, and shifts between personal narrative and critique.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "A tense public dilemma and moral conflict",
+          "teachingPrompt": "Which diction reveals the narrator’s conflict between private belief and public performance?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "15 min",
+          "title": "Word-choice temperature",
+          "activity": "Students sort paired words by connotation, then replace two words in a neutral paragraph and explain how tone shifts.",
+          "scaffolds": "Connotation continuum; word bank; teacher model.",
+          "success": "Explain the effect of two replacements using accurate language.",
+          "alignment": "9.T.SS.2.a",
+          "materials": "Word cards; neutral paragraph."
+        },
+        {
+          "level": "On level",
+          "time": "20–25 min",
+          "title": "Rewrite the mood",
+          "activity": "Students revise a 120-word neutral scene to create suspense or comfort using diction, imagery, and sentence rhythm; annotate three decisions.",
+          "scaffolds": "Mentor excerpt and revision checklist.",
+          "success": "Create a consistent mood and explain three specific craft effects.",
+          "alignment": "9.T.SS.2.a–b",
+          "materials": "Neutral scene; drafting tool."
+        },
+        {
+          "level": "Enrichment",
+          "time": "30–35 min",
+          "title": "Register-switch challenge",
+          "activity": "Students adapt a persuasive paragraph into a formal letter and an informal peer message, preserving the claim while changing diction and rhetorical techniques.",
+          "scaffolds": "Audience profiles and optional peer critique.",
+          "success": "Maintain core meaning and justify four audience-specific changes.",
+          "alignment": "9.T.SS.2.b–c",
+          "materials": "Source paragraph; audience cards."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "Which revision makes a neutral sentence more ominous?",
+          "answer": "“The door creaked open into the unlit hallway.”",
+          "rationale": "“Creaked” and “unlit” suggest unease.",
+          "alignment": "9.T.SS.2.a",
+          "options": [
+            "“The door opened into the hallway.”",
+            "“The door creaked open into the unlit hallway.”",
+            "“The door was a door in the hall.”",
+            "“The door opened at noon.”"
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Identify a figurative expression in a text and explain how its connotations influence tone or mood.",
+          "answer": "Score accurate identification, contextual interpretation, and explanation of effect.",
+          "rationale": "Interpret the language in context rather than only naming a device.",
+          "alignment": "9.T.SS.2.a"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Rewrite the same 100-word message for a school board and for close friends. Explain how your register and rhetorical choices change.",
+          "answer": "Score audience appropriateness, consistency of central message, and craft rationale.",
+          "rationale": "Assesses deliberate composition for context.",
+          "alignment": "9.T.SS.2.b–c"
+        }
+      ],
+      "evidence": [
+        "Before-and-after revisions annotated for diction and rhetorical effects.",
+        "Two audience-specific versions with a justification of register."
+      ],
+      "instruction": [
+        "Teach the distinction between tone and mood using short paired passages.",
+        "Ask “What does this choice do?” after each device identification."
+      ],
+      "watchFor": [
+        "Assuming formal writing is always more effective.",
+        "Confusing a mood felt by readers with a speaker’s tone."
+      ],
+      "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Reading length refers to an assigned excerpt; confirm editions, rights, and age suitability. High Interest and accessibility are editorial judgments, not validated reading-level scores."
+    },
+
+    {
+      "code": "9.P.EICC.3",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Comprehension Strategies",
+      "studentFriendly": "I can set a purpose for reading, notice when I am confused, and use strategies such as previewing, summarizing, predicting, inferring, and checking unfamiliar words to understand complex texts.",
+      "know": [
+        "Comprehension strategies operate before, during, and after reading.",
+        "Skimming and scanning serve different purposes.",
+        "Inference combines textual clues with relevant background knowledge; it is not an unsupported guess."
+      ],
+      "understand": [
+        "Strategic readers monitor comprehension and change tactics when meaning breaks down.",
+        "The best strategy depends on the text, purpose, and difficulty."
+      ],
+      "do": [
+        "Set goals, monitor understanding, and adjust (9.P.EICC.3.a).",
+        "Preview structure and skim or scan for relevant information (9.P.EICC.3.b).",
+        "Connect and revise background knowledge; summarize and visualize (9.P.EICC.3.c–d).",
+        "Track predictions, support inferences, and resolve unfamiliar vocabulary (9.P.EICC.3.e–g)."
+      ],
+      "targets": [
+        "I can name my reading purpose and select an appropriate strategy.",
+        "I can identify confusion and show how I resolved it.",
+        "I can support an inference with a textual clue and reasoning."
+      ],
+      "vocabulary": [
+        {
+          "term": "Metacognition",
+          "definition": "Awareness of and reflection on one’s own thinking.",
+          "example": "I reread because my first interpretation did not fit."
+        },
+        {
+          "term": "Inference",
+          "definition": "A conclusion supported by clues and reasoning.",
+          "example": "A character hides a letter; the reader infers fear."
+        },
+        {
+          "term": "Prediction",
+          "definition": "An evidence-based expectation about what may happen next.",
+          "example": "The warning suggests a coming conflict."
+        },
+        {
+          "term": "Summarize",
+          "definition": "Restate essential ideas concisely in one’s own words.",
+          "example": "A three-sentence summary of a section."
+        },
+        {
+          "term": "Skim",
+          "definition": "Read quickly for overall structure or main ideas.",
+          "example": "Review headings before choosing a section."
+        },
+        {
+          "term": "Scan",
+          "definition": "Search a text for a particular detail.",
+          "example": "Locate a date in a report."
+        },
+        {
+          "term": "Context clue",
+          "definition": "Nearby language that helps explain an unfamiliar term.",
+          "example": "The next sentence defines the new word."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "The Lottery",
+          "author": "Shirley Jackson",
+          "genre": "Short story",
+          "context": "Twentieth century · United States",
+          "purpose": "Practice prediction tracking and revision of assumptions as clues accumulate.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Ordinary opening with a disturbing twist",
+          "teachingPrompt": "Which early clue seems harmless at first but matters after the ending?"
+        },
+        {
+          "title": "The Veldt",
+          "author": "Ray Bradbury",
+          "genre": "Science-fiction short story",
+          "context": "Twentieth century · United States",
+          "purpose": "Monitor predictions and distinguish explicit clues from assumptions.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Uncanny technology and suspense",
+          "teachingPrompt": "Where did your prediction change, and what detail caused the revision?"
+        },
+        {
+          "title": "The Ones Who Walk Away from Omelas",
+          "author": "Ursula K. Le Guin",
+          "genre": "Philosophical short story",
+          "context": "Twentieth century · United States",
+          "purpose": "Pause to summarize a complex hypothetical and revise inferences.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "An unsettling moral question",
+          "teachingPrompt": "What information forces you to reconsider the opening description?"
+        },
+        {
+          "title": "The Scholarship Jacket",
+          "author": "Marta Salinas",
+          "genre": "Short story",
+          "context": "Contemporary · Mexican American perspective",
+          "purpose": "Use brief section summaries and inferences about motivation.",
+          "access": "Use a licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "School conflict with clear stakes",
+          "teachingPrompt": "What do the principal’s actions suggest beyond his words?"
+        },
+        {
+          "title": "A Modest Proposal",
+          "author": "Jonathan Swift",
+          "genre": "Satirical essay",
+          "context": "Classic · Ireland",
+          "purpose": "Teach context-building and comprehension repair when literal reading fails.",
+          "access": "Public domain; verify a reputable edition and any adaptation.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "A deliberately shocking proposal; requires careful framing",
+          "teachingPrompt": "At what point should a reader suspect the speaker is not sincere?"
+        },
+        {
+          "title": "The Danger of a Single Story",
+          "author": "Chimamanda Ngozi Adichie",
+          "genre": "Talk / nonfiction",
+          "context": "Contemporary · Nigerian perspective",
+          "purpose": "Preview sections and synthesize anecdotes into a central claim.",
+          "access": "Authorized transcript/video; check classroom access.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Extended Read",
+          "interestHook": "Personal stories that overturn expectations",
+          "teachingPrompt": "What is the claim connecting the speaker’s different anecdotes?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "15–20 min",
+          "title": "Stop, think, repair",
+          "activity": "Read a short suspense passage in three chunks. Students record a prediction, flag confusion, and choose a repair move: reread, summarize, or use context.",
+          "scaffolds": "Teacher think-aloud; three-column tracker; sentence starters.",
+          "success": "Record one justified prediction, one confusion point, and a successful repair.",
+          "alignment": "9.P.EICC.3.a, .e, .g",
+          "materials": "Chunked passage; strategy tracker."
+        },
+        {
+          "level": "On level",
+          "time": "25 min",
+          "title": "Inference evidence trail",
+          "activity": "Students read a short story, pause at three marked moments, write evidence-based inferences, and revise one after later information.",
+          "scaffolds": "Inference organizer and partner comparison.",
+          "success": "Support two inferences with precise clues and explain one revision.",
+          "alignment": "9.P.EICC.3.d–f",
+          "materials": "Story; annotation tool."
+        },
+        {
+          "level": "Enrichment",
+          "time": "30–35 min",
+          "title": "Strategy audit across genres",
+          "activity": "Students read a short narrative and an informational excerpt, choose different strategies for each, and produce a brief reflection explaining why each strategy helped or failed.",
+          "scaffolds": "Optional strategy menu; independent goal-setting.",
+          "success": "Demonstrate two effective strategies, accurate summaries, and a specific metacognitive reflection.",
+          "alignment": "9.P.EICC.3.a–g",
+          "materials": "Two excerpts; reading log."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "A reader realizes a prediction no longer fits new evidence. What should the reader do?",
+          "answer": "Revise the prediction and explain which new detail changed it.",
+          "rationale": "Monitoring and adjusting are central comprehension behaviors.",
+          "alignment": "9.P.EICC.3.a, .e",
+          "options": [
+            "Keep the original prediction unchanged.",
+            "Stop reading immediately.",
+            "Revise the prediction and explain which new detail changed it.",
+            "Ignore the conflicting detail."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Identify one inference you made while reading and explain the textual clue and reasoning that support it.",
+          "answer": "Score a plausible inference, precise clue, and explicit reasoning.",
+          "rationale": "Inference requires evidence, not merely a feeling.",
+          "alignment": "9.P.EICC.3.f"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Annotate a complex passage to show your reading purpose, one comprehension breakdown, the strategy used to repair it, and a 3–4-sentence summary.",
+          "answer": "Score appropriate goal, authentic monitoring, effective repair, and accurate summary.",
+          "rationale": "Assesses strategic process as well as outcome.",
+          "alignment": "9.P.EICC.3.a, .d, .g"
+        }
+      ],
+      "evidence": [
+        "Annotated reading log documenting a goal, confusion point, and repair strategy.",
+        "Accurate summary and an inference supported by textual evidence."
+      ],
+      "instruction": [
+        "Model an authentic comprehension breakdown instead of pretending fluent readers never struggle.",
+        "Gradually remove strategy prompts so students choose independently."
+      ],
+      "watchFor": [
+        "Equating a prediction with a random guess.",
+        "Using every strategy mechanically instead of selecting a useful one."
+      ],
+      "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Reading length refers to an assigned excerpt; confirm editions, rights, and age suitability. High Interest and accessibility are editorial judgments, not validated reading-level scores."
     }
   ],
-  "readingMetadataNote": "High Interest is a subjective teacher-curated engagement flag, not a reading-level measure. Accessibility is an editorial estimate, not a Lexile score. Reading length is an estimated assigned selection, not necessarily the complete work: Quick Read under 15 minutes; Short Read 15–30 minutes; Extended Read over 30 minutes. Verify excerpt length, appropriateness, and access before teaching."
+  "readingMetadataNote": "High Interest, accessibility, and reading time are editorial guidance rather than measured or verified ratings. The teachingPrompt, materials, and alignment fields are optional enhancements that older index.html versions may not display."
 }
