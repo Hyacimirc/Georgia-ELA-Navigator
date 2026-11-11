@@ -2672,3 +2672,881 @@
       ],
       "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Confirm text access, permissions, excerpt length, and age suitability. High Interest and accessibility are editorial judgments rather than validated reading-level scores. For expectation 9.T.T.2.b, pair texts that address the same specific issue and provide enough evidence to evaluate their agreements and disagreements."
     },
+
+    {
+      "code": "9.T.RA.1",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Research & Inquiry",
+      "studentFriendly": "I can develop meaningful research questions, investigate complex topics using credible sources, analyze what I discover, and integrate evidence into my own writing using accurate MLA citations.",
+      "know": [
+        "Research begins with questions that can be investigated, refined, and answered through evidence.",
+        "Strong research questions are focused, open-ended, significant, and appropriately complex.",
+        "Researchers distinguish broad topics, research questions, working theses, and final claims.",
+        "Primary sources provide firsthand evidence or original material; secondary sources interpret, analyze, or contextualize other sources.",
+        "Credibility depends on factors such as expertise, evidence, publication context, accuracy, and relevance.",
+        "Research involves analysis and synthesis, not simply collecting information.",
+        "Quoting, paraphrasing, and summarizing serve different purposes in academic writing.",
+        "MLA documentation includes appropriate in-text citations and corresponding Works Cited entries.",
+        "Responsible research requires representing source material accurately and distinguishing the researcher's ideas from borrowed information."
+      ],
+      "understand": [
+        "Inquiry is an evolving process: discoveries can change the original research question.",
+        "The quality of a research question influences the depth and usefulness of the investigation.",
+        "Credible evidence supports analysis only when the writer explains its relevance.",
+        "Synthesis creates understanding by identifying relationships among sources rather than reporting them separately.",
+        "Researchers participate in scholarly conversations by evaluating existing knowledge and developing evidence-based interpretations.",
+        "Accurate citation makes research transparent, verifiable, and ethically responsible."
+      ],
+      "do": [
+        "Generate questions that guide investigations of complex topics and make connections among ideas (9.T.RA.1.a).",
+        "Narrow or refine research questions as new information emerges (9.T.RA.1.a).",
+        "Use research to explore possible explanations, interpretations, and solutions (9.T.RA.1.a).",
+        "Analyze findings and select evidence that supports a research question or thesis (9.T.RA.1.b).",
+        "Explain relationships between evidence and claims rather than relying on quotations alone (9.T.RA.1.b).",
+        "Integrate quoted, paraphrased, and summarized material into original writing (9.T.RA.1.c).",
+        "Use MLA in-text citations and Works Cited entries to document borrowed ideas and information (9.T.RA.1.c)."
+      ],
+      "targets": [
+        "I can turn a broad topic into a focused, researchable question.",
+        "I can revise my research question when new evidence suggests a more useful direction.",
+        "I can identify credible sources relevant to my investigation.",
+        "I can analyze and synthesize findings from multiple sources.",
+        "I can explain how evidence supports my thesis.",
+        "I can distinguish quotation, paraphrase, and summary and use each appropriately.",
+        "I can integrate evidence smoothly and document it using MLA guidelines."
+      ],
+      "vocabulary": [
+        {
+          "term": "Inquiry",
+          "definition": "The process of investigating questions through evidence, analysis, and reflection.",
+          "example": "A student investigates how historical conditions influenced a novelist's treatment of social class."
+        },
+        {
+          "term": "Research question",
+          "definition": "A focused, investigable question that directs the collection and analysis of evidence.",
+          "example": "How did industrialization influence representations of childhood in nineteenth-century British literature?"
+        },
+        {
+          "term": "Working thesis",
+          "definition": "A tentative interpretation or claim that may change as research develops.",
+          "example": "Early research suggests that the novel uses its child characters to criticize industrial labor practices."
+        },
+        {
+          "term": "Primary source",
+          "definition": "Original evidence or firsthand material relevant to a research investigation.",
+          "example": "A historical letter, contemporary newspaper report, or original literary work."
+        },
+        {
+          "term": "Secondary source",
+          "definition": "A source that analyzes, interprets, or provides context for other material.",
+          "example": "A scholarly article analyzing symbolism in a novel."
+        },
+        {
+          "term": "Synthesis",
+          "definition": "Combining and interpreting information from multiple sources to develop a larger understanding.",
+          "example": "A writer connects historical evidence and literary criticism to explain a novel's social context."
+        },
+        {
+          "term": "Paraphrase",
+          "definition": "A restatement of a source's specific idea or passage in substantially original wording and sentence structure.",
+          "example": "A student explains a scholar's interpretation in their own words and cites the source."
+        },
+        {
+          "term": "Summary",
+          "definition": "A concise account of the central ideas of a longer text or section.",
+          "example": "A student condenses a five-page article's argument into two accurate sentences."
+        },
+        {
+          "term": "Signal phrase",
+          "definition": "Language that introduces source material and often identifies the author or source.",
+          "example": "According to historian Jill Lepore, ..."
+        },
+        {
+          "term": "MLA citation",
+          "definition": "Documentation following Modern Language Association conventions to identify and credit sources.",
+          "example": "A parenthetical citation corresponding to a full Works Cited entry."
+        },
+        {
+          "term": "Works Cited",
+          "definition": "An alphabetized list of sources cited in a document, formatted according to MLA guidelines.",
+          "example": "A research essay includes entries for the books and articles referenced in its paragraphs."
+        },
+        {
+          "term": "Annotated bibliography",
+          "definition": "A list of source citations accompanied by brief descriptions, evaluations, or explanations of relevance.",
+          "example": "A student describes each source's argument, credibility, and potential contribution to a research project."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "Frankenstein",
+          "author": "Mary Shelley",
+          "genre": "Gothic novel / science fiction",
+          "context": "Romantic period · Britain",
+          "purpose": "Investigate how scientific discoveries, Romantic-era ideas, and ethical questions inform the novel's treatment of creation and responsibility.",
+          "access": "Public domain; use a reputable complete edition or selected chapters.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "A scientist creates life and confronts the consequences",
+          "teachingPrompt": "How might historical scientific debates help explain the novel's treatment of ambition and responsibility?"
+        },
+        {
+          "title": "The House on Mango Street",
+          "author": "Sandra Cisneros",
+          "genre": "Novel in vignettes",
+          "context": "Contemporary · Mexican American perspective",
+          "purpose": "Research cultural, geographic, and social contexts while developing questions about identity, community, and representation.",
+          "access": "Licensed book or authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "Brief, lyrical stories about growing up and finding a voice",
+          "teachingPrompt": "What research would help readers understand the social context without reducing the narrator's experiences to generalizations?"
+        },
+        {
+          "title": "The Immortal Life of Henrietta Lacks",
+          "author": "Rebecca Skloot",
+          "genre": "Investigative nonfiction / science writing",
+          "context": "Contemporary · United States",
+          "purpose": "Develop research questions about medical ethics, scientific discovery, informed consent, and historical context.",
+          "access": "Licensed book or authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "The extraordinary story behind cells used in medical research",
+          "teachingPrompt": "How could a student investigate both the scientific significance and ethical questions raised by the story?"
+        },
+        {
+          "title": "The Yellow Wallpaper",
+          "author": "Charlotte Perkins Gilman",
+          "genre": "Psychological short story",
+          "context": "Nineteenth century · United States",
+          "purpose": "Investigate historical attitudes toward women's health, medical authority, and social expectations, distinguishing historical context from literary interpretation.",
+          "access": "Public domain; use a reputable edition.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Short Read",
+          "interestHook": "An increasingly unsettling account of isolation and control",
+          "teachingPrompt": "Which historical sources could help readers evaluate competing interpretations of the narrator's treatment?"
+        },
+        {
+          "title": "Hidden Figures",
+          "author": "Margot Lee Shetterly",
+          "genre": "Historical nonfiction",
+          "context": "Contemporary · United States; twentieth-century history",
+          "purpose": "Research the relationships among scientific innovation, educational opportunity, segregation, and the contributions of women mathematicians.",
+          "access": "Licensed book or authorized excerpt; young readers edition available.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Previously overlooked mathematicians who helped make spaceflight possible",
+          "teachingPrompt": "How could original NASA documents and historical accounts deepen or complicate the book's narrative?"
+        },
+        {
+          "title": "The Crucible",
+          "author": "Arthur Miller",
+          "genre": "Drama / historical allegory",
+          "context": "Twentieth century · United States",
+          "purpose": "Research the Salem witch trials and McCarthy-era investigations to examine how historical contexts inform dramatic choices and allegory.",
+          "access": "Licensed play or authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Accusations, fear, and the consequences of public suspicion",
+          "teachingPrompt": "How does comparing historical records with the play help distinguish documented events from the playwright's artistic choices?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "25–30 min",
+          "title": "From topic to research question",
+          "activity": "Students begin with a broad literary or cultural topic, such as censorship, identity, or artificial intelligence. They compare weak and strong research questions, revise a broad question into a focused one, and identify two kinds of evidence needed to investigate it.",
+          "scaffolds": "Question stems, teacher modeling, topic-narrowing organizer, sample research questions, partner feedback.",
+          "success": "Produce one focused, open-ended research question and identify at least two relevant avenues of investigation.",
+          "alignment": "9.T.RA.1.a",
+          "materials": "Research question examples; topic funnel organizer; short background source."
+        },
+        {
+          "level": "On level",
+          "time": "35–40 min",
+          "title": "Research conversation: three sources",
+          "activity": "Students investigate a focused question using three teacher-curated sources with complementary or contrasting findings. They create a synthesis matrix, identify agreements and differences, formulate a provisional thesis, and write one analytical paragraph incorporating a quotation and paraphrase with MLA citations.",
+          "scaffolds": "Source comparison matrix, evidence integration model, MLA reference sheet, peer conference.",
+          "success": "Produce a defensible working thesis and a coherent paragraph synthesizing at least two sources with accurate attribution.",
+          "alignment": "9.T.RA.1.a–c",
+          "materials": "Three credible source excerpts; synthesis matrix; MLA guidance; drafting document."
+        },
+        {
+          "level": "Enrichment",
+          "time": "Two 45-minute sessions",
+          "title": "Literary research investigation",
+          "activity": "Students develop an original research question connecting a literary work to a historical, scientific, cultural, or philosophical issue. They locate and evaluate at least four credible sources, including a primary source where appropriate. Students refine their question, develop a nuanced thesis, and produce a short research essay or multimodal presentation that synthesizes evidence and documents sources in MLA format.",
+          "scaffolds": "Optional research proposal conference, scholarly database search guide, peer-review protocol.",
+          "success": "Demonstrate an evolving inquiry, a defensible thesis, meaningful synthesis of credible evidence, and accurate MLA documentation.",
+          "alignment": "9.T.RA.1.a–c",
+          "materials": "Literary text; library databases; research log; MLA reference materials; presentation or drafting tool."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "A student wants to research the relationship between technology and society in Frankenstein. Which question is best suited to a focused literary research investigation?",
+          "answer": "How do early nineteenth-century scientific debates help illuminate the novel's portrayal of responsibility for scientific creation?",
+          "rationale": "The strongest question is specific, investigable, connected to the literary work, and open to analysis rather than a simple factual response.",
+          "alignment": "9.T.RA.1.a",
+          "options": [
+            "What is science?",
+            "Who wrote Frankenstein?",
+            "How do early nineteenth-century scientific debates help illuminate the novel's portrayal of responsibility for scientific creation?",
+            "Is Frankenstein the best book ever written?"
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Two credible sources offer different explanations of the historical context surrounding a literary work. Explain how you would use both sources to develop a stronger thesis rather than simply choosing one.",
+          "answer": "A strong response identifies the sources' relevant evidence and interpretations, evaluates the reasoning behind their differences, and explains how comparing them can produce a more nuanced or qualified thesis.",
+          "rationale": "Assesses the use of analytical findings to refine and support research-based interpretations.",
+          "alignment": "9.T.RA.1.a–b"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Develop a research question about a literary work and its historical, cultural, scientific, or social context. Locate at least three credible sources. Refine your question as necessary and write a 500–700-word research essay presenting a defensible thesis. Integrate at least one quotation, one paraphrase, and one summary, with appropriate MLA in-text citations and a Works Cited page.",
+          "answer": "Evaluate the quality and refinement of the research question, source credibility and relevance, strength of thesis, analysis and synthesis of evidence, integration of quotation/paraphrase/summary, and accuracy of MLA documentation.",
+          "rationale": "Directly assesses the complete inquiry process, from question formation through evidence-based analysis and responsible citation.",
+          "alignment": "9.T.RA.1.a–c"
+        }
+      ],
+      "evidence": [
+        "A research log documenting the original question, refinements, and emerging findings.",
+        "A source evaluation record identifying credibility, relevance, and usefulness.",
+        "A synthesis matrix showing relationships among multiple sources.",
+        "A working thesis supported by analytical findings.",
+        "An original research paragraph or essay integrating quotations, paraphrases, and summaries.",
+        "MLA in-text citations corresponding to accurate Works Cited entries."
+      ],
+      "instruction": [
+        "Begin with an authentic question or intellectual problem rather than a predetermined thesis.",
+        "Model the difference between a broad topic, a factual question, an analytical research question, and a thesis.",
+        "Demonstrate how preliminary reading can narrow, redirect, or complicate an investigation.",
+        "Teach source evaluation through authorship, expertise, evidence, publication context, and relevance rather than superficial website features.",
+        "Use library databases and credible primary-source collections to model effective research pathways.",
+        "Teach students to organize notes by ideas or research questions rather than simply by source.",
+        "Model synthesis by comparing evidence and interpretations across sources.",
+        "Demonstrate how to introduce, integrate, explain, and cite source material within an original analytical paragraph.",
+        "Teach MLA citation through authentic writing tasks, checking current MLA guidance rather than relying exclusively on memorized templates.",
+        "Provide feedback at several stages: question development, source selection, thesis formation, drafting, and citation."
+      ],
+      "watchFor": [
+        "Research questions that are too broad, too narrow, or answerable through a single factual lookup.",
+        "Students choosing a fixed thesis before investigating the available evidence.",
+        "Collecting sources without evaluating their credibility or relevance.",
+        "Treating research as a series of disconnected source summaries.",
+        "Using quotations as substitutes for the student's own analysis.",
+        "Paraphrasing by changing only a few words while retaining the source's sentence structure.",
+        "Assuming that paraphrased or summarized material does not require citation.",
+        "Citing a source without making clear which ideas or information came from it.",
+        "Using sources that merely repeat one another instead of contributing distinct evidence or perspectives.",
+        "Treating citation formatting as the entire purpose of research rather than a component of ethical inquiry."
+      ],
+      "readingSelectionNote": "Literary selections are illustrative, not state-prescribed. Confirm editions, permissions, excerpt lengths, and age suitability. High Interest and accessibility are editorial judgments rather than validated reading-level scores. Suggested research applications are instructional possibilities, not claims that a particular work or research topic is required by Georgia."
+    },
+
+    {
+      "code": "9.T.PM.1",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Periods & Movements",
+      "studentFriendly": "I can identify important authors, works, themes, genres, and writing styles from a literary period, and I can explain how writers from different time periods reinterpret familiar stories, characters, and ideas.",
+      "know": [
+        "A literary period is a historical grouping of works that share important cultural, intellectual, or stylistic characteristics.",
+        "Literary movements are associated with recognizable ideas, artistic goals, genres, and stylistic tendencies, but individual writers do not always fit neatly into one movement.",
+        "Historical context can influence the themes, language, forms, and concerns of literature.",
+        "Archetypal stories, characters, and situations recur across cultures and historical periods.",
+        "Authors may preserve, challenge, or transform familiar archetypes when adapting earlier stories.",
+        "English and American literary history includes movements such as the Renaissance, Romanticism, Realism, Modernism, and the Harlem Renaissance.",
+        "Representative authors and works can help readers recognize the dominant characteristics of a literary period.",
+        "A literary work may reflect its historical context while also challenging the assumptions of its time."
+      ],
+      "understand": [
+        "Literature participates in an ongoing conversation across historical periods.",
+        "Recurring stories and archetypes reveal both enduring human concerns and changing cultural values.",
+        "Knowledge of literary history deepens interpretation but does not replace close reading.",
+        "Themes, genres, and stylistic features help distinguish literary periods without defining every work within them.",
+        "The same archetype may communicate different meanings when represented in different historical contexts.",
+        "Comparing works across periods reveals how writers inherit, revise, and resist literary traditions."
+      ],
+      "do": [
+        "Identify a recognizable archetypal story, myth, event, or figure in a literary work (9.T.PM.1.a).",
+        "Compare representations of an archetype in works from at least two different historical periods (9.T.PM.1.a).",
+        "Explain how historical context and authorial choices contribute to similarities and differences between representations (9.T.PM.1.a).",
+        "Identify major authors and representative works from a selected period of English or American literary history (9.T.PM.1.b).",
+        "Describe and discuss characteristic themes, genres, and stylistic features of that period (9.T.PM.1.b).",
+        "Support literary-historical comparisons with accurate references to the texts."
+      ],
+      "targets": [
+        "I can identify a literary period and describe several of its defining characteristics.",
+        "I can connect representative authors and works to a selected period of English or American literary history.",
+        "I can identify characteristic themes, genres, and stylistic features in a literary passage.",
+        "I can recognize an archetypal character, story, or situation in two works from different periods.",
+        "I can explain how a later writer preserves or transforms an earlier literary tradition.",
+        "I can use textual evidence and historical context to support a comparison."
+      ],
+      "vocabulary": [
+        {
+          "term": "Literary period",
+          "definition": "A historical grouping of literary works associated with shared contexts, themes, genres, or stylistic tendencies.",
+          "example": "British Romantic literature frequently emphasizes imagination, nature, and individual experience."
+        },
+        {
+          "term": "Literary movement",
+          "definition": "A recognizable artistic or intellectual tendency shared by writers, often associated with particular goals or methods.",
+          "example": "Modernist writers experimented with narrative form and representations of consciousness."
+        },
+        {
+          "term": "Archetype",
+          "definition": "A recurring character type, situation, image, or narrative pattern found across multiple works and traditions.",
+          "example": "The questing hero appears in many stories but may be portrayed differently across periods."
+        },
+        {
+          "term": "Allusion",
+          "definition": "A reference to another literary work, historical event, person, or cultural tradition.",
+          "example": "A modern poem invokes a mythological figure to deepen its meaning."
+        },
+        {
+          "term": "Intertextuality",
+          "definition": "The relationships among texts through references, adaptations, shared conventions, or reinterpretations.",
+          "example": "A contemporary novel revisits a character from an earlier classic."
+        },
+        {
+          "term": "Adaptation",
+          "definition": "A new version of an existing work or story that changes its form, context, or interpretation.",
+          "example": "A modern film relocates a Shakespearean conflict to a contemporary setting."
+        },
+        {
+          "term": "Romanticism",
+          "definition": "A literary and artistic movement often associated with imagination, emotion, nature, and individual experience.",
+          "example": "Wordsworth's poetry frequently reflects on nature and memory."
+        },
+        {
+          "term": "Realism",
+          "definition": "A literary movement emphasizing plausible experiences, social conditions, and detailed representations of ordinary life.",
+          "example": "A realist novel examines how social expectations shape individual choices."
+        },
+        {
+          "term": "Modernism",
+          "definition": "A broad literary movement associated with experimentation in form, perspective, language, and representations of modern experience.",
+          "example": "A modernist narrative uses fragmented chronology to represent memory."
+        },
+        {
+          "term": "Harlem Renaissance",
+          "definition": "An influential early twentieth-century flowering of African American literature, music, and visual art centered significantly in Harlem.",
+          "example": "Langston Hughes explored Black American identity and experience through varied poetic forms."
+        },
+        {
+          "term": "Stylistic feature",
+          "definition": "A recognizable characteristic of a writer's or period's use of language, structure, or literary technique.",
+          "example": "Fragmented narration is a stylistic feature associated with some Modernist fiction."
+        },
+        {
+          "term": "Historical context",
+          "definition": "The social, political, intellectual, and cultural circumstances surrounding a work's creation.",
+          "example": "Knowledge of industrialization can illuminate concerns in Victorian literature."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "Frankenstein",
+          "author": "Mary Shelley",
+          "genre": "Gothic novel / early science fiction",
+          "context": "British Romantic period · 1818",
+          "purpose": "Examine Romantic-era concerns with scientific ambition, nature, creation, and individual responsibility; compare the creator archetype with later science-fiction representations.",
+          "access": "Public domain; use a reputable edition or selected chapters.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "A scientist creates life and loses control of his creation",
+          "teachingPrompt": "How does Shelley's portrayal of the creator differ from modern stories about artificial intelligence or scientific innovation?"
+        },
+        {
+          "title": "Prometheus Bound",
+          "author": "Traditionally attributed to Aeschylus",
+          "genre": "Ancient Greek tragedy",
+          "context": "Classical antiquity · Ancient Greece",
+          "purpose": "Establish a classical representation of Prometheus for comparison with later portrayals of the creator, rebel, or benefactor archetype.",
+          "access": "Use a public-domain translation or licensed classroom edition; verify translation rights.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "A defiant figure punished for giving humanity a transformative gift",
+          "teachingPrompt": "How does the ancient portrayal of Prometheus illuminate the subtitle and central conflicts of Frankenstein?"
+        },
+        {
+          "title": "The Raven",
+          "author": "Edgar Allan Poe",
+          "genre": "Narrative poem",
+          "context": "American Romanticism / Gothic tradition · 1845",
+          "purpose": "Identify characteristics of American Romantic and Gothic writing, including heightened emotion, supernatural ambiguity, symbolism, and musical language.",
+          "access": "Public domain; use a reputable edition.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Short Read",
+          "interestHook": "A grieving narrator encounters a mysterious visitor",
+          "teachingPrompt": "Which features of the poem reflect Romanticism's interest in emotion, imagination, and the extraordinary?"
+        },
+        {
+          "title": "The Story of an Hour",
+          "author": "Kate Chopin",
+          "genre": "Realist short story",
+          "context": "Late nineteenth-century American literature · 1894",
+          "purpose": "Examine how concise narration, irony, domestic setting, and social expectations contribute to late nineteenth-century literary concerns.",
+          "access": "Public domain; use a reputable edition.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "An unexpected response to news of a husband's death",
+          "teachingPrompt": "How does Chopin use an ordinary domestic situation to question the social assumptions of her period?"
+        },
+        {
+          "title": "The Love Song of J. Alfred Prufrock",
+          "author": "T. S. Eliot",
+          "genre": "Modernist poem",
+          "context": "Anglo-American Modernism · 1915",
+          "purpose": "Investigate Modernist experimentation with fragmented thought, allusion, urban imagery, and psychological uncertainty.",
+          "access": "Use a licensed anthology or authorized text; copyright status varies by jurisdiction.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "A speaker trapped in anxious self-questioning",
+          "teachingPrompt": "How does the poem's shifting, fragmented movement differ from a conventional narrative or lyric poem?"
+        },
+        {
+          "title": "The Negro Speaks of Rivers",
+          "author": "Langston Hughes",
+          "genre": "Lyric poem",
+          "context": "Harlem Renaissance · 1921",
+          "purpose": "Explore the Harlem Renaissance through imagery, historical memory, cultural identity, and the adaptation of inherited poetic traditions.",
+          "access": "Use a licensed anthology or authorized text; verify classroom reproduction rights.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Quick Read",
+          "interestHook": "A short poem connecting one voice to centuries of history",
+          "teachingPrompt": "How do the poem's historical references and imagery establish a collective identity?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "25–30 min",
+          "title": "Recognize the period",
+          "activity": "Students examine three short, accessible passages representing different literary periods. They match each passage to a brief contextual description, identify two textual clues, and explain how those clues reflect a period's characteristic themes or style.",
+          "scaffolds": "Visual timeline, simplified period descriptions, highlighted model passage, vocabulary bank, sentence frames.",
+          "success": "Correctly connect at least two passages to their periods and support each identification with a relevant textual feature.",
+          "alignment": "9.T.PM.1.b",
+          "materials": "Three brief literary excerpts; period timeline; matching organizer."
+        },
+        {
+          "level": "On level",
+          "time": "35–40 min",
+          "title": "One archetype, two eras",
+          "activity": "Students compare a classical portrayal of Prometheus with a selected passage from Frankenstein. They identify the shared creator or rebel archetype, analyze how each work develops it, and explain how the different historical contexts influence the representation.",
+          "scaffolds": "Paired-text comparison organizer, historical context notes, teacher model of a comparative claim.",
+          "success": "Identify two meaningful similarities or differences and explain at least one connection between historical context and literary interpretation using textual evidence.",
+          "alignment": "9.T.PM.1.a",
+          "materials": "Prometheus excerpt; Frankenstein excerpt; contextual notes; comparison organizer."
+        },
+        {
+          "level": "Enrichment",
+          "time": "Two 45-minute sessions",
+          "title": "Curate a literary movement",
+          "activity": "Students select a period of English or American literary history and create a small digital exhibition featuring three representative authors or works. They explain dominant themes, genres, and stylistic features, analyze representative passages, and include a comparison showing how one recurring literary archetype changes across periods.",
+          "scaffolds": "Optional exhibition template, research guide, peer critique, sample curator's statement.",
+          "success": "Produce a historically grounded exhibition that accurately identifies representative authors and works, analyzes literary features, and supports a thoughtful cross-period comparison.",
+          "alignment": "9.T.PM.1.a–b",
+          "materials": "Literary anthologies; library databases; digital presentation tool; citation guide."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "Which observation most clearly supports identifying a literary work with Romanticism?",
+          "answer": "The work emphasizes intense individual emotion, imagination, and the significance of nature.",
+          "rationale": "These concerns are strongly associated with Romantic literature, although no single feature defines every Romantic work.",
+          "alignment": "9.T.PM.1.b",
+          "options": [
+            "The work emphasizes intense individual emotion, imagination, and the significance of nature.",
+            "The work includes a character who speaks to another character.",
+            "The work is written entirely in chronological order.",
+            "The work contains a clearly identifiable setting."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Compare the portrayal of a recurring archetype in two works from different historical periods. Explain one important similarity, one meaningful difference, and how the difference may reflect the works' historical contexts.",
+          "answer": "A strong response accurately identifies the shared archetype, supports a meaningful comparison with evidence from both texts, and explains a historically plausible relationship between context and representation without assuming that historical context determines every artistic choice.",
+          "rationale": "Directly assesses the comparison of an archetypal story, figure, or pattern across historical periods.",
+          "alignment": "9.T.PM.1.a"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Select one period of English or American literary history. Create an illustrated literary guide or analytical essay identifying at least three representative authors or works, explaining important themes, genres, and stylistic features, and analyzing specific passages that demonstrate those characteristics. Include a brief comparison with a work from another period that reinterprets a related archetype or literary tradition.",
+          "answer": "Evaluate historical accuracy, appropriateness of representative authors and works, analysis of themes and stylistic features, textual evidence, and the quality of the cross-period comparison.",
+          "rationale": "Combines literary-historical knowledge with analysis of how traditions and archetypes develop across time.",
+          "alignment": "9.T.PM.1.a–b"
+        }
+      ],
+      "evidence": [
+        "An annotated literary timeline connecting authors, works, and historical periods.",
+        "A close-reading analysis identifying themes, genres, and stylistic features associated with a selected period.",
+        "A comparative paragraph examining an archetype across two historical periods.",
+        "A literary exhibition, presentation, or analytical essay demonstrating knowledge of representative authors and works.",
+        "An explanation of how historical context may inform literary choices without reducing a text to its historical background."
+      ],
+      "instruction": [
+        "Teach literary periods through representative texts rather than relying exclusively on timelines and definitions.",
+        "Distinguish between broad historical periods and more specific literary movements.",
+        "Introduce historical context in manageable amounts that directly support interpretation.",
+        "Model how to recognize a stylistic feature and explain its contribution to meaning.",
+        "Use paired texts to make literary inheritance and transformation visible.",
+        "Choose comparisons that involve genuinely different historical periods rather than merely different publication years.",
+        "Present literary-period characteristics as useful generalizations, not rigid rules governing every writer.",
+        "Connect major authors and works to authentic questions about literary history and cultural change.",
+        "Encourage students to test historical generalizations against specific textual evidence.",
+        "Provide multiple opportunities for students to compare themes and archetypes across genres."
+      ],
+      "watchFor": [
+        "Treating literary periods as fixed categories with exact boundaries and no overlap.",
+        "Memorizing authors and dates without examining representative works.",
+        "Assuming every text from a period displays all of its commonly identified characteristics.",
+        "Confusing a recurring theme with an archetype.",
+        "Identifying an archetype without explaining how its representation changes.",
+        "Comparing texts from the same period when the expectation requires two or more different periods.",
+        "Using historical context as a substitute for textual analysis.",
+        "Claiming that an author intended a particular meaning solely because of the historical period.",
+        "Presenting the literary traditions of England and the United States as culturally uniform.",
+        "Reducing the Harlem Renaissance to a single theme or stylistic approach."
+      ],
+      "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works. The classical Prometheus text provides a cross-period comparison rather than an example of English or American literary history. Confirm editions, translation rights, permissions, excerpt length, and classroom suitability. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Literary-period classifications are interpretive frameworks and may overlap."
+    },
+
+{
+  "code": "9.L.GC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Syntax",
+  "studentFriendly": "I can analyze how sentence structure affects meaning and style, and I can revise my own sentences to create clarity, emphasis, rhythm, and purposeful effects.",
+  "know": [
+    "Syntax refers to the arrangement of words, phrases, and clauses within sentences.",
+    "Writers vary sentence length, structure, and arrangement to influence emphasis, pacing, tone, and clarity.",
+    "Parallel structure uses corresponding grammatical forms to express related ideas.",
+    "Verb tense locates an action in time; aspect expresses how an action unfolds; mood communicates the speaker's attitude toward the action.",
+    "Active voice generally places the subject in the role of performing the verb's action.",
+    "Modifiers, phrases, and clauses can expand sentences by adding purposeful description and information.",
+    "A grammatically correct sentence may still be ineffective for a particular audience or purpose.",
+    "Revision involves making deliberate choices about sentence structure rather than simply correcting errors."
+  ],
+  "understand": [
+    "Sentence structure is a meaningful element of an author's craft.",
+    "Syntactic patterns influence how readers experience a text's rhythm, emphasis, and progression of ideas.",
+    "Parallel structure can strengthen clarity, balance, and rhetorical impact.",
+    "Consistency in tense, aspect, and mood helps readers understand relationships among actions and ideas.",
+    "Active voice can communicate actions directly and concisely.",
+    "Expanding a sentence improves writing when the added information contributes to meaning or audience engagement.",
+    "Effective writers adapt syntax to context, purpose, and intended effect."
+  ],
+  "do": [
+    "Analyze how syntax contributes to meaning and effect in literary and informational texts, including instances of parallel structure (9.L.GC.2.a).",
+    "Evaluate the effects of sentence length, arrangement, and syntactic patterns (9.L.GC.2.a).",
+    "Compose and revise texts using varied syntax for purposeful effects (9.L.GC.2.b).",
+    "Maintain appropriate consistency of verb tense, aspect, and mood during sentence revision (9.L.GC.2.b).",
+    "Maintain active voice to communicate clearly and concisely in accordance with the Grade 9 expectation (9.L.GC.2.c).",
+    "Expand sentences with meaningful details and descriptions that support a specific purpose (9.L.GC.2.d).",
+    "Recognize and construct parallel structures that express corresponding or related ideas (9.L.GC.2.e)."
+  ],
+  "targets": [
+    "I can identify syntactic patterns in a passage and explain their effects.",
+    "I can explain why an author uses a short sentence after several longer sentences.",
+    "I can revise a paragraph to vary its sentence structures intentionally.",
+    "I can maintain consistent verb tense, aspect, and mood.",
+    "I can use active voice to make writing more direct.",
+    "I can expand a basic sentence with details that develop meaning.",
+    "I can recognize and create parallel structure.",
+    "I can explain why one sentence revision is more effective than another."
+  ],
+  "vocabulary": [
+    {
+      "term": "Syntax",
+      "definition": "The arrangement of words, phrases, and clauses to form sentences.",
+      "example": "A writer places a short sentence after a long description to emphasize a discovery."
+    },
+    {
+      "term": "Parallel structure",
+      "definition": "The use of corresponding grammatical forms to express related ideas.",
+      "example": "She wanted to explore the city, visit the museum, and meet the artists."
+    },
+    {
+      "term": "Independent clause",
+      "definition": "A group of words containing a subject and verb that can stand alone as a sentence.",
+      "example": "The storm approached."
+    },
+    {
+      "term": "Dependent clause",
+      "definition": "A group of words containing a subject and verb that cannot stand alone as a complete sentence.",
+      "example": "Although the storm approached"
+    },
+    {
+      "term": "Periodic sentence",
+      "definition": "A sentence that delays its main clause or central idea until after introductory material.",
+      "example": "After hours of searching through the abandoned house, we found the letter."
+    },
+    {
+      "term": "Cumulative sentence",
+      "definition": "A sentence that presents a main clause and then adds modifying details.",
+      "example": "The train arrived, its windows glowing against the dark platform."
+    },
+    {
+      "term": "Active voice",
+      "definition": "A grammatical construction in which the subject performs the action expressed by the verb.",
+      "example": "The researcher examined the evidence."
+    },
+    {
+      "term": "Passive voice",
+      "definition": "A grammatical construction in which the subject receives the action expressed by the verb.",
+      "example": "The evidence was examined by the researcher."
+    },
+    {
+      "term": "Verb tense",
+      "definition": "A grammatical form that indicates the time of an action or state.",
+      "example": "She studies, she studied, and she will study."
+    },
+    {
+      "term": "Verb aspect",
+      "definition": "A grammatical feature expressing how an action extends, progresses, or relates to another time.",
+      "example": "She was reading when the telephone rang."
+    },
+    {
+      "term": "Verb mood",
+      "definition": "A grammatical form that communicates a speaker's attitude toward an action, such as a statement, command, or hypothetical condition.",
+      "example": "If I were the editor, I would revise the ending."
+    },
+    {
+      "term": "Modifier",
+      "definition": "A word, phrase, or clause that describes or limits another element of a sentence.",
+      "example": "The exhausted traveler entered the station."
+    },
+    {
+      "term": "Sentence variety",
+      "definition": "Purposeful variation in sentence length, construction, and arrangement.",
+      "example": "A paragraph alternates extended descriptions with brief statements for emphasis."
+    }
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Eleven",
+      "author": "Sandra Cisneros",
+      "genre": "Short story",
+      "context": "Contemporary · United States",
+      "purpose": "Analyze how repetition, fragments, accumulating clauses, and varied sentence length contribute to a child's narrative voice.",
+      "access": "Licensed anthology or authorized text.",
+      "highInterest": true,
+      "accessibility": "Accessible",
+      "readingLength": "Quick Read",
+      "interestHook": "An intensely relatable account of an embarrassing birthday",
+      "teachingPrompt": "How does the narrator's sentence structure reveal emotions that she struggles to explain?"
+    },
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "genre": "Gothic short story",
+      "context": "American Romanticism · 1843",
+      "purpose": "Study how interruptions, repetition, exclamations, and changes in sentence length create urgency and reveal the narrator's psychological state.",
+      "access": "Public domain; use a reputable edition.",
+      "highInterest": true,
+      "accessibility": "Moderate",
+      "readingLength": "Short Read",
+      "interestHook": "A narrator insists on sanity while describing a disturbing crime",
+      "teachingPrompt": "How does Poe manipulate sentence length and repetition as the narrator becomes increasingly agitated?"
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "genre": "Historical novel",
+      "context": "Victorian literature · Britain · 1859",
+      "purpose": "Examine parallel structure, antithesis, and rhythmic balance in the novel's opening passage.",
+      "access": "Public domain; use a reputable edition.",
+      "highInterest": true,
+      "accessibility": "Challenging",
+      "readingLength": "Quick Read",
+      "interestHook": "A famous opening built on dramatic contradictions",
+      "teachingPrompt": "How does Dickens use parallel constructions to establish opposing ideas and create a memorable rhythm?"
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "Short story",
+      "context": "Late nineteenth-century American literature · 1894",
+      "purpose": "Analyze how sentence structure, descriptive expansion, and pacing shape the reader's understanding of the protagonist's changing emotions.",
+      "access": "Public domain; use a reputable edition.",
+      "highInterest": true,
+      "accessibility": "Accessible",
+      "readingLength": "Quick Read",
+      "interestHook": "A surprising emotional response to unexpected news",
+      "teachingPrompt": "How does the syntax change as the protagonist begins to imagine a different future?"
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Novel in vignettes",
+      "context": "Contemporary · Mexican American literature",
+      "purpose": "Investigate how concise sentences, lyrical constructions, and deliberate variation create voice and imagery.",
+      "access": "Licensed book or authorized excerpt.",
+      "highInterest": true,
+      "accessibility": "Accessible",
+      "readingLength": "Short Read",
+      "interestHook": "Brief, vivid accounts of identity, family, and neighborhood life",
+      "teachingPrompt": "What happens to the narrator's voice when a sentence is expanded, shortened, or rearranged?"
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O'Brien",
+      "genre": "Literary short fiction",
+      "context": "Contemporary · United States",
+      "purpose": "Analyze how lists, cumulative constructions, repetition, and sentence length contribute to characterization and emotional weight.",
+      "access": "Licensed book or authorized excerpt; review mature content before selection.",
+      "highInterest": true,
+      "accessibility": "Moderate",
+      "readingLength": "Extended Read",
+      "interestHook": "The physical and emotional burdens carried by soldiers",
+      "teachingPrompt": "How do accumulating details and repeated sentence patterns make the characters' burdens tangible?"
+    },
+    {
+      "title": "I Have a Dream",
+      "author": "Martin Luther King Jr.",
+      "genre": "Public address / rhetoric",
+      "context": "Civil Rights Movement · United States · 1963",
+      "purpose": "Examine parallelism, anaphora, balanced clauses, and rhythmic syntax as rhetorical techniques.",
+      "access": "Use an authorized recording or licensed transcript excerpt.",
+      "highInterest": true,
+      "accessibility": "Moderate",
+      "readingLength": "Short Read",
+      "interestHook": "A landmark speech whose repeated structures create powerful momentum",
+      "teachingPrompt": "How does the repetition of a grammatical pattern increase emphasis and unify related ideas?"
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Sentence surgery",
+      "activity": "Students receive a short paragraph containing repetitive sentence beginnings, inconsistent verb tenses, and faulty parallelism. After examining a teacher model, they revise the paragraph for consistency and clarity, then explain two changes.",
+      "scaffolds": "Color-coded clauses, parallelism checklist, modeled revision, partner discussion, sentence frames.",
+      "success": "Correct at least three targeted syntax problems and explain how two revisions improve clarity.",
+      "alignment": "9.L.GC.2.b and 9.L.GC.2.e",
+      "materials": "Teacher-created paragraph; highlighters; revision checklist."
+    },
+    {
+      "level": "On level",
+      "time": "30–35 min",
+      "title": "Imitate the author's rhythm",
+      "activity": "Students annotate a passage from 'Eleven' or 'The Tell-Tale Heart,' identifying sentence lengths, repeated constructions, and syntactic shifts. They then write an original 150–200-word scene using at least three purposeful syntactic choices and annotate their effects.",
+      "scaffolds": "Sentence-pattern annotations, short mentor-text model, peer feedback guide.",
+      "success": "Analyze two syntactic effects in the mentor text and demonstrate three intentional choices in original writing.",
+      "alignment": "9.L.GC.2.a–b",
+      "materials": "Mentor-text excerpt; annotation guide; writing document."
+    },
+    {
+      "level": "Enrichment",
+      "time": "40–45 min",
+      "title": "Three versions, three effects",
+      "activity": "Students draft a paragraph describing a moment of suspense, then revise it into three versions: one emphasizing urgency through concise active-voice sentences, one emphasizing reflection through expanded sentences, and one using parallelism to create rhetorical intensity. They write a commentary evaluating how each version changes the reader's experience.",
+      "scaffolds": "Optional syntax reference sheet, model comparative commentary, peer conference.",
+      "success": "Produce three distinct revisions with controlled syntax and a precise explanation of the effects of each.",
+      "alignment": "9.L.GC.2.a–e",
+      "materials": "Original draft; revision guide; peer feedback form."
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple choice",
+      "prompt": "Which sentence uses parallel structure correctly?",
+      "options": [
+        "The student enjoyed researching, to write, and presenting.",
+        "The student enjoyed research, writing, and to present.",
+        "The student enjoyed researching, writing, and presenting.",
+        "The student enjoyed to research, writing, and presentations."
+      ],
+      "answer": "The student enjoyed researching, writing, and presenting.",
+      "rationale": "All three items use the same grammatical form, creating a balanced and coherent series.",
+      "alignment": "9.L.GC.2.e"
+    },
+    {
+      "type": "Multiple choice",
+      "prompt": "Which revision most directly expresses the action in active voice?",
+      "options": [
+        "The experiment was conducted by the students.",
+        "The students conducted the experiment.",
+        "The experiment had been conducted by the students.",
+        "The experiment was being conducted by the students."
+      ],
+      "answer": "The students conducted the experiment.",
+      "rationale": "The subject, 'students,' performs the action expressed by the verb.",
+      "alignment": "9.L.GC.2.c"
+    },
+    {
+      "type": "Short response",
+      "prompt": "A writer uses three long descriptive sentences followed by the sentence 'The door opened.' Explain how the change in sentence length could affect the reader.",
+      "answer": "The short sentence interrupts the established rhythm, draws attention to the action, and may create surprise or suspense. A strong response explains the effect in relation to the surrounding passage.",
+      "rationale": "Assesses analysis of syntactic variation and its effect on meaning and reader experience.",
+      "alignment": "9.L.GC.2.a"
+    },
+    {
+      "type": "Revision task",
+      "prompt": "Revise this sentence to create parallel structure and consistent verb tense: 'Yesterday, Maya entered the laboratory, was examining the samples, and writes her observations.' Explain your revision.",
+      "answer": "One appropriate revision is: 'Yesterday, Maya entered the laboratory, examined the samples, and wrote her observations.' The verbs use parallel simple-past forms.",
+      "rationale": "Assesses sentence revision involving grammatical parallelism and consistent verb forms.",
+      "alignment": "9.L.GC.2.b and 9.L.GC.2.e"
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Choose a 150–250-word passage from a literary work. Analyze at least three syntactic choices and explain how they influence tone, pacing, emphasis, or characterization. Then compose a 200-word original passage using varied sentence structures, active voice, purposeful descriptive expansion, and parallelism. Annotate your syntactic decisions and explain their intended effects.",
+      "answer": "Evaluate the accuracy and depth of syntactic analysis, use of textual evidence, purposeful variation in original writing, control of verb forms, active voice, effective descriptive expansion, and correct parallel structure.",
+      "rationale": "Integrates interpretation of syntax with intentional application and revision across the Grade 9 expectations.",
+      "alignment": "9.L.GC.2.a–e"
+    }
+  ],
+  "evidence": [
+    "An annotated literary passage identifying sentence patterns and explaining their effects.",
+    "Before-and-after sentence revisions with written explanations.",
+    "A paragraph demonstrating purposeful sentence variety and consistent verb forms.",
+    "A writing sample using active voice for clarity and concision.",
+    "An expanded descriptive passage in which added details contribute to meaning.",
+    "A rhetorical or analytical paragraph demonstrating accurate parallel structure.",
+    "A reflection connecting syntactic decisions to audience and purpose."
+  ],
+  "instruction": [
+    "Begin with authentic mentor sentences rather than isolated grammar worksheets.",
+    "Model the difference between identifying a syntactic feature and analyzing its effect.",
+    "Read passages aloud to help students hear rhythm, repetition, and sentence boundaries.",
+    "Use sentence combining and sentence expansion to build syntactic flexibility.",
+    "Teach parallelism through both literary rhetoric and everyday writing.",
+    "Provide focused instruction on verb tense, aspect, and mood using meaningful examples.",
+    "Model active-voice revision and discuss how direct sentence construction supports clarity.",
+    "Demonstrate how added phrases and clauses can enrich a sentence without obscuring its central idea.",
+    "Use imitation exercises that require students to adapt sentence patterns to original content.",
+    "Build revision conferences around the question 'What effect do you want this sentence to create?'",
+    "Assess students' explanations of syntactic choices alongside the correctness of their revisions."
+  ],
+  "watchFor": [
+    "Treating syntax as punctuation alone.",
+    "Identifying sentence types without explaining their effects.",
+    "Assuming that longer or more complex sentences are automatically better.",
+    "Creating sentence variety through random changes rather than purposeful revision.",
+    "Confusing parallel structure with simple repetition of words.",
+    "Shifting verb tense unintentionally within a narrative or explanation.",
+    "Confusing verb tense with verb aspect or mood.",
+    "Writing passive constructions when the instructional goal is direct active voice.",
+    "Expanding sentences with details that distract from the central idea.",
+    "Overcorrecting deliberate literary fragments or unconventional syntax without considering their effects.",
+    "Assuming every sentence in a published literary work follows the same conventions expected in a student's formal academic writing."
+  ],
+  "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works. Confirm text access, permissions, excerpt length, and age suitability. High Interest and accessibility are editorial judgments rather than validated reading-level scores. The Grade 9 expectation specifies consistent active voice in student composition; literary analysis may examine other constructions when relevant to an author's craft."
+},
