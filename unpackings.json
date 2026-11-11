@@ -2184,3 +2184,491 @@
   ],
   "readingMetadataNote": "High Interest, accessibility, and reading time are editorial guidance rather than measured or verified ratings. The teachingPrompt, materials, and alignment fields are optional enhancements that older index.html versions may not display."
 }
+
+    {
+      "code": "9.T.SS.1",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Organization",
+      "studentFriendly": "I can explain how a text's organization helps communicate ideas, and I can organize my own writing with an engaging introduction, purposeful development, clear transitions, and an effective conclusion.",
+      "know": [
+        "Texts use organizational patterns such as chronology, cause and effect, comparison and contrast, problem and solution, and classification.",
+        "Organizational choices depend on genre, mode, audience, and purpose.",
+        "Transitions create relationships among sentences, paragraphs, and sections.",
+        "Introductions establish direction and engage audiences; conclusions provide meaningful closure.",
+        "Effective organization includes the purposeful arrangement and development of ideas, evidence, descriptions, or events."
+      ],
+      "understand": [
+        "A text's structure influences what readers notice, understand, remember, and believe.",
+        "There is no single ideal organizational pattern for every writing task.",
+        "Coherence depends on logical relationships among ideas, not simply the presence of transition words.",
+        "Writers can improve meaning and impact by rearranging, developing, combining, or removing material."
+      ],
+      "do": [
+        "Analyze the effectiveness of a text's organizational structure for its intended audience (9.T.SS.1.a).",
+        "Choose and use appropriate organizational structures and features for genre, mode, purpose, and audience (9.T.SS.1.b).",
+        "Use transitions between ideas and paragraphs to strengthen cohesion (9.T.SS.1.c).",
+        "Construct texts with purposeful introductions, developed supporting sections, and memorable conclusions (9.T.SS.1.d)."
+      ],
+      "targets": [
+        "I can identify a text's organizational pattern and explain why it is effective or ineffective.",
+        "I can select an organizational structure that serves my purpose and audience.",
+        "I can connect paragraphs through meaningful transitions.",
+        "I can revise an introduction, body, or conclusion to improve coherence and impact."
+      ],
+      "vocabulary": [
+        {
+          "term": "Organizational structure",
+          "definition": "The arrangement of ideas, information, or events within a text.",
+          "example": "An article presents a problem, examines its causes, and proposes solutions."
+        },
+        {
+          "term": "Coherence",
+          "definition": "The logical clarity and consistency that make a text understandable as a whole.",
+          "example": "Each paragraph develops a clear part of the central argument."
+        },
+        {
+          "term": "Cohesion",
+          "definition": "The connections among sentences and paragraphs that help ideas flow.",
+          "example": "A repeated key term links one paragraph's conclusion to the next paragraph's focus."
+        },
+        {
+          "term": "Transition",
+          "definition": "A word, phrase, sentence, or structural move that establishes a relationship between ideas.",
+          "example": "After discussing the benefits, a writer introduces a limitation."
+        },
+        {
+          "term": "Chronological order",
+          "definition": "Organization according to the sequence in which events occur.",
+          "example": "A memoir follows the events of one important afternoon."
+        },
+        {
+          "term": "Cause and effect",
+          "definition": "Organization showing why something happened and what resulted.",
+          "example": "An article explains how urban development affects local flooding."
+        },
+        {
+          "term": "Problem and solution",
+          "definition": "Organization that establishes a difficulty and explores possible responses.",
+          "example": "An editorial identifies a transportation problem and evaluates proposed changes."
+        },
+        {
+          "term": "Framing",
+          "definition": "Using an opening and ending that connect to shape the meaning of a text.",
+          "example": "An essay returns to its opening image with a changed significance."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "The Danger of a Single Story",
+          "author": "Chimamanda Ngozi Adichie",
+          "genre": "Public talk / nonfiction",
+          "context": "Contemporary · Nigerian perspective",
+          "purpose": "Analyze how personal anecdotes build toward a central claim and how the conclusion revisits the opening concern.",
+          "access": "Official TED talk and authorized transcript.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Extended Read",
+          "interestHook": "Surprising personal stories that challenge assumptions",
+          "teachingPrompt": "Why does Adichie begin with personal experiences rather than immediately stating an abstract argument?"
+        },
+        {
+          "title": "Fish Cheeks",
+          "author": "Amy Tan",
+          "genre": "Personal narrative",
+          "context": "Contemporary · Chinese American perspective",
+          "purpose": "Examine how chronological narration builds toward a retrospective insight and how the ending changes the meaning of earlier details.",
+          "access": "Licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Quick Read",
+          "interestHook": "An embarrassing family dinner and a revealing ending",
+          "teachingPrompt": "What would the essay lose if the narrator explained the lesson in the opening paragraph?"
+        },
+        {
+          "title": "The Gettysburg Address",
+          "author": "Abraham Lincoln",
+          "genre": "Historical speech",
+          "context": "Nineteenth century · United States",
+          "purpose": "Analyze the movement from the nation's founding to the present occasion and finally to a collective responsibility.",
+          "access": "Public domain; use a reputable historical transcript.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Quick Read",
+          "interestHook": "An influential argument made in remarkably few words",
+          "teachingPrompt": "How does the progression from past to present to future strengthen the speech?"
+        },
+        {
+          "title": "The Scholarship Jacket",
+          "author": "Marta Salinas",
+          "genre": "Short story",
+          "context": "Contemporary · Mexican American perspective",
+          "purpose": "Examine exposition, escalating conflict, turning point, and resolution as organizational choices.",
+          "access": "Licensed anthology, library copy, or publisher-authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "An unfair school decision with personal stakes",
+          "teachingPrompt": "How would the story change if readers learned the principal's final decision at the beginning?"
+        },
+        {
+          "title": "A Modest Proposal",
+          "author": "Jonathan Swift",
+          "genre": "Satirical essay",
+          "context": "Eighteenth century · Ireland",
+          "purpose": "Analyze how the arrangement of problem, proposal, supposed benefits, and conclusion imitates conventional persuasive writing to create satire.",
+          "access": "Public domain; use an appropriately contextualized excerpt.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "A shocking proposal that exposes the danger of detached reasoning",
+          "teachingPrompt": "How does the familiar structure of a reasonable proposal make the satire more disturbing?"
+        },
+        {
+          "title": "The Case for Reparations",
+          "author": "Ta-Nehisi Coates",
+          "genre": "Investigative argument / long-form journalism",
+          "context": "Contemporary · United States",
+          "purpose": "Examine how narrative examples, historical explanation, documentary evidence, and section divisions build a sustained argument.",
+          "access": "Authorized magazine article; select a manageable excerpt and provide historical context.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "An investigation connecting individual experiences to larger systems",
+          "teachingPrompt": "Why might the writer introduce an individual's experience before presenting broader historical evidence?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "20 min",
+          "title": "Rebuild the paragraph",
+          "activity": "Give students a short informational paragraph with its sentences scrambled. Students identify the topic sentence, arrange supporting details logically, select an appropriate transition, and explain their choices.",
+          "scaffolds": "Numbered sentence strips, color-coded topic and supporting details, teacher model, transition bank.",
+          "success": "Produce a logical paragraph sequence and explain at least one relationship between sentences.",
+          "alignment": "9.T.SS.1.b–c",
+          "materials": "Scrambled paragraph; sentence strips; highlighters."
+        },
+        {
+          "level": "On level",
+          "time": "30 min",
+          "title": "Structure swap",
+          "activity": "Students read a short informational article organized chronologically. They reorganize its key information into a cause-and-effect or problem-and-solution outline, then write a paragraph explaining which structure better serves a particular audience.",
+          "scaffolds": "Graphic organizers for three text structures; partner discussion; sample analytical claim.",
+          "success": "Accurately reorganize the information and justify the effectiveness of the new structure with two specific reasons.",
+          "alignment": "9.T.SS.1.a–b",
+          "materials": "Informational article; structure organizers; writing document."
+        },
+        {
+          "level": "Enrichment",
+          "time": "40–45 min",
+          "title": "Architect an argument",
+          "activity": "Students develop two alternative outlines for the same argument: one organized by reasons and evidence, the other by problem, consequences, and solutions. They choose the stronger structure for a specified audience, draft an introduction and conclusion, and explain how transitions guide readers.",
+          "scaffolds": "Optional rhetorical planning guide and peer critique.",
+          "success": "Produce two distinct viable structures, defend the stronger choice, and demonstrate cohesion and purposeful framing.",
+          "alignment": "9.T.SS.1.a–d",
+          "materials": "Research notes or evidence set; planning templates; drafting tool."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "An article first describes a city's flooding problem, then explains several contributing factors, and finally evaluates proposed improvements. Which organizational pattern best describes the article?",
+          "answer": "Problem and solution, incorporating cause-and-effect explanation.",
+          "rationale": "The article establishes a problem, analyzes its causes, and evaluates responses. Organizational patterns can work together.",
+          "alignment": "9.T.SS.1.a",
+          "options": [
+            "Chronological narration only.",
+            "Problem and solution, incorporating cause-and-effect explanation.",
+            "Spatial description.",
+            "An unrelated collection of examples."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Select an introduction and conclusion from a literary or informational text. Explain how their relationship strengthens the text's overall organization and meaning.",
+          "answer": "A strong response identifies a meaningful connection between the opening and ending, uses specific textual evidence, and explains the effect on the intended audience.",
+          "rationale": "Assesses the ability to analyze organization as a purposeful authorial choice.",
+          "alignment": "9.T.SS.1.a, 9.T.SS.1.d"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Write a 400–600-word informational or argumentative text for a defined audience. Choose an organizational pattern appropriate to your purpose. Include an engaging introduction, logically developed supporting sections, purposeful transitions, and a conclusion that extends rather than merely repeats the central idea. Attach a short writer's note explaining your organizational decisions.",
+          "answer": "Score audience and purpose alignment, organizational effectiveness, development of supporting ideas, cohesion, introduction and conclusion, and explanation of craft choices.",
+          "rationale": "Directly assesses the construction and evaluation of coherent, purposefully organized texts.",
+          "alignment": "9.T.SS.1.b–d"
+        }
+      ],
+      "evidence": [
+        "An annotated mentor text identifying organizational choices and their effects.",
+        "A comparison of two possible structures for the same information.",
+        "An original text with a purposeful introduction, developed supporting sections, cohesive transitions, and effective conclusion.",
+        "A writer's note explaining how organization serves the intended audience."
+      ],
+      "instruction": [
+        "Begin with mentor texts that use visibly different organizational patterns.",
+        "Model the distinction between identifying a structure and evaluating why that structure works.",
+        "Teach transitions as relationships between ideas rather than lists of interchangeable linking words.",
+        "Use reverse outlining to help students see the actual structure of a draft.",
+        "Compare weak and strong conclusions, emphasizing synthesis and meaningful closure.",
+        "Provide opportunities for students to reorganize existing writing before drafting new work."
+      ],
+      "watchFor": [
+        "Assuming every essay must follow a five-paragraph structure.",
+        "Identifying an organizational pattern without explaining its effectiveness.",
+        "Using transitions mechanically when ideas are not logically connected.",
+        "Writing introductions that announce a topic without establishing purpose or direction.",
+        "Ending with a conclusion that simply repeats the introduction.",
+        "Confusing paragraph length or number with effective development."
+      ],
+      "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed texts. Confirm editions, permissions, classroom suitability, and the appropriate length of assigned excerpts. High Interest and accessibility are editorial judgments rather than validated reading-level measures."
+    },
+
+    {
+      "code": "9.T.T.2",
+      "status": "draft — independently developed instructional guidance; educator review recommended",
+      "focus": "Expository Techniques",
+      "studentFriendly": "I can analyze how writers explain complex ideas, evaluate conflicting information and viewpoints, and use effective explanatory techniques to communicate clearly with an audience.",
+      "know": [
+        "Expository writing explains, informs, clarifies, or develops understanding of a subject.",
+        "Expository techniques include definition, classification, exemplification, comparison and contrast, cause and effect, process analysis, and the use of relevant evidence.",
+        "Writers organize explanations according to their subject, purpose, and intended audience.",
+        "Two sources may disagree about verifiable facts, interpretations of evidence, or both.",
+        "A factual disagreement requires checking evidence; an interpretive disagreement requires examining reasoning and assumptions.",
+        "Expository texts may combine objective information with interpretation, emphasis, and perspective."
+      ],
+      "understand": [
+        "Effective explanation requires more than presenting accurate information; writers must make relationships among ideas understandable.",
+        "Organizational patterns and explanatory techniques influence how readers interpret and retain information.",
+        "Disagreement between sources does not automatically mean that one source is unreliable.",
+        "Critical readers distinguish what a source establishes as fact from what its author concludes or interprets.",
+        "Writers make purposeful choices about examples, definitions, evidence, and structure to meet audience needs."
+      ],
+      "do": [
+        "Identify expository techniques and organizational patterns in informational texts (9.T.T.2.a).",
+        "Analyze how specific explanatory choices contribute to clarity, meaning, and audience understanding (9.T.T.2.a).",
+        "Evaluate the effectiveness of an expository text's techniques and organization (9.T.T.2.a).",
+        "Compare texts that present conflicting information or opposing viewpoints (9.T.T.2.b).",
+        "Identify precisely where sources disagree about facts, interpretations, or both (9.T.T.2.b).",
+        "Apply effective expository techniques when constructing explanations for specific audiences, consistent with the parent standard."
+      ],
+      "targets": [
+        "I can identify an expository technique and explain its effect on readers.",
+        "I can evaluate whether a writer's organizational pattern makes complex information easier to understand.",
+        "I can distinguish a disagreement about facts from a disagreement about interpretation.",
+        "I can use evidence from two sources to explain exactly where their accounts differ.",
+        "I can choose appropriate explanatory techniques when writing for a specific audience."
+      ],
+      "vocabulary": [
+        {
+          "term": "Exposition",
+          "definition": "Writing or communication that explains, informs, or clarifies a subject.",
+          "example": "An article explains how a scientific discovery changed medical treatment."
+        },
+        {
+          "term": "Exemplification",
+          "definition": "Using specific examples to clarify or develop a general idea.",
+          "example": "A writer explains food insecurity through examples from several communities."
+        },
+        {
+          "term": "Classification",
+          "definition": "Organizing information into categories according to shared characteristics.",
+          "example": "An article groups renewable energy sources by how they generate electricity."
+        },
+        {
+          "term": "Process analysis",
+          "definition": "Explaining how something happens or how a procedure works.",
+          "example": "A science article describes the stages of vaccine development."
+        },
+        {
+          "term": "Cause and effect",
+          "definition": "Explaining relationships between contributing conditions, actions, and results.",
+          "example": "An essay examines how industrialization changed urban populations."
+        },
+        {
+          "term": "Factual claim",
+          "definition": "A statement that can be investigated using evidence.",
+          "example": "A report states that a city's population increased during a specified decade."
+        },
+        {
+          "term": "Interpretation",
+          "definition": "An explanation of the meaning, significance, or implications of information.",
+          "example": "Two historians agree on an event's date but disagree about its primary cause."
+        },
+        {
+          "term": "Corroboration",
+          "definition": "Using additional evidence or sources to confirm or challenge information.",
+          "example": "A student checks an article's numerical claim against an original government report."
+        },
+        {
+          "term": "Qualification",
+          "definition": "Limiting or refining a claim to represent its scope and uncertainty accurately.",
+          "example": "A writer explains that a trend appears in some regions but not others."
+        }
+      ],
+      "suggestedTexts": [
+        {
+          "title": "The Immortal Life of Henrietta Lacks",
+          "author": "Rebecca Skloot",
+          "genre": "Narrative nonfiction / science writing",
+          "context": "Contemporary · United States",
+          "purpose": "Analyze how scientific explanation, historical context, and individual experience work together to clarify a complex subject.",
+          "access": "Licensed book or classroom anthology; select an appropriate excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "The human story behind cells used in major medical discoveries",
+          "teachingPrompt": "How does the writer make unfamiliar scientific information understandable without losing the human story?"
+        },
+        {
+          "title": "A Short History of Nearly Everything",
+          "author": "Bill Bryson",
+          "genre": "Popular science nonfiction",
+          "context": "Contemporary · United States / United Kingdom",
+          "purpose": "Examine analogy, definition, examples, and sequencing as methods of explaining complex scientific concepts.",
+          "access": "Licensed book or authorized excerpt.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Short Read",
+          "interestHook": "Surprising scientific discoveries explained through stories",
+          "teachingPrompt": "Which example or comparison most helps a general reader understand the scientific idea?"
+        },
+        {
+          "title": "The Sixth Extinction",
+          "author": "Elizabeth Kolbert",
+          "genre": "Environmental science journalism",
+          "context": "Contemporary · United States",
+          "purpose": "Evaluate how field observations, scientific findings, and explanatory context develop understanding of environmental change.",
+          "access": "Licensed book or authorized magazine excerpt.",
+          "highInterest": true,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "Real investigations into species disappearing around the world",
+          "teachingPrompt": "How does the writer connect an individual scientific observation to a larger explanation?"
+        },
+        {
+          "title": "Hidden Figures",
+          "author": "Margot Lee Shetterly",
+          "genre": "Historical and scientific nonfiction",
+          "context": "Contemporary · United States; twentieth-century history",
+          "purpose": "Analyze the combination of chronological explanation, historical background, and technical information.",
+          "access": "Licensed book or authorized excerpt; young readers edition may support differentiation.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Extended Read",
+          "interestHook": "Mathematicians whose work helped make space exploration possible",
+          "teachingPrompt": "How does historical context help readers understand the significance of the technical work?"
+        },
+        {
+          "title": "The Case for Reparations",
+          "author": "Ta-Nehisi Coates",
+          "genre": "Investigative journalism / historical argument",
+          "context": "Contemporary · United States",
+          "purpose": "Analyze how historical evidence, examples, and explanatory sections contribute to an interpretation of social and economic history.",
+          "access": "Authorized magazine article; select an excerpt with sufficient context.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "An investigation connecting individual lives with historical systems",
+          "teachingPrompt": "Which statements describe documented events, and which interpret their significance?"
+        },
+        {
+          "title": "The Danger of a Single Story",
+          "author": "Chimamanda Ngozi Adichie",
+          "genre": "Expository and persuasive public talk",
+          "context": "Contemporary · Nigerian perspective",
+          "purpose": "Examine how definition, personal examples, comparison, and explanation develop a central concept.",
+          "access": "Official TED talk and authorized transcript.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Extended Read",
+          "interestHook": "Stories that reveal how incomplete information shapes assumptions",
+          "teachingPrompt": "How do the speaker's examples clarify the central concept, and where does explanation become argument?"
+        }
+      ],
+      "differentiation": [
+        {
+          "level": "Remediation",
+          "time": "20–25 min",
+          "title": "How does the writer explain it?",
+          "activity": "Provide a short informational passage containing a definition, an example, and a cause-and-effect explanation. Students color-code each technique and explain how one technique helps them understand the topic.",
+          "scaffolds": "Annotated model, technique reference chart, color-coded examples, sentence frames.",
+          "success": "Correctly identify at least two explanatory techniques and explain the contribution of one to comprehension.",
+          "alignment": "9.T.T.2.a",
+          "materials": "Short informational passage; highlighters; technique reference chart."
+        },
+        {
+          "level": "On level",
+          "time": "30–35 min",
+          "title": "Fact or interpretation?",
+          "activity": "Students read two short accounts of the same historical event or scientific issue. They identify three shared factual claims, one point of disagreement, and whether the disagreement concerns evidence, interpretation, or both. Students write a comparative paragraph using evidence from each source.",
+          "scaffolds": "Two-column source comparison organizer, modeled distinction between fact and interpretation, discussion partners.",
+          "success": "Accurately distinguish shared facts from differing interpretations and support the explanation with evidence from both sources.",
+          "alignment": "9.T.T.2.b",
+          "materials": "Two credible contrasting texts; comparison organizer; writing document."
+        },
+        {
+          "level": "Enrichment",
+          "time": "40–45 min",
+          "title": "Explain it for two audiences",
+          "activity": "Students investigate a complex subject using credible information. They write two brief explanations: one for a younger student and one for an informed adult. They vary definitions, examples, technical vocabulary, and organization. They then evaluate which choices best serve each audience.",
+          "scaffolds": "Optional audience-analysis guide; peer feedback protocol.",
+          "success": "Produce two accurate explanations with demonstrably different and purposeful expository techniques, supported by a reflection on audience needs.",
+          "alignment": "9.T.T.2.a and parent standard 9.T.T.2",
+          "materials": "Credible source excerpts; audience profiles; drafting tool."
+        }
+      ],
+      "questions": [
+        {
+          "type": "Multiple choice",
+          "prompt": "An author explains an unfamiliar scientific concept by comparing it to a familiar household system. What is the primary purpose of this technique?",
+          "answer": "To make an unfamiliar concept more understandable through a familiar comparison.",
+          "rationale": "An analogy helps readers connect unfamiliar information with existing knowledge.",
+          "alignment": "9.T.T.2.a",
+          "options": [
+            "To replace scientific evidence with personal opinion.",
+            "To make an unfamiliar concept more understandable through a familiar comparison.",
+            "To establish that the two systems are identical in every respect.",
+            "To avoid explaining the concept."
+          ]
+        },
+        {
+          "type": "Short response",
+          "prompt": "Two historians agree that a particular law was passed in a given year. One argues that economic pressure was the primary cause; the other emphasizes political activism. Explain whether their disagreement concerns fact, interpretation, or both, and justify your answer.",
+          "answer": "The described disagreement concerns interpretation of causation. Both historians accept the same stated event and date, but they assign different importance to possible causes. A complete response explains that additional evidence would be needed to evaluate their interpretations.",
+          "rationale": "Assesses the distinction between shared factual information and differing explanations of its significance or causes.",
+          "alignment": "9.T.T.2.b"
+        },
+        {
+          "type": "Performance task",
+          "prompt": "Read two credible informational texts about the same issue. Create a comparison identifying their organizational patterns, principal explanatory techniques, factual agreements, and disagreements in fact or interpretation. Then write a 300–400-word explanation of the issue for a ninth-grade audience, using at least two purposeful expository techniques.",
+          "answer": "Evaluate accuracy of structural analysis, identification and evaluation of explanatory techniques, precision in distinguishing factual and interpretive disagreements, and clarity and effectiveness of the student's original explanation.",
+          "rationale": "Integrates analysis of expository techniques with critical comparison of conflicting sources and purposeful explanatory writing.",
+          "alignment": "9.T.T.2.a–b and parent standard 9.T.T.2"
+        }
+      ],
+      "evidence": [
+        "Annotated informational text identifying expository techniques and explaining their effects.",
+        "Source comparison chart distinguishing shared facts from conflicting facts or interpretations.",
+        "Analytical paragraph evaluating an author's explanatory choices.",
+        "Original explanatory writing that uses techniques suited to its purpose and audience."
+      ],
+      "instruction": [
+        "Introduce expository techniques through short, authentic examples before assigning longer informational texts.",
+        "Model how to explain the effect of a technique rather than merely naming it.",
+        "Teach students to identify the precise proposition on which two sources disagree.",
+        "Use source pairs that distinguish disagreements about verifiable information from disagreements about meaning or causation.",
+        "Avoid presenting all differences in perspective as equally supported by evidence.",
+        "Model how definitions, examples, comparisons, and causal explanations can work together in a single passage.",
+        "Provide opportunities to revise unclear explanations for a different audience."
+      ],
+      "watchFor": [
+        "Confusing expository writing with argumentative writing, although texts may contain both.",
+        "Listing techniques without explaining how they affect audience comprehension.",
+        "Assuming that any two differing viewpoints represent a factual contradiction.",
+        "Treating an unsupported claim as equally credible simply because it appears in a published source.",
+        "Assuming that disagreement between sources proves both are unreliable.",
+        "Using examples that are interesting but do not clarify the central concept.",
+        "Overloading explanations with technical vocabulary without defining essential terms."
+      ],
+      "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Confirm text access, permissions, excerpt length, and age suitability. High Interest and accessibility are editorial judgments rather than validated reading-level scores. For expectation 9.T.T.2.b, pair texts that address the same specific issue and provide enough evidence to evaluate their agreements and disagreements."
+    },
