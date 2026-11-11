@@ -1,17 +1,246 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Georgia ELA Standards Navigator</title><style>
-:root{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:#f5f7f9;color:#203349}*{box-sizing:border-box}body{margin:0}header{background:#142e4c;color:white;padding:32px max(18px,calc((100vw - 1050px)/2)) 36px}header small{letter-spacing:.1em;color:#bad4ed}h1{font-size:clamp(30px,4vw,48px);margin:12px 0}header p{color:#d9e5f0;max-width:670px}main{max-width:1090px;margin:auto;padding:24px 18px 70px}.toolbar{display:grid;grid-template-columns:2fr repeat(3,1fr);gap:10px;background:white;padding:16px;border-radius:12px;border:1px solid #d9e3ec;margin-top:-12px;position:relative}input,select,button{font:inherit;padding:11px;border:1px solid #c9d5e0;border-radius:8px;width:100%}button{cursor:pointer;background:#185889;color:white;border:0;font-weight:650}button:hover{background:#10436d}.info{color:#52667b;font-size:14px}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.card{background:white;border:1px solid #d9e3ec;border-radius:12px;padding:20px}.card h3{margin:8px 0}.card p{line-height:1.55}.tag{display:inline-block;background:#eaf2f8;color:#244a6b;border-radius:30px;padding:4px 9px;font-size:12px;margin-right:6px}.code{font-weight:750;color:#155789}.subtle{color:#5c7084;font-size:13px}.item{margin-bottom:12px}.item h3{font-size:17px}a{color:#155789}a:hover{text-decoration:none}.actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:13px}.actions button{width:auto}.details{background:#f1f6fa;border-left:4px solid #2970a2;padding:13px 16px;margin-top:14px}section{margin-top:30px}#results{display:grid;gap:12px}#results .card{padding:17px 20px}#results p{margin:8px 0}#results .card button{max-width:180px}.hidden{display:none}footer{margin-top:35px;font-size:13px;color:#637489}#detail{scroll-margin-top:18px}@media(max-width:750px){.toolbar,.cards{grid-template-columns:1fr}header{padding:24px 18px 36px}} </style></head><body>
-<header><small>GEORGIA ELA · TEACHER RESOURCE</small><h1>Standards made simple.</h1><p>Find the official standard. See the specific expectations. Build an instructional unpacking.</p></header><main>
-<div class="toolbar"><input id="query" placeholder="Search skills, wording, or codes" aria-label="Search standards"><select id="grade" aria-label="Grade"><option value="">All high school grades</option><option value="9">Grade 9</option><option value="10">Grade 10</option><option value="11">Grade 11</option><option value="12">Grade 12</option></select><select id="domain" aria-label="Domain"><option value="">All domains</option><option>Practices</option><option>Language</option><option>Texts</option><option>Foundations</option></select><select id="type" aria-label="Record type"><option value="Standard">Standards</option><option value="">All record types</option><option value="Expectation">Expectations</option><option value="Skill">Skills</option><option value="Big Idea">Big ideas</option><option value="Domain">Domains</option></select></div>
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Georgia ELA Standards Navigator</title>
+<style>
+:root{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:#f5f7f9;color:#203349}
+*{box-sizing:border-box}
+body{margin:0}
+header{background:#142e4c;color:white;padding:32px max(18px,calc((100vw - 1050px)/2)) 36px}
+header small{letter-spacing:.1em;color:#bad4ed}
+h1{font-size:clamp(30px,4vw,48px);margin:12px 0}
+header p{color:#d9e5f0;max-width:670px}
+main{max-width:1090px;margin:auto;padding:24px 18px 70px}
+.toolbar{display:grid;grid-template-columns:2fr repeat(3,1fr);gap:10px;background:white;padding:16px;border-radius:12px;border:1px solid #d9e3ec;margin-top:-12px;position:relative}
+input,select,button{font:inherit;padding:11px;border:1px solid #c9d5e0;border-radius:8px;width:100%}
+button{cursor:pointer;background:#185889;color:white;border:0;font-weight:650}
+button:hover{background:#10436d}
+.info{color:#52667b;font-size:14px}
+.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.card{background:white;border:1px solid #d9e3ec;border-radius:12px;padding:20px}
+.card h3{margin:8px 0}
+.card p{line-height:1.55}
+.tag{display:inline-block;background:#eaf2f8;color:#244a6b;border-radius:30px;padding:4px 9px;font-size:12px;margin-right:6px}
+.code{font-weight:750;color:#155789}
+.subtle{color:#5c7084;font-size:13px}
+.item{margin-bottom:12px}
+.item h3{font-size:17px}
+a{color:#155789}
+a:hover{text-decoration:none}
+.actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:13px}
+.actions button{width:auto}
+.details{background:#f1f6fa;border-left:4px solid #2970a2;padding:13px 16px;margin-top:14px}
+section{margin-top:30px}
+#results{display:grid;gap:12px}
+#results .card{padding:17px 20px}
+#results p{margin:8px 0}
+#results .card button{max-width:180px}
+.hidden{display:none}
+footer{margin-top:35px;font-size:13px;color:#637489}
+#detail{scroll-margin-top:18px}
+@media(max-width:750px){
+.toolbar,.cards{grid-template-columns:1fr}
+header{padding:24px 18px 36px}
+}
+/* Instructional guide */
+#detailcontent{padding:26px}
+.guide-title{font-size:26px;margin:8px 0}
+.guide-label{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:#52708c}
+.guide-panel{padding:18px;border:1px solid #dce6ed;border-radius:12px;margin:14px 0;background:#fff}
+.guide-student{background:#edf5f9;border-left:4px solid #28739a}
+.guide-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.guide-grid>div{background:#f2f6f9;border-radius:10px;padding:14px}
+.guide-grid h4{margin:0 0 8px}
+.guide-panel p,.guide-panel li{line-height:1.6}
+.guide-panel ul{padding-left:22px}
+.guide-vocab{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.guide-term{padding:12px;border-radius:9px;background:#f6f8fa}
+.guide-term p{margin:5px 0}
+.guide-fold{border:1px solid #dce6ed;border-radius:11px;margin:10px 0;background:#fff}
+.guide-fold summary{padding:17px 18px;font-weight:750;cursor:pointer;list-style-position:inside}
+.guide-fold .fold-body{padding:0 18px 18px}
+.guide-activity{border-top:1px solid #e2e9ee;padding:14px 0}
+.guide-activity:first-child{border:0}
+.guide-action{width:auto;padding:8px 12px;font-size:13px}
+.guide-question{border-top:1px solid #e2e9ee;padding:13px 0}
+.guide-question:first-child{border:0}
+.guide-muted{color:#5c7084;font-size:14px}
+.guide-chip{display:inline-block;background:#e9f2f8;border-radius:15px;padding:3px 9px;font-size:12px;color:#245574;margin:4px 4px 4px 0}
+@media(max-width:750px){
+.guide-grid,.guide-vocab{grid-template-columns:1fr}
+#detailcontent{padding:17px}
+}
+</style>
+</head>
+<body>
+<header>
+<small>GEORGIA ELA · TEACHER RESOURCE</small>
+<h1>Standards made simple.</h1>
+<p>Find the official standard. See the specific expectations. Build an instructional unpacking.</p>
+</header>
+<main>
+<div class="toolbar">
+<input id="query" placeholder="Search skills, wording, or codes" aria-label="Search standards">
+<select id="grade" aria-label="Grade">
+<option value="">All high school grades</option>
+<option value="9">Grade 9</option>
+<option value="10">Grade 10</option>
+<option value="11">Grade 11</option>
+<option value="12">Grade 12</option>
+</select>
+<select id="domain" aria-label="Domain">
+<option value="">All domains</option>
+<option>Practices</option>
+<option>Language</option>
+<option>Texts</option>
+<option>Foundations</option>
+</select>
+<select id="type" aria-label="Record type">
+<option value="Standard">Standards</option>
+<option value="">All record types</option>
+<option value="Expectation">Expectations</option>
+<option value="Skill">Skills</option>
+<option value="Big Idea">Big ideas</option>
+<option value="Domain">Domains</option>
+</select>
+</div>
 <p id="status" class="info" role="status">Loading official Georgia ELA standards…</p>
-<section id="intro"><h2>Start with the standards</h2><div class="cards"><div class="card"><span class="tag">01</span><h3>Browse by grade</h3><p>Find the standards for grades 9, 10, 11, and 12 without searching a long PDF.</p><button onclick="document.getElementById('grade').focus()">Choose a grade</button></div><div class="card"><span class="tag">02</span><h3>Unpack a standard</h3><p>Open a standard to view its official wording and any related expectations. Instructional unpackings can be added separately.</p><button onclick="document.getElementById('query').focus()">Find a standard</button></div></div></section>
-<section><h2>Explore standards</h2><p id="count" class="info"></p><div id="results"></div><div class="actions"><button id="more" class="hidden">Show more results</button></div></section>
-<section id="detail" class="hidden"><h2>Standard details</h2><div id="detailcontent" class="card"></div></section>
-<footer>Source: Georgia Department of Education CASE export, downloaded by the project owner. Official text is reproduced from that export; instructional unpackings are a separate, independently developed resource. This site is not an official Georgia Department of Education website.</footer></main>
+<section id="intro">
+<h2>Start with the standards</h2>
+<div class="cards">
+<div class="card">
+<span class="tag">01</span>
+<h3>Browse by grade</h3>
+<p>Find the standards for grades 9, 10, 11, and 12 without searching a long PDF.</p>
+<button onclick="document.getElementById('grade').focus()">Choose a grade</button>
+</div>
+<div class="card">
+<span class="tag">02</span>
+<h3>Unpack a standard</h3>
+<p>Open a standard to view its official wording and any related expectations. Instructional unpackings can be added separately.</p>
+<button onclick="document.getElementById('query').focus()">Find a standard</button>
+</div>
+</div>
+</section>
+<section>
+<h2>Explore standards</h2>
+<p id="count" class="info"></p>
+<div id="results"></div>
+<div class="actions">
+<button id="more" class="hidden">Show more results</button>
+</div>
+</section>
+<section id="detail" class="hidden">
+<h2>Standard details</h2>
+<div id="detailcontent" class="card"></div>
+</section>
+<footer>Source: Georgia Department of Education CASE export, downloaded by the project owner. Official text is reproduced from that export; instructional unpackings are a separate, independently developed resource. This site is not an official Georgia Department of Education website.</footer>
+</main>
 <script>
-let standards=[],unpackings={};let limit=30;const $=id=>document.getElementById(id);const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const plain=s=>String(s||'').replace(/[*_`]/g,'');
-function parents(code){let parts=code.split('.'),a=[];while(parts.length>2){parts.pop();a.push(parts.join('.'))}return a}
-function render(){const q=$('query').value.trim().toLowerCase(),g=$('grade').value,d=$('domain').value,t=$('type').value;const found=standards.filter(x=>(!g||x.grade.includes(g))&&(!d||x.domain===d)&&(!t||x.type===t)&&(!q||[x.code,x.text,x.notes].join(' ').toLowerCase().includes(q)));$('count').textContent=`${found.length.toLocaleString()} matching records · ${standards.length.toLocaleString()} high-school framework records available`;let html=found.slice(0,limit).map(x=>`<article class="card item"><span class="tag">${esc(x.domain)}</span><span class="tag">${esc(x.type)}</span><span class="subtle">Grade ${esc(x.grade.join('–'))}</span><h3><span class="code">${esc(x.code)}</span></h3><p>${esc(plain(x.text))}</p><div class="actions"><button data-open="${esc(x.id)}">View details</button><a href="${esc(x.url)}" target="_blank" rel="noopener">Official source</a></div></article>`).join('');$('results').innerHTML=html||'<p>No matches. Try another keyword or filter.</p>';$('more').classList.toggle('hidden',found.length<=limit);$('more').textContent=`Show more (${Math.min(found.length-limit,30)} next)`;document.querySelectorAll('[data-open]').forEach(b=>b.addEventListener('click',()=>openItem(b.dataset.open)))}
-function openItem(id){const x=standards.find(v=>v.id===id);if(!x)return;const related=standards.filter(v=>v.code.startsWith(x.code+'.')&&v.grade.some(g=>x.grade.includes(g)));const unpack=unpackings[x.code];$('detailcontent').innerHTML=`<div class="code">${esc(x.code)}</div><p><span class="tag">${esc(x.type)}</span><span class="tag">${esc(x.domain)}</span></p><h3>Official wording</h3><p>${esc(plain(x.text))}</p><p><a href="${esc(x.url)}" target="_blank" rel="noopener">View Georgia source record</a></p><h3>Related expectations and skills (${related.length})</h3>${related.length?related.slice(0,100).map(v=>`<div class="details"><strong>${esc(v.code)}</strong> · ${esc(v.type)}<p>${esc(plain(v.text))}</p></div>`).join(''):'<p class="info">No nested expectations found for this record.</p>'}<h3>Instructional unpacking</h3>${unpack?`<div class="details"><strong>Know</strong><p>${esc(unpack.know||'')}</p><strong>Understand</strong><p>${esc(unpack.understand||'')}</p><strong>Do</strong><p>${esc(unpack.do||'')}</p><strong>Evidence of mastery</strong><p>${esc(unpack.evidence||'')}</p></div>`:'<p class="info">Not written yet. This section is reserved for teacher-developed guidance, not official state language.</p>'}`;$('detail').classList.remove('hidden');$('detail').scrollIntoView({behavior:'smooth',block:'start'})}
-async function load(){try{const r=await fetch('./standards.json');if(!r.ok)throw Error('standards.json returned HTTP '+r.status);const d=await r.json();standards=d.standards||[];if(!standards.length)throw Error('standards.json contains no records');$('status').textContent=`Official data loaded · ${standards.length.toLocaleString()} records · Source updated ${d.source?.lastChangeDateTime?.slice(0,10)||'date unavailable'}`;try{const u=await fetch('./unpackings.json');if(u.ok){let j=await u.json();const entries=j.unpackings||[];unpackings=Array.isArray(entries)?Object.fromEntries(entries.filter(x=>x.code).map(x=>[x.code,x])):entries}}catch(e){}render()}catch(e){$('status').textContent='Could not load the standards database: '+e.message+'. Confirm standards.json is in the same repository folder as index.html.';$('count').textContent=''}}
-['query','grade','domain','type'].forEach(id=>$(id).addEventListener('input',()=>{limit=30;render()}));$('more').onclick=()=>{limit+=30;render()};load();
-</script></body></html>
+let standards=[],unpackings={};
+let limit=30;
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const plain=s=>String(s||'').replace(/[*_`]/g,'');
+function parents(code){
+let parts=code.split('.'),a=[];
+while(parts.length>2){parts.pop();a.push(parts.join('.'))}
+return a
+}
+function render(){
+const q=$('query').value.trim().toLowerCase(),g=$('grade').value,d=$('domain').value,t=$('type').value;
+const found=standards.filter(x=>(!g||x.grade.includes(g))&&(!d||x.domain===d)&&(!t||x.type===t)&&(!q||[x.code,x.text,x.notes].join(' ').toLowerCase().includes(q)));
+$('count').textContent=`${found.length.toLocaleString()} matching records · ${standards.length.toLocaleString()} high-school framework records available`;
+let html=found.slice(0,limit).map(x=>`<article class="card item"><span class="tag">${esc(x.domain)}</span><span class="tag">${esc(x.type)}</span><span class="subtle">Grade ${esc(x.grade.join('–'))}</span><h3><span class="code">${esc(x.code)}</span></h3><p>${esc(plain(x.text))}</p><div class="actions"><button data-open="${esc(x.id)}">View details</button><a href="${esc(x.url)}" target="_blank" rel="noopener">Official source</a></div></article>`).join('');
+$('results').innerHTML=html||'<p>No matches. Try another keyword or filter.</p>';
+$('more').classList.toggle('hidden',found.length<=limit);
+$('more').textContent=`Show more (${Math.min(found.length-limit,30)} next)`;
+document.querySelectorAll('[data-open]').forEach(b=>b.addEventListener('click',()=>openItem(b.dataset.open)))
+}
+function asList(arr){
+return Array.isArray(arr)&&arr.length?`<ul>${arr.map(v=>`<li>${esc(v)}</li>`).join('')}</ul>`:'<p class="guide-muted">Not yet available.</p>'
+}
+function fold(title,body){
+return `<details class="guide-fold"><summary>${esc(title)}</summary><div class="fold-body">${body}</div></details>`
+}
+function guide(x,unpack,related){
+const specific=unpack&&unpack.skills&&unpack.skills[x.code];
+const g=specific||unpack;
+let h=`<div class="guide-label">${esc(x.grade.join('–'))} · ${esc(x.domain)} · ${esc(x.type)}</div><h2 class="guide-title">${esc(x.code)}${unpack&&unpack.code===x.code&&unpack.focus?' — '+esc(unpack.focus):''}</h2><div class="guide-panel"><div class="guide-label">Official Georgia wording</div><p>${esc(plain(x.text))}</p><a href="${esc(x.url)}" target="_blank" rel="noopener">View official source</a></div>`;
+if(!g){
+h+=`<div class="guide-panel"><strong>Instructional unpacking coming soon.</strong><p class="guide-muted">Official wording above is sourced from Georgia. No teacher-developed guide has been published for this record.</p></div>`;
+}
+else{
+h+=`<p class="guide-muted">Independent teacher-developed draft, not official Georgia guidance.${unpack.code!==x.code?' Guidance adapted from parent standard '+esc(unpack.code)+'.':''}</p>`;
+if(g.studentFriendly||unpack.studentFriendly)h+=`<div class="guide-panel guide-student"><div class="guide-label">In student-friendly language</div><p><strong>${esc(g.studentFriendly||unpack.studentFriendly)}</strong></p></div>`;
+h+=`<div class="guide-panel"><h3>Know · Understand · Do</h3><div class="guide-grid"><div><h4>Know</h4>${asList(g.know)}</div><div><h4>Understand</h4>${asList(g.understand)}</div><div><h4>Do</h4>${asList(g.do)}</div></div></div>`;
+const vocab=g.vocabulary||unpack.vocabulary||[];
+h+=`<div class="guide-panel"><h3>Academic vocabulary</h3>${vocab.length?`<div class="guide-vocab">${vocab.map(v=>`<div class="guide-term"><strong>${esc(v.term)}</strong><p>${esc(v.definition)}</p>${v.example?`<p class="guide-muted"><em>${esc(v.example)}</em></p>`:''}</div>`).join('')}</div>`:'<p class="guide-muted">Vocabulary entries in development.</p>'}</div>`;
+h+=fold('Learning targets',asList(g.targets));
+const texts=g.suggestedTexts||unpack.suggestedTexts||[];
+h+=fold('Suggested mentor texts',texts.length?texts.map(t=>`<div class="guide-activity"><strong>${esc(t.title)}</strong> · ${esc(t.author)}<p>${esc(t.purpose)}</p><p class="guide-muted">${esc(t.access||'Check local availability and permissions.')}</p></div>`).join(''):'<p>Suggested texts in development.</p>');
+const diff=g.differentiation||unpack.differentiation||[];
+h+=fold('Differentiated activities — remediation · on-level · enrichment',diff.length?diff.map((v,i)=>`<div class="guide-activity"><span class="guide-chip">${esc(v.level)}</span><span class="guide-chip">${esc(v.time)}</span><h4>${esc(v.title)}</h4><p>${esc(v.activity)}</p><p><strong>Scaffolds:</strong> ${esc(v.scaffolds)}</p><p><strong>Success check:</strong> ${esc(v.success)}</p><button class="guide-action" data-copy-activity="${i}">Copy activity</button></div>`).join(''):'<p>Activities in development.</p>');
+const questions=g.questions||unpack.questions||[];
+h+=fold('Assessment question bank',questions.length?questions.map(q=>`<div class="guide-question"><span class="guide-chip">${esc(q.type)}</span><p><strong>${esc(q.prompt)}</strong></p>${q.options?`<ol type="A">${q.options.map(o=>`<li>${esc(o)}</li>`).join('')}</ol>`:''}<details><summary>Show answer / scoring guidance</summary><p>${esc(q.answer||'')}</p>${q.rationale?`<p class="guide-muted">${esc(q.rationale)}</p>`:''}</details></div>`).join(''):'<p>Questions in development.</p>');
+h+=fold('Evidence of mastery',asList(g.evidence));
+h+=fold('Instructional approaches and watch-fors',`<h4>Instructional approaches</h4>${asList(g.instruction)}<h4>Watch for</h4>${asList(g.watchFor)}`);
+if(unpack.skills&&x.code===unpack.code)h+=fold('Skill-specific teaching guidance',Object.entries(unpack.skills).map(([code,sk])=>`<div class="guide-activity"><h4>${esc(code)} — ${esc(sk.focus||'')}</h4><strong>Know</strong>${asList(sk.know)}<strong>Understand</strong>${asList(sk.understand)}<strong>Do</strong>${asList(sk.do)}</div>`).join(''));
+}
+h+=fold(`Related expectations and skills (${related.length})`,related.length?related.slice(0,100).map(v=>`<div class="guide-activity"><strong>${esc(v.code)}</strong> · ${esc(v.type)}<p>${esc(plain(v.text))}</p></div>`).join(''):'<p>No nested records found.</p>');
+return h;
+}
+function openItem(id){
+const x=standards.find(v=>v.id===id);
+if(!x)return;
+const related=standards.filter(v=>v.code.startsWith(x.code+'.')&&v.grade.some(g=>x.grade.includes(g)));
+const parent=parents(x.code).map(c=>unpackings[c]).find(Boolean);
+const unpack=unpackings[x.code]||parent;
+$('detailcontent').innerHTML=guide(x,unpack,related);
+$('detail').classList.remove('hidden');
+$('detail').scrollIntoView({behavior:'smooth',block:'start'});
+const g=(unpack?.skills&&unpack.skills[x.code])||unpack;
+const acts=g?.differentiation||unpack?.differentiation||[];
+document.querySelectorAll('[data-copy-activity]').forEach(btn=>btn.addEventListener('click',async()=>{
+const a=acts[Number(btn.dataset.copyActivity)];
+if(!a)return;
+const copy=`${a.level}: ${a.title}\nTime: ${a.time}\nActivity: ${a.activity}\nScaffolds: ${a.scaffolds}\nSuccess check: ${a.success}`;
+try{await navigator.clipboard.writeText(copy);btn.textContent='Copied!'}
+catch(e){btn.textContent='Clipboard unavailable';}
+setTimeout(()=>{btn.textContent='Copy activity'},2000)
+}))
+}
+async function load(){
+try{
+const r=await fetch('./standards.json');
+if(!r.ok)throw Error('standards.json returned HTTP '+r.status);
+const d=await r.json();
+standards=d.standards||[];
+if(!standards.length)throw Error('standards.json contains no records');
+$('status').textContent=`Official data loaded · ${standards.length.toLocaleString()} records · Source updated ${d.source?.lastChangeDateTime?.slice(0,10)||'date unavailable'}`;
+try{
+const u=await fetch('./unpackings.json');
+if(u.ok){
+let j=await u.json();
+const entries=j.unpackings||[];
+unpackings=Array.isArray(entries)?Object.fromEntries(entries.filter(x=>x.code).map(x=>[x.code,x])):entries
+}
+}catch(e){}
+render()
+}catch(e){
+$('status').textContent='Could not load the standards database: '+e.message+'. Confirm standards.json is in the same repository folder as index.html.';
+$('count').textContent=''
+}
+}
+['query','grade','domain','type'].forEach(id=>$(id).addEventListener('input',()=>{
+limit=30;
+render()
+}));
+$('more').onclick=()=>{limit+=30;render()};
+load();
+</script>
+</body>
+</html>
