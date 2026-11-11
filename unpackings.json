@@ -1,312 +1,126 @@
-
-{
-  "about": "Independent instructional interpretations; not official Georgia Department of Education unpacking documents. Draft for educator review.",
-  "unpackings": [
-    {
-      "code": "9.L.GC.1",
-      "status": "draft — teacher-developed, not Georgia DOE guidance",
-      "focus": "Grammar, Usage, & Mechanics",
-      "know": [
-        "How grammatical structures, usage choices, and mechanics contribute to clear, purposeful communication.",
-        "How to consult conventions and style guidance when analyzing or composing texts.",
-        "The six specific grade-nine skills identified in the CASE export."
-      ],
-      "understand": [
-        "Conventions are tools for conveying meaning, shaping emphasis, and helping readers follow an argument.",
-        "Effective writers make deliberate choices and revise conventions in context, rather than relying only on isolated drills."
-      ],
-      "do": [
-        "Analyze how language conventions function in authentic texts.",
-        "Apply grade-level conventions in original writing and revision.",
-        "Explain or justify a convention choice using context or an appropriate style guide."
-      ],
-      "targets": [
-        "I can identify and explain the effect of grammatical and mechanical choices in a text.",
-        "I can revise my writing to communicate meaning accurately and effectively.",
-        "I can use an appropriate reference when a convention is uncertain."
-      ],
-      "instruction": [
-        "Begin with a brief mentor-text study, then model a revision and provide guided practice in students’ own drafts.",
-        "Use a focused editing conference or revision checklist tied to one of the six nested skills.",
-        "Teach and assess skills within meaningful reading and writing rather than only through decontextualized worksheets."
-      ],
-      "evidence": [
-        "A before-and-after revision of an authentic paragraph, annotated to explain conventions used.",
-        "A brief transfer task requiring students to apply the same conventions in new writing."
-      ],
-      "watchFor": [
-        "Correct answers on isolated exercises without transfer into authentic writing."
-      ],
-      "skills": {
-        "9.L.GC.1.54": {
-          "focus": "Integrating textual evidence accurately",
-          "know": [
-            "The conventions for integrating quotations, including capitalization, quotation marks, commas, end punctuation, and parenthetical citations.",
-            "The difference between a quotation introduced by a signal phrase and one integrated into the syntax of a sentence."
-          ],
-          "understand": [
-            "Accurate punctuation and citation help readers distinguish a writer’s ideas from a source’s language."
-          ],
-          "do": [
-            "Integrate short quotations into original analytical sentences.",
-            "Apply quotation punctuation and parenthetical citations consistently in an assigned citation style."
-          ],
-          "targets": [
-            "I can introduce and punctuate quoted evidence correctly.",
-            "I can include a parenthetical citation that matches the required style."
-          ],
-          "instruction": [
-            "Compare a dropped quotation with a smoothly integrated quotation and discuss the effect on clarity.",
-            "Revise an analytical paragraph containing deliberately inconsistent quotations and citations."
-          ],
-          "evidence": [
-            "An analytical paragraph with correctly integrated and cited textual evidence."
-          ],
-          "watchFor": [
-            "A quotation dropped into a paragraph without syntactic integration or explanation."
-          ]
-        },
-        "9.L.GC.1.57": {
-          "focus": "Verbals and verbal phrases",
-          "know": [
-            "Participles, gerunds, and infinitives are verb forms that function differently within sentences.",
-            "A verbal phrase includes the verbal and its modifiers or complements."
-          ],
-          "understand": [
-            "A verb form’s grammatical function depends on how it operates in a sentence, not only on its appearance."
-          ],
-          "do": [
-            "Identify participial, gerund, and infinitive phrases in authentic prose.",
-            "Compose and revise sentences using verbal phrases for precision and variety."
-          ],
-          "targets": [
-            "I can distinguish participles, gerunds, and infinitives by function.",
-            "I can revise sentences using verbal phrases without creating dangling modifiers."
-          ],
-          "instruction": [
-            "Sort examples from a shared reading by grammatical function, then justify each classification.",
-            "Combine short sentences using verbal phrases and compare clarity."
-          ],
-          "evidence": [
-            "Annotated examples plus a short original paragraph using varied verbal phrases accurately."
-          ],
-          "watchFor": [
-            "Treating every -ing form as a gerund; dangling participial phrases."
-          ]
-        },
-        "9.L.GC.1.58": {
-          "focus": "Verb tense, aspect, and mood",
-          "know": [
-            "Tense locates an action in time; aspect indicates how an action unfolds or relates to time.",
-            "Verb mood communicates stance, such as fact, command, possibility, or a hypothetical condition."
-          ],
-          "understand": [
-            "Verb forms convey time relationships and a speaker’s attitude, and changes can alter meaning."
-          ],
-          "do": [
-            "Analyze how tense, aspect, and mood affect meaning in a passage.",
-            "Revise sentences to communicate intended time relationships and mood."
-          ],
-          "targets": [
-            "I can explain how a verb form shapes meaning.",
-            "I can select verb forms that express the intended mood and time relationship."
-          ],
-          "instruction": [
-            "Compare sentence pairs that change one verb form; explain the shift in meaning.",
-            "Edit a narrative or argument for purposeful and consistent verb choices."
-          ],
-          "evidence": [
-            "A short revision with annotations explaining selected verb forms."
-          ],
-          "watchFor": [
-            "Assuming tense, aspect, and mood are interchangeable terms."
-          ]
-        },
-        "9.L.GC.1.59": {
-          "focus": "Colons introducing quotations",
-          "know": [
-            "A colon may introduce a quotation after an independent clause when the relationship is appropriate.",
-            "A colon is not interchangeable with a comma after every signal phrase."
-          ],
-          "understand": [
-            "Punctuation signals the grammatical and rhetorical relationship between an introduction and a quotation."
-          ],
-          "do": [
-            "Determine when a colon appropriately introduces quoted material.",
-            "Revise quotation introductions using a colon or other punctuation as warranted."
-          ],
-          "targets": [
-            "I can use a colon appropriately before a quotation.",
-            "I can explain why a colon fits a particular sentence."
-          ],
-          "instruction": [
-            "Compare introductions using a colon, comma, and no punctuation; identify the grammatical differences."
-          ],
-          "evidence": [
-            "Corrected sentences and a paragraph with purposeful quotation introductions."
-          ],
-          "watchFor": [
-            "Placing a colon immediately after an incomplete introductory clause."
-          ]
-        },
-        "9.L.GC.1.60": {
-          "focus": "Using dashes appropriately",
-          "know": [
-            "An em dash can mark a break, interruption, or emphatic insertion.",
-            "Dashes, hyphens, commas, and parentheses have different functions."
-          ],
-          "understand": [
-            "Punctuation choices affect pacing, emphasis, and reader interpretation."
-          ],
-          "do": [
-            "Analyze the rhetorical effect of dashes in published writing.",
-            "Use dashes selectively and correctly in revision."
-          ],
-          "targets": [
-            "I can distinguish a dash from a hyphen.",
-            "I can use dashes to create a purposeful effect without overusing them."
-          ],
-          "instruction": [
-            "Study a short mentor passage and rewrite one sentence using commas, parentheses, and dashes; compare effects."
-          ],
-          "evidence": [
-            "A revised paragraph with a brief explanation of punctuation choices."
-          ],
-          "watchFor": [
-            "Using dashes as a substitute for all other punctuation."
-          ]
-        },
-        "9.L.GC.1.61": {
-          "focus": "Consulting an appropriate style guide",
-          "know": [
-            "Style guides offer conventions for citation, formatting, usage, and editorial decisions.",
-            "Different disciplines or publications may require different style guides."
-          ],
-          "understand": [
-            "Writers resolve complex editorial questions by consulting an appropriate authority and applying it consistently."
-          ],
-          "do": [
-            "Locate relevant guidance in a designated style guide.",
-            "Apply and document a decision about a complex grammar, usage, or mechanics question."
-          ],
-          "targets": [
-            "I can locate an answer to a usage or citation question in an appropriate style guide.",
-            "I can apply the chosen convention consistently."
-          ],
-          "instruction": [
-            "Give pairs a realistic editing question and ask them to find and explain the relevant style-guide rule."
-          ],
-          "evidence": [
-            "An edited excerpt with a short citation or explanation of the consulted rule."
-          ],
-          "watchFor": [
-            "Treating personal preference as a substitute for an assigned style convention."
-          ]
-        }
-      },
-      "studentFriendly": "I can use grammar, punctuation, and sentence structure to communicate clearly, analyze how writers make language choices, and explain my own choices.",
-      "vocabulary": [
-        {
-          "term": "Gerund",
-          "definition": "A verb form ending in -ing that functions as a noun.",
-          "example": "Reading builds empathy."
+          "genre": "Historical journalism",
+          "context": "19th century · United States",
+          "purpose": "Distinguish documented evidence, eyewitness claims, and editorial argument; contextualize the sources.",
+          "access": "Public-domain historical sources; preview graphic content.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "Primary-source investigation; sensitive historical violence"
         },
         {
-          "term": "Participle",
-          "definition": "A verb form that functions as an adjective.",
-          "example": "Tired from practice, Maya rested."
+          "title": "The Fourth State of Matter",
+          "author": "Jo Ann Beard",
+          "genre": "Literary nonfiction essay",
+          "context": "Contemporary · United States",
+          "purpose": "Contrast literary narrative with journalistic sourcing; discuss which claims require independent corroboration.",
+          "access": "Licensed publication; preview traumatic content.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Extended Read",
+          "interestHook": "Literary craft and emotionally intense events"
         },
         {
-          "term": "Infinitive",
-          "definition": "The base form of a verb, often introduced by to.",
-          "example": "To revise takes patience."
-        },
-        {
-          "term": "Verb mood",
-          "definition": "A verb form expressing a statement, command, possibility, or hypothetical condition.",
-          "example": "If I were ready, I would begin."
-        },
-        {
-          "term": "Modifier",
-          "definition": "A word or phrase that describes or limits another element.",
-          "example": "The carefully revised essay was clearer."
-        },
-        {
-          "term": "Citation",
-          "definition": "A reference that identifies the source of borrowed material.",
-          "example": "Use the citation style assigned for the task."
-        }
-      ],
-      "suggestedTexts": [
-        {
-          "title": "The House on Mango Street",
-          "author": "Sandra Cisneros",
-          "purpose": "Study sentence variation and the effect of syntactic choices on voice.",
-          "access": "Use a licensed classroom copy."
+          "title": "The Danger of a Single Story",
+          "author": "Chimamanda Ngozi Adichie",
+          "genre": "Talk / nonfiction",
+          "context": "Contemporary · Nigeria",
+          "purpose": "Investigate how selecting a narrow source base changes conclusions; assemble multiple perspectives.",
+          "access": "Official talk/transcript where available.",
+          "highInterest": true,
+          "accessibility": "Accessible",
+          "readingLength": "Short Read",
+          "interestHook": "Personal anecdotes and surprising reversals"
         },
         {
           "title": "Narrative of the Life of Frederick Douglass",
           "author": "Frederick Douglass",
-          "purpose": "Analyze sentence construction and rhetorical emphasis in selected passages.",
-          "access": "Public domain."
+          "genre": "Primary-source autobiography",
+          "context": "19th century · United States",
+          "purpose": "Corroborate a passage with other primary and secondary sources; document provenance and limitations.",
+          "access": "Public domain in the United States.",
+          "highInterest": false,
+          "accessibility": "Challenging",
+          "readingLength": "Short Read",
+          "interestHook": "First-person testimony and moral urgency"
         },
         {
-          "title": "The Giver",
-          "author": "Lois Lowry",
-          "purpose": "Analyze verb choices and sentence structures, then revise original prose.",
-          "access": "Use a licensed classroom copy."
+          "title": "A contemporary news investigation and its source documents",
+          "author": "Teacher-selected reputable newsroom",
+          "genre": "Journalism / primary sources",
+          "context": "Contemporary · Global",
+          "purpose": "Compare reporting to linked public records or datasets; annotate credibility, relevance, and citation.",
+          "access": "Select an accessible current article and verify linked primary evidence.",
+          "highInterest": true,
+          "accessibility": "Moderate",
+          "readingLength": "Short Read",
+          "interestHook": "Real-world issue chosen for local student relevance"
         }
       ],
       "differentiation": [
         {
           "level": "Remediation",
-          "time": "10–15 min",
-          "title": "Identify, connect, revise",
-          "activity": "Model how participial phrases modify nouns. Students highlight the phrase and the noun it describes in five teacher-created sentences, then repair two misplaced modifiers.",
-          "scaffolds": "Color coding, think-aloud, sentence frames.",
-          "success": "Correctly identify four of five relationships and explain one revision."
+          "time": "20 min",
+          "title": "Source check in pairs",
+          "activity": "Provide three short source records about a school-related research question. Students use a checklist to select the most relevant credible source, highlight one useful detail, and build a citation from supplied metadata.",
+          "scaffolds": "Labeled author/date/publisher fields, citation template, worked example.",
+          "success": "Identify two credibility indicators and produce a traceable citation with key elements."
         },
         {
           "level": "On level",
-          "time": "15–20 min",
-          "title": "Writer’s workshop",
-          "activity": "Revise an original paragraph by adding two purposeful verbal phrases. Annotate how the changes improve clarity or emphasis.",
-          "scaffolds": "Mentor sentence and partner feedback.",
-          "success": "Two grammatically sound revisions with clear explanations."
+          "time": "35 min",
+          "title": "Database-to-evidence trail",
+          "activity": "Use a library database or vetted digital collection to find two sources answering one focused question. Record metadata, summarize one point from each, verify a shared claim, and create MLA entries.",
+          "scaffolds": "Source evaluation matrix and MLA reference sheet.",
+          "success": "Provide two relevant sources, a supported comparison, and usable citations."
         },
         {
           "level": "Enrichment",
-          "time": "20–30 min",
-          "title": "The editor’s challenge",
-          "activity": "Compare syntax in two contrasting prose passages. Rewrite a paragraph for a different audience and justify three grammatical or stylistic choices.",
-          "scaffolds": "Optional style-guide reference.",
-          "success": "Defend three effective choices using accurate terminology and textual evidence."
+          "time": "45 min",
+          "title": "Resolve a source conflict",
+          "activity": "Investigate two credible sources that disagree on an issue. Trace each claim to its evidence, identify scope or methodological differences, and write a qualified synthesis with MLA documentation.",
+          "scaffolds": "Optional research log and methodological questions.",
+          "success": "Explain a substantive discrepancy, justify a balanced conclusion, and cite all evidence accurately."
         }
       ],
       "questions": [
         {
           "type": "Multiple choice",
-          "prompt": "Which sentence begins with a participial phrase modifying its subject?",
+          "prompt": "Which action best verifies a surprising statistic in an article?",
+          "answer": "Locate the original report and compare its definition, date, and data.",
+          "rationale": "Verification requires checking the underlying evidence and context.",
           "options": [
-            "She enjoys reading historical fiction.",
-            "Exhausted from the journey, Maria sat down.",
-            "To understand the problem requires patience.",
-            "The students were studying quietly."
-          ],
-          "answer": "Exhausted from the journey, Maria sat down.",
-          "rationale": "Exhausted from the journey modifies Maria."
+            "Repeat the statistic because it appears in print.",
+            "Locate the original report and compare its definition, date, and data.",
+            "Choose whichever website ranks first.",
+            "Use only sources that agree with the article."
+          ]
         },
         {
           "type": "Short response",
-          "prompt": "Explain how the opening phrase in “Exhausted from the journey, Maria sat down” changes the sentence’s emphasis.",
-          "answer": "It foregrounds Maria’s condition before the main action."
+          "prompt": "A source is credible but does not address your research question. Explain whether to use it.",
+          "answer": "A strong response distinguishes general credibility from relevance to the specific inquiry.",
+          "rationale": "A credible source is not automatically useful."
         },
         {
           "type": "Performance task",
-          "prompt": "Revise a paragraph of your own writing using two purposeful verbal phrases. Annotate each change and its effect.",
-          "answer": "Evaluate grammatical accuracy, clarity, and explanation of effect."
+          "prompt": "Create a two-source annotated evidence log with MLA works-cited entries and a paragraph synthesizing the findings.",
+          "answer": "Score relevance, credibility reasoning, accurate synthesis, traceability, and MLA elements.",
+          "rationale": "Citation punctuation may need checking against the assigned MLA edition."
         }
-      ]
+      ],
+      "evidence": [
+        "Source evaluation log, synthesis paragraph, and works-cited entries."
+      ],
+      "instruction": [
+        "Demonstrate a real search in an academic database, including metadata capture.",
+        "Model checking a claim against the original source rather than a summary."
+      ],
+      "watchFor": [
+        "Assuming a database source is automatically relevant.",
+        "Copying quotations without context or citation."
+      ],
+      "readingSelectionNote": "Teacher-curated instructional options, not an official or universal school reading list. Choose passages according to skill, grade appropriateness, local policy, and text permissions."
     }
-  ]
+  ],
+  "readingMetadataNote": "High Interest is a subjective teacher-curated engagement flag, not a reading-level measure. Accessibility is an editorial estimate, not a Lexile score. Reading length is an estimated assigned selection, not necessarily the complete work: Quick Read under 15 minutes; Short Read 15–30 minutes; Extended Read over 30 minutes. Verify excerpt length, appropriateness, and access before teaching."
 }
