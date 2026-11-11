@@ -175,7 +175,19 @@ h+=`<div class="guide-panel"><strong>Instructional unpacking coming soon.</stron
 }
 else{
 h+=`<p class="guide-muted">Independent teacher-developed draft, not official Georgia guidance.${unpack.code!==x.code?' Guidance adapted from parent standard '+esc(unpack.code)+'.':''}</p>`;
-if(g.studentFriendly||unpack.studentFriendly)h+=`<div class="guide-panel guide-student"><div class="guide-label">In student-friendly language</div><p><strong>${esc(g.studentFriendly||unpack.studentFriendly)}</strong></p></div>`;
+if(g.studentFriendly||unpack.studentFriendly){
+  h+=`
+    <div class="guide-panel guide-student">
+      <div class="guide-label">In student-friendly language</div>
+      <p><strong>${esc(g.studentFriendly||unpack.studentFriendly)}</strong></p>
+      <button
+        class="guide-action"
+        id="print-student-standard"
+        type="button">
+        Print for Classroom Display
+      </button>
+    </div>`;
+}
 h+=`<div class="guide-panel"><h3>Know · Understand · Do</h3><div class="guide-grid"><div><h4>Know</h4>${asList(g.know)}</div><div><h4>Understand</h4>${asList(g.understand)}</div><div><h4>Do</h4>${asList(g.do)}</div></div></div>`;
 const vocab=g.vocabulary||unpack.vocabulary||[];
 h+=`<div class="guide-panel"><h3>Academic vocabulary</h3>${vocab.length?`<div class="guide-vocab">${vocab.map(v=>`<div class="guide-term"><strong>${esc(v.term)}</strong><p>${esc(v.definition)}</p>${v.example?`<p class="guide-muted"><em>${esc(v.example)}</em></p>`:''}</div>`).join('')}</div>`:'<p class="guide-muted">Vocabulary entries in development.</p>'}</div>`;
