@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -192,8 +191,49 @@ h+=`<div class="guide-panel"><h3>Know · Understand · Do</h3><div class="guide-
 const vocab=g.vocabulary||unpack.vocabulary||[];
 h+=`<div class="guide-panel"><h3>Academic vocabulary</h3>${vocab.length?`<div class="guide-vocab">${vocab.map(v=>`<div class="guide-term"><strong>${esc(v.term)}</strong><p>${esc(v.definition)}</p>${v.example?`<p class="guide-muted"><em>${esc(v.example)}</em></p>`:''}</div>`).join('')}</div>`:'<p class="guide-muted">Vocabulary entries in development.</p>'}</div>`;
 h+=fold('Learning targets',asList(g.targets));
-const texts=g.suggestedTexts||unpack.suggestedTexts||[];
-h+=fold('Suggested mentor texts',texts.length?texts.map(t=>`<div class="guide-activity"><strong>${esc(t.title)}</strong> · ${esc(t.author)}<p>${esc(t.purpose)}</p><p class="guide-muted">${esc(t.access||'Check local availability and permissions.')}</p></div>`).join(''):'<p>Suggested texts in development.</p>');
+
+const texts = g.suggestedTexts || unpack.suggestedTexts || [];
+
+h += fold(
+  'Suggested mentor texts',
+  texts.length
+    ? texts.map(t => `
+      <div class="guide-activity">
+        <strong>${esc(t.title)}</strong>
+        · ${esc(t.author)}
+
+        <div style="margin:8px 0">
+          ${t.genre
+            ? `<span class="guide-chip">${esc(t.genre)}</span>`
+            : ''}
+
+          ${t.highInterest
+            ? '<span class="guide-chip">High Interest</span>'
+            : ''}
+
+          ${t.accessibility
+            ? `<span class="guide-chip">${esc(t.accessibility)}</span>`
+            : ''}
+
+          ${t.readingLength
+            ? `<span class="guide-chip">${esc(t.readingLength)}</span>`
+            : ''}
+        </div>
+
+        ${t.interestHook
+          ? `<p><em>${esc(t.interestHook)}</em></p>`
+          : ''}
+
+        <p>${esc(t.purpose)}</p>
+
+        <p class="guide-muted">
+          ${esc(t.access || 'Check local availability and permissions.')}
+        </p>
+      </div>
+    `).join('')
+    : '<p>Suggested texts in development.</p>'
+);
+
 const diff=g.differentiation||unpack.differentiation||[];
 h+=fold('Differentiated activities — remediation · on-level · enrichment',diff.length?diff.map((v,i)=>`<div class="guide-activity"><span class="guide-chip">${esc(v.level)}</span><span class="guide-chip">${esc(v.time)}</span><h4>${esc(v.title)}</h4><p>${esc(v.activity)}</p><p><strong>Scaffolds:</strong> ${esc(v.scaffolds)}</p><p><strong>Success check:</strong> ${esc(v.success)}</p><button class="guide-action" data-copy-activity="${i}">Copy activity</button></div>`).join(''):'<p>Activities in development.</p>');
 const questions=g.questions||unpack.questions||[];
