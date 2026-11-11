@@ -278,6 +278,24 @@ const related=standards.filter(v=>v.code.startsWith(x.code+'.')&&v.grade.some(g=
 const parent=parents(x.code).map(c=>unpackings[c]).find(Boolean);
 const unpack=unpackings[x.code]||parent;
 $('detailcontent').innerHTML=guide(x,unpack,related);
+  const printButton = document.getElementById(
+  'print-student-standard'
+);
+
+if (printButton) {
+  printButton.addEventListener('click', () => {
+    const skillGuide =
+      (unpack?.skills && unpack.skills[x.code]) || unpack;
+
+    const wording =
+      skillGuide?.studentFriendly ||
+      unpack?.studentFriendly;
+
+    if (wording) {
+      printStudentStandard(x.code, wording);
+    }
+  });
+}
 $('detail').classList.remove('hidden');
 $('detail').scrollIntoView({behavior:'smooth',block:'start'});
 const g=(unpack?.skills&&unpack.skills[x.code])||unpack;
