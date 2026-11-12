@@ -2180,12 +2180,7 @@
         "Using every strategy mechanically instead of selecting a useful one."
       ],
       "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Reading length refers to an assigned excerpt; confirm editions, rights, and age suitability. High Interest and accessibility are editorial judgments, not validated reading-level scores."
-    }
-  ],
-  "readingMetadataNote": "High Interest, accessibility, and reading time are editorial guidance rather than measured or verified ratings. The teachingPrompt, materials, and alignment fields are optional enhancements that older index.html versions may not display."
-},
-
-    {
+     },
       "code": "9.T.SS.1",
       "status": "draft — independently developed instructional guidance; educator review recommended",
       "focus": "Organization",
