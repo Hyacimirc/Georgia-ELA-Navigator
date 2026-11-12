@@ -8555,3 +8555,1215 @@
   },
   "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, permissions, age suitability, and applicable style-guide requirements."
 }
+
+{
+  "code": "10.T.C.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Authors & Speakers",
+  "studentFriendly": "I can compare how different authors and speakers present the same topic, explain how their experiences and circumstances influence their perspectives, recognize commercial influences in digital media, and combine information from credible sources to develop my own understanding of a question.",
+  "know": [
+    "Perspective is the position or lens through which an author or speaker understands and presents a subject.",
+    "An author's perspective may be influenced by personal experiences, cultural background, historical circumstances, disciplinary knowledge, values, and intended audience.",
+    "Perspective is communicated through selection of details, diction, tone, organization, examples, evidence, imagery, and rhetorical choices.",
+    "Authors and speakers may present the same topic differently because they have different experiences, purposes, audiences, or assumptions.",
+    "Perspective, point of view, bias, purpose, and tone are related but distinct concepts.",
+    "A perspective may be explicitly stated or implicitly developed through patterns of language and evidence.",
+    "Authors can shape readers' perceptions by emphasizing particular information, omitting other information, or framing events in specific ways.",
+    "Framing involves presenting information through a particular interpretive lens.",
+    "Commercial influences include advertisements, sponsorships, affiliate marketing, product placement, paid endorsements, branded content, and other financial relationships.",
+    "Digital and audiovisual texts may combine informational, entertainment, persuasive, and commercial purposes.",
+    "Commercial influence does not automatically make information false, but it creates a reason to examine the text's purpose, evidence, and credibility.",
+    "Historical context includes the events, conditions, beliefs, institutions, and social structures surrounding the creation of a text.",
+    "Disciplinary context includes the methods, assumptions, vocabulary, evidence standards, and questions associated with a field of study.",
+    "Perspectives can change across time as societies, knowledge, technologies, institutions, and cultural expectations change.",
+    "Texts about the same subject may reflect different disciplinary perspectives, such as historical, scientific, economic, ethical, or literary perspectives.",
+    "Credible sources demonstrate relevant expertise, transparent evidence, appropriate methods, accuracy, and accountability.",
+    "Source credibility must be evaluated in relation to the particular research question and claim.",
+    "Synthesis combines information and perspectives from multiple sources to develop a coherent understanding, explanation, or argument.",
+    "Synthesis differs from summarizing sources individually because it identifies relationships among ideas.",
+    "Effective synthesis may identify agreement, disagreement, qualification, causation, gaps, and patterns across sources.",
+    "Responsible research distinguishes between source information, interpretation, and the researcher's own conclusions.",
+    "Attribution allows readers to identify the origins of information and evaluate how sources contribute to a text."
+  ],
+  "understand": [
+    "Texts are created by people working within particular circumstances rather than emerging independently of historical, cultural, disciplinary, or personal contexts.",
+    "An author's perspective shapes both what a text communicates and how that information is presented.",
+    "Different perspectives on a shared topic can reveal assumptions, priorities, experiences, and interpretations that might otherwise remain invisible.",
+    "Analyzing perspective requires evidence from the text rather than speculation about an author's personal beliefs or identity.",
+    "Readers should distinguish between an author's demonstrated perspective and assumptions they make about the author.",
+    "The same evidence can be interpreted differently when authors approach a subject through different disciplinary frameworks or purposes.",
+    "A text's framing can influence what readers consider important, credible, normal, problematic, or desirable.",
+    "Commercial relationships can influence the selection, presentation, emphasis, and distribution of information.",
+    "Recognizing commercial influence helps readers make informed judgments without automatically dismissing sponsored or advertising-supported content.",
+    "Historical understanding can clarify why a perspective was developed and how its meaning or reception changes over time.",
+    "Comparing texts across historical periods can reveal continuity, change, disagreement, and evolving social assumptions.",
+    "Disciplinary perspectives contribute different kinds of evidence and explanations to complex questions.",
+    "Credibility is not identical to agreement with a reader's existing beliefs.",
+    "Effective research requires examining multiple credible sources rather than selecting only sources that confirm an initial opinion.",
+    "Synthesis creates new understanding by connecting ideas across sources while accurately representing their differences.",
+    "A well-supported conclusion may acknowledge uncertainty, limitations, and unresolved disagreements."
+  ],
+  "do": [
+    "Identify the central perspective communicated by an author or speaker.",
+    "Support an interpretation of perspective with specific evidence from language, structure, examples, and selected details.",
+    "Compare how multiple texts establish and develop different perspectives on a shared topic.",
+    "Analyze how authors use diction, tone, framing, organization, and evidence to shape audience perceptions or beliefs.",
+    "Distinguish perspective from purpose, tone, narrative point of view, and unsupported assumptions about an author.",
+    "Identify information emphasized, minimized, omitted, or framed differently across texts.",
+    "Explain how an author's rhetorical choices influence the reader's interpretation of a topic.",
+    "Identify overt commercial influences in digital and audiovisual texts, including sponsorships, advertisements, affiliate links, and product placement.",
+    "Explain how commercial relationships may influence the construction or presentation of a text.",
+    "Distinguish sponsored content from independent reporting, personal opinion, and entertainment when sufficient evidence is available.",
+    "Investigate relevant historical circumstances surrounding a text's creation.",
+    "Explain how historical conditions influence the perspectives communicated in texts from different periods.",
+    "Compare disciplinary approaches to a shared topic and explain how disciplinary methods influence the resulting texts.",
+    "Analyze how a text's meaning or reception may change across historical contexts.",
+    "Develop focused research questions about academic and personal topics of interest.",
+    "Locate a variety of credible sources that contribute relevant information or perspectives.",
+    "Evaluate sources for expertise, evidence, relevance, transparency, and potential limitations.",
+    "Organize research notes according to ideas, themes, questions, or relationships rather than only by individual source.",
+    "Synthesize information from multiple sources into coherent explanations, interpretations, or arguments.",
+    "Accurately represent agreement, disagreement, qualification, and uncertainty across sources.",
+    "Integrate evidence through quotation, paraphrase, summary, and appropriate attribution.",
+    "Develop conclusions that reflect the available evidence and acknowledge meaningful limitations.",
+    "Apply knowledge of perspective and context when creating original texts for particular audiences and purposes."
+  ],
+  "vocabulary": [
+    {
+      "term": "Perspective",
+      "definition": "The position, experience, or interpretive lens through which a person understands and presents a subject.",
+      "example": "A physician and a patient may present different perspectives on the same healthcare policy."
+    },
+    {
+      "term": "Point of view",
+      "definition": "The position from which a narrative is told or a subject is presented.",
+      "example": "A first-person narrator presents events through personal observations and experiences."
+    },
+    {
+      "term": "Authorial stance",
+      "definition": "The position or attitude an author communicates toward a subject through explicit statements and rhetorical choices.",
+      "example": "An essayist communicates skepticism toward a proposed policy through carefully selected evidence and qualifying language."
+    },
+    {
+      "term": "Framing",
+      "definition": "The presentation of information through a particular interpretive lens that emphasizes certain aspects of a subject.",
+      "example": "One article frames artificial intelligence as an economic opportunity, while another frames it as a labor concern."
+    },
+    {
+      "term": "Bias",
+      "definition": "A tendency or inclination that can influence the selection, interpretation, or presentation of information.",
+      "example": "A report may demonstrate selection bias if it relies only on evidence supporting its preferred conclusion."
+    },
+    {
+      "term": "Assumption",
+      "definition": "An idea accepted as true without being explicitly established within a particular text.",
+      "example": "An argument about transportation may assume that every household has access to a car."
+    },
+    {
+      "term": "Tone",
+      "definition": "The attitude communicated toward a subject or audience through language and rhetorical choices.",
+      "example": "An editorial may communicate an urgent, skeptical, or optimistic tone."
+    },
+    {
+      "term": "Rhetorical choice",
+      "definition": "A deliberate decision about language, structure, evidence, or presentation intended to influence communication.",
+      "example": "An author begins an argument with a personal story to make an abstract issue more immediate."
+    },
+    {
+      "term": "Selective emphasis",
+      "definition": "The decision to give particular information greater attention or importance than other information.",
+      "example": "Two reports about a new development may emphasize either job creation or environmental effects."
+    },
+    {
+      "term": "Historical context",
+      "definition": "The historical circumstances, events, institutions, beliefs, and social conditions surrounding a text's creation.",
+      "example": "Understanding segregation helps readers interpret the arguments in Letter from Birmingham Jail."
+    },
+    {
+      "term": "Disciplinary context",
+      "definition": "The methods, assumptions, vocabulary, evidence standards, and purposes associated with a field of study.",
+      "example": "A historian and a climate scientist may investigate the same environmental event using different methods and evidence."
+    },
+    {
+      "term": "Commercial influence",
+      "definition": "The influence of financial relationships or business interests on the creation, presentation, or distribution of a text.",
+      "example": "A sponsored product review may emphasize features that are important to the sponsoring company."
+    },
+    {
+      "term": "Sponsored content",
+      "definition": "Content produced or distributed with financial support from an advertiser or sponsor.",
+      "example": "A travel article labeled as a paid partnership may have been funded by a tourism organization."
+    },
+    {
+      "term": "Native advertising",
+      "definition": "Advertising designed to resemble the format and style of surrounding editorial or informational content.",
+      "example": "An advertisement appears in the same visual format as news articles but includes a sponsored-content label."
+    },
+    {
+      "term": "Affiliate marketing",
+      "definition": "A commercial arrangement in which a person or organization may receive compensation when an audience member makes a purchase through a designated link.",
+      "example": "A technology reviewer discloses that purchases made through links in the video description may generate commissions."
+    },
+    {
+      "term": "Product placement",
+      "definition": "The inclusion of a product or brand within entertainment or informational content, sometimes through a commercial arrangement.",
+      "example": "A character prominently uses a particular brand of phone in a film."
+    },
+    {
+      "term": "Disclosure",
+      "definition": "A statement revealing a relevant relationship, interest, limitation, or commercial arrangement.",
+      "example": "A creator identifies a video as a paid partnership with a company."
+    },
+    {
+      "term": "Credibility",
+      "definition": "The degree to which a source or claim deserves trust based on relevant expertise, evidence, methods, and accountability.",
+      "example": "A peer-reviewed scientific study may provide credible evidence about a specific scientific question."
+    },
+    {
+      "term": "Corroboration",
+      "definition": "The process of checking information against additional independent evidence or sources.",
+      "example": "A researcher compares a historical claim with archival documents and scholarly research."
+    },
+    {
+      "term": "Synthesis",
+      "definition": "The integration of information and ideas from multiple sources to develop a coherent understanding or argument.",
+      "example": "A student combines scientific research, historical evidence, and economic analysis to explain the effects of urban development."
+    },
+    {
+      "term": "Qualification",
+      "definition": "A limitation or condition that makes a claim more precise and appropriately cautious.",
+      "example": "The evidence suggests that the program improved outcomes for some participants, although its long-term effects remain uncertain."
+    },
+    {
+      "term": "Attribution",
+      "definition": "The identification of the source responsible for information, language, or an idea.",
+      "example": "A researcher names the organization responsible for a statistical finding."
+    },
+    {
+      "term": "Lateral reading",
+      "definition": "Evaluating a source by consulting independent information about its author, organization, claims, or reputation.",
+      "example": "A student opens additional sources to investigate the organization publishing an unfamiliar report."
+    },
+    {
+      "term": "Discourse community",
+      "definition": "A group that shares communication practices, purposes, specialized vocabulary, and expectations for evidence.",
+      "example": "Historians and medical researchers belong to different discourse communities."
+    }
+  ],
+  "targets": [
+    "I can identify an author's or speaker's perspective and support my interpretation with evidence.",
+    "I can compare how different texts establish perspectives on the same topic.",
+    "I can explain how language, evidence, organization, and framing influence audience perceptions.",
+    "I can distinguish perspective, tone, purpose, and bias.",
+    "I can identify overt commercial influences in digital and audiovisual texts.",
+    "I can explain how sponsorship or advertising may influence the presentation of information.",
+    "I can investigate historical circumstances that influenced a text's creation.",
+    "I can compare perspectives across historical periods and explain meaningful changes.",
+    "I can explain how different academic disciplines approach the same subject.",
+    "I can develop a focused research question and locate credible sources.",
+    "I can evaluate sources for relevance, evidence, expertise, and transparency.",
+    "I can synthesize information from several sources instead of summarizing them separately.",
+    "I can explain agreements, disagreements, and limitations across sources.",
+    "I can develop an evidence-based conclusion that accurately represents the sources I consulted."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and transcript",
+      "purpose": "Analyze how personal experience, cultural context, and storytelling shape a speaker's perspective on representation and identity.",
+      "access": "Official TED talk and transcript; consult applicable terms of use.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible spoken language with significant cultural and rhetorical complexity.",
+      "interestHook": "A speaker challenges familiar assumptions about people, cultures, and the stories used to represent them.",
+      "teachingPrompt": "How does Adichie use personal experiences to establish her perspective and influence the audience's beliefs about storytelling?"
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Examine how historical circumstances, audience, and competing perspectives influence the construction of an argument.",
+      "access": "Use an authorized edition or school-licensed anthology; copyright and reproduction permissions apply.",
+      "readingTime": "20–30 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Advanced; provide historical context, vocabulary support, and selected passages.",
+      "interestHook": "A civil rights leader responds directly to criticism of his actions and explains why waiting for justice is unacceptable.",
+      "teachingPrompt": "How does King represent the perspectives of his critics, and how does his response reveal the historical circumstances shaping his argument?"
+    },
+    {
+      "title": "A Call for Unity",
+      "author": "Eight Alabama clergymen",
+      "genre": "Public statement",
+      "purpose": "Compare the perspective and framing of the clergymen's statement with King's response in Letter from Birmingham Jail.",
+      "access": "Consult historical archives, authorized educational resources, or licensed collections for the text.",
+      "readingTime": "10–15 minutes",
+      "highInterest": false,
+      "accessibility": "Moderate; requires historical background.",
+      "teachingPrompt": "How do the clergymen and King frame the same demonstrations differently, and what assumptions underlie their arguments?"
+    },
+    {
+      "title": "Ain't I a Woman?",
+      "author": "Sojourner Truth",
+      "genre": "Speech as preserved in historical accounts",
+      "purpose": "Compare historical accounts of a speech and examine how transcription, publication, and historical context influence the representation of a speaker's perspective.",
+      "access": "Public-domain historical accounts; compare the 1851 Marius Robinson account and the 1863 Frances Dana Gage version through reliable historical resources.",
+      "readingTime": "15–20 minutes for both accounts",
+      "highInterest": true,
+      "accessibility": "Moderate; provide context about abolition, women's rights, and the reliability of historical accounts.",
+      "interestHook": "Two substantially different published accounts preserve a famous speech, raising questions about whose words readers encounter.",
+      "teachingPrompt": "How do the differences between the published accounts affect readers' perceptions of Truth, and what should a responsible researcher conclude about their reliability?"
+    },
+    {
+      "title": "What to the Slave Is the Fourth of July?",
+      "author": "Frederick Douglass",
+      "genre": "Speech",
+      "purpose": "Analyze how historical circumstances and rhetorical choices influence a speaker's perspective on national identity, liberty, and citizenship.",
+      "access": "Public domain; available through established historical and literary archives.",
+      "readingTime": "20–25 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Advanced; provide historical context and support for nineteenth-century rhetorical language.",
+      "teachingPrompt": "How does Douglass use contrasting perspectives on Independence Day to challenge the beliefs of his audience?"
+    },
+    {
+      "title": "Declaration of Independence",
+      "author": "Continental Congress; principal draft by Thomas Jefferson",
+      "genre": "Foundational political document",
+      "purpose": "Compare historical perspectives on liberty, equality, and political authority with later texts that challenge or extend the document's claims.",
+      "access": "Public domain; available through the National Archives.",
+      "readingTime": "10–15 minutes for selected passages",
+      "highInterest": false,
+      "accessibility": "Advanced historical syntax and vocabulary.",
+      "teachingPrompt": "How do the historical circumstances of the document influence its claims, and how do later authors reinterpret those claims?"
+    },
+    {
+      "title": "Shooting an Elephant",
+      "author": "George Orwell",
+      "genre": "Personal essay",
+      "purpose": "Analyze how personal experience, colonial circumstances, and retrospective interpretation shape an author's perspective.",
+      "access": "Use a licensed anthology or an edition available through the school library; copyright status varies by jurisdiction.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced; contextualize British imperialism and the essay's treatment of violence.",
+      "interestHook": "An official faces a decision shaped by public pressure, personal conscience, and imperial authority.",
+      "teachingPrompt": "How does Orwell's presentation of his experience reveal tensions between personal judgment and institutional power?"
+    },
+    {
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "genre": "Short story",
+      "purpose": "Compare ethical perspectives on collective prosperity, individual suffering, responsibility, and social arrangements.",
+      "access": "School library, licensed anthology, or purchased edition.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; abstract ethical questions and potentially disturbing subject matter.",
+      "interestHook": "A seemingly ideal society depends on a disturbing moral compromise.",
+      "teachingPrompt": "How does the narrator's framing of the city influence the reader's ethical judgment, and how might different philosophical perspectives interpret the story?"
+    },
+    {
+      "title": "The Case for Reparations",
+      "author": "Ta-Nehisi Coates",
+      "genre": "Long-form journalism",
+      "purpose": "Analyze how historical evidence, personal narratives, and economic context contribute to an author's perspective on public policy.",
+      "access": "Published by The Atlantic; use an authorized excerpt or institutional subscription.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": false,
+      "accessibility": "Advanced; requires historical and economic background.",
+      "teachingPrompt": "How does Coates combine individual experiences and historical evidence to shape readers' understanding of a contemporary issue?"
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "genre": "Scientific and environmental nonfiction",
+      "purpose": "Examine how scientific evidence, literary techniques, and historical circumstances shape a perspective on environmental risk.",
+      "access": "School library, licensed ebook, or purchased edition.",
+      "readingTime": "15–20 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced; provide scientific and historical context.",
+      "interestHook": "A scientist and writer challenges widely accepted practices by examining their environmental consequences.",
+      "teachingPrompt": "How does Carson combine scientific and literary approaches to influence public understanding of environmental problems?"
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Compare scientific, historical, personal, and ethical perspectives on medical research and informed consent.",
+      "access": "School library, licensed ebook, or purchased edition.",
+      "readingTime": "20–30 minutes for a selected chapter or excerpt",
+      "highInterest": true,
+      "accessibility": "Moderate; provide background on cell research and medical ethics.",
+      "interestHook": "A woman's cells transform modern medicine while her family confronts questions about consent, recognition, and justice.",
+      "teachingPrompt": "How do scientific, medical, historical, and family perspectives contribute different kinds of understanding to the same events?"
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "Short story",
+      "purpose": "Analyze how historical context and narrative perspective influence interpretations of marriage, independence, and social expectations.",
+      "access": "Public domain; available through established literary archives.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible length with interpretive complexity.",
+      "interestHook": "Unexpected news leads a woman to imagine a future radically different from the life she has known.",
+      "teachingPrompt": "How do the story's historical circumstances influence its treatment of independence, and how might readers from different periods interpret the ending?"
+    },
+    {
+      "title": "Disclosures 101 for Social Media Influencers",
+      "author": "Federal Trade Commission",
+      "genre": "Government consumer and business guidance",
+      "purpose": "Identify overt commercial relationships and examine how disclosures help audiences interpret digital endorsements.",
+      "access": "Publicly available through https://www.ftc.gov/",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible practical guidance with concrete examples.",
+      "interestHook": "Students investigate when social media creators should disclose relationships with companies whose products they recommend.",
+      "teachingPrompt": "What commercial relationships should audiences be able to recognize, and how might disclosure change the interpretation of an endorsement?"
+    },
+    {
+      "title": "Teacher-selected sponsored and independent product reviews",
+      "author": "Various digital creators and publishers",
+      "genre": "Digital and audiovisual media",
+      "purpose": "Compare how disclosed commercial relationships may influence product presentation, evidence, and audience expectations.",
+      "access": "Select current, age-appropriate examples from publicly accessible videos or articles. Verify sponsorship labels and avoid assuming undisclosed financial relationships.",
+      "readingTime": "10–20 minutes for paired examples",
+      "highInterest": true,
+      "accessibility": "Accessible; provide captions or transcripts when available.",
+      "interestHook": "Students investigate whether a review is primarily informing an audience, selling a product, or doing both.",
+      "teachingPrompt": "What evidence identifies a commercial influence, and how does the review's presentation differ from an independently produced comparison?"
+    },
+    {
+      "title": "Teacher-selected interdisciplinary source set on artificial intelligence",
+      "author": "Various researchers, educators, journalists, and organizations",
+      "genre": "Research articles, reports, journalism, and commentary",
+      "purpose": "Compare educational, economic, technological, ethical, and commercial perspectives while synthesizing credible information.",
+      "access": "Select current sources through school library databases, government publications, university research, and reputable journalism. Verify dates, evidence, and commercial disclosures.",
+      "readingTime": "30–45 minutes for selected excerpts",
+      "highInterest": true,
+      "accessibility": "Variable; use a combination of accessible reporting and appropriately scaffolded research.",
+      "interestHook": "Students investigate a technology that directly affects their learning, future careers, and everyday lives.",
+      "teachingPrompt": "How do the authors' disciplinary contexts and institutional interests shape their perspectives, and what conclusions can be supported across the sources?"
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "15–20 min",
+      "title": "Same topic, different lens",
+      "activity": "Students read two short passages presenting different perspectives on a familiar topic such as school uniforms, homework, or public transportation. They highlight words and details that reveal each perspective, then complete a comparison organizer identifying the shared topic, each author's position, and supporting evidence.",
+      "materials": [
+        "Two accessible passages on a shared topic",
+        "Perspective comparison organizer",
+        "Color-coded annotation guide"
+      ],
+      "scaffolds": "Provide sentence frames such as Both authors discuss..., Author A emphasizes..., and This wording suggests.... Model the distinction between identifying a topic and identifying a perspective.",
+      "success": "Students accurately identify both perspectives, support each interpretation with at least two textual details, and explain one meaningful difference.",
+      "alignment": [
+        "10.T.C.2",
+        "10.T.C.2.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Spot the commercial signal",
+      "activity": "Students examine teacher-selected screenshots of advertisements, sponsored posts, affiliate disclosures, and independent informational content. They identify visible commercial signals and explain what those signals reveal about the text's purpose or financial relationships.",
+      "materials": [
+        "Age-appropriate digital media examples",
+        "Commercial influence reference chart",
+        "Evidence recording worksheet"
+      ],
+      "scaffolds": "Teach common disclosure language and provide examples of sponsorship labels, affiliate notices, advertisements, and product placement. Distinguish confirmed commercial evidence from speculation.",
+      "success": "Students correctly identify overt commercial signals in at least four of five examples and explain why each signal matters to an audience.",
+      "alignment": [
+        "10.T.C.2.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–30 min",
+      "title": "Context clues beyond the text",
+      "activity": "Students read a short historical text and receive a concise timeline, author background, and explanation of relevant historical circumstances. They match textual details with contextual information and explain how the context helps clarify the author's perspective.",
+      "materials": [
+        "Short historical text",
+        "Context timeline",
+        "Text-and-context matching organizer"
+      ],
+      "scaffolds": "Provide selected contextual facts, model one evidence-based connection, and use guiding questions about when, where, why, and for whom the text was created.",
+      "success": "Students make at least three accurate connections between contextual information and specific features of the text.",
+      "alignment": [
+        "10.T.C.2.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–30 min",
+      "title": "From two summaries to one synthesis",
+      "activity": "Students read two short credible sources addressing a focused question. After identifying the central idea of each source, they sort information into shared findings, differences, and unanswered questions. They use the organizer to write a paragraph that combines information from both sources.",
+      "materials": [
+        "Two accessible credible sources",
+        "Synthesis organizer",
+        "Paragraph model"
+      ],
+      "scaffolds": "Provide a completed example, transition phrases for agreement and contrast, and attribution sentence frames. Highlight how synthesis organizes ideas by relationship rather than by source.",
+      "success": "Students produce a coherent paragraph that accurately integrates information from both sources and identifies at least one relationship between their ideas.",
+      "alignment": [
+        "10.T.C.2.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Framing the same event",
+      "activity": "Students compare three credible texts covering the same event or issue. They analyze headlines, introductory paragraphs, selected evidence, quotations, images, and language choices. Students identify how each text establishes perspective and write an evidence-based explanation of how framing may influence audience perceptions.",
+      "materials": [
+        "Three current or historical texts on a shared topic",
+        "Framing analysis chart",
+        "Annotation tools"
+      ],
+      "scaffolds": "Model a comparison of two headlines and provide categories for diction, emphasis, evidence, organization, and omissions. Require students to distinguish documented differences from assumptions about motives.",
+      "success": "Students accurately compare all three perspectives and explain at least three specific rhetorical choices that influence audience interpretation.",
+      "alignment": [
+        "10.T.C.2.a"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "35–45 min",
+      "title": "Who paid for this message?",
+      "activity": "Students compare a disclosed sponsored video or article with an independently produced text addressing a similar product, destination, or issue. They identify commercial disclosures, analyze presentation choices, examine evidence, and evaluate what audiences should consider when interpreting the texts.",
+      "materials": [
+        "Sponsored digital or audiovisual text",
+        "Independent comparison text",
+        "Commercial influence analysis organizer",
+        "FTC disclosure guidance"
+      ],
+      "scaffolds": "Provide a checklist covering sponsorship, affiliate relationships, advertisements, product placement, evidence, and missing information. Emphasize that commercial influence does not automatically establish inaccuracy.",
+      "success": "Students identify verified commercial influences, explain how at least two presentation choices may relate to those influences, and support a nuanced evaluation with evidence.",
+      "alignment": [
+        "10.T.C.2.a",
+        "10.T.C.2.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "A historical conversation",
+      "activity": "Students compare selected passages from the Declaration of Independence, Frederick Douglass's What to the Slave Is the Fourth of July?, and Martin Luther King Jr.'s Letter from Birmingham Jail. They investigate the historical circumstances surrounding each text and analyze how the authors develop perspectives on liberty, equality, and citizenship across time.",
+      "materials": [
+        "Authorized or public-domain text excerpts",
+        "Historical context timeline",
+        "Cross-text analysis organizer"
+      ],
+      "scaffolds": "Provide brief contextual readings, define unfamiliar historical vocabulary, and model how to connect a specific rhetorical choice to a documented historical circumstance.",
+      "success": "Students develop a comparative analysis that accurately represents all three texts and explains how historical contexts influence their perspectives and rhetorical choices.",
+      "alignment": [
+        "10.T.C.2.a",
+        "10.T.C.2.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "One issue, three disciplines",
+      "activity": "Students investigate a shared issue such as climate change, artificial intelligence, public health, or urban development through sources representing three disciplines. They identify each discipline's central questions, methods, evidence, vocabulary, and perspective, then explain how these differences shape the resulting texts.",
+      "materials": [
+        "Three credible disciplinary sources",
+        "Disciplinary comparison matrix",
+        "Research notes organizer"
+      ],
+      "scaffolds": "Provide an introductory explanation of disciplinary perspectives and examples of how historians, scientists, economists, and ethicists investigate different aspects of a problem.",
+      "success": "Students accurately identify the approaches of three disciplines and explain how their methods and purposes influence the perspectives presented in the sources.",
+      "alignment": [
+        "10.T.C.2.c",
+        "10.T.C.2.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "60–90 min",
+      "title": "The synthesis investigation",
+      "activity": "Students develop a focused question about an academic topic or personal interest. They locate at least four credible sources representing relevant perspectives, evaluate each source, organize information by themes, and compose an explanatory synthesis that addresses the research question.",
+      "materials": [
+        "School library databases",
+        "Source evaluation checklist",
+        "Synthesis matrix",
+        "Citation and attribution guide"
+      ],
+      "scaffolds": "Provide sample research questions, a modeled synthesis paragraph, and a matrix for recording agreements, disagreements, evidence, and limitations. Offer teacher or librarian conferences during source selection.",
+      "success": "Students integrate at least four credible sources into a coherent response, accurately represent their relationships, provide appropriate attribution, and develop a conclusion supported by the available evidence.",
+      "alignment": [
+        "10.T.C.2.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "The author's choices",
+      "activity": "Students analyze a speech or essay and identify how the author establishes perspective through personal experience, diction, tone, selected examples, and organization. They then rewrite a short passage from a different defensible perspective and explain the rhetorical decisions made during revision.",
+      "materials": [
+        "Selected speech or essay",
+        "Perspective annotation guide",
+        "Revision reflection organizer"
+      ],
+      "scaffolds": "Model a change in framing while preserving factual accuracy. Provide reminders that adopting another perspective does not justify inventing evidence or misrepresenting people.",
+      "success": "Students support their original analysis with textual evidence and create a revised passage that establishes a distinct perspective through deliberate rhetorical choices.",
+      "alignment": [
+        "10.T.C.2.a",
+        "10.T.C.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "Whose words are we reading?",
+      "activity": "Students investigate the 1851 and 1863 published accounts of Sojourner Truth's famous speech. They research the circumstances of each account, compare differences in language and presentation, examine the limitations of historical evidence, and write an analysis explaining how transcription and publication can influence the representation of a speaker's perspective.",
+      "materials": [
+        "Marius Robinson account",
+        "Frances Dana Gage account",
+        "Reliable historical research",
+        "Source provenance organizer"
+      ],
+      "scaffolds": "Provide guidance on distinguishing primary sources, later recollections, historical interpretation, and unsupported claims. Encourage students to acknowledge uncertainty rather than assume either account is a verbatim transcript.",
+      "success": "Students produce a nuanced analysis supported by both accounts and credible historical research, accurately explaining differences, contextual influences, and limitations.",
+      "alignment": [
+        "10.T.C.2.a",
+        "10.T.C.2.c",
+        "10.T.C.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "Investigate the influence economy",
+      "activity": "Students research a selected form of digital commercial communication such as influencer marketing, sponsored journalism, affiliate reviews, or branded entertainment. They examine examples, consult credible consumer guidance and research, and create an analytical report explaining how commercial relationships can shape content and audience interpretation.",
+      "materials": [
+        "Selected digital media examples",
+        "FTC guidance",
+        "Credible research on advertising or media",
+        "Commercial influence analysis framework"
+      ],
+      "scaffolds": "Require students to distinguish disclosed financial relationships from inferred motives and to evaluate the accuracy of claims independently of commercial status.",
+      "success": "Students synthesize evidence from multiple credible sources, accurately identify overt commercial influences, and explain how specific media choices affect audiences without making unsupported accusations.",
+      "alignment": [
+        "10.T.C.2.b",
+        "10.T.C.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 min",
+      "title": "The interdisciplinary briefing",
+      "activity": "Students investigate a complex issue through historical, scientific, economic, ethical, and cultural perspectives as appropriate. They create a briefing that identifies each disciplinary contribution, explains disagreements or limitations, synthesizes credible findings, and recommends additional questions for investigation.",
+      "materials": [
+        "Academic databases",
+        "Credible institutional and government sources",
+        "Disciplinary synthesis matrix",
+        "Briefing template"
+      ],
+      "scaffolds": "Provide a model policy or research briefing and require students to evaluate the relevance of each discipline rather than include perspectives simply to meet a numerical requirement.",
+      "success": "Students produce a coherent, evidence-based briefing that integrates at least five credible sources, accurately explains disciplinary differences, and acknowledges meaningful uncertainty or limitations.",
+      "alignment": [
+        "10.T.C.2.a",
+        "10.T.C.2.c",
+        "10.T.C.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "How perspectives change across time",
+      "activity": "Students select a topic represented in texts from at least three historical periods. They investigate the contexts surrounding each text, analyze changes in language and assumptions, and develop an interpretation explaining continuity and change in the perspectives represented.",
+      "materials": [
+        "Historical and contemporary text set",
+        "Credible contextual research",
+        "Chronological analysis organizer"
+      ],
+      "scaffolds": "Require students to avoid treating historical periods as uniform or assuming that one author's perspective represents an entire society. Provide feedback on the distinction between historical evidence and generalization.",
+      "success": "Students construct a defensible interpretation supported by multiple texts and contextual sources, explaining both continuity and change without oversimplifying historical perspectives.",
+      "alignment": [
+        "10.T.C.2.a",
+        "10.T.C.2.c",
+        "10.T.C.2.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Selected response",
+      "prompt": "Two articles describe the same proposed transportation project. One emphasizes reduced commuting times, while the other emphasizes the displacement of nearby residents. Which statement best explains the difference between the articles?",
+      "options": [
+        "One article must be factually incorrect.",
+        "The articles establish different perspectives by emphasizing different consequences of the project.",
+        "The articles necessarily address different topics.",
+        "The articles demonstrate that evidence cannot support an argument."
+      ],
+      "answer": "B",
+      "rationale": "The articles address the same project but frame it through different priorities and consequences. Their perspectives should be evaluated using the evidence each provides."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which approach provides the strongest evidence for an interpretation of an author's perspective?",
+      "options": [
+        "Assuming the author's beliefs based on the author's age.",
+        "Identifying whether the reader agrees with the author's conclusion.",
+        "Analyzing recurring language choices, selected evidence, and the organization of the text.",
+        "Determining whether the text is longer than other texts on the topic."
+      ],
+      "answer": "C",
+      "rationale": "An interpretation of perspective should be grounded in observable textual evidence rather than assumptions about the author or the reader's personal agreement."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A headline describes a new policy as a breakthrough, while another describes the same policy as a costly experiment. Which concept best explains this difference?",
+      "options": [
+        "Framing",
+        "Chronology",
+        "Attribution",
+        "Corroboration"
+      ],
+      "answer": "A",
+      "rationale": "The headlines frame the policy differently through evaluative language that encourages readers to interpret the policy in particular ways."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A video review includes the statement: This video is sponsored by the manufacturer of the product being reviewed. What can a reader or viewer reasonably conclude?",
+      "options": [
+        "Every statement in the video is false.",
+        "The creator has disclosed a commercial relationship relevant to interpreting the review.",
+        "The manufacturer wrote every word of the review.",
+        "The review cannot contain useful information."
+      ],
+      "answer": "B",
+      "rationale": "The sponsorship establishes a commercial relationship. It does not, by itself, establish that the information is false or that the sponsor controlled every editorial decision."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which feature most clearly identifies an overt commercial influence in a digital article?",
+      "options": [
+        "The article contains photographs.",
+        "The article was published recently.",
+        "The article includes a disclosure stating that the publisher receives commissions from purchases made through its links.",
+        "The article contains an author's biography."
+      ],
+      "answer": "C",
+      "rationale": "The affiliate disclosure explicitly identifies a financial relationship associated with the article."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Why should readers investigate the historical circumstances surrounding a text's creation?",
+      "options": [
+        "Historical context guarantees that the author's claims are accurate.",
+        "Historical context eliminates the need to analyze the text itself.",
+        "Historical context helps explain the conditions, assumptions, and events that may influence the author's perspective and choices.",
+        "Historical context proves that all people living during the same period shared identical beliefs."
+      ],
+      "answer": "C",
+      "rationale": "Historical context can clarify the circumstances shaping a text without replacing textual analysis or implying that everyone in a period held the same perspective."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A historian and an epidemiologist investigate the same public health crisis. The historian examines government records and personal accounts, while the epidemiologist analyzes disease transmission data. What best explains the difference?",
+      "options": [
+        "The researchers have different disciplinary contexts that influence their questions and methods.",
+        "Only the historian can produce credible information.",
+        "Only the epidemiologist can communicate a perspective.",
+        "The researchers cannot contribute to a shared understanding of the crisis."
+      ],
+      "answer": "A",
+      "rationale": "Different disciplines investigate different aspects of a subject through distinct methods and evidence standards. Their findings may contribute complementary insights."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which paragraph structure best demonstrates synthesis?",
+      "options": [
+        "A paragraph summarizing Source A, followed by unrelated paragraphs summarizing Sources B and C.",
+        "A paragraph presenting only the student's opinion.",
+        "A paragraph organizing evidence from several sources around a shared claim and explaining where the sources agree or differ.",
+        "A paragraph copying several quotations without explaining their relationships."
+      ],
+      "answer": "C",
+      "rationale": "Synthesis organizes information around relationships among ideas and integrates sources to develop a coherent understanding."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which action is most appropriate when two credible sources reach different conclusions?",
+      "options": [
+        "Discard the source that disagrees with the student's opinion.",
+        "Assume that one source is intentionally misleading.",
+        "Compare their evidence, methods, definitions, contexts, and limitations.",
+        "Average their conclusions without investigating the differences."
+      ],
+      "answer": "C",
+      "rationale": "Differences may result from methods, evidence, definitions, contexts, or the scope of the research. A responsible researcher investigates these factors."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student researching the health effects of sleep finds a peer-reviewed study, a mattress advertisement, a personal blog, and a medical association's evidence-based guidance. Which evaluation is most appropriate?",
+      "options": [
+        "All four sources are equally credible for every research claim.",
+        "The advertisement is automatically false because it has a commercial purpose.",
+        "The student should evaluate each source's expertise, evidence, purpose, relevance, and limitations before determining how it can contribute to the research.",
+        "The student should select the source with the most appealing visual design."
+      ],
+      "answer": "C",
+      "rationale": "Credibility depends on the source's relationship to the particular question, the quality of its evidence, its methods, and relevant purposes or interests."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain the difference between identifying an author's perspective and analyzing how the author establishes that perspective.",
+      "answer": "Identifying perspective involves describing the position or interpretive lens communicated by the author. Analyzing its development requires explaining how specific language, evidence, organization, examples, or rhetorical choices establish and reinforce that perspective.",
+      "rationale": "A complete response distinguishes recognition from evidence-based analysis of the text's construction."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why identifying commercial influence in a digital text does not automatically establish that the text is inaccurate.",
+      "answer": "A commercial relationship may influence the selection or presentation of information, but the accuracy of particular claims must still be evaluated through evidence and independent verification. Disclosure helps readers understand a relevant interest without proving that every claim is false.",
+      "rationale": "Students should distinguish potential influence from demonstrated inaccuracy and explain the importance of evaluating evidence."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Two writers discuss the same historical event, one writing during the event and the other writing fifty years later. Explain two contextual factors that could influence their different perspectives.",
+      "answer": "The writers may have access to different evidence, experience different social or political circumstances, work within different cultural expectations, or interpret the event with different knowledge of its consequences. A strong response explains how specific contextual differences could influence the resulting texts.",
+      "rationale": "Students should connect plausible contextual factors to perspective and text creation without assuming that chronological distance automatically guarantees accuracy."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how a scientific perspective and an ethical perspective might contribute different insights to a discussion of genetic engineering.",
+      "answer": "A scientific perspective might examine methods, biological mechanisms, effectiveness, and measurable risks. An ethical perspective might examine consent, fairness, responsibility, and acceptable uses. Together, these perspectives can contribute a more comprehensive understanding of the issue.",
+      "rationale": "Students should identify differences in disciplinary questions and evidence while explaining how the perspectives can complement one another."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "A student has written four paragraphs, each summarizing a different source. Explain how the student could revise the writing to demonstrate synthesis.",
+      "answer": "The student could organize paragraphs around shared ideas, questions, or claims instead of individual sources. Within each paragraph, the student could integrate relevant evidence from multiple sources, explain agreements and disagreements, and develop a conclusion that reflects their relationships.",
+      "rationale": "The response should demonstrate understanding that synthesis involves connecting ideas rather than merely placing summaries next to one another."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Read two teacher-selected texts presenting different perspectives on the same topic. Analyze how each text establishes its perspective and explain how at least two rhetorical choices in each text may influence audience perceptions.",
+      "answer": "A successful response accurately identifies both perspectives, analyzes specific rhetorical choices from each text, explains their effects on audience interpretation, and compares the texts using relevant evidence.",
+      "rationale": "Assess accuracy of interpretation, specificity of evidence, depth of rhetorical analysis, and quality of cross-text comparison."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Examine a teacher-selected sponsored digital or audiovisual text. Identify evidence of overt commercial influence and explain how that relationship may affect the construction or presentation of the text. Distinguish confirmed information from inference.",
+      "answer": "A strong response identifies a visible disclosure or other documented commercial relationship, analyzes specific presentation choices, explains possible implications for audience interpretation, and avoids unsupported claims about motives or factual accuracy.",
+      "rationale": "Assess identification of overt commercial influence, evidence-based reasoning, and the ability to distinguish observation from inference."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Compare two texts addressing a shared issue from different historical periods. Use credible contextual research to explain how historical circumstances influence the perspectives and construction of both texts.",
+      "answer": "A successful response accurately represents each text, identifies relevant historical circumstances, connects those circumstances to specific textual choices, and explains meaningful similarities or differences across time.",
+      "rationale": "Assess historical accuracy, textual evidence, contextual reasoning, and avoidance of unsupported generalizations."
+    },
+    {
+      "type": "Extended constructed response",
+      "prompt": "Investigate a focused question using at least four credible sources. Write an explanatory synthesis that integrates information from the sources, identifies meaningful agreements or disagreements, and develops a conclusion supported by the available evidence.",
+      "answer": "A strong response presents a focused question, organizes information around meaningful ideas, accurately integrates multiple credible sources, explains their relationships, attributes evidence appropriately, and acknowledges relevant limitations or uncertainty.",
+      "rationale": "Evaluate source credibility, accuracy, integration, organization, reasoning, attribution, and the quality of the evidence-based conclusion."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Create a research briefing on a complex contemporary or historical issue. Include at least three relevant perspectives, explain the historical or disciplinary contexts shaping them, identify any documented commercial influences in selected sources, and synthesize credible evidence into a defensible conclusion.",
+      "answer": "Successful work demonstrates accurate comparison of perspectives, contextual analysis, responsible identification of commercial influence where present, credible research, coherent synthesis, appropriate attribution, and a conclusion proportionate to the available evidence.",
+      "rationale": "Use separate rubric criteria for perspective analysis, contextual understanding, media literacy, source evaluation, synthesis, and communication."
+    }
+  ],
+  "evidence": [
+    "An evidence-based explanation of an author's or speaker's perspective.",
+    "Annotations identifying how diction, tone, framing, organization, and evidence develop perspective.",
+    "A comparison of multiple texts addressing a shared topic.",
+    "An analysis explaining how rhetorical choices influence audience perceptions or beliefs.",
+    "Accurate identification of overt commercial influences in digital or audiovisual examples.",
+    "A media analysis distinguishing documented commercial relationships from unsupported assumptions.",
+    "A contextual explanation connecting historical circumstances to specific features of a text.",
+    "A comparison explaining how perspectives change or remain consistent across historical periods.",
+    "A disciplinary comparison identifying differences in questions, methods, evidence, and interpretations.",
+    "A focused research question supported by relevant and credible source selection.",
+    "Source evaluation notes documenting expertise, evidence, relevance, transparency, and limitations.",
+    "A synthesis matrix identifying relationships among ideas from multiple sources.",
+    "A research paragraph integrating evidence from more than one source.",
+    "An extended synthesis organized around ideas rather than individual source summaries.",
+    "Accurate representation of source agreement, disagreement, qualification, and uncertainty.",
+    "Appropriate attribution of information, quotations, paraphrases, and interpretations.",
+    "A defensible conclusion supported by multiple credible sources.",
+    "Independent application of perspective analysis and source evaluation to unfamiliar texts."
+  ],
+  "instruction": [
+    "Begin with paired texts addressing familiar topics so students can recognize how different perspectives shape communication.",
+    "Explicitly distinguish topic, perspective, purpose, tone, narrative point of view, and bias.",
+    "Model how to infer perspective from observable textual evidence rather than assumptions about an author's identity or motives.",
+    "Teach students to examine diction, examples, evidence, organization, framing, and patterns of emphasis.",
+    "Use comparison organizers that require students to analyze how perspectives are developed, not merely identify whether authors agree.",
+    "Include texts representing different genres, modes, cultural experiences, historical periods, and disciplinary contexts.",
+    "Teach students to recognize that a text can communicate a perspective without making an explicitly argumentative claim.",
+    "Analyze headlines, images, captions, video editing, music, and other multimodal features when examining digital and audiovisual texts.",
+    "Introduce commercial influence through authentic, age-appropriate examples of sponsorships, affiliate disclosures, advertisements, and product placement.",
+    "Use current authoritative consumer guidance to clarify common commercial disclosures.",
+    "Distinguish overt commercial influence from speculative claims about hidden financial relationships.",
+    "Teach students to evaluate the accuracy of sponsored content independently of its commercial status.",
+    "Provide relevant historical context before asking students to interpret historically distant texts.",
+    "Model how to connect a documented contextual circumstance to a specific textual feature.",
+    "Compare texts across historical periods to examine continuity, change, and competing interpretations.",
+    "Avoid presenting any single author as representative of an entire historical period, culture, or community.",
+    "Introduce disciplinary context by comparing the questions and methods used by different fields of study.",
+    "Collaborate with teachers in science, social studies, and other content areas to develop interdisciplinary text sets.",
+    "Teach students to formulate focused, researchable questions before collecting sources.",
+    "Model source evaluation through expertise, evidence, transparency, relevance, and independent corroboration.",
+    "Use school library databases and credible institutional resources to support research.",
+    "Teach lateral reading as a strategy for investigating unfamiliar authors, organizations, and claims.",
+    "Use synthesis matrices organized by themes, questions, claims, or findings rather than only by source.",
+    "Model how to integrate multiple sources within a single analytical paragraph.",
+    "Teach transitions that communicate agreement, contrast, qualification, extension, and uncertainty.",
+    "Require students to accurately attribute source information and distinguish their own conclusions from source claims.",
+    "Provide opportunities for students to revise source-by-source summaries into coherent syntheses.",
+    "Assess the quality of reasoning and source integration rather than rewarding the number of sources alone.",
+    "Use authentic research questions connected to students' academic interests, communities, and future decisions.",
+    "Gradually remove scaffolds so students independently analyze perspective, investigate context, evaluate media, and synthesize research."
+  ],
+  "watchFor": [
+    "Confusing the topic of a text with the perspective communicated about that topic.",
+    "Identifying an author's perspective without supporting the interpretation with textual evidence.",
+    "Assuming that perspective and bias are interchangeable terms.",
+    "Treating every perspective as equally supported regardless of the available evidence.",
+    "Equating disagreement with dishonesty or inaccuracy.",
+    "Assuming an author's perspective solely from personal identity, nationality, occupation, or historical period.",
+    "Confusing an author's perspective with the perspective of a fictional narrator or character.",
+    "Treating an author's stated purpose as the only evidence of perspective.",
+    "Identifying rhetorical choices without explaining how they influence audience interpretation.",
+    "Comparing texts only by listing similarities and differences without analyzing their significance.",
+    "Assuming that omitted information was intentionally concealed without supporting evidence.",
+    "Treating commercial influence as proof that a text contains false information.",
+    "Failing to recognize explicit sponsorship or affiliate disclosures.",
+    "Assuming that every visible brand or product appearance establishes a paid commercial arrangement.",
+    "Making unsupported accusations about hidden sponsorships or financial motives.",
+    "Confusing popularity, professional design, or high engagement with credibility.",
+    "Using historical background as a substitute for close reading.",
+    "Assuming that all people in a historical period shared the same perspective.",
+    "Applying contemporary assumptions to historical texts without considering relevant circumstances.",
+    "Assuming that later interpretations are automatically more accurate than earlier accounts.",
+    "Treating disciplinary differences as evidence that one discipline is inherently more credible than another.",
+    "Selecting sources only because they agree with an initial opinion.",
+    "Relying on a source's reputation without evaluating its relevance to the specific claim.",
+    "Using outdated information when the research question requires current evidence.",
+    "Treating source evaluation as a mechanical checklist without considering context.",
+    "Confusing a collection of source summaries with synthesis.",
+    "Organizing an entire research response around individual sources rather than meaningful ideas.",
+    "Forcing sources into agreement when their evidence or conclusions differ.",
+    "Presenting disagreement as a simple two-sided debate when the issue involves multiple perspectives.",
+    "Combining evidence without explaining the relationships among sources.",
+    "Quoting extensively without analysis or interpretation.",
+    "Failing to attribute paraphrased information.",
+    "Drawing conclusions that exceed the scope or strength of the available evidence.",
+    "Ignoring uncertainty, limitations, or unresolved questions.",
+    "Assessing research primarily through formatting or source quantity rather than the quality of evidence and reasoning."
+  ],
+  "skills": {
+    "10.T.C.2.a": {
+      "focus": "Compare and contrast varying perspectives across texts",
+      "studentFriendly": "I can compare how different authors and speakers present the same topic and explain how their language, evidence, and organization influence what audiences think or believe.",
+      "know": [
+        "Perspective is the position or interpretive lens through which a subject is presented.",
+        "Authors establish perspective through language, selected details, evidence, examples, organization, and rhetorical choices.",
+        "Perspective may be explicit or implicit.",
+        "Framing emphasizes particular aspects of a subject and influences interpretation.",
+        "Authors may communicate different perspectives while addressing the same topic.",
+        "Perspective differs from narrative point of view, tone, purpose, and bias.",
+        "An interpretation of perspective requires textual evidence.",
+        "Rhetorical choices can influence perceptions, beliefs, emotions, and judgments."
+      ],
+      "understand": [
+        "Different perspectives can reveal contrasting assumptions, priorities, experiences, and interpretations.",
+        "The construction of a text influences how its audience understands the subject.",
+        "Authors may shape perceptions through selective emphasis, organization, and framing.",
+        "A meaningful comparison explains how perspectives are established and why differences matter.",
+        "Perspective analysis should distinguish evidence from unsupported speculation about motives.",
+        "Readers can evaluate the quality of evidence without assuming that disagreement establishes inaccuracy."
+      ],
+      "do": [
+        "Identify the perspective communicated in a text.",
+        "Support an interpretation of perspective with specific textual evidence.",
+        "Compare perspectives across literary, informational, argumentative, and multimodal texts.",
+        "Analyze how diction, tone, examples, evidence, organization, and framing establish perspective.",
+        "Explain how particular rhetorical choices influence audience perceptions or beliefs.",
+        "Identify meaningful differences in emphasis and presentation across texts.",
+        "Distinguish documented textual choices from assumptions about authorial motives.",
+        "Evaluate the significance of similarities and differences among perspectives.",
+        "Construct an evidence-based comparative analysis."
+      ],
+      "targets": [
+        "I can identify and support an interpretation of an author's perspective.",
+        "I can compare how different texts present the same topic.",
+        "I can analyze how rhetorical choices establish and develop perspective.",
+        "I can explain how perspective influences audience interpretation.",
+        "I can support a comparative analysis with evidence from multiple texts."
+      ],
+      "instruction": [
+        "Use paired and multiple-text sets addressing shared topics.",
+        "Model how to move from identifying perspective to analyzing its development.",
+        "Teach students to annotate diction, evidence, framing, and patterns of emphasis.",
+        "Provide comparison organizers requiring textual evidence and explanations of significance.",
+        "Include literary, informational, argumentative, and audiovisual examples.",
+        "Use revision tasks that allow students to experiment with different perspectives while maintaining factual accuracy.",
+        "Teach students to distinguish the perspective of an author from the perspective of a narrator or character.",
+        "Assess comparative analysis through authentic cross-text writing."
+      ],
+      "evidence": [
+        "Accurate identification of perspectives across multiple texts.",
+        "Annotations explaining how rhetorical choices establish perspective.",
+        "A comparison identifying meaningful similarities and differences.",
+        "An evidence-based explanation of how perspective influences audience perceptions.",
+        "A coherent comparative analysis integrating evidence from multiple texts."
+      ],
+      "watchFor": [
+        "Confusing perspective with topic, tone, purpose, or narrative point of view.",
+        "Inferring perspective from author identity rather than textual evidence.",
+        "Listing rhetorical devices without explaining their effects.",
+        "Treating every difference in presentation as evidence of intentional deception.",
+        "Comparing conclusions without examining how the texts develop their perspectives.",
+        "Making unsupported claims about omitted information or authorial motives."
+      ]
+    },
+    "10.T.C.2.b": {
+      "focus": "Identify overtly commercial influences in audiovisual and digital texts",
+      "studentFriendly": "I can recognize when advertisements, sponsorships, affiliate relationships, or other visible commercial influences are connected to digital or audiovisual content, and explain why those relationships matter when I interpret the message.",
+      "know": [
+        "Commercial influence involves financial or business interests connected to a text's creation, presentation, or distribution.",
+        "Advertisements, sponsorships, paid endorsements, affiliate marketing, and product placement are forms of commercial communication.",
+        "Commercial relationships may be identified through explicit disclosures, sponsorship labels, affiliate notices, or other documented evidence.",
+        "Digital content can combine entertainment, information, persuasion, and commercial purposes.",
+        "Native advertising may resemble surrounding editorial or informational content.",
+        "A disclosed commercial relationship is not the same as evidence that a claim is false.",
+        "Visible brand appearances do not always establish paid product placement.",
+        "Source accuracy should be evaluated through evidence and independent verification."
+      ],
+      "understand": [
+        "Commercial relationships may influence the topics, products, evidence, language, and presentation choices used in a text.",
+        "Recognizing overt commercial influence helps audiences interpret the purposes and interests connected to a message.",
+        "Commercial content can contain accurate and useful information.",
+        "A responsible evaluation distinguishes confirmed financial relationships from unsupported speculation.",
+        "Media literacy requires examining how content is constructed as well as what it claims.",
+        "Disclosures help audiences recognize relevant commercial relationships."
+      ],
+      "do": [
+        "Identify overt advertisements and sponsorship labels in digital or audiovisual content.",
+        "Recognize affiliate disclosures, paid partnership notices, and other explicit commercial signals.",
+        "Distinguish informational content from overt advertising when sufficient evidence is available.",
+        "Identify documented commercial relationships connected to a text.",
+        "Explain how commercial influence may shape presentation, emphasis, or audience expectations.",
+        "Compare sponsored content with independently produced content addressing a similar topic.",
+        "Evaluate claims using evidence rather than commercial status alone.",
+        "Distinguish direct observation from inference about commercial influence.",
+        "Use credible consumer guidance to interpret common disclosure practices."
+      ],
+      "targets": [
+        "I can recognize overt commercial influences in digital and audiovisual texts.",
+        "I can identify sponsorships, advertisements, and affiliate disclosures.",
+        "I can explain why a disclosed commercial relationship matters to an audience.",
+        "I can distinguish documented commercial influence from unsupported assumptions.",
+        "I can evaluate a text's claims without assuming that sponsorship makes them false."
+      ],
+      "instruction": [
+        "Use authentic, age-appropriate examples of sponsored and independently produced digital content.",
+        "Teach common commercial disclosure language and visual labels.",
+        "Analyze how advertisements may resemble informational or entertainment content.",
+        "Compare product reviews, travel content, tutorials, and other familiar digital genres.",
+        "Use authoritative consumer guidance to explain disclosure practices.",
+        "Require students to identify specific evidence of commercial influence.",
+        "Model how to evaluate factual claims independently of commercial relationships.",
+        "Avoid encouraging unsupported accusations about undisclosed sponsorships or motives."
+      ],
+      "evidence": [
+        "Correct identification of visible advertisements and sponsorship disclosures.",
+        "Accurate explanation of an affiliate or paid partnership relationship.",
+        "An analysis of how documented commercial influence may affect presentation.",
+        "A comparison of sponsored and independently produced texts.",
+        "A media evaluation distinguishing commercial evidence from speculation.",
+        "Independent verification of a claim made within commercial content."
+      ],
+      "watchFor": [
+        "Assuming that sponsored content is automatically inaccurate.",
+        "Failing to recognize explicit commercial disclosures.",
+        "Confusing a visible product with documented paid placement.",
+        "Assuming an unfavorable review cannot have commercial influences.",
+        "Treating an attractive or professional presentation as evidence of independence.",
+        "Making unsupported accusations about hidden financial relationships.",
+        "Identifying a commercial influence without explaining its relevance to audience interpretation."
+      ]
+    },
+    "10.T.C.2.c": {
+      "focus": "Explain how historical and disciplinary contexts influence perspectives and text creation",
+      "studentFriendly": "I can explain how the time period, circumstances, and field of study surrounding a text influence the author's perspective and the way the text is created.",
+      "know": [
+        "Historical context includes events, institutions, beliefs, technologies, social conditions, and cultural circumstances surrounding a text's creation.",
+        "Disciplinary context includes the questions, methods, evidence standards, vocabulary, and purposes of a field of study.",
+        "Authors and speakers may respond to events, controversies, institutions, and expectations of their time.",
+        "Perspectives may change as knowledge, social conditions, technologies, and institutions change.",
+        "Different disciplines may investigate the same topic through different methods and kinds of evidence.",
+        "Texts can reflect, challenge, or complicate the assumptions of their historical or disciplinary contexts.",
+        "A historical period or discipline contains multiple perspectives rather than a single uniform viewpoint.",
+        "Contextual interpretation requires credible evidence about the circumstances being discussed."
+      ],
+      "understand": [
+        "Texts are shaped by the circumstances in which they are created.",
+        "Historical context can clarify the significance of an author's choices without replacing textual analysis.",
+        "Disciplinary context influences what questions authors ask, what evidence they value, and how they communicate findings.",
+        "Comparing texts across time can reveal continuity, change, and competing interpretations.",
+        "Different disciplinary perspectives may contribute complementary insights to a complex issue.",
+        "An author's perspective may challenge rather than simply reflect dominant historical or disciplinary assumptions.",
+        "Responsible contextual analysis avoids unsupported generalizations about entire societies, cultures, or periods."
+      ],
+      "do": [
+        "Identify relevant historical circumstances surrounding a text's creation.",
+        "Investigate contextual information using credible sources.",
+        "Connect specific contextual factors to language, evidence, organization, or rhetorical choices.",
+        "Compare perspectives represented in texts from different historical periods.",
+        "Explain how historical changes influence perspectives and text creation.",
+        "Identify the disciplinary context of a text.",
+        "Compare the questions, methods, vocabulary, and evidence used by different disciplines.",
+        "Explain how disciplinary approaches influence the perspectives communicated in texts.",
+        "Analyze how a text reflects or challenges the assumptions of its context.",
+        "Develop an evidence-based explanation of the relationship between context, perspective, and text creation."
+      ],
+      "targets": [
+        "I can identify historical circumstances relevant to a text.",
+        "I can explain how context influences an author's perspective and choices.",
+        "I can compare perspectives across historical periods.",
+        "I can identify how different disciplines investigate the same topic.",
+        "I can explain how disciplinary context shapes a text's evidence and presentation.",
+        "I can support contextual analysis with textual and research evidence."
+      ],
+      "instruction": [
+        "Provide relevant contextual readings and timelines before analyzing historically distant texts.",
+        "Model how to connect a specific contextual circumstance to a particular textual feature.",
+        "Use text sets spanning different historical periods.",
+        "Compare historical accounts with later interpretations and contemporary perspectives.",
+        "Teach students to distinguish primary evidence, later recollections, and scholarly interpretations.",
+        "Use interdisciplinary source sets to demonstrate differences in methods and evidence.",
+        "Collaborate with content-area teachers to develop authentic disciplinary comparisons.",
+        "Require students to explain contextual relationships rather than merely list historical facts.",
+        "Encourage students to recognize competing perspectives within the same historical period or discipline."
+      ],
+      "evidence": [
+        "Accurate identification of relevant historical circumstances.",
+        "An explanation connecting contextual evidence to specific textual choices.",
+        "A comparative analysis of perspectives across historical periods.",
+        "A disciplinary comparison explaining differences in questions, methods, and evidence.",
+        "An analysis explaining how a text reflects or challenges contextual assumptions.",
+        "A research-supported interpretation of the relationship between context and text creation."
+      ],
+      "watchFor": [
+        "Providing historical background without connecting it to the text.",
+        "Assuming all authors in a historical period shared identical beliefs.",
+        "Applying contemporary assumptions without considering historical circumstances.",
+        "Treating an author's perspective as an inevitable product of identity or context.",
+        "Assuming that a later account is automatically more reliable than an earlier account.",
+        "Confusing disciplinary differences with differences in factual accuracy.",
+        "Using unsupported generalizations about cultures, historical periods, or fields of study.",
+        "Ignoring the ways authors may challenge dominant assumptions within their contexts."
+      ]
+    },
+    "10.T.C.2.d": {
+      "focus": "Synthesize information from credible sources to answer research questions",
+      "studentFriendly": "I can investigate a question that interests me, find several credible sources, connect their information and perspectives, and develop a well-supported answer that explains what I learned.",
+      "know": [
+        "A focused research question establishes the purpose and scope of an investigation.",
+        "Credible sources demonstrate relevant expertise, evidence, transparency, appropriate methods, and accountability.",
+        "Source credibility depends on the relationship between the source and the particular research question.",
+        "A variety of sources can provide complementary information, evidence, and perspectives.",
+        "Synthesis integrates ideas from multiple sources into a coherent understanding or argument.",
+        "Summary communicates the central ideas of a source, while synthesis explains relationships among sources.",
+        "Sources may agree, disagree, qualify, extend, or complicate one another.",
+        "A synthesis matrix organizes information according to shared questions, themes, claims, or findings.",
+        "Quotation, paraphrase, and summary are methods of integrating source information.",
+        "Attribution identifies the origins of information and ideas.",
+        "Research conclusions should reflect the scope, quality, and limitations of the available evidence.",
+        "Responsible researchers acknowledge uncertainty and unresolved questions."
+      ],
+      "understand": [
+        "Effective research begins with a meaningful question rather than a predetermined conclusion.",
+        "Using multiple credible sources can deepen understanding and reveal limitations that a single source might not address.",
+        "Credibility is determined through evidence and relevance rather than agreement with personal beliefs.",
+        "Different sources may contribute different kinds of information to the same research question.",
+        "Synthesis requires explaining relationships among ideas rather than merely collecting information.",
+        "Meaningful disagreement among credible sources can become an important part of a research conclusion.",
+        "Accurate attribution supports intellectual honesty and allows readers to evaluate evidence.",
+        "A defensible conclusion may acknowledge that the available evidence does not completely resolve a question."
+      ],
+      "do": [
+        "Develop a focused research question about an academic or individual topic of interest.",
+        "Identify the information needed to investigate the question.",
+        "Locate relevant sources through appropriate search strategies and research resources.",
+        "Evaluate sources for expertise, evidence, relevance, transparency, and limitations.",
+        "Use independent corroboration or lateral reading when appropriate.",
+        "Select a variety of credible sources that contribute meaningful information or perspectives.",
+        "Record source information and relevant evidence accurately.",
+        "Organize notes around ideas, questions, themes, claims, or findings.",
+        "Identify agreement, disagreement, qualification, and gaps across sources.",
+        "Integrate information through quotation, paraphrase, and summary.",
+        "Explain relationships among source ideas and evidence.",
+        "Distinguish source claims from the researcher's own interpretations.",
+        "Attribute information appropriately.",
+        "Develop a coherent explanation or argument answering the research question.",
+        "Acknowledge relevant limitations, uncertainty, and unresolved questions.",
+        "Revise a synthesis for accuracy, coherence, evidence integration, and clarity."
+      ],
+      "targets": [
+        "I can develop a focused research question.",
+        "I can locate and evaluate credible sources.",
+        "I can select sources that contribute different relevant information or perspectives.",
+        "I can organize research notes around ideas rather than only by source.",
+        "I can explain agreements, disagreements, and limitations across sources.",
+        "I can integrate evidence from multiple sources into a coherent paragraph or text.",
+        "I can attribute information accurately.",
+        "I can develop a conclusion supported by credible evidence."
+      ],
+      "instruction": [
+        "Model the development and refinement of focused research questions.",
+        "Teach students to identify the types of information needed to answer a question.",
+        "Provide access to school library databases and credible institutional resources.",
+        "Model source evaluation using expertise, evidence, relevance, transparency, and limitations.",
+        "Teach lateral reading and independent corroboration when investigating unfamiliar sources.",
+        "Use synthesis matrices to organize information around meaningful ideas.",
+        "Compare source-by-source summaries with integrated synthesis paragraphs.",
+        "Model transitions that communicate agreement, disagreement, qualification, and extension.",
+        "Teach students to integrate quotations, paraphrases, and summaries with appropriate attribution.",
+        "Provide opportunities to revise research questions as evidence develops.",
+        "Require students to explain the relationships among sources rather than simply include multiple citations.",
+        "Encourage research on authentic academic and individual interests.",
+        "Use research conferences to support independent source selection and synthesis.",
+        "Assess evidence quality, integration, reasoning, attribution, and the strength of conclusions."
+      ],
+      "evidence": [
+        "A focused and researchable question.",
+        "A collection of relevant and credible sources.",
+        "Source evaluation notes documenting evidence, expertise, relevance, and limitations.",
+        "A synthesis matrix organized around shared ideas or questions.",
+        "A paragraph accurately integrating information from multiple sources.",
+        "An explanation of meaningful agreements, disagreements, or qualifications across sources.",
+        "Appropriate attribution of quotations, paraphrases, summaries, and ideas.",
+        "An extended synthesis organized around a coherent explanation or argument.",
+        "A defensible conclusion that reflects the available evidence.",
+        "Acknowledgment of meaningful uncertainty, limitations, or unresolved questions.",
+        "Independent application of research and synthesis strategies to a new topic."
+      ],
+      "watchFor": [
+        "Beginning research with a conclusion that students attempt to confirm.",
+        "Selecting sources primarily because they agree with an initial opinion.",
+        "Evaluating credibility solely through website appearance or domain type.",
+        "Using sources that are credible in general but irrelevant to the specific research question.",
+        "Confusing the number of sources with the quality of research.",
+        "Collecting quotations without identifying their relevance or relationships.",
+        "Organizing writing as disconnected summaries of individual sources.",
+        "Failing to distinguish source information from the student's interpretation.",
+        "Forcing sources into agreement or ignoring meaningful disagreements.",
+        "Using quotations as substitutes for analysis.",
+        "Paraphrasing too closely or failing to attribute information.",
+        "Drawing conclusions stronger than the evidence supports.",
+        "Ignoring limitations or uncertainty in the available research.",
+        "Assessing research primarily through citation formatting rather than evidence quality and synthesis."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, permissions, age suitability, historical context, and the current accuracy of digital media examples. Commercial relationships should be identified through explicit disclosures or other documented evidence rather than unsupported assumptions."
+}
