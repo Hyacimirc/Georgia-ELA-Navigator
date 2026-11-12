@@ -7781,3 +7781,777 @@
   ],
   "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works. Confirm access, permissions, excerpt length, age suitability, and any recording or performance restrictions. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Expectation 9.P.CP.2.e explicitly includes recitation of significant poems and speeches; include meaningful recitation in instruction and assessment rather than treating it as optional enrichment. Support varied communication styles and accessibility needs while maintaining the standard's emphasis on purposeful, clear presentation and audience dialogue."
    },
+
+{
+  "code": "10.L.GC.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Grammar, Usage, & Mechanics",
+  "studentFriendly": "I can use grammar, usage, and punctuation to communicate clearly and effectively. I can use dashes deliberately to create meaning and emphasis, and I can consult an appropriate style guide when I encounter complicated writing or editing decisions.",
+  "know": [
+    "Standard English conventions support clarity, consistency, credibility, and effective communication.",
+    "An em dash can signal an interruption, an abrupt shift, an explanation, an amplification, or emphatic information.",
+    "A pair of em dashes can set off an interrupting or parenthetical element within a sentence.",
+    "An en dash commonly indicates a range or relationship, depending on the applicable style guide.",
+    "A hyphen joins words or word elements and serves a different function from a dash.",
+    "Dashes, commas, parentheses, colons, and semicolons have distinct grammatical and rhetorical functions.",
+    "A punctuation choice can influence pacing, emphasis, tone, and the relationship between ideas.",
+    "Style guides establish conventions for particular disciplines, publications, and communication contexts.",
+    "MLA, APA, Chicago, and AP style serve different audiences and purposes.",
+    "Style guides may differ in their recommendations about punctuation, capitalization, numbers, abbreviations, and other conventions.",
+    "A dictionary, grammar handbook, and style guide serve related but distinct reference functions.",
+    "Writers and editors must distinguish between grammatical errors, stylistic preferences, and conventions required by a particular publication or assignment.",
+    "Standard English conventions vary across historical periods, genres, and rhetorical situations.",
+    "Dialogue, dialect, and deliberate departures from conventional grammar may serve meaningful literary and rhetorical purposes."
+  ],
+  "understand": [
+    "Effective writers use conventions to communicate meaning rather than merely to satisfy a checklist of rules.",
+    "Punctuation influences how readers interpret relationships between ideas and experience the rhythm of a text.",
+    "A dash can create a stronger interruption or emphasis than a comma or parenthesis, but its effectiveness depends on context.",
+    "Multiple grammatically acceptable revisions may produce different rhetorical effects.",
+    "Consistent adherence to an appropriate style guide supports credibility and readability within a particular discourse community.",
+    "Professional writers and editors consult reference resources rather than relying entirely on memory.",
+    "A convention that is appropriate in one genre or discipline may be inappropriate in another.",
+    "Language choices should be evaluated in relation to audience, purpose, genre, and context.",
+    "Editing is an iterative process involving diagnosis, consultation, revision, and evaluation.",
+    "Respect for linguistic diversity can coexist with instruction in the conventions expected in formal academic and professional contexts."
+  ],
+  "do": [
+    "Identify em dashes, en dashes, and hyphens in authentic texts and explain their distinct functions.",
+    "Analyze how an author's use of dashes affects meaning, emphasis, pacing, and tone.",
+    "Use a single em dash to introduce an explanation, interruption, amplification, or emphatic conclusion when appropriate.",
+    "Use paired em dashes to set off interrupting information while maintaining the grammatical integrity of the surrounding sentence.",
+    "Revise sentences using alternative punctuation and explain the effect of each revision.",
+    "Identify and correct inappropriate, unnecessary, or inconsistent dash usage.",
+    "Distinguish between a grammatically necessary punctuation correction and an optional stylistic revision.",
+    "Select an appropriate style guide for an academic, journalistic, literary, or professional writing task.",
+    "Locate relevant guidance in a style guide using an index, table of contents, search function, or topic heading.",
+    "Apply a style guide's recommendations to resolve complex grammar, usage, or mechanics questions.",
+    "Explain and document an editorial decision using evidence from an authoritative reference.",
+    "Revise a complete text for clarity, consistency, grammatical accuracy, and rhetorical effectiveness.",
+    "Evaluate when unconventional language or punctuation is an intentional and effective authorial choice.",
+    "Transfer editing strategies to independent writing across content areas."
+  ],
+  "vocabulary": [
+    {
+      "term": "Convention",
+      "definition": "An established practice or expectation governing language use in a particular context.",
+      "example": "Academic writing generally follows conventions for capitalization, punctuation, and sentence structure."
+    },
+    {
+      "term": "Grammar",
+      "definition": "The system governing how words and grammatical structures combine to communicate meaning.",
+      "example": "Subject-verb agreement is a grammatical convention."
+    },
+    {
+      "term": "Usage",
+      "definition": "The ways words and expressions are conventionally employed in particular contexts.",
+      "example": "A writer consults a usage guide to determine whether a disputed expression is appropriate in formal prose."
+    },
+    {
+      "term": "Mechanics",
+      "definition": "The written conventions of punctuation, capitalization, spelling, and related formatting.",
+      "example": "Correct placement of quotation marks is a matter of mechanics."
+    },
+    {
+      "term": "Em dash",
+      "definition": "A long dash used to signal interruption, amplification, explanation, or emphasis.",
+      "example": "She had one objective—to finish the experiment before sunset."
+    },
+    {
+      "term": "En dash",
+      "definition": "A dash shorter than an em dash, commonly used to indicate ranges or relationships.",
+      "example": "Read chapters 4–7."
+    },
+    {
+      "term": "Hyphen",
+      "definition": "A short punctuation mark used to join words or word elements.",
+      "example": "The committee developed a long-term plan."
+    },
+    {
+      "term": "Parenthetical element",
+      "definition": "Supplementary information inserted into a sentence that is not essential to its grammatical structure.",
+      "example": "The manuscript—lost for nearly a century—was discovered in an archive."
+    },
+    {
+      "term": "Interruption",
+      "definition": "A break in the grammatical or rhetorical flow of a sentence.",
+      "example": "The answer—if there was an answer—remained uncertain."
+    },
+    {
+      "term": "Amplification",
+      "definition": "The expansion or elaboration of an idea to clarify or emphasize its significance.",
+      "example": "The storm destroyed everything—the roads, the bridges, and the town's only hospital."
+    },
+    {
+      "term": "Rhetorical effect",
+      "definition": "The influence a language choice has on an audience's understanding, emotions, or interpretation.",
+      "example": "An em dash can create a sudden shift that emphasizes a revelation."
+    },
+    {
+      "term": "Style guide",
+      "definition": "An authoritative reference establishing conventions for writing, editing, and formatting within a particular context.",
+      "example": "A student consults the MLA Handbook while editing a literary analysis."
+    },
+    {
+      "term": "Editorial consistency",
+      "definition": "The application of the same appropriate conventions throughout a document or publication.",
+      "example": "An editor checks that dates, abbreviations, and punctuation follow a consistent style."
+    },
+    {
+      "term": "Discourse community",
+      "definition": "A group that shares communication practices, purposes, and expectations.",
+      "example": "Scientists, journalists, and literary scholars belong to discourse communities with different writing conventions."
+    },
+    {
+      "term": "Register",
+      "definition": "The level or variety of language appropriate to a particular situation, audience, or purpose.",
+      "example": "A research report generally uses a more formal register than a conversation between friends."
+    },
+    {
+      "term": "Copyediting",
+      "definition": "The process of reviewing written material for accuracy, clarity, consistency, grammar, usage, and mechanics.",
+      "example": "A copyeditor checks a magazine article against the publication's style guide."
+    }
+  ],
+  "targets": [
+    "I can distinguish among em dashes, en dashes, and hyphens.",
+    "I can explain why an author uses a dash instead of another punctuation mark.",
+    "I can use a single em dash to create an effective interruption, explanation, or emphasis.",
+    "I can use paired em dashes to set off supplementary information.",
+    "I can revise punctuation to create a deliberate rhetorical effect.",
+    "I can identify the style guide appropriate to a particular writing situation.",
+    "I can locate and interpret guidance about a complex writing or editing question.",
+    "I can justify an editorial decision using an authoritative reference.",
+    "I can distinguish between grammatical errors and intentional stylistic choices.",
+    "I can independently edit my writing for clarity, accuracy, and consistency."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Because I could not stop for Death",
+      "author": "Emily Dickinson",
+      "genre": "Poetry",
+      "purpose": "Analyze how dashes influence rhythm, interruption, ambiguity, and the reader's experience of time.",
+      "access": "Public-domain poem available through established poetry archives. Compare editions because editorial treatment of Dickinson's punctuation varies.",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Moderate; short text with figurative language and unconventional punctuation.",
+      "teachingPrompt": "How would replacing Dickinson's dashes with conventional punctuation change the poem's pacing and meaning?"
+    },
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "genre": "Short story",
+      "purpose": "Examine how punctuation, repetition, and interruptions contribute to an unreliable narrator's emotional intensity.",
+      "access": "Public domain; available through Project Gutenberg and other established literary archives.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; suspenseful narrative with some nineteenth-century vocabulary.",
+      "interestHook": "A narrator insists on being sane while describing increasingly disturbing behavior.",
+      "teachingPrompt": "Which punctuation choices help create the narrator's frantic voice, and what would be lost if the passage were conventionally punctuated?"
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Analyze how interruptions, elaboration, and carefully structured sentences contribute to the development of an argument.",
+      "access": "Use an authorized edition or a school-licensed anthology; copyright and reproduction permissions apply.",
+      "readingTime": "15–25 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Advanced; provide historical context and sentence-level scaffolding.",
+      "teachingPrompt": "How do punctuation and sentence structure help the writer clarify complex relationships between ideas?"
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Novel in vignettes",
+      "purpose": "Distinguish intentional literary departures from formal conventions from errors that interfere with communication.",
+      "access": "School library, licensed ebook, or purchased edition.",
+      "readingTime": "10–15 minutes for selected vignettes",
+      "highInterest": true,
+      "accessibility": "Accessible prose with layered literary and cultural meaning.",
+      "interestHook": "Short, vivid accounts of identity, belonging, family, and neighborhood life.",
+      "teachingPrompt": "How do the author's sentence structures and punctuation contribute to the narrator's distinctive voice?"
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and transcript",
+      "purpose": "Compare the punctuation of a published transcript with the speaker's pauses, shifts, and emphasis.",
+      "access": "Official TED talk and transcript; consult applicable terms of use.",
+      "readingTime": "10–15 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Accessible spoken language with important cultural and rhetorical complexity.",
+      "teachingPrompt": "How can an editor represent a speaker's interruptions and changes in emphasis without distorting the original meaning?"
+    },
+    {
+      "title": "The Case for Reparations",
+      "author": "Ta-Nehisi Coates",
+      "genre": "Long-form journalism",
+      "purpose": "Examine how editorial conventions and sentence-level choices support clarity in a complex argument.",
+      "access": "Published by The Atlantic; use an authorized excerpt or available institutional subscription.",
+      "readingTime": "15–20 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Advanced; requires historical and contextual scaffolding.",
+      "teachingPrompt": "How does the writer manage supplementary information while maintaining the momentum of the central argument?"
+    },
+    {
+      "title": "The Punctuation Guide",
+      "author": "Jordan Penn",
+      "genre": "Online reference",
+      "purpose": "Consult explanations and examples of em dashes, en dashes, and hyphens while solving authentic editing problems.",
+      "access": "https://www.thepunctuationguide.com/",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Accessible reference text with concise examples.",
+      "teachingPrompt": "Which punctuation mark best communicates the intended relationship between these ideas?"
+    },
+    {
+      "title": "MLA Handbook",
+      "author": "Modern Language Association",
+      "genre": "Academic style guide",
+      "purpose": "Locate and apply conventions appropriate to humanities research and literary analysis.",
+      "access": "School library reference collection, purchased edition, or MLA Handbook Plus subscription.",
+      "readingTime": "5–15 minutes for targeted consultation",
+      "highInterest": false,
+      "accessibility": "Reference-oriented; teach students to navigate by topic rather than read sequentially.",
+      "teachingPrompt": "What does the applicable guidance recommend, and how should that recommendation affect the student's draft?"
+    },
+    {
+      "title": "Publication Manual of the American Psychological Association",
+      "author": "American Psychological Association",
+      "genre": "Academic style guide",
+      "purpose": "Compare disciplinary conventions and practice resolving editorial questions in scientific or social-scientific writing.",
+      "access": "School library, purchased edition, or selected guidance at https://apastyle.apa.org/",
+      "readingTime": "5–15 minutes for targeted consultation",
+      "highInterest": false,
+      "accessibility": "Moderate to advanced; use focused editorial questions.",
+      "teachingPrompt": "How might the conventions appropriate to a psychology research report differ from those used in a literary analysis?"
+    },
+    {
+      "title": "The Chicago Manual of Style",
+      "author": "University of Chicago Press",
+      "genre": "Professional editorial reference",
+      "purpose": "Investigate complex punctuation and usage questions and examine the role of editorial judgment.",
+      "access": "Library reference collection or subscription; selected public guidance at https://www.chicagomanualofstyle.org/",
+      "readingTime": "5–15 minutes for targeted consultation",
+      "highInterest": false,
+      "accessibility": "Advanced reference resource; provide specific lookup tasks.",
+      "teachingPrompt": "What factors determine whether a punctuation decision is a rule, a preference, or a publication-specific requirement?"
+    },
+    {
+      "title": "AP Stylebook",
+      "author": "Associated Press",
+      "genre": "Journalistic style guide",
+      "purpose": "Explore conventions appropriate to journalism and compare them with academic writing conventions.",
+      "access": "Library reference collection, purchased edition, or institutional subscription.",
+      "readingTime": "5–15 minutes for targeted consultation",
+      "highInterest": false,
+      "accessibility": "Moderate; use authentic school newspaper examples.",
+      "teachingPrompt": "Why might a newspaper and an academic journal make different editorial choices while both remaining credible?"
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "15–20 min",
+      "title": "Three marks, three jobs",
+      "activity": "Students sort authentic and teacher-created examples into em dash, en dash, and hyphen categories. They identify the relationship communicated by each mark and correct examples in which the marks have been confused. Students finish by composing one original example of each.",
+      "materials": [
+        "Punctuation sorting cards",
+        "Short mentor-text excerpts",
+        "Three-column reference chart"
+      ],
+      "scaffolds": "Provide color-coded punctuation marks, annotated examples, a reference chart, and sentence frames explaining the function of each mark.",
+      "success": "Students correctly classify at least eight of ten examples and produce three original sentences demonstrating the distinct functions of the punctuation marks.",
+      "alignment": [
+        "10.L.GC.1",
+        "10.L.GC.1.60"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Build the interrupted sentence",
+      "activity": "Students begin with a complete sentence and identify its subject and predicate. They insert a supplementary phrase using paired em dashes, then remove the phrase to verify that the original sentence remains grammatically complete. Students revise examples containing misplaced or unmatched dashes.",
+      "materials": [
+        "Sentence strips",
+        "Supplementary phrase cards",
+        "Revision checklist"
+      ],
+      "scaffolds": "Model the process with a think-aloud. Underline the sentence's essential grammatical structure and place brackets around supplementary information before adding punctuation.",
+      "success": "Students correctly construct and revise four of five sentences containing paired em dashes and explain why the surrounding sentence remains complete.",
+      "alignment": [
+        "10.L.GC.1.60"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Find the answer, not the guess",
+      "activity": "Students receive a short list of editing questions and a teacher-selected style guide. They practice identifying keywords, navigating the reference, locating relevant guidance, and recording the recommendation in their own words. Students apply the guidance to a sample sentence.",
+      "materials": [
+        "Accessible style guide",
+        "Editorial question worksheet",
+        "Reference-navigation organizer"
+      ],
+      "scaffolds": "Provide suggested search terms, section headings, a partially completed model, and guided practice before independent consultation.",
+      "success": "Students locate appropriate guidance for three editorial questions and correctly apply the recommendation to at least two sample sentences.",
+      "alignment": [
+        "10.L.GC.1.61"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "30–40 min",
+      "title": "Punctuation changes the meaning",
+      "activity": "Students examine sentences from literary and informational mentor texts. They create alternative versions using commas, parentheses, colons, or em dashes where grammatically appropriate. In a short analytical response, students compare the effects of the revisions on pacing, emphasis, tone, and clarity.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Punctuation comparison organizer",
+        "Writing notebook"
+      ],
+      "scaffolds": "Provide an initial modeled comparison and a vocabulary bank containing interruption, amplification, emphasis, and parenthetical information.",
+      "success": "Students produce three grammatically defensible revisions and explain the rhetorical effect of each punctuation choice using specific evidence.",
+      "alignment": [
+        "10.L.GC.1.60"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "The editorial desk",
+      "activity": "Students act as copyeditors for a school publication. They receive a draft containing complex punctuation, capitalization, abbreviation, and usage decisions. Using a designated style guide, they identify issues, revise the draft, and create an editorial decision log explaining the guidance behind each substantive change.",
+      "materials": [
+        "Teacher-created publication draft",
+        "Designated style guide",
+        "Editorial decision log"
+      ],
+      "scaffolds": "Provide a model editorial decision that identifies the issue, cites the reference location, explains the recommendation, and presents the revision.",
+      "success": "Students resolve at least five editorial issues accurately and document the reasoning and reference guidance supporting their decisions.",
+      "alignment": [
+        "10.L.GC.1",
+        "10.L.GC.1.60",
+        "10.L.GC.1.61"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "30–40 min",
+      "title": "Author's punctuation fingerprint",
+      "activity": "Students examine a passage from Emily Dickinson, Edgar Allan Poe, or another teacher-selected author. They annotate recurring punctuation patterns and explain how those patterns contribute to the author's voice. Students then write a short original passage that uses a similar punctuation strategy for a different purpose.",
+      "materials": [
+        "Literary mentor text",
+        "Annotation guide",
+        "Original-writing prompt"
+      ],
+      "scaffolds": "Provide a short list of possible rhetorical effects and model how to connect a punctuation choice to a specific interpretation.",
+      "success": "Students support an interpretation with at least three textual examples and use a comparable punctuation strategy effectively in their own writing.",
+      "alignment": [
+        "10.L.GC.1.60"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "30–45 min",
+      "title": "Edit your own argument",
+      "activity": "Students revisit an argumentative essay or research-based paragraph. They identify places where punctuation or usage affects clarity, consult an appropriate reference, and make purposeful revisions. Students submit the original passage, revised passage, and a brief reflection explaining their editorial decisions.",
+      "materials": [
+        "Student writing draft",
+        "Appropriate academic style guide",
+        "Revision reflection template"
+      ],
+      "scaffolds": "Provide a checklist emphasizing sentence boundaries, supplementary information, consistency, and punctuation choices that support the argument.",
+      "success": "Students make at least three substantive, justified revisions that improve clarity, accuracy, or rhetorical effectiveness.",
+      "alignment": [
+        "10.L.GC.1",
+        "10.L.GC.1.60",
+        "10.L.GC.1.61"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "45–60 min",
+      "title": "One story, three editorial styles",
+      "activity": "Students adapt a short informational text for three different contexts: a school newspaper, a humanities publication, and a social-science report. They consult appropriate style resources, identify meaningful differences in conventions, and create an editorial rationale explaining how their revisions respond to each audience and purpose.",
+      "materials": [
+        "Common source passage",
+        "MLA reference",
+        "APA reference",
+        "AP Stylebook or teacher-provided authorized guidance"
+      ],
+      "scaffolds": "Offer a comparison matrix but require students to independently identify and investigate the editorial questions.",
+      "success": "Students produce three internally consistent versions and accurately explain at least four context-specific editorial decisions using authoritative references.",
+      "alignment": [
+        "10.L.GC.1.61"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "45–60 min",
+      "title": "The intentional rule-breaker",
+      "activity": "Students investigate an author whose punctuation or syntax departs from conventional formal prose. They analyze the relationship between the unconventional choices and the text's voice, genre, and meaning. Students write a critical editorial memo distinguishing deliberate stylistic decisions from changes that would improve readability without erasing the author's voice.",
+      "materials": [
+        "Selected literary text",
+        "Grammar and style references",
+        "Editorial memo template"
+      ],
+      "scaffolds": "Provide guiding questions about voice, audience, linguistic diversity, historical context, and the limits of editorial intervention.",
+      "success": "Students construct a nuanced argument supported by textual evidence and explain which features should be preserved, revised, or evaluated according to context.",
+      "alignment": [
+        "10.L.GC.1",
+        "10.L.GC.1.60",
+        "10.L.GC.1.61"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "Create a publication style sheet",
+      "activity": "Students develop a concise editorial style sheet for a school literary magazine, research journal, or student newspaper. They select an appropriate governing style guide, identify recurring editorial decisions, create examples, and explain how the style sheet will promote consistency while respecting authorial voice.",
+      "materials": [
+        "Sample publications",
+        "Appropriate style guide",
+        "Style sheet template"
+      ],
+      "scaffolds": "Provide examples of editorial style sheets and require students to distinguish established reference guidance from publication-specific preferences.",
+      "success": "Students create a usable style sheet containing at least eight accurate conventions, illustrative examples, and a clear rationale for the selected editorial approach.",
+      "alignment": [
+        "10.L.GC.1.61"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Selected response",
+      "prompt": "Which sentence uses an em dash appropriately to introduce an emphatic explanation?",
+      "options": [
+        "The students read pages 12—18 before class.",
+        "The committee faced one major obstacle—a lack of reliable funding.",
+        "The committee developed a long—term strategy.",
+        "The students—submitted their assignments on Friday."
+      ],
+      "answer": "B",
+      "rationale": "The em dash introduces an explanation of the major obstacle. Option A uses an em dash for a numerical range, option C substitutes a dash for a hyphen, and option D unnecessarily interrupts the subject and predicate."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which sentence correctly uses paired em dashes to set off supplementary information?",
+      "options": [
+        "The exhibition—originally scheduled for May—opened in June.",
+        "The exhibition—originally scheduled for May, opened in June.",
+        "The exhibition originally—scheduled for May opened—in June.",
+        "The exhibition—opened in June—because."
+      ],
+      "answer": "A",
+      "rationale": "The paired dashes enclose a supplementary phrase. Removing the phrase leaves the complete sentence: The exhibition opened in June."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best explains the rhetorical effect of the dash in the sentence: The hikers expected a difficult journey—but nothing could have prepared them for the storm.",
+      "options": [
+        "It joins two words into a compound adjective.",
+        "It introduces a numerical range.",
+        "It creates an emphatic shift from expectation to unexpected reality.",
+        "It indicates that the sentence contains a quotation."
+      ],
+      "answer": "C",
+      "rationale": "The dash emphasizes the contrast between what the hikers expected and the severity of what they experienced."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which punctuation mark is conventionally appropriate for indicating a range of years in a style that uses en dashes for ranges?",
+      "options": [
+        "Em dash",
+        "En dash",
+        "Apostrophe",
+        "Semicolon"
+      ],
+      "answer": "B",
+      "rationale": "An en dash commonly indicates a range, such as 1914–1918. Writers should follow the applicable style guide."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student is preparing a literary analysis for an English class that requires MLA style. Which resource is most appropriate for resolving a complex question about the assignment's editorial conventions?",
+      "options": [
+        "The MLA Handbook",
+        "The AP Stylebook",
+        "A social media discussion",
+        "An unverified grammar correction website"
+      ],
+      "answer": "A",
+      "rationale": "The assignment explicitly requires MLA style, making the MLA Handbook the appropriate governing reference."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Two style guides recommend different conventions for the same punctuation issue. What should a writer do first?",
+      "options": [
+        "Assume that the newer guide is always correct.",
+        "Choose whichever recommendation requires less editing.",
+        "Identify which style guide governs the intended publication or assignment.",
+        "Avoid using the punctuation mark altogether."
+      ],
+      "answer": "C",
+      "rationale": "Editorial conventions depend on context. The writer should first establish which reference applies to the intended audience and publication."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best describes the relationship between grammar and style?",
+      "options": [
+        "Every stylistic preference is a universal grammatical rule.",
+        "Grammar concerns language structure, while style includes choices shaped by context, purpose, and editorial conventions.",
+        "Style applies only to fictional writing.",
+        "Grammar and style are unrelated to meaning."
+      ],
+      "answer": "B",
+      "rationale": "Grammar and style are related but distinct. Multiple grammatically acceptable constructions may be evaluated differently according to rhetorical purpose or editorial expectations."
+    },
+    {
+      "type": "Editing",
+      "prompt": "Revise the following sentence to correct its punctuation: The researcher originally trained as a chemist—developed a new method for analyzing the samples.",
+      "answer": "One acceptable revision is: The researcher—originally trained as a chemist—developed a new method for analyzing the samples.",
+      "rationale": "The supplementary phrase requires a matching opening dash if paired em dashes are used. The essential sentence is The researcher developed a new method for analyzing the samples."
+    },
+    {
+      "type": "Editing",
+      "prompt": "Revise the sentence using appropriate punctuation for both the compound modifier and the numerical range: The students completed a three—week project covering chapters 5—9.",
+      "answer": "The students completed a three-week project covering chapters 5–9.",
+      "rationale": "The hyphen joins the compound modifier three-week. An en dash indicates the chapter range under conventions that use en dashes for ranges."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Compare these sentences: The answer, surprisingly, was correct. The answer—surprisingly—was correct. Explain how the punctuation changes the reader's experience.",
+      "answer": "Both sentences are grammatically acceptable. The commas integrate the supplementary word more smoothly into the sentence, while the paired em dashes create a stronger interruption and emphasize the speaker's surprise.",
+      "rationale": "A complete response identifies the supplementary element and explains a meaningful difference in pacing or emphasis."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why a writer might use an em dash rather than a colon to introduce an explanation.",
+      "answer": "An em dash can introduce an explanation with a stronger sense of interruption, immediacy, or emphasis. A colon often creates a more formal or anticipated relationship between a complete introductory clause and the explanation. The most effective choice depends on the sentence structure and rhetorical purpose.",
+      "rationale": "Students should explain a contextual difference rather than claim that the two marks are always interchangeable."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "An editor notices that a poet repeatedly uses unconventional punctuation. Explain why automatically correcting every instance may be inappropriate.",
+      "answer": "Unconventional punctuation may be an intentional artistic choice that shapes rhythm, voice, ambiguity, or meaning. An editor should examine the genre, historical context, authorial purpose, and publication requirements before making changes.",
+      "rationale": "Students should distinguish deliberate stylistic choices from errors and explain the importance of context."
+    },
+    {
+      "type": "Reference-based response",
+      "prompt": "Your school newspaper has adopted AP style. Locate guidance in an appropriate reference about dash usage or another teacher-assigned mechanics question. Record the reference location, summarize the recommendation, and apply it to a sample sentence.",
+      "answer": "Responses will vary according to the selected question and edition of the reference. A successful response identifies the governing guide, accurately locates and paraphrases the relevant recommendation, and applies it correctly.",
+      "rationale": "This task assesses independent consultation and application rather than memorization of a particular style rule."
+    },
+    {
+      "type": "Reference-based response",
+      "prompt": "Investigate a complex editorial question using two authoritative style guides. Explain whether their recommendations differ and identify which recommendation should govern a particular writing task.",
+      "answer": "Responses should accurately represent both references, identify any meaningful differences or similarities, and justify the applicable recommendation using the assignment's audience, purpose, discipline, or publication requirements.",
+      "rationale": "Students demonstrate that editorial conventions are contextual and that authoritative references must be selected deliberately."
+    },
+    {
+      "type": "Extended constructed response",
+      "prompt": "Analyze how an author uses dashes and other punctuation in a selected literary or informational passage. Explain how these choices influence meaning, pacing, emphasis, or voice. Include at least three specific textual examples.",
+      "answer": "A strong response develops a defensible interpretation, accurately identifies punctuation functions, connects specific examples to rhetorical effects, and explains how the choices contribute to the passage's larger purpose.",
+      "rationale": "Score the accuracy of grammatical analysis, relevance of textual evidence, depth of rhetorical interpretation, and clarity of explanation."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Edit a complete student-written or teacher-provided article for publication. Resolve complex grammar, usage, and mechanics questions using an appropriate style guide. Submit the original draft, revised draft, and an editorial decision log.",
+      "answer": "Successful work demonstrates accurate and purposeful revisions, consistent application of the designated style, reliable reference consultation, and clear explanations of substantive editorial decisions.",
+      "rationale": "Evaluate the quality of revisions, accuracy of reference use, consistency, rhetorical effectiveness, and independence."
+    }
+  ],
+  "evidence": [
+    "Accurate identification and explanation of em dashes, en dashes, and hyphens in authentic texts.",
+    "Original sentences demonstrating effective single and paired em dash usage.",
+    "Revisions that preserve grammatical accuracy while changing emphasis, pacing, or tone.",
+    "Annotations connecting an author's punctuation choices to rhetorical or literary effects.",
+    "An editorial decision log identifying a complex language question, relevant reference guidance, and an appropriate revision.",
+    "Correct selection of a governing style guide for a specified writing context.",
+    "Evidence of independent navigation and consultation of an authoritative reference.",
+    "A revised academic or professional text demonstrating consistent and appropriate conventions.",
+    "An explanation distinguishing mandatory conventions from optional stylistic preferences.",
+    "A comparison of editorial recommendations across different discourse communities.",
+    "A reflective explanation of how revision improved the clarity or effectiveness of a text.",
+    "Transfer of grammar, usage, mechanics, and reference-consultation skills to unfamiliar writing tasks."
+  ],
+  "instruction": [
+    "Begin with authentic sentences that demonstrate how punctuation affects meaning rather than presenting punctuation marks as isolated rules.",
+    "Teach the visual and functional distinctions among em dashes, en dashes, and hyphens.",
+    "Model how to identify the essential grammatical structure of a sentence before inserting supplementary information.",
+    "Use sentence combining and sentence revision to develop flexibility with punctuation choices.",
+    "Compare multiple grammatically acceptable revisions and discuss their different rhetorical effects.",
+    "Teach students to distinguish a dash introducing amplification from paired dashes enclosing an interruption.",
+    "Use literary passages to explore how punctuation contributes to characterization, voice, pacing, and tone.",
+    "Compare spoken delivery with written transcripts to examine how editors represent pauses and interruptions.",
+    "Introduce style guides through authentic editorial questions rather than assigning entire reference chapters.",
+    "Model how professional writers identify an editorial question, locate guidance, evaluate the recommendation, and apply it.",
+    "Provide access to appropriate style references through the school library, licensed databases, or authorized online resources.",
+    "Teach students to record the title, edition, and relevant section of a reference when documenting editorial decisions.",
+    "Distinguish between grammatical rules, editorial conventions, and individual stylistic preferences.",
+    "Use cross-curricular examples from literary analysis, journalism, and scientific or social-scientific writing.",
+    "Encourage students to preserve effective authorial voice rather than mechanically standardizing every unconventional construction.",
+    "Provide feedback that explains how a revision improves communication, not merely whether a rule was followed.",
+    "Use peer editing protocols requiring students to justify substantive recommendations with evidence.",
+    "Gradually remove scaffolds so students independently consult references during authentic writing and revision."
+  ],
+  "watchFor": [
+    "Confusing em dashes, en dashes, and hyphens because of their similar visual appearance.",
+    "Using an em dash wherever a writer would pause while speaking.",
+    "Inserting unnecessary dashes between a subject and its predicate.",
+    "Using paired dashes without checking that the surrounding sentence remains grammatically complete.",
+    "Leaving an opening or closing dash unmatched when supplementary information requires paired punctuation.",
+    "Using an em dash in a compound modifier that conventionally requires a hyphen.",
+    "Using the same punctuation mark for every type of interruption, range, or word relationship.",
+    "Assuming dashes, commas, parentheses, colons, and semicolons are always interchangeable.",
+    "Overusing em dashes until their rhetorical emphasis becomes ineffective.",
+    "Treating punctuation choices as purely mechanical rather than considering their effects on readers.",
+    "Assuming one style guide governs all academic and professional writing.",
+    "Treating a style guide's preference as a universal grammatical requirement.",
+    "Relying on an automated grammar checker without evaluating its recommendations.",
+    "Using an unverified online explanation instead of an authoritative reference when resolving a complex question.",
+    "Consulting a reference without identifying the applicable writing context or edition.",
+    "Copying reference guidance without understanding how it applies to the sentence.",
+    "Correcting literary dialect, dialogue, or deliberate stylistic departures without considering their purpose.",
+    "Equating adherence to Standard English conventions with intelligence or the inherent value of a language variety.",
+    "Assessing punctuation through isolated worksheets without evaluating transfer to authentic writing.",
+    "Rewarding the mere presence of a dash rather than its grammatical accuracy and rhetorical effectiveness."
+  ],
+  "skills": {
+    "10.L.GC.1.60": {
+      "focus": "Use dashes appropriately",
+      "studentFriendly": "I can choose and use dashes correctly to show interruptions, explanations, emphasis, or other appropriate relationships between ideas.",
+      "know": [
+        "Em dashes, en dashes, and hyphens are distinct punctuation marks.",
+        "A single em dash can introduce an interruption, explanation, amplification, or emphatic shift.",
+        "Paired em dashes can enclose supplementary information.",
+        "An en dash commonly indicates a range or relationship under applicable editorial conventions.",
+        "The grammatical structure of the surrounding sentence determines whether a punctuation choice is appropriate.",
+        "Spacing and some dash conventions vary by style guide.",
+        "Dashes can influence pacing, emphasis, tone, and voice."
+      ],
+      "understand": [
+        "Appropriate dash usage depends on both grammatical structure and rhetorical purpose.",
+        "A dash can create a stronger interruption or emphasis than other punctuation choices.",
+        "Punctuation should clarify relationships between ideas rather than create unnecessary complexity.",
+        "A grammatically acceptable dash is not necessarily the most effective stylistic choice.",
+        "Editorial conventions influence the presentation of dashes in published writing."
+      ],
+      "do": [
+        "Identify the type and function of a dash in a sentence.",
+        "Distinguish dashes from hyphens in authentic writing.",
+        "Use single em dashes accurately to introduce appropriate explanations or emphatic shifts.",
+        "Use paired em dashes accurately to enclose supplementary information.",
+        "Check the grammatical completeness of a sentence containing an interrupting element.",
+        "Apply appropriate conventions for numerical ranges and other dash-related editorial questions.",
+        "Revise inappropriate or excessive dash usage.",
+        "Compare alternative punctuation choices and explain their rhetorical effects.",
+        "Use dashes purposefully in independent academic, literary, and professional writing."
+      ],
+      "targets": [
+        "I can identify the function of a dash in an authentic text.",
+        "I can distinguish among em dashes, en dashes, and hyphens.",
+        "I can use single and paired em dashes correctly.",
+        "I can explain how a dash affects emphasis, pacing, or meaning.",
+        "I can revise dash usage to improve clarity and effectiveness."
+      ],
+      "instruction": [
+        "Introduce punctuation through authentic examples and explicit comparisons.",
+        "Model the grammatical structure of sentences containing supplementary information.",
+        "Have students remove parenthetical material to test the completeness of the surrounding sentence.",
+        "Use sentence transformations to compare dashes with commas, parentheses, and colons.",
+        "Analyze how authors use dashes to create distinctive voices or rhetorical effects.",
+        "Teach students to consult an applicable style guide when conventions differ.",
+        "Assess transfer through authentic writing and revision."
+      ],
+      "evidence": [
+        "Correct classification of dash and hyphen functions.",
+        "Accurate original examples of single and paired em dashes.",
+        "Successful revision of inappropriate dash usage.",
+        "An evidence-based explanation of punctuation's rhetorical effect.",
+        "Purposeful and accurate dash usage in an independent writing sample."
+      ],
+      "watchFor": [
+        "Using dashes solely to represent spoken pauses.",
+        "Confusing dashes with hyphens.",
+        "Interrupting essential sentence structures without a valid grammatical or rhetorical reason.",
+        "Failing to use matching dashes around supplementary information.",
+        "Using em dashes excessively.",
+        "Assuming that all style guides use identical dash-spacing conventions."
+      ]
+    },
+    "10.L.GC.1.61": {
+      "focus": "Use an appropriate style guide to address complex issues of grammar, usage, or mechanics",
+      "studentFriendly": "I can choose a reliable style guide, find guidance about a complicated writing question, and use that information to make an effective editing decision.",
+      "know": [
+        "A style guide establishes editorial conventions for a particular context or discourse community.",
+        "MLA, APA, Chicago, and AP style serve different writing and publication needs.",
+        "Style guides may provide guidance about punctuation, capitalization, abbreviations, numbers, quotations, usage, and other editorial questions.",
+        "Reference editions and recommendations can change over time.",
+        "Indexes, tables of contents, topic headings, and search functions help users locate relevant guidance.",
+        "An editorial decision may involve grammatical requirements, stylistic preferences, or publication-specific conventions.",
+        "An appropriate reference must be authoritative and relevant to the intended writing task."
+      ],
+      "understand": [
+        "Effective writers and editors consult reliable references when confronted with unfamiliar or complex questions.",
+        "The appropriate style guide depends on the audience, purpose, discipline, assignment, and publication.",
+        "Different authoritative guides can recommend different conventions without either being universally incorrect.",
+        "Reference consultation supports consistent and defensible editorial decisions.",
+        "A recommendation must be interpreted in relation to the actual sentence or writing context.",
+        "Automated suggestions do not replace informed editorial judgment."
+      ],
+      "do": [
+        "Identify the governing style guide for a particular writing task.",
+        "Formulate a precise editorial question about grammar, usage, or mechanics.",
+        "Identify effective keywords and reference-navigation strategies.",
+        "Locate relevant guidance in an authoritative style resource.",
+        "Accurately paraphrase or document the applicable recommendation.",
+        "Apply the guidance to resolve a complex editorial issue.",
+        "Compare recommendations from different guides when appropriate.",
+        "Distinguish between mandatory conventions and optional stylistic preferences.",
+        "Explain and justify editorial decisions using reference evidence.",
+        "Maintain consistent conventions throughout a complete document.",
+        "Independently consult style resources during authentic writing and revision."
+      ],
+      "targets": [
+        "I can select an appropriate style guide for my writing situation.",
+        "I can formulate a specific editing question.",
+        "I can locate and interpret relevant reference guidance.",
+        "I can apply a recommendation to improve my writing.",
+        "I can explain why an editorial decision is appropriate.",
+        "I can independently use reference resources to maintain consistency in a complete text."
+      ],
+      "instruction": [
+        "Introduce style guides through meaningful editorial problems.",
+        "Model how to identify the governing guide before investigating a convention.",
+        "Demonstrate navigation of print and digital reference resources.",
+        "Teach students to identify the title, edition, and relevant location of consulted guidance.",
+        "Use contrasting examples from journalism, humanities research, and social-science writing.",
+        "Require students to document the reasoning behind substantive editorial decisions.",
+        "Teach students to evaluate automated grammar suggestions against authoritative references.",
+        "Use editorial decision logs and publication-style editing tasks.",
+        "Gradually transfer responsibility for reference selection and consultation to students."
+      ],
+      "evidence": [
+        "Correct selection of an appropriate governing style guide.",
+        "Successful location of relevant guidance for a complex editorial question.",
+        "Accurate explanation and application of the recommendation.",
+        "An editorial decision log documenting reference consultation.",
+        "A complete revised document demonstrating consistent conventions.",
+        "A comparison explaining meaningful differences between disciplinary or publication styles.",
+        "Independent transfer of reference-consultation strategies to an unfamiliar writing task."
+      ],
+      "watchFor": [
+        "Selecting a reference without considering the writing context.",
+        "Confusing citation-formatting instructions with the full range of editorial guidance available in a style guide.",
+        "Assuming that every style preference is a universal grammatical rule.",
+        "Using outdated or unreliable reference information without checking its applicability.",
+        "Relying entirely on automated grammar correction.",
+        "Locating guidance but failing to apply it accurately.",
+        "Changing intentional literary language without considering authorial purpose.",
+        "Applying inconsistent conventions within the same document.",
+        "Assessing memorized style rules rather than the ability to locate and apply authoritative guidance."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, permissions, age suitability, and applicable style-guide requirements."
+}
