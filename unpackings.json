@@ -9765,5 +9765,1629 @@
       ]
     }
   },
+  
+{
+  "code": "10.T.T.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Argumentative Techniques",
+  "studentFriendly": "I can analyze and evaluate how authors construct arguments, use rhetorical appeals, and influence audiences. I can recognize faulty reasoning and deliberately combine effective argumentative techniques, rhetorical devices, and appeals to create persuasive, well-supported arguments of my own.",
+  "know": [
+    "An argument presents a defensible position supported by reasoning and evidence.",
+    "A claim is an assertion that requires support.",
+    "A central claim establishes the primary position or conclusion of an argument.",
+    "Supporting claims develop specific reasons that contribute to the central argument.",
+    "Evidence includes relevant facts, examples, statistics, research findings, expert testimony, observations, and other information used to support a claim.",
+    "Reasoning explains how evidence supports a claim and why the audience should accept the connection.",
+    "A warrant is an underlying assumption or principle connecting evidence to a claim.",
+    "A counterclaim presents an alternative or opposing position.",
+    "A concession acknowledges a valid point, limitation, or concern raised by another perspective.",
+    "A rebuttal responds to an opposing argument through reasoning and evidence.",
+    "A qualification limits or specifies the scope of a claim to make it more accurate.",
+    "Argumentative techniques include the selection, organization, framing, and presentation of claims, reasons, evidence, counterclaims, and conclusions.",
+    "Ethos appeals to credibility, character, expertise, or trustworthiness.",
+    "Pathos appeals to an audience's emotions, values, experiences, or sympathies.",
+    "Logos appeals to reasoning, evidence, relationships, and logical connections.",
+    "Kairos concerns the appropriateness and timing of a message within a particular situation.",
+    "Rhetorical devices are language or structural techniques used to create particular effects.",
+    "Rhetorical devices may include repetition, parallelism, antithesis, analogy, rhetorical questions, allusion, anecdote, and deliberate diction.",
+    "Rhetorical appeals and devices are related but distinct: a device is a technique that may help create an appeal.",
+    "An argumentative text can use multiple rhetorical appeals simultaneously.",
+    "A logical fallacy is a flaw in reasoning that weakens the connection between a claim and its support.",
+    "Common fallacies include ad hominem, straw man, false dilemma, hasty generalization, circular reasoning, slippery slope, red herring, false cause, and inappropriate appeal to authority.",
+    "An appeal to emotion is not automatically fallacious; its validity depends on how it relates to the claim and supporting reasoning.",
+    "An appeal to authority is not automatically fallacious when the authority has relevant expertise and the claim is supported appropriately.",
+    "Correlation does not by itself establish causation.",
+    "Anecdotal evidence may illustrate a claim but may not be sufficient to establish a broad conclusion.",
+    "The organization of an argument influences how audiences encounter, interpret, and evaluate its ideas.",
+    "Multimodal arguments may use images, charts, typography, layout, audio, video, and other design elements to influence audiences.",
+    "Visual and quantitative evidence can be misleading when presented without appropriate context, scale, definitions, or limitations.",
+    "Effective argumentation requires attention to audience, purpose, context, genre, and ethical responsibility.",
+    "The persuasiveness of an argument and the soundness of its reasoning are related but not identical.",
+    "Argumentative writing can acknowledge complexity, uncertainty, and limitations without abandoning a defensible position."
+  ],
+  "understand": [
+    "Arguments are constructed through deliberate choices about claims, evidence, reasoning, organization, language, and design.",
+    "The effectiveness of an argumentative technique depends on the audience, purpose, context, and relationship between the technique and the argument's central claim.",
+    "A persuasive argument may still contain weak reasoning, misleading evidence, or unsupported assumptions.",
+    "Evaluating an argument requires examining both its rhetorical effectiveness and the quality of its reasoning.",
+    "Evidence is useful only when it is relevant, credible, sufficiently representative, and appropriately connected to a claim.",
+    "A large quantity of evidence does not compensate for weak reasoning or irrelevant support.",
+    "Unstated assumptions can influence whether audiences accept the connection between evidence and a conclusion.",
+    "Rhetorical appeals often work together rather than operating independently.",
+    "Ethos can be established through relevant expertise, accurate evidence, fair treatment of other perspectives, transparency, and responsible communication.",
+    "Pathos can help audiences understand the human significance of an issue, but emotional intensity cannot replace adequate evidence.",
+    "Logos involves more than including statistics; it requires coherent reasoning and appropriate interpretation of evidence.",
+    "Rhetorical devices can make an argument memorable, accessible, emotionally compelling, or structurally coherent.",
+    "A rhetorical device should be evaluated according to its function rather than merely identified by name.",
+    "Fallacies weaken arguments because they substitute faulty reasoning for defensible connections among claims and evidence.",
+    "Identifying a fallacy requires explaining the specific reasoning problem rather than simply assigning a label.",
+    "A weak argument may contain multiple reasoning problems, and some examples may support more than one defensible fallacy classification.",
+    "The presence of a fallacy in one part of an argument does not automatically establish that every claim in the text is false.",
+    "Counterclaims, concessions, and rebuttals can strengthen arguments by demonstrating awareness of complexity and competing evidence.",
+    "Qualifications can increase credibility by preventing claims from extending beyond what the evidence supports.",
+    "Visual design, sequencing, and presentation can influence an audience's interpretation of argumentative content.",
+    "Ethical argumentation respects evidence, represents competing perspectives accurately, and avoids manipulative or misleading techniques.",
+    "Effective writers adapt argumentative techniques and rhetorical appeals to the needs and expectations of particular audiences.",
+    "Strategic integration of multiple appeals is more effective than mechanically inserting one example of ethos, pathos, and logos.",
+    "Argumentative writing improves through inquiry, feedback, evaluation, revision, and reflection."
+  ],
+  "do": [
+    "Identify the central claim, supporting claims, reasons, evidence, and conclusions in argumentative texts.",
+    "Analyze how authors organize and develop arguments across a variety of genres and modes.",
+    "Explain how argumentative techniques contribute to a text's meaning or central idea.",
+    "Evaluate the relevance, credibility, sufficiency, and representativeness of evidence.",
+    "Explain the reasoning connecting evidence to a claim.",
+    "Identify explicit and implicit assumptions underlying an argument.",
+    "Analyze how the presentation and design of argumentative content influence audience interpretation.",
+    "Evaluate how images, charts, typography, layout, and audiovisual features contribute to an argument.",
+    "Distinguish rhetorical effectiveness from logical soundness.",
+    "Identify and analyze rhetorical appeals in authentic texts.",
+    "Explain how ethos, pathos, logos, and other relevant rhetorical considerations contribute to an argument's effectiveness.",
+    "Analyze how multiple rhetorical appeals interact within a text.",
+    "Identify rhetorical devices and explain their specific functions within an argument.",
+    "Recognize common logical fallacies in authentic and teacher-created arguments.",
+    "Explain why particular examples of reasoning are flawed.",
+    "Distinguish legitimate emotional appeals from emotional appeals that substitute for evidence.",
+    "Distinguish relevant expert testimony from inappropriate appeals to authority.",
+    "Evaluate whether causal claims are supported by adequate evidence.",
+    "Identify misleading generalizations, false alternatives, distorted counterarguments, and irrelevant personal attacks.",
+    "Revise flawed arguments to improve the quality of reasoning and evidence.",
+    "Participate in evidence-based discussions that evaluate and critique argumentative texts.",
+    "Develop focused, defensible claims appropriate to an intended audience and purpose.",
+    "Select and integrate relevant, credible evidence.",
+    "Explain how evidence supports claims through explicit reasoning.",
+    "Represent counterclaims accurately and respond through concessions, rebuttals, or qualifications.",
+    "Organize arguments to develop ideas coherently and strategically.",
+    "Use rhetorical devices deliberately to clarify, emphasize, or strengthen an argument.",
+    "Integrate multiple rhetorical appeals in ways that support the central claim and engage the intended audience.",
+    "Adapt argumentative techniques for different audiences, purposes, genres, and communication modes.",
+    "Create argumentative texts that use appropriate visual or multimodal design when relevant.",
+    "Evaluate and revise original arguments for logical soundness, rhetorical effectiveness, ethical communication, and audience awareness."
+  ],
+  "vocabulary": [
+    {
+      "term": "Argument",
+      "definition": "A defensible position developed through claims, reasoning, and evidence.",
+      "example": "A student argues that the school should expand access to public transportation by presenting evidence about cost, attendance, and student needs."
+    },
+    {
+      "term": "Claim",
+      "definition": "An assertion or position that requires support.",
+      "example": "The school should provide additional opportunities for independent reading."
+    },
+    {
+      "term": "Central claim",
+      "definition": "The primary position or conclusion that an argument develops and supports.",
+      "example": "A policy essay's central claim is that cities should prioritize pedestrian safety in transportation planning."
+    },
+    {
+      "term": "Supporting claim",
+      "definition": "A subsidiary assertion that develops a reason contributing to the central argument.",
+      "example": "Improved sidewalks can increase access to local businesses."
+    },
+    {
+      "term": "Evidence",
+      "definition": "Information used to support, challenge, or qualify a claim.",
+      "example": "A researcher cites transportation data and pedestrian injury statistics to support a policy recommendation."
+    },
+    {
+      "term": "Reasoning",
+      "definition": "The logical explanation connecting evidence to a claim or conclusion.",
+      "example": "A student explains why a reduction in pedestrian injuries supports investment in safer intersections."
+    },
+    {
+      "term": "Warrant",
+      "definition": "An underlying assumption or principle explaining why evidence supports a claim.",
+      "example": "An argument for safer intersections may rely on the warrant that public infrastructure should reduce preventable harm."
+    },
+    {
+      "term": "Counterclaim",
+      "definition": "An alternative or opposing position relevant to an argument.",
+      "example": "Opponents argue that redesigning intersections would increase traffic congestion."
+    },
+    {
+      "term": "Concession",
+      "definition": "An acknowledgment that an opposing perspective contains a valid point or legitimate concern.",
+      "example": "Although redesigning intersections requires an initial investment, the potential safety benefits justify examining the proposal."
+    },
+    {
+      "term": "Rebuttal",
+      "definition": "A reasoned response challenging or qualifying an opposing claim.",
+      "example": "A writer responds to concerns about congestion by examining evidence from comparable transportation projects."
+    },
+    {
+      "term": "Qualification",
+      "definition": "A limitation or condition that makes a claim more precise and proportionate to its evidence.",
+      "example": "The program appears effective for students who participate regularly, although its long-term effects require further research."
+    },
+    {
+      "term": "Rhetoric",
+      "definition": "The strategic use of language, structure, and other communication choices to influence an audience.",
+      "example": "A speaker combines evidence, personal experience, and repetition to advocate for a community project."
+    },
+    {
+      "term": "Rhetorical appeal",
+      "definition": "A strategy that influences an audience through credibility, emotion, reasoning, or other relevant persuasive considerations.",
+      "example": "A public health message uses research findings and personal stories to encourage informed decisions."
+    },
+    {
+      "term": "Ethos",
+      "definition": "An appeal to credibility, character, expertise, or trustworthiness.",
+      "example": "A researcher establishes ethos by explaining relevant qualifications, methods, and limitations."
+    },
+    {
+      "term": "Pathos",
+      "definition": "An appeal to emotions, values, experiences, or sympathies.",
+      "example": "A speaker describes the experiences of families affected by a natural disaster."
+    },
+    {
+      "term": "Logos",
+      "definition": "An appeal to reasoning, evidence, and logical relationships.",
+      "example": "An author compares costs and outcomes from several studies before recommending a policy."
+    },
+    {
+      "term": "Kairos",
+      "definition": "The appropriateness or timeliness of a rhetorical message within a particular situation.",
+      "example": "Students present a transportation proposal while the school district is considering changes to its bus routes."
+    },
+    {
+      "term": "Rhetorical device",
+      "definition": "A language or structural technique used to create a particular communicative effect.",
+      "example": "A speaker uses parallelism to emphasize three related commitments."
+    },
+    {
+      "term": "Parallelism",
+      "definition": "The use of similar grammatical structures to express related ideas.",
+      "example": "The proposal aims to reduce waste, conserve resources, and improve access."
+    },
+    {
+      "term": "Anaphora",
+      "definition": "The repetition of a word or phrase at the beginning of successive clauses or sentences.",
+      "example": "We need safer streets. We need accessible parks. We need reliable transportation."
+    },
+    {
+      "term": "Antithesis",
+      "definition": "The placement of contrasting ideas in a balanced or parallel structure.",
+      "example": "The goal is not temporary convenience but lasting improvement."
+    },
+    {
+      "term": "Analogy",
+      "definition": "A comparison between relationships or situations used to clarify or support an idea.",
+      "example": "A writer compares maintaining public infrastructure to maintaining a home, explaining how preventive investment can reduce later costs."
+    },
+    {
+      "term": "Anecdote",
+      "definition": "A brief account of a particular experience or event used to illustrate an idea.",
+      "example": "A student describes missing an after-school activity because transportation was unavailable."
+    },
+    {
+      "term": "Rhetorical question",
+      "definition": "A question posed primarily to encourage reflection or emphasize a point rather than obtain a direct answer.",
+      "example": "What opportunities are lost when students cannot reach the programs available to them?"
+    },
+    {
+      "term": "Logical fallacy",
+      "definition": "A flaw in reasoning that weakens an argument's support for its conclusion.",
+      "example": "A writer assumes that a policy must be effective because a famous actor endorses it."
+    },
+    {
+      "term": "Ad hominem",
+      "definition": "An irrelevant attack on a person's character or circumstances used in place of addressing the person's argument.",
+      "example": "We should reject her transportation proposal because she is unpopular."
+    },
+    {
+      "term": "Straw man",
+      "definition": "A distortion or oversimplification of another person's position that makes it easier to attack.",
+      "example": "A proposal to reduce homework is misrepresented as a demand that students never practice independently."
+    },
+    {
+      "term": "False dilemma",
+      "definition": "The presentation of only two alternatives when additional reasonable possibilities exist.",
+      "example": "Either we eliminate every school club or we accept that the budget will never improve."
+    },
+    {
+      "term": "Hasty generalization",
+      "definition": "A broad conclusion drawn from insufficient or unrepresentative evidence.",
+      "example": "Two students disliked a new course, so every student must dislike it."
+    },
+    {
+      "term": "Circular reasoning",
+      "definition": "Reasoning in which the conclusion is assumed within the premises used to support it.",
+      "example": "This rule is necessary because it is a rule that we need."
+    },
+    {
+      "term": "Slippery slope",
+      "definition": "An argument that predicts a chain of increasingly serious consequences without adequately supporting the connections.",
+      "example": "If students receive one homework extension, deadlines will eventually disappear from every class."
+    },
+    {
+      "term": "Red herring",
+      "definition": "An irrelevant issue introduced in a way that distracts from the argument under consideration.",
+      "example": "When asked whether a proposed policy is affordable, a speaker changes the subject to the school's sports achievements."
+    },
+    {
+      "term": "False cause",
+      "definition": "The unsupported assumption that one event or condition caused another.",
+      "example": "Test scores increased after the school changed its mascot, so the new mascot must have caused the improvement."
+    },
+    {
+      "term": "Inappropriate appeal to authority",
+      "definition": "The use of an authority's endorsement as support when the authority lacks relevant expertise or when the endorsement is insufficient to establish the claim.",
+      "example": "A celebrity's opinion about a medical treatment is presented as proof of the treatment's effectiveness."
+    },
+    {
+      "term": "Correlation",
+      "definition": "A relationship in which two variables are associated or change together.",
+      "example": "A study finds an association between time spent reading and vocabulary scores."
+    },
+    {
+      "term": "Causation",
+      "definition": "A relationship in which one factor contributes to producing a particular effect.",
+      "example": "Researchers use appropriate methods to investigate whether a reading intervention causes improvements in vocabulary."
+    },
+    {
+      "term": "Sufficiency",
+      "definition": "The degree to which evidence provides enough appropriate support for a claim.",
+      "example": "A single personal story may not provide sufficient evidence for a claim about every student in a district."
+    },
+    {
+      "term": "Multimodal argument",
+      "definition": "An argument that communicates through a combination of written, spoken, visual, audio, or other modes.",
+      "example": "A documentary combines interviews, narration, archival footage, and data visualizations to develop a position."
+    },
+    {
+      "term": "Data visualization",
+      "definition": "A visual representation of information or numerical data intended to communicate patterns, relationships, or comparisons.",
+      "example": "A graph compares transportation costs across several years."
+    },
+    {
+      "term": "Rhetorical effectiveness",
+      "definition": "The degree to which communication choices achieve an intended purpose with a particular audience.",
+      "example": "A speech may be effective because its evidence, organization, and language respond directly to the audience's concerns."
+    }
+  ],
+  "targets": [
+    "I can identify and explain the central claim, supporting claims, evidence, and reasoning in an argument.",
+    "I can evaluate how argumentative techniques contribute to a text's meaning or central idea.",
+    "I can explain how the organization and design of an argument influence its audience.",
+    "I can evaluate whether evidence is relevant, credible, sufficient, and appropriately interpreted.",
+    "I can identify assumptions connecting evidence to claims.",
+    "I can analyze how authors use ethos, pathos, and logos to influence audiences.",
+    "I can explain how multiple rhetorical appeals work together.",
+    "I can identify rhetorical devices and explain their effects.",
+    "I can recognize common logical fallacies and explain why the reasoning is flawed.",
+    "I can distinguish legitimate rhetorical appeals from fallacious reasoning.",
+    "I can revise an argument to correct faulty reasoning.",
+    "I can develop a defensible claim supported by relevant evidence and clear reasoning.",
+    "I can acknowledge and respond to counterclaims accurately and fairly.",
+    "I can use rhetorical devices strategically to strengthen an argument.",
+    "I can integrate multiple rhetorical appeals in ways appropriate to my audience and purpose.",
+    "I can revise my argumentative writing for credibility, logical soundness, clarity, and rhetorical effectiveness."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Rhetoric",
+      "author": "Aristotle",
+      "genre": "Classical rhetorical treatise",
+      "purpose": "Introduce foundational rhetorical concepts and examine how credibility, emotion, and reasoning contribute to persuasion.",
+      "access": "Public-domain translations are available through established classical-text archives; select an accessible translation or authorized adaptation.",
+      "readingTime": "10–15 minutes for selected passages",
+      "highInterest": false,
+      "accessibility": "Advanced; provide historical context, vocabulary support, and contemporary examples.",
+      "teachingPrompt": "How do Aristotle's categories of persuasion help explain the strategies used in contemporary speeches, advertisements, and arguments?"
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Analyze the strategic integration of rhetorical appeals, concessions, rebuttals, analogies, allusions, and carefully developed reasoning.",
+      "access": "Use an authorized edition or school-licensed anthology; copyright and reproduction permissions apply.",
+      "readingTime": "25–35 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Advanced; provide historical background and sentence-level scaffolding.",
+      "interestHook": "A civil rights leader responds to critics who argue that his methods and timing are inappropriate.",
+      "teachingPrompt": "How does King combine appeals to credibility, shared values, historical evidence, and moral reasoning to respond to opposing arguments?"
+    },
+    {
+      "title": "What to the Slave Is the Fourth of July?",
+      "author": "Frederick Douglass",
+      "genre": "Argumentative speech",
+      "purpose": "Analyze how rhetorical questions, antithesis, repetition, historical references, and moral reasoning contribute to a sustained argument.",
+      "access": "Public domain; available through established historical and literary archives.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Advanced; provide historical context and support for nineteenth-century rhetorical language.",
+      "interestHook": "A speaker challenges an audience celebrating liberty by exposing contradictions between national ideals and the institution of slavery.",
+      "teachingPrompt": "How do Douglass's rhetorical devices and appeals work together to challenge the audience's assumptions and advance his central argument?"
+    },
+    {
+      "title": "Speech to the Virginia Convention",
+      "author": "Patrick Henry",
+      "genre": "Political speech as preserved in a later historical account",
+      "purpose": "Examine rhetorical questions, appeals to shared values, repetition, antithesis, and the presentation of alternatives.",
+      "access": "Public-domain historical versions are available through established archives. Explain that the familiar wording comes from a later reconstruction rather than a verified contemporary transcript.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced; provide historical background and rhetorical vocabulary.",
+      "teachingPrompt": "How does the speech's presentation of alternatives create urgency, and what additional possibilities or assumptions should a critical reader examine?"
+    },
+    {
+      "title": "The Federalist No. 10",
+      "author": "James Madison",
+      "genre": "Political essay",
+      "purpose": "Analyze definitions, causal reasoning, comparison, assumptions, and the development of a complex political argument.",
+      "access": "Public domain; available through the Library of Congress and other established historical archives.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": false,
+      "accessibility": "Advanced; scaffold historical vocabulary and argument structure.",
+      "teachingPrompt": "How does Madison define the problem of faction and develop reasoning to support his proposed solution?"
+    },
+    {
+      "title": "Brutus No. 1",
+      "author": "Brutus, traditionally attributed to Robert Yates",
+      "genre": "Political essay",
+      "purpose": "Compare a competing argument about constitutional government with the reasoning and assumptions presented in The Federalist No. 10.",
+      "access": "Public domain; available through established historical and constitutional archives.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": false,
+      "accessibility": "Advanced; provide historical context and a comparison organizer.",
+      "teachingPrompt": "How do the Federalist and Anti-Federalist arguments differ in their assumptions, evidence, reasoning, and appeals to audience concerns?"
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical argumentative essay",
+      "purpose": "Analyze irony, exaggerated reasoning, apparent appeals to logic, and the difference between a narrator's stated proposal and an author's larger satirical purpose.",
+      "access": "Public domain; available through Project Gutenberg and established literary archives.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Advanced; requires explicit instruction in satire, historical context, and the disturbing nature of the fictional proposal.",
+      "interestHook": "A narrator presents an intentionally horrifying solution using the language and structure of an apparently rational policy argument.",
+      "teachingPrompt": "How does Swift imitate the techniques of a seemingly logical argument to expose the moral failures of the attitudes he is criticizing?"
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and transcript",
+      "purpose": "Analyze the integration of personal anecdotes, credibility, emotional appeals, examples, and reasoning in an argument about representation.",
+      "access": "Official TED talk and transcript; consult applicable terms of use.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible spoken language with substantial rhetorical and cultural complexity.",
+      "interestHook": "A speaker uses memorable personal experiences to challenge assumptions about people and cultures.",
+      "teachingPrompt": "How does Adichie use personal stories to develop a broader argument without relying on anecdote alone?"
+    },
+    {
+      "title": "We Should All Be Feminists",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and adapted essay",
+      "purpose": "Evaluate the interaction of personal experience, examples, definitions, humor, counterarguments, and appeals to shared values.",
+      "access": "Use the official talk or an authorized published edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Accessible language with complex social and cultural questions.",
+      "teachingPrompt": "How does the speaker anticipate audience assumptions and use examples, humor, and reasoning to develop her position?"
+    },
+    {
+      "title": "The Case for Reparations",
+      "author": "Ta-Nehisi Coates",
+      "genre": "Long-form argumentative journalism",
+      "purpose": "Analyze how historical evidence, personal narratives, causal reasoning, and organization contribute to a sustained public argument.",
+      "access": "Published by The Atlantic; use an authorized excerpt or available institutional subscription.",
+      "readingTime": "25–35 minutes for selected passages",
+      "highInterest": false,
+      "accessibility": "Advanced; provide historical, economic, and policy context.",
+      "teachingPrompt": "How does Coates connect individual experiences to historical evidence and broader claims, and what assumptions or limitations should readers examine?"
+    },
+    {
+      "title": "The Moral Roots of Liberals and Conservatives",
+      "author": "Jonathan Haidt",
+      "genre": "Speech and transcript",
+      "purpose": "Examine how a speaker combines research, examples, definitions, visual presentation, and appeals to shared values when addressing a divided audience.",
+      "access": "Official TED talk and transcript; consult applicable terms of use.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; introduce the distinction between research findings, theoretical interpretations, and generalizations.",
+      "teachingPrompt": "How does Haidt attempt to establish credibility with audiences holding different political perspectives, and what limitations should readers consider when evaluating the argument?"
+    },
+    {
+      "title": "Is Google Making Us Stupid?",
+      "author": "Nicholas Carr",
+      "genre": "Argumentative magazine essay",
+      "purpose": "Evaluate how personal experience, historical examples, research, analogy, and causal reasoning support an argument about technology and reading.",
+      "access": "Published by The Atlantic; use an authorized excerpt or institutional access.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced; supplement with current research and alternative perspectives.",
+      "interestHook": "Students investigate whether digital technologies are changing how people read, concentrate, and think.",
+      "teachingPrompt": "Which parts of Carr's argument rely on personal experience, which rely on research, and how effectively does the reasoning connect the evidence to the central claim?"
+    },
+    {
+      "title": "Smarter Than You Think",
+      "author": "Clive Thompson",
+      "genre": "Argumentative nonfiction",
+      "purpose": "Compare an alternative perspective on technology and cognition with arguments emphasizing technology's potential disadvantages.",
+      "access": "School library, licensed ebook, or purchased edition.",
+      "readingTime": "20–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate; provide excerpts focused on a shared question about technology and thinking.",
+      "teachingPrompt": "How do Thompson's examples, evidence, assumptions, and rhetorical choices differ from those in arguments emphasizing the cognitive risks of digital technology?"
+    },
+    {
+      "title": "The Story of Stuff",
+      "author": "Annie Leonard and the Story of Stuff Project",
+      "genre": "Argumentative audiovisual text",
+      "purpose": "Analyze how narration, animation, visual sequencing, simplified models, and rhetorical appeals communicate an argument about consumption and environmental systems.",
+      "access": "Official project website or authorized video source.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible audiovisual presentation; provide captions and encourage independent verification of selected claims.",
+      "interestHook": "An animated explanation follows everyday products through production, consumption, and disposal.",
+      "teachingPrompt": "How do animation and narration make the argument accessible, and where might simplification require additional evidence or qualification?"
+    },
+    {
+      "title": "The Lorax",
+      "author": "Dr. Seuss",
+      "genre": "Illustrated allegorical narrative",
+      "purpose": "Examine how narrative, symbolism, repetition, emotional appeals, and visual design communicate an implicit environmental argument.",
+      "access": "School library or authorized edition.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Highly accessible surface language with opportunities for sophisticated rhetorical and ideological analysis.",
+      "interestHook": "A familiar children's story becomes a case study in how literature can communicate a persuasive environmental message.",
+      "teachingPrompt": "How does the story use narrative and visual design to influence readers' beliefs, and what complexities might an informational argument need to address more explicitly?"
+    },
+    {
+      "title": "Teacher-selected paired editorials on a school or community issue",
+      "author": "Various editorial writers",
+      "genre": "Argumentative journalism",
+      "purpose": "Compare claims, evidence, reasoning, rhetorical appeals, counterarguments, and argumentative effectiveness across competing positions.",
+      "access": "Select current, credible editorials through school library databases or reputable publications. Verify publication dates and distinguish opinion writing from reporting.",
+      "readingTime": "20–30 minutes for paired excerpts",
+      "highInterest": true,
+      "accessibility": "Variable; select topics and reading levels appropriate to the class.",
+      "interestHook": "Students evaluate arguments about decisions that affect their schools, communities, or future opportunities.",
+      "teachingPrompt": "Which argumentative techniques are most effective in each text, and which claims require stronger evidence or more careful reasoning?"
+    },
+    {
+      "title": "Teacher-selected public service announcements and advocacy campaigns",
+      "author": "Various public agencies and nonprofit organizations",
+      "genre": "Multimodal argumentative texts",
+      "purpose": "Evaluate the interaction of images, typography, narration, music, statistics, emotional appeals, and calls to action.",
+      "access": "Select current, age-appropriate examples from official agency or organization websites. Verify factual claims and contextual information.",
+      "readingTime": "10–20 minutes for multiple examples",
+      "highInterest": true,
+      "accessibility": "Accessible; provide transcripts, captions, and descriptions of visual information as needed.",
+      "teachingPrompt": "How do the campaign's design choices and rhetorical appeals influence its audience, and how well does the evidence support the requested action?"
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Build the argument",
+      "activity": "Students receive sentence cards containing a claim, supporting reasons, evidence, reasoning, and unrelated details. They organize the cards into a coherent argument, remove irrelevant information, and explain how the evidence supports the claim. Students then construct a short argument using a new set of materials.",
+      "materials": [
+        "Argument component cards",
+        "Claim-evidence-reasoning organizer",
+        "Short argumentative passage"
+      ],
+      "scaffolds": "Color-code claims, reasons, evidence, and reasoning. Model the difference between presenting evidence and explaining why it supports a claim. Provide sentence frames for reasoning.",
+      "success": "Students correctly identify and organize the major argument components and explain at least two connections between evidence and claims.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–30 min",
+      "title": "Appeal detective",
+      "activity": "Students examine short examples from speeches, advertisements, and editorials. They identify evidence of credibility, emotion, and reasoning, then explain what each appeal attempts to accomplish. Students examine examples containing more than one appeal and discuss why the categories can overlap.",
+      "materials": [
+        "Short argumentative excerpts",
+        "Rhetorical appeals reference chart",
+        "Annotation worksheet"
+      ],
+      "scaffolds": "Provide definitions, visual cues, annotated models, and sentence frames such as This choice establishes credibility because.... Begin with clear examples before introducing overlapping appeals.",
+      "success": "Students accurately identify and explain rhetorical appeals in at least six of eight examples and recognize at least one example containing multiple appeals.",
+      "alignment": [
+        "10.T.T.3.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–30 min",
+      "title": "Find the reasoning problem",
+      "activity": "Students analyze short arguments containing common fallacies. Rather than beginning with fallacy names, they identify the claim, examine the support, and explain why the conclusion does not follow adequately. Students then match the reasoning problems to appropriate fallacy terms.",
+      "materials": [
+        "Teacher-created fallacy examples",
+        "Reasoning analysis organizer",
+        "Fallacy reference guide"
+      ],
+      "scaffolds": "Introduce a small number of fallacies at a time. Provide guiding questions about missing evidence, irrelevant attacks, distorted positions, unsupported causes, and overlooked alternatives.",
+      "success": "Students accurately explain the reasoning problem in at least five of six examples and assign defensible fallacy classifications.",
+      "alignment": [
+        "10.T.T.3.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Repair the argument",
+      "activity": "Students revise short arguments containing hasty generalizations, false dilemmas, personal attacks, or unsupported causal claims. They replace flawed reasoning with appropriately qualified claims, relevant evidence, or more accurate representations of opposing positions.",
+      "materials": [
+        "Flawed argument cards",
+        "Revision checklist",
+        "Teacher-provided evidence set"
+      ],
+      "scaffolds": "Model one complete revision and provide sentence frames for qualification, concession, and evidence-based reasoning.",
+      "success": "Students revise at least four flawed arguments and explain how each revision improves the connection between the claim and its support.",
+      "alignment": [
+        "10.T.T.3.b",
+        "10.T.T.3.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Argument autopsy",
+      "activity": "Students annotate a complete argumentative essay or speech. They identify the central claim, supporting claims, evidence, reasoning, counterarguments, organization, rhetorical appeals, and significant devices. Students create an argument map and write a critique explaining how the techniques contribute to the central idea and influence the intended audience.",
+      "materials": [
+        "Selected argumentative mentor text",
+        "Argument mapping organizer",
+        "Rhetorical analysis guide"
+      ],
+      "scaffolds": "Provide a model argument map and guiding questions about the relationship between individual argumentative choices and the text's overall purpose.",
+      "success": "Students accurately map the argument and produce an evidence-based critique explaining the functions and effectiveness of at least four significant argumentative techniques.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Persuasive does not always mean sound",
+      "activity": "Students compare two arguments on the same issue. One uses compelling emotional language but limited evidence, while the other develops more substantial reasoning. Students evaluate both rhetorical effectiveness and logical soundness, then explain how each argument could be improved without sacrificing audience engagement.",
+      "materials": [
+        "Paired argumentative texts",
+        "Evidence quality checklist",
+        "Rhetorical effectiveness comparison chart"
+      ],
+      "scaffolds": "Model how to distinguish emotional impact from evidentiary support. Require students to identify specific reasoning strengths and weaknesses rather than select a preferred position.",
+      "success": "Students explain meaningful differences between rhetorical effectiveness and logical soundness, support their evaluations with evidence, and recommend defensible revisions.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The rhetorical orchestra",
+      "activity": "Students analyze a speech such as Letter from Birmingham Jail or What to the Slave Is the Fourth of July? They identify passages in which rhetorical appeals and devices work together. Students explain how credibility, emotion, reasoning, repetition, contrast, and other choices reinforce one another and contribute to the argument's development.",
+      "materials": [
+        "Authorized or public-domain speech excerpts",
+        "Rhetorical interaction organizer",
+        "Annotation tools"
+      ],
+      "scaffolds": "Provide an example demonstrating how one anecdote can establish credibility, evoke emotion, and illustrate a reason simultaneously. Avoid requiring students to assign every passage to a single appeal.",
+      "success": "Students analyze at least three passages containing interacting rhetorical strategies and explain how those strategies contribute to the text's central argument and audience impact.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b",
+        "10.T.T.3.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "The strongest opposing argument",
+      "activity": "Students select a debatable school or community issue. Before developing their own position, they research and construct the strongest reasonable argument for a competing perspective. They then write a response that accurately represents the counterclaim, acknowledges valid concerns, and provides evidence-based rebuttal or qualification.",
+      "materials": [
+        "Debatable issue prompts",
+        "Credible source set",
+        "Counterclaim and rebuttal organizer"
+      ],
+      "scaffolds": "Model the difference between a fair representation of an opposing position and a straw man. Provide sentence frames for concessions and qualified rebuttals.",
+      "success": "Students accurately represent a substantial opposing argument, acknowledge at least one legitimate concern, and respond through relevant evidence and clear reasoning.",
+      "alignment": [
+        "10.T.T.3.b",
+        "10.T.T.3.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "One claim, two audiences",
+      "activity": "Students develop a defensible argument about a school or community issue. They create two versions of the argument for different audiences, such as students and school administrators. Each version uses appropriate evidence, organization, tone, rhetorical devices, and appeals. Students write a reflection explaining their strategic choices.",
+      "materials": [
+        "Audience profile cards",
+        "Argument planning organizer",
+        "Credible evidence set",
+        "Revision reflection template"
+      ],
+      "scaffolds": "Provide examples of how audience priorities influence evidence selection, tone, organization, and calls to action. Require factual accuracy to remain consistent across both versions.",
+      "success": "Students create two coherent, well-supported arguments that demonstrate meaningful audience adaptation and purposeful integration of multiple rhetorical techniques.",
+      "alignment": [
+        "10.T.T.3.c",
+        "10.T.T.3.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The argument behind the design",
+      "activity": "Students analyze a public service announcement, infographic, advocacy video, or campaign website. They identify the central claim and evaluate how layout, typography, imagery, data visualization, narration, music, and sequencing influence audience interpretation. Students compare the design's persuasive effectiveness with the strength of its evidence.",
+      "materials": [
+        "Teacher-selected multimodal argumentative texts",
+        "Visual rhetoric analysis organizer",
+        "Evidence verification checklist"
+      ],
+      "scaffolds": "Model the analysis of one visual feature and its relationship to the argument. Provide captions, transcripts, or visual descriptions as needed.",
+      "success": "Students explain how at least four design or presentation choices contribute to the argument and evaluate whether the supporting evidence justifies the central claim.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "30–45 min",
+      "title": "The misleading graph",
+      "activity": "Students compare visual representations of the same teacher-provided data. They investigate differences in axis scales, selected time periods, categories, labels, and omitted context. Students evaluate how each design influences interpretation and create an accurate visualization supporting a carefully qualified claim.",
+      "materials": [
+        "Teacher-created dataset",
+        "Contrasting graph examples",
+        "Graphing software or graph paper",
+        "Data interpretation checklist"
+      ],
+      "scaffolds": "Review basic graph interpretation and provide examples of misleading scales or selective presentation. Emphasize that a nonzero axis is not automatically misleading in every type of graph.",
+      "success": "Students identify specific design choices affecting interpretation, explain the limitations of the presented evidence, and create an accurate visualization connected to a defensible claim.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b",
+        "10.T.T.3.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "50–70 min",
+      "title": "Write the editorial",
+      "activity": "Students research a focused issue relevant to their school or community and write an editorial for a defined audience. They develop a defensible claim, integrate credible evidence, explain their reasoning, respond to a substantial counterclaim, and use multiple rhetorical devices or appeals strategically. Students revise after peer feedback.",
+      "materials": [
+        "School library databases",
+        "Editorial mentor texts",
+        "Argument planning organizer",
+        "Peer review checklist"
+      ],
+      "scaffolds": "Provide a model editorial, targeted mini-lessons on reasoning and counterarguments, and teacher or librarian conferences during research and revision.",
+      "success": "Students produce a coherent editorial with credible evidence, explicit reasoning, fair treatment of a counterclaim, and purposeful rhetorical choices appropriate to the intended audience.",
+      "alignment": [
+        "10.T.T.3.c",
+        "10.T.T.3.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "Satire and the illusion of logic",
+      "activity": "Students analyze selected passages from A Modest Proposal, examining how Swift's narrator imitates the conventions of rational policy argumentation. They distinguish the narrator's explicit proposal from the author's larger satirical purpose, evaluate the apparent reasoning and appeals, and explain how irony exposes underlying moral assumptions.",
+      "materials": [
+        "Public-domain text of A Modest Proposal",
+        "Historical context resources",
+        "Satirical rhetoric analysis organizer"
+      ],
+      "scaffolds": "Provide historical context about eighteenth-century Ireland and explicit guidance on distinguishing satire from literal advocacy. Support students in discussing the text's disturbing subject matter appropriately.",
+      "success": "Students construct a nuanced analysis explaining how apparent argumentative techniques contribute to satire, support the interpretation with textual evidence, and distinguish the narrator's reasoning from the author's implied critique.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "The hidden warrant",
+      "activity": "Students analyze a set of complex arguments on a shared issue. They identify the assumptions connecting evidence to claims, investigate whether those assumptions are defensible, and evaluate how different values or disciplinary perspectives influence the arguments. Students revise one argument to make its reasoning more explicit and appropriately qualified.",
+      "materials": [
+        "Complex argumentative texts",
+        "Claim-evidence-warrant organizer",
+        "Credible contextual research"
+      ],
+      "scaffolds": "Introduce the concept of warrants through accessible examples before moving to implicit assumptions in complex texts. Require students to distinguish reasonable inference from speculation about motives.",
+      "success": "Students identify and evaluate at least three significant warrants, explain their implications for the arguments, and revise an argument to strengthen its reasoning.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b",
+        "10.T.T.3.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75–100 min",
+      "title": "The deliberative forum",
+      "activity": "Students research a complex public issue and participate in a structured deliberation. Each participant presents a defensible position, accurately summarizes a competing argument, evaluates evidence, and responds to questions. After discussion, students revise their positions to reflect relevant evidence, legitimate concerns, and unresolved uncertainties.",
+      "materials": [
+        "Credible interdisciplinary source set",
+        "Discussion protocol",
+        "Argument evaluation rubric",
+        "Reflection and revision template"
+      ],
+      "scaffolds": "Establish discussion norms emphasizing evidence, accurate representation, intellectual humility, and respectful disagreement. Allow written preparation and alternative participation formats.",
+      "success": "Students demonstrate evidence-based argumentation, fair engagement with competing perspectives, accurate evaluation of reasoning, and meaningful revision in response to new information.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b",
+        "10.T.T.3.c",
+        "10.T.T.3.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 min",
+      "title": "Design an ethical advocacy campaign",
+      "activity": "Students develop a multimodal advocacy campaign addressing a researched school or community issue. They create a written position statement, a visual or audiovisual component, and an audience-specific call to action. Students document the evidence supporting their claims, explain their rhetorical and design decisions, and evaluate their campaign for accuracy, fairness, and potential manipulation.",
+      "materials": [
+        "Credible research sources",
+        "Multimodal mentor texts",
+        "Digital design tools",
+        "Campaign planning template",
+        "Ethical argumentation checklist"
+      ],
+      "scaffolds": "Provide a campaign model and require a research conference before design work begins. Teach accessible design practices and require students to verify quantitative and visual evidence.",
+      "success": "Students create a coherent campaign supported by credible evidence, sound reasoning, fair consideration of competing perspectives, and strategic integration of rhetorical devices, appeals, and design choices.",
+      "alignment": [
+        "10.T.T.3.a",
+        "10.T.T.3.b",
+        "10.T.T.3.c",
+        "10.T.T.3.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best distinguishes evidence from reasoning in an argument?",
+      "options": [
+        "Evidence states the writer's opinion, while reasoning repeats the central claim.",
+        "Evidence provides information supporting a claim, while reasoning explains how that information supports the claim.",
+        "Evidence is always numerical, while reasoning is always emotional.",
+        "Evidence and reasoning are interchangeable terms."
+      ],
+      "answer": "B",
+      "rationale": "Evidence supplies relevant information. Reasoning establishes and explains the logical connection between that information and the claim."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A writer argues that a school should expand tutoring because students who attended a pilot program improved their grades. Which question most directly examines the reasoning connecting the evidence to the claim?",
+      "options": [
+        "Does the writer use an interesting title?",
+        "What color is the school's tutoring brochure?",
+        "What evidence suggests that tutoring contributed to the improvement rather than other factors?",
+        "How many paragraphs appear in the argument?"
+      ],
+      "answer": "C",
+      "rationale": "The argument implies a causal relationship. Examining alternative explanations helps determine whether the evidence supports that relationship."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A speaker explains her relevant research experience, acknowledges limitations in her findings, and accurately represents competing evidence. Which rhetorical appeal is most directly strengthened by these choices?",
+      "options": [
+        "Ethos",
+        "Pathos",
+        "Anaphora",
+        "False dilemma"
+      ],
+      "answer": "A",
+      "rationale": "Relevant expertise, transparency, and fair representation of evidence contribute to credibility and trustworthiness."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which example most clearly demonstrates a legitimate use of pathos?",
+      "options": [
+        "A speaker presents a moving story to illustrate the human consequences of a problem and supports the broader argument with relevant evidence.",
+        "A writer claims that a proposal must be correct because disagreeing would make people feel guilty.",
+        "An advertisement uses frightening images to imply an unsupported medical claim.",
+        "A speaker refuses to provide evidence because the audience is already upset."
+      ],
+      "answer": "A",
+      "rationale": "An emotional appeal can legitimately communicate the human significance of an issue when it complements rather than replaces appropriate evidence and reasoning."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best describes logos?",
+      "options": [
+        "Any argument containing a number or statistic.",
+        "The use of impressive vocabulary to establish authority.",
+        "An appeal developed through evidence, reasoning, and coherent logical relationships.",
+        "A technique that requires avoiding emotional language."
+      ],
+      "answer": "C",
+      "rationale": "Logos concerns the reasoning and evidence supporting an argument. Statistics may contribute to logos, but their presence alone does not establish logical soundness."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student argues: We should reject Maya's proposal for a new reading program because Maya is terrible at basketball. Which fallacy is most clearly demonstrated?",
+      "options": [
+        "Ad hominem",
+        "False cause",
+        "Circular reasoning",
+        "Slippery slope"
+      ],
+      "answer": "A",
+      "rationale": "The argument attacks a personal characteristic unrelated to the merits of Maya's proposal."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student proposes reducing unnecessary homework. An opponent responds: My classmate wants students to stop learning outside school entirely. Which fallacy is most clearly demonstrated?",
+      "options": [
+        "Hasty generalization",
+        "Straw man",
+        "False cause",
+        "Inappropriate appeal to authority"
+      ],
+      "answer": "B",
+      "rationale": "The opponent distorts a limited proposal into a more extreme position that is easier to attack."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A speaker argues: Either the school bans every personal electronic device or students will never learn to concentrate. Which reasoning problem is most evident?",
+      "options": [
+        "The speaker uses an appropriate qualification.",
+        "The speaker accurately represents all available alternatives.",
+        "The speaker presents an unsupported false dilemma.",
+        "The speaker establishes a relevant expert's credibility."
+      ],
+      "answer": "C",
+      "rationale": "The argument presents two extreme alternatives while overlooking other reasonable policies and approaches."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student interviews three classmates who dislike a new schedule and concludes that every student in the school dislikes it. Which fallacy is most clearly demonstrated?",
+      "options": [
+        "Circular reasoning",
+        "Ad hominem",
+        "Hasty generalization",
+        "Red herring"
+      ],
+      "answer": "C",
+      "rationale": "The conclusion extends beyond what a small and potentially unrepresentative sample can support."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A writer argues: This policy is effective because it works, and we know it works because it is effective. Which fallacy is most clearly demonstrated?",
+      "options": [
+        "Circular reasoning",
+        "False dilemma",
+        "Straw man",
+        "Inappropriate appeal to authority"
+      ],
+      "answer": "A",
+      "rationale": "The reasoning restates the conclusion without providing independent support."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A speaker claims that allowing one deadline extension will inevitably lead to the elimination of all deadlines and the collapse of academic expectations. Which reasoning problem is most evident?",
+      "options": [
+        "An appropriately supported causal argument",
+        "A concession",
+        "A slippery slope",
+        "A relevant analogy"
+      ],
+      "answer": "C",
+      "rationale": "The speaker predicts a chain of increasingly serious consequences without adequately supporting the connections between them."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "During a discussion about whether a proposed transportation project is affordable, a speaker responds by describing the city's successful sports teams. Which fallacy is most clearly demonstrated?",
+      "options": [
+        "Red herring",
+        "False cause",
+        "Circular reasoning",
+        "Hasty generalization"
+      ],
+      "answer": "A",
+      "rationale": "The response introduces an irrelevant issue that distracts from the question of affordability."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A school's attendance improved after it changed the color of its uniforms. A student concludes that the new uniform color caused the improvement. Which reasoning problem is most evident?",
+      "options": [
+        "The student provides a well-supported concession.",
+        "The student assumes causation from a sequence of events without adequate evidence.",
+        "The student accurately evaluates alternative explanations.",
+        "The student demonstrates appropriate qualification."
+      ],
+      "answer": "B",
+      "rationale": "The sequence of events does not establish a causal relationship. Additional evidence and consideration of alternative explanations are necessary."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which example most clearly demonstrates an inappropriate appeal to authority?",
+      "options": [
+        "A student cites a qualified structural engineer's explanation of bridge safety.",
+        "A writer cites a relevant medical organization's evidence-based guidance about a health question.",
+        "A researcher compares findings from several experts in the relevant field.",
+        "An advertisement claims that a supplement must be medically effective because a famous musician recommends it."
+      ],
+      "answer": "D",
+      "rationale": "The musician's fame does not establish relevant medical expertise or provide sufficient evidence of the supplement's effectiveness."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which sentence most effectively qualifies a claim?",
+      "options": [
+        "This program will improve every student's performance in every subject.",
+        "The program appears to improve reading performance among participating students, although its long-term effects require further study.",
+        "Anyone who questions the program does not care about education.",
+        "The program is successful because it is obviously a success."
+      ],
+      "answer": "B",
+      "rationale": "The sentence limits the claim to the population and outcomes supported by the evidence and acknowledges uncertainty."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best explains the function of a concession?",
+      "options": [
+        "It eliminates the need to respond to opposing evidence.",
+        "It acknowledges a legitimate point or concern from another perspective.",
+        "It replaces the central claim with an unrelated topic.",
+        "It establishes that the opposing position is entirely correct."
+      ],
+      "answer": "B",
+      "rationale": "A concession recognizes a valid aspect of another perspective without necessarily abandoning the writer's central position."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Consider the sentence: We must protect our parks, preserve our rivers, and prepare our communities for the future. Which rhetorical device is most clearly demonstrated?",
+      "options": [
+        "Parallelism",
+        "False dilemma",
+        "Circular reasoning",
+        "Red herring"
+      ],
+      "answer": "A",
+      "rationale": "The sentence uses similar grammatical structures to organize and emphasize related commitments."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A speaker repeatedly begins successive sentences with the words We deserve. Which rhetorical device is being used?",
+      "options": [
+        "Analogy",
+        "Anaphora",
+        "Qualification",
+        "Concession"
+      ],
+      "answer": "B",
+      "rationale": "Anaphora involves repeating a word or phrase at the beginning of successive clauses or sentences."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A public service announcement combines a personal story, verified injury statistics, and testimony from a qualified expert. Which statement best explains the relationship among its rhetorical appeals?",
+      "options": [
+        "The announcement can use only one rhetorical appeal.",
+        "The personal story makes the statistical evidence irrelevant.",
+        "The strategies can work together to communicate human significance, establish credibility, and support reasoning.",
+        "The presence of emotional language automatically makes the argument fallacious."
+      ],
+      "answer": "C",
+      "rationale": "Multiple appeals can reinforce one another when they are connected to the argument's purpose and supported by appropriate evidence."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Two graphs display the same data, but one uses a much narrower vertical scale that makes a small change appear dramatic. What should a critical reader evaluate?",
+      "options": [
+        "Whether the graph's design influences the perceived magnitude of the change and whether the presentation provides appropriate context.",
+        "Whether the graph uses the reader's favorite colors.",
+        "Whether every graph must begin at zero regardless of its purpose.",
+        "Whether the graph contains enough decorative images."
+      ],
+      "answer": "A",
+      "rationale": "Scale and presentation can influence interpretation. The reader should evaluate whether the design accurately communicates the data in its particular context."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why an argument can be rhetorically effective without being logically sound.",
+      "answer": "An argument may engage an audience through compelling language, emotional appeals, credibility, memorable devices, or effective design even when its evidence is insufficient or its reasoning is flawed. Evaluating an argument requires examining both its persuasive impact and the quality of support for its claims.",
+      "rationale": "A complete response distinguishes audience influence from logical justification and explains why both dimensions matter."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain the difference between a rhetorical appeal and a rhetorical device. Provide an example showing how a device can contribute to an appeal.",
+      "answer": "A rhetorical appeal influences an audience through credibility, emotion, reasoning, or another persuasive consideration. A rhetorical device is a specific language or structural technique. For example, an anecdote may contribute to pathos by illustrating the human consequences of a problem, or to ethos by demonstrating the speaker's relevant experience.",
+      "rationale": "Students should distinguish the technique from its persuasive function and recognize that a device may contribute to more than one appeal."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why identifying a fallacy requires more than naming the fallacy.",
+      "answer": "A fallacy label identifies a general type of reasoning problem, but an effective critique must explain how the specific claim, evidence, assumptions, or conclusion are connected incorrectly. The explanation shows why the reasoning is inadequate and may suggest how it could be improved.",
+      "rationale": "Assess whether students explain the logical problem rather than relying on terminology alone."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "A writer claims that every student should participate in a particular program because one participant had a positive experience. Explain the reasoning problem and suggest a stronger approach.",
+      "answer": "The argument makes a broad generalization from insufficient evidence. The individual experience may illustrate a possible benefit, but the writer should investigate more representative evidence, consider differences among students, and qualify the claim according to the available findings.",
+      "rationale": "A strong response identifies the limitation of anecdotal evidence and recommends more appropriate support or qualification."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how a concession can strengthen an argument's credibility and reasoning.",
+      "answer": "A concession demonstrates that the writer understands legitimate concerns and is willing to acknowledge evidence that complicates the position. It can strengthen credibility and allow the writer to develop a more precise, defensible claim or a reasoned response to the opposing argument.",
+      "rationale": "Students should connect concessions to both fair representation and stronger argumentative reasoning."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "A student is preparing two arguments supporting the same school improvement: one for classmates and one for school administrators. Explain how the student's rhetorical choices might differ.",
+      "answer": "The student might emphasize everyday experiences, accessibility, and student participation when addressing classmates, while emphasizing implementation, costs, safety, and evidence of effectiveness when addressing administrators. The underlying factual claims should remain accurate, but the organization, examples, tone, and appeals can respond to each audience's priorities.",
+      "rationale": "Assess understanding of audience adaptation without sacrificing factual accuracy or logical consistency."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "Revise the following argument to eliminate the false dilemma: Either our school purchases new technology for every classroom this year or students will never receive a quality education.",
+      "answer": "One acceptable revision is: Updating classroom technology may improve access to certain learning opportunities, but the school should evaluate instructional needs, available funding, existing resources, and phased implementation before determining the most effective investment.",
+      "rationale": "The revision recognizes additional reasonable possibilities, avoids an unsupported extreme conclusion, and establishes a more defensible claim."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "Revise the following response to eliminate the straw man: My opponent supports reducing homework, so she clearly believes students should never practice academic skills outside class.",
+      "answer": "One acceptable revision is: My opponent argues that reducing unnecessary homework could improve students' well-being. Although excessive assignments may create problems, purposeful independent practice can support learning when assignments are appropriately designed and manageable.",
+      "rationale": "The revision accurately represents the opposing position, acknowledges a legitimate concern, and provides a more relevant response."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Read a teacher-selected argumentative essay or speech. Identify its central claim and evaluate how at least three argumentative techniques contribute to the development of its meaning or central idea.",
+      "answer": "A successful response accurately identifies the central claim, analyzes specific argumentative techniques, explains how each contributes to the text's development, evaluates the quality of reasoning and evidence, and supports the interpretation with relevant textual examples.",
+      "rationale": "Assess accuracy of argument identification, depth of analysis, quality of evidence, and evaluation of the techniques' effectiveness."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Analyze a passage in which an author integrates multiple rhetorical appeals. Explain how the appeals interact and evaluate their effectiveness for the intended audience.",
+      "answer": "A strong response identifies relevant appeals, supports the analysis with specific textual evidence, explains how the appeals reinforce or complicate one another, and evaluates their effectiveness in relation to the audience and purpose.",
+      "rationale": "Students should analyze the interaction of rhetorical strategies rather than merely identify separate examples of ethos, pathos, and logos."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Evaluate a teacher-selected argument containing one or more potential reasoning problems. Identify the relevant claim and evidence, explain any fallacious reasoning, and propose revisions that would strengthen the argument.",
+      "answer": "A successful response accurately represents the argument, identifies specific reasoning problems, explains why the support is inadequate, and recommends relevant evidence, more precise claims, or improved reasoning. Alternative fallacy classifications may be acceptable when supported by a clear explanation.",
+      "rationale": "Assess the quality of the reasoning analysis rather than requiring a single fallacy label when multiple classifications are defensible."
+    },
+    {
+      "type": "Multimodal analysis",
+      "prompt": "Examine a teacher-selected advocacy video, infographic, or public service announcement. Evaluate how at least three visual, audio, or organizational choices contribute to the argument and influence audience interpretation.",
+      "answer": "A strong response identifies the central claim, analyzes specific design and presentation choices, explains their rhetorical functions, and evaluates whether the evidence and reasoning adequately support the message.",
+      "rationale": "Assess multimodal analysis, rhetorical interpretation, evidence evaluation, and the connection between design and central meaning."
+    },
+    {
+      "type": "Extended constructed response",
+      "prompt": "Compare two arguments addressing the same issue. Evaluate their claims, evidence, reasoning, rhetorical appeals, and treatment of opposing perspectives. Explain which argumentative techniques are effective in each text and identify meaningful limitations.",
+      "answer": "A successful response accurately represents both arguments, develops a clear comparative evaluation, analyzes specific techniques and evidence, explains reasoning strengths and weaknesses, and supports conclusions without relying solely on personal agreement with either position.",
+      "rationale": "Evaluate cross-text comparison, logical analysis, rhetorical analysis, textual evidence, and the fairness of the evaluation."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Develop an argumentative editorial or speech for a clearly identified audience. Present a defensible central claim, integrate credible evidence, explain the reasoning connecting evidence to claims, respond fairly to a substantial counterclaim, and use multiple rhetorical devices or appeals strategically.",
+      "answer": "Successful work demonstrates a focused claim, credible and relevant evidence, coherent reasoning, fair treatment of competing perspectives, purposeful organization, strategic rhetorical choices, appropriate attribution, and awareness of audience and purpose.",
+      "rationale": "Use separate rubric criteria for argument development, evidence quality, reasoning, counterargument, rhetorical integration, organization, and audience awareness."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Create a multimodal advocacy message addressing a researched school or community issue. Submit the message and a rhetorical design rationale explaining how its claims, evidence, devices, appeals, and visual or audio choices support the intended purpose.",
+      "answer": "A strong submission presents a defensible position supported by credible evidence and sound reasoning, integrates multiple rhetorical strategies, uses accessible and accurate design, and explains how the choices respond to audience needs. The rationale identifies limitations and demonstrates ethical communication.",
+      "rationale": "Evaluate both the quality of the argument and the strategic, accurate, and ethical use of multimodal presentation."
+    }
+  ],
+  "evidence": [
+    "An accurate argument map identifying central claims, supporting claims, reasons, evidence, and conclusions.",
+    "Annotations explaining how argumentative techniques contribute to a text's meaning or central idea.",
+    "An evaluation of the relevance, credibility, sufficiency, and representativeness of evidence.",
+    "An explanation of the reasoning connecting evidence to a claim.",
+    "Identification and evaluation of explicit or implicit warrants.",
+    "An analysis distinguishing rhetorical effectiveness from logical soundness.",
+    "Accurate identification and interpretation of ethos, pathos, logos, and other relevant rhetorical considerations.",
+    "An explanation of how multiple rhetorical appeals interact within a text.",
+    "Analysis connecting specific rhetorical devices to their argumentative functions.",
+    "Accurate identification and explanation of common logical fallacies.",
+    "Revisions correcting unsupported causal claims, distorted counterarguments, false dilemmas, or other reasoning problems.",
+    "A comparative critique of arguments addressing a shared issue.",
+    "An analysis of how multimodal design and presentation influence argumentative meaning.",
+    "Evaluation of quantitative evidence and data visualization for accuracy and appropriate context.",
+    "A defensible original central claim supported by credible evidence.",
+    "Explicit reasoning connecting evidence to claims in original writing.",
+    "Accurate representation and fair treatment of a substantial counterclaim.",
+    "Effective use of concession, rebuttal, or qualification.",
+    "An original argument demonstrating strategic organization and audience awareness.",
+    "Purposeful integration of multiple rhetorical devices or appeals.",
+    "An audience-adapted version of an argument accompanied by a rationale for the revisions.",
+    "A revised editorial, speech, or multimodal argument demonstrating improved reasoning and rhetorical effectiveness.",
+    "A reflective explanation of the ethical and strategic decisions made during argument construction.",
+    "Independent application of argumentative analysis and composition skills to unfamiliar topics and texts."
+  ],
+  "instruction": [
+    "Begin with authentic argumentative texts addressing meaningful questions rather than isolated lists of persuasive devices.",
+    "Explicitly teach the distinction among claims, evidence, reasoning, and warrants.",
+    "Model argument mapping to reveal how supporting claims and evidence contribute to a central position.",
+    "Teach students to evaluate evidence for relevance, credibility, sufficiency, representativeness, and limitations.",
+    "Use contrasting examples to demonstrate the difference between including evidence and explaining its significance.",
+    "Introduce warrants through accessible arguments before examining implicit assumptions in complex texts.",
+    "Teach students to distinguish the persuasive effectiveness of an argument from the logical quality of its reasoning.",
+    "Use paired texts that present different positions on a shared topic.",
+    "Require students to evaluate argumentative techniques rather than simply identify their presence.",
+    "Teach rhetorical appeals through authentic examples that demonstrate their interaction.",
+    "Avoid reducing ethos to credentials, pathos to sadness, or logos to statistics.",
+    "Explain that credibility can be established through transparency, relevant expertise, accurate evidence, and fair treatment of competing perspectives.",
+    "Demonstrate how emotional appeals can legitimately communicate the human significance of an issue.",
+    "Teach students to distinguish emotional relevance from emotional manipulation or unsupported conclusions.",
+    "Model how rhetorical devices contribute to specific persuasive functions.",
+    "Use sentence-level and passage-level analysis of parallelism, repetition, antithesis, analogy, rhetorical questions, and other relevant devices.",
+    "Teach fallacies as reasoning problems before requiring students to memorize terminology.",
+    "Use authentic and teacher-created examples of common fallacies.",
+    "Require students to explain why reasoning is flawed and how it could be improved.",
+    "Recognize that some examples may support more than one defensible fallacy classification.",
+    "Avoid implying that the presence of one fallacy proves every claim in a text is false.",
+    "Teach students to distinguish correlation from causation and examine alternative explanations.",
+    "Use evidence evaluation activities involving sample size, representativeness, definitions, and limitations.",
+    "Model how to represent an opposing position accurately before responding to it.",
+    "Teach concessions, rebuttals, and qualifications as tools for strengthening rather than weakening an argument.",
+    "Use structured discussions and deliberations that prioritize evidence and intellectual humility.",
+    "Teach students to analyze argumentative design in visual, digital, and audiovisual texts.",
+    "Examine how charts, images, typography, sequencing, music, and narration contribute to audience interpretation.",
+    "Teach students to evaluate visual evidence for appropriate scale, context, labeling, and accuracy.",
+    "Provide captions, transcripts, and accessible alternatives for multimodal texts.",
+    "Use authentic audiences and purposes for argumentative writing assignments.",
+    "Model how audience priorities influence evidence selection, organization, tone, and rhetorical choices.",
+    "Teach strategic integration of rhetorical devices and appeals rather than requiring one isolated example of each appeal.",
+    "Use writing conferences and peer feedback focused on claims, evidence, reasoning, and rhetorical effectiveness.",
+    "Require students to revise arguments after encountering new evidence or substantial counterarguments.",
+    "Encourage students to qualify conclusions when evidence is incomplete or limited.",
+    "Use school library databases and credible research resources to support evidence-based writing.",
+    "Collaborate with content-area teachers to develop argumentative tasks involving scientific, historical, ethical, and policy questions.",
+    "Assess both argumentative analysis and original composition through authentic tasks.",
+    "Use rubrics that distinguish logical reasoning, evidence quality, rhetorical integration, organization, and audience awareness.",
+    "Provide opportunities for students to reflect on the ethical implications of persuasive communication.",
+    "Gradually remove scaffolds so students independently evaluate and construct arguments across genres, disciplines, and communication modes."
+  ],
+  "watchFor": [
+    "Confusing a topic with a defensible central claim.",
+    "Treating an unsupported opinion as a fully developed argument.",
+    "Listing evidence without explaining how it supports a claim.",
+    "Assuming that more evidence necessarily produces a stronger argument.",
+    "Using evidence that is credible but irrelevant to the particular claim.",
+    "Drawing broad conclusions from isolated examples or unrepresentative samples.",
+    "Treating anecdotal evidence as sufficient proof of a general conclusion.",
+    "Ignoring the assumptions connecting evidence to claims.",
+    "Confusing correlation with causation.",
+    "Assuming that an event occurring before another event establishes a causal relationship.",
+    "Evaluating arguments primarily according to personal agreement with the conclusion.",
+    "Confusing persuasive effectiveness with logical soundness.",
+    "Identifying argumentative techniques without explaining their functions.",
+    "Reducing rhetorical analysis to labeling ethos, pathos, and logos.",
+    "Assuming ethos refers only to professional credentials.",
+    "Assuming pathos refers only to sadness or fear.",
+    "Assuming logos refers only to facts and statistics.",
+    "Treating rhetorical appeals as mutually exclusive categories.",
+    "Assuming every emotional appeal is fallacious.",
+    "Assuming every appeal to authority is fallacious.",
+    "Accepting an expert's claim without considering relevant expertise, evidence, and limitations.",
+    "Identifying fallacies by memorized labels without explaining the reasoning problem.",
+    "Treating any personal criticism as ad hominem even when the person's credibility is directly relevant to the claim.",
+    "Labeling any prediction of future consequences a slippery slope without examining whether the causal links are supported.",
+    "Assuming any argument presenting two alternatives is a false dilemma even when the alternatives are genuinely exhaustive.",
+    "Treating the presence of one fallacy as proof that an entire argument is false.",
+    "Misrepresenting an opposing position to make it easier to refute.",
+    "Including a superficial counterclaim that does not address a substantial competing perspective.",
+    "Treating concession as surrender rather than acknowledgment of a valid point.",
+    "Responding to counterclaims through personal attacks rather than reasoning and evidence.",
+    "Making absolute claims when the available evidence supports only a limited conclusion.",
+    "Using rhetorical devices as decoration without a clear argumentative purpose.",
+    "Forcing a predetermined number of rhetorical devices or appeals into a text.",
+    "Repeating the central claim instead of developing supporting reasoning.",
+    "Using an analogy without examining whether the compared situations are sufficiently similar.",
+    "Assuming a visually impressive argument is necessarily credible.",
+    "Accepting graphs or statistics without examining definitions, scales, sources, or context.",
+    "Treating every nonzero graph axis as misleading without considering the type and purpose of the visualization.",
+    "Using images, audio, or design choices that create unsupported implications.",
+    "Adapting an argument to an audience by changing factual claims rather than changing emphasis or presentation.",
+    "Ignoring the ethical responsibilities associated with persuasive communication.",
+    "Treating argumentation as a contest to defeat an opponent rather than an opportunity to examine evidence and develop understanding.",
+    "Assessing argumentative writing primarily through adherence to a fixed essay structure.",
+    "Rewarding the presence of rhetorical devices rather than their strategic effectiveness.",
+    "Failing to revise a position when credible evidence reveals meaningful limitations."
+  ],
+  "skills": {
+    "10.T.T.3.a": {
+      "focus": "Evaluate and critique argumentative techniques and their implications for meaning",
+      "studentFriendly": "I can read, discuss, and evaluate arguments in different kinds of texts. I can explain how authors organize claims, use evidence, develop reasoning, and design their messages to influence meaning and audiences.",
+      "know": [
+        "Arguments develop central claims through supporting claims, evidence, reasoning, and conclusions.",
+        "Argumentative techniques include the selection, organization, framing, and presentation of claims and support.",
+        "Authors may use counterclaims, concessions, rebuttals, and qualifications to develop arguments.",
+        "Evidence should be evaluated for relevance, credibility, sufficiency, representativeness, and limitations.",
+        "Reasoning connects evidence to claims through explicit or implicit assumptions.",
+        "Argumentative organization influences how audiences encounter and interpret ideas.",
+        "Multimodal arguments may communicate through written language, images, charts, typography, audio, video, and other design features.",
+        "Visual and quantitative evidence can influence interpretation through choices about scale, context, selection, and presentation.",
+        "Rhetorical effectiveness and logical soundness are related but distinct dimensions of argument quality.",
+        "Effective critique examines specific argumentative choices and their relationship to meaning, audience, and purpose."
+      ],
+      "understand": [
+        "The construction of an argument influences how its audience interprets the central claim or idea.",
+        "Argumentative techniques should be evaluated according to their functions rather than merely identified.",
+        "Evidence supports a claim only when the connection between them is adequately established.",
+        "The effectiveness of an argumentative technique depends on context, audience, purpose, and the quality of its supporting reasoning.",
+        "An argument may be persuasive while containing significant evidentiary or logical weaknesses.",
+        "Multimodal design choices can clarify, emphasize, simplify, or distort argumentative content.",
+        "A responsible critique accurately represents an argument before evaluating its strengths and limitations.",
+        "Different texts may develop defensible arguments through different organizational and rhetorical approaches."
+      ],
+      "do": [
+        "Identify central claims, supporting claims, evidence, reasoning, and conclusions in argumentative texts.",
+        "Map the organization and development of an argument.",
+        "Analyze how argumentative techniques contribute to a text's meaning or central idea.",
+        "Evaluate the quality and relevance of evidence.",
+        "Explain the reasoning and assumptions connecting evidence to claims.",
+        "Analyze the use of counterclaims, concessions, rebuttals, and qualifications.",
+        "Compare argumentative techniques across texts, genres, and communication modes.",
+        "Evaluate how visual and audiovisual design choices influence audience interpretation.",
+        "Distinguish persuasive impact from the logical quality of an argument.",
+        "Identify meaningful strengths, weaknesses, and limitations in argumentative texts.",
+        "Participate in evidence-based discussions evaluating and critiquing arguments.",
+        "Construct an analytical critique supported by specific textual or multimodal evidence."
+      ],
+      "targets": [
+        "I can identify the major components of an argument.",
+        "I can explain how argumentative techniques develop a central idea.",
+        "I can evaluate evidence and reasoning.",
+        "I can analyze how organization and design influence an argument.",
+        "I can compare argumentative techniques across different texts.",
+        "I can support a critique of an argument with specific evidence."
+      ],
+      "instruction": [
+        "Use authentic arguments from speeches, essays, journalism, historical documents, and multimodal texts.",
+        "Model argument mapping and the analysis of claim-evidence-reasoning relationships.",
+        "Teach students to examine implicit assumptions and evaluate evidence quality.",
+        "Use paired arguments addressing the same issue.",
+        "Model the distinction between identifying a technique and evaluating its contribution to meaning.",
+        "Teach students to analyze visual rhetoric and data presentation.",
+        "Use structured discussions that require accurate representation of arguments before critique.",
+        "Require evidence-based explanations of argumentative strengths and weaknesses.",
+        "Assess analysis through authentic comparative and multimodal tasks."
+      ],
+      "evidence": [
+        "An accurate argument map.",
+        "Annotations explaining how techniques contribute to meaning.",
+        "An evaluation of evidence quality and reasoning.",
+        "An analysis of assumptions or warrants.",
+        "A comparative critique of argumentative texts.",
+        "An evaluation of visual or audiovisual argumentative design.",
+        "An evidence-based discussion contribution or written critique."
+      ],
+      "watchFor": [
+        "Confusing the topic with the central claim.",
+        "Identifying techniques without evaluating their functions.",
+        "Listing evidence without examining its relationship to claims.",
+        "Assuming rhetorical effectiveness establishes logical soundness.",
+        "Evaluating arguments primarily according to personal agreement.",
+        "Ignoring visual and audiovisual design choices.",
+        "Misrepresenting an argument before critiquing it.",
+        "Treating all argumentative texts as if they must follow one organizational formula."
+      ]
+    },
+    "10.T.T.3.b": {
+      "focus": "Analyze rhetorical appeals and identify fallacies",
+      "studentFriendly": "I can explain how writers and speakers use credibility, emotion, and reasoning to influence audiences. I can recognize faulty reasoning, explain why it is flawed, and distinguish legitimate persuasive techniques from misleading arguments.",
+      "know": [
+        "Ethos appeals to credibility, character, expertise, or trustworthiness.",
+        "Pathos appeals to emotions, values, experiences, or sympathies.",
+        "Logos appeals to reasoning, evidence, and logical relationships.",
+        "Rhetorical appeals may overlap and reinforce one another.",
+        "Credibility can be established through relevant expertise, transparency, accurate evidence, and fair representation.",
+        "Emotional appeals can legitimately communicate the significance of an issue.",
+        "Logical fallacies involve flaws in reasoning.",
+        "Common fallacies include ad hominem, straw man, false dilemma, hasty generalization, circular reasoning, slippery slope, red herring, false cause, and inappropriate appeal to authority.",
+        "A fallacy label does not substitute for an explanation of the reasoning problem.",
+        "Correlation and temporal sequence do not independently establish causation.",
+        "An appeal to authority may be legitimate when the authority has relevant expertise and the evidence is appropriate.",
+        "An emotional appeal becomes problematic when it substitutes for necessary evidence or reasoning.",
+        "The presence of a reasoning flaw does not automatically establish that every claim in a text is false."
+      ],
+      "understand": [
+        "Rhetorical appeals influence how audiences perceive credibility, significance, and the strength of an argument.",
+        "Multiple appeals can work together within a single passage or argumentative strategy.",
+        "The effectiveness and appropriateness of an appeal depend on its relationship to audience, purpose, evidence, and reasoning.",
+        "Persuasive language does not necessarily establish the truth of a claim.",
+        "Fallacies weaken arguments by substituting faulty connections, irrelevant information, or unsupported assumptions for sound reasoning.",
+        "Accurate fallacy analysis requires examining the specific claim, evidence, assumptions, and conclusion.",
+        "Some reasoning problems may support multiple defensible fallacy classifications.",
+        "Legitimate disagreement should not be dismissed by assigning an unsupported fallacy label.",
+        "Recognizing faulty reasoning helps readers evaluate arguments and writers improve their own communication."
+      ],
+      "do": [
+        "Identify rhetorical appeals in literary, informational, argumentative, and multimodal texts.",
+        "Analyze how credibility, emotion, and reasoning contribute to audience influence.",
+        "Explain how multiple appeals interact within an argument.",
+        "Evaluate whether rhetorical appeals are appropriate and adequately supported.",
+        "Distinguish legitimate emotional appeals from emotional manipulation or unsupported conclusions.",
+        "Evaluate whether an authority has relevant expertise and whether the cited evidence supports the claim.",
+        "Identify common logical fallacies in authentic and teacher-created arguments.",
+        "Explain the specific reasoning problem associated with a fallacy.",
+        "Recognize distorted counterarguments, irrelevant attacks, unsupported alternatives, and inadequate generalizations.",
+        "Evaluate causal claims and consider alternative explanations.",
+        "Distinguish reasonable predictions of consequences from unsupported slippery-slope arguments.",
+        "Evaluate whether evidence supports the scope of a conclusion.",
+        "Revise arguments to correct faulty reasoning.",
+        "Support rhetorical and logical analysis with specific evidence."
+      ],
+      "targets": [
+        "I can identify and analyze ethos, pathos, and logos.",
+        "I can explain how rhetorical appeals work together.",
+        "I can distinguish legitimate appeals from misleading uses of persuasion.",
+        "I can recognize common logical fallacies.",
+        "I can explain why particular reasoning is flawed.",
+        "I can evaluate causal claims and generalizations.",
+        "I can revise an argument to improve its reasoning."
+      ],
+      "instruction": [
+        "Introduce rhetorical appeals through authentic examples rather than isolated definitions.",
+        "Model how one passage can establish credibility, evoke emotion, and contribute to reasoning simultaneously.",
+        "Teach the distinction between emotional relevance and unsupported emotional manipulation.",
+        "Compare relevant expert testimony with inappropriate appeals to authority.",
+        "Introduce fallacies as reasoning problems before emphasizing terminology.",
+        "Use short examples to teach individual reasoning problems and longer texts to develop contextual analysis.",
+        "Require students to explain why a conclusion is inadequately supported.",
+        "Teach students to distinguish correlation, temporal sequence, and causation.",
+        "Use argument-repair activities requiring students to revise flawed claims and reasoning.",
+        "Encourage defensible alternative fallacy classifications when supported by accurate explanations.",
+        "Assess rhetorical analysis and logical evaluation through authentic texts."
+      ],
+      "evidence": [
+        "Accurate identification and explanation of rhetorical appeals.",
+        "An analysis of how multiple appeals interact.",
+        "Evaluation of the appropriateness and effectiveness of rhetorical appeals.",
+        "Accurate identification of common reasoning problems.",
+        "An explanation of why a particular argument is fallacious.",
+        "Evaluation of expert testimony and emotional appeals.",
+        "An analysis of an unsupported causal claim or generalization.",
+        "A revision correcting flawed reasoning.",
+        "Independent evaluation of rhetorical appeals and fallacies in an unfamiliar text."
+      ],
+      "watchFor": [
+        "Reducing ethos to credentials, pathos to emotion alone, or logos to statistics.",
+        "Assuming rhetorical appeals cannot overlap.",
+        "Treating all emotional appeals as fallacious.",
+        "Treating all appeals to authority as fallacious.",
+        "Accepting claims solely because a famous person endorses them.",
+        "Assigning fallacy labels without explaining the reasoning problem.",
+        "Assuming every personal criticism constitutes ad hominem.",
+        "Assuming every prediction of consequences constitutes a slippery slope.",
+        "Treating all two-option arguments as false dilemmas.",
+        "Confusing correlation with causation.",
+        "Assuming a single fallacy invalidates every claim in a text.",
+        "Using fallacy terminology to dismiss disagreement without examining evidence."
+      ]
+    },
+    "10.T.T.3.c": {
+      "focus": "Apply argumentative techniques strategically to enhance writing and engage audiences",
+      "studentFriendly": "I can write an effective argument by developing a clear position, choosing credible evidence, explaining my reasoning, responding fairly to other perspectives, and organizing my ideas for the audience I want to reach.",
+      "know": [
+        "Effective arguments develop defensible claims supported by relevant evidence and clear reasoning.",
+        "Audience, purpose, context, and genre influence argumentative choices.",
+        "Supporting claims contribute to the development of a central position.",
+        "Evidence must be selected and interpreted according to the claim it supports.",
+        "Reasoning explains the relationship between evidence and claims.",
+        "Counterclaims present competing or alternative positions.",
+        "Concessions acknowledge legitimate concerns or valid points.",
+        "Rebuttals respond to opposing arguments through evidence and reasoning.",
+        "Qualifications limit claims to what the available evidence supports.",
+        "Argumentative organization can vary according to purpose and audience.",
+        "Rhetorical techniques can enhance clarity, credibility, emphasis, and engagement.",
+        "Ethical argumentation requires accurate evidence and fair representation of competing perspectives.",
+        "Revision can strengthen argument development, reasoning, organization, and audience awareness."
+      ],
+      "understand": [
+        "Effective argumentation requires more than stating an opinion and collecting supporting quotations.",
+        "A defensible claim must be appropriately limited by the available evidence.",
+        "Audience awareness influences evidence selection, organization, tone, and rhetorical choices.",
+        "Writers should explain why evidence supports their claims rather than assume the connection is obvious.",
+        "Addressing substantial counterarguments can strengthen an argument's credibility and reasoning.",
+        "Concessions and qualifications can demonstrate intellectual honesty and improve precision.",
+        "Argumentative techniques should serve the writer's purpose rather than satisfy a mechanical formula.",
+        "Persuasive writing should engage audiences without sacrificing accuracy or ethical responsibility.",
+        "Effective writers revise their arguments in response to feedback, new evidence, and competing perspectives."
+      ],
+      "do": [
+        "Identify a meaningful argumentative purpose and intended audience.",
+        "Develop a focused and defensible central claim.",
+        "Develop supporting claims that contribute to the central position.",
+        "Locate and select relevant, credible evidence.",
+        "Evaluate the sufficiency and limitations of supporting evidence.",
+        "Integrate evidence accurately through quotation, paraphrase, summary, examples, or appropriate visual representation.",
+        "Explain the reasoning connecting evidence to claims.",
+        "Identify and evaluate assumptions underlying the argument.",
+        "Represent substantial counterclaims accurately and fairly.",
+        "Develop concessions, rebuttals, and qualifications when appropriate.",
+        "Organize argumentative content to develop ideas coherently and strategically.",
+        "Use language and argumentative techniques appropriate to audience, purpose, and genre.",
+        "Engage audiences through purposeful examples, framing, and rhetorical choices.",
+        "Avoid logical fallacies and misleading uses of evidence.",
+        "Attribute source information appropriately.",
+        "Revise arguments for logical soundness, clarity, organization, credibility, and audience engagement.",
+        "Reflect on the effectiveness and ethical implications of argumentative choices."
+      ],
+      "targets": [
+        "I can develop a defensible central claim.",
+        "I can select credible and relevant evidence.",
+        "I can explain how evidence supports my claims.",
+        "I can represent and respond to substantial counterarguments fairly.",
+        "I can qualify claims according to the available evidence.",
+        "I can organize an argument strategically for my audience and purpose.",
+        "I can use argumentative techniques to engage readers.",
+        "I can revise my writing to improve reasoning, credibility, and effectiveness."
+      ],
+      "instruction": [
+        "Use authentic argumentative writing tasks with clearly defined audiences and purposes.",
+        "Model the development of focused, defensible claims.",
+        "Teach students to select evidence according to relevance, credibility, and sufficiency.",
+        "Use claim-evidence-reasoning and claim-evidence-warrant organizers.",
+        "Model how to integrate evidence and explain its significance.",
+        "Teach fair representation of counterclaims before introducing rebuttal strategies.",
+        "Use mini-lessons on concessions, qualifications, and logical reasoning.",
+        "Provide opportunities to adapt the same argument for different audiences.",
+        "Teach organizational flexibility rather than requiring a fixed essay formula.",
+        "Use peer feedback protocols focused on reasoning, evidence, and audience awareness.",
+        "Require revision after students encounter credible counterevidence or substantial objections.",
+        "Assess authentic argumentative products using separate criteria for claims, evidence, reasoning, organization, and rhetorical effectiveness."
+      ],
+      "evidence": [
+        "A focused and defensible central claim.",
+        "An argument plan demonstrating coherent development of supporting claims.",
+        "Relevant and credible research evidence.",
+        "Explicit reasoning connecting evidence to claims.",
+        "Accurate representation of a substantial counterclaim.",
+        "Effective use of concession, rebuttal, or qualification.",
+        "A coherent argumentative text adapted to a defined audience and purpose.",
+        "Appropriate attribution of source information.",
+        "A revised argument demonstrating improved logical soundness and rhetorical effectiveness.",
+        "A reflection explaining strategic and ethical argumentative choices."
+      ],
+      "watchFor": [
+        "Beginning with an overly broad or unsupported claim.",
+        "Selecting evidence solely because it confirms an initial opinion.",
+        "Including quotations without explaining their relevance.",
+        "Confusing evidence quantity with evidence quality.",
+        "Repeating claims instead of developing reasoning.",
+        "Using superficial or distorted counterclaims.",
+        "Responding to opposing positions through irrelevant personal attacks.",
+        "Avoiding concessions because they appear to weaken the argument.",
+        "Making claims stronger than the evidence supports.",
+        "Following a rigid essay formula without considering audience or purpose.",
+        "Using emotionally compelling language to compensate for inadequate evidence.",
+        "Changing factual claims when adapting an argument for another audience.",
+        "Revising only grammar and mechanics while leaving reasoning problems unresolved."
+      ]
+    },
+    "10.T.T.3.d": {
+      "focus": "Integrate multiple rhetorical devices or appeals strategically",
+      "studentFriendly": "I can combine rhetorical techniques such as repetition, parallelism, analogy, rhetorical questions, credibility, emotion, and reasoning to make my argument more effective for a particular audience and purpose.",
+      "know": [
+        "Rhetorical devices are language or structural techniques that create particular effects.",
+        "Rhetorical appeals influence audiences through credibility, emotion, reasoning, and other persuasive considerations.",
+        "Common rhetorical devices include repetition, anaphora, parallelism, antithesis, analogy, rhetorical questions, anecdote, allusion, and deliberate diction.",
+        "A rhetorical device can contribute to more than one rhetorical appeal.",
+        "Multiple devices and appeals can reinforce one another within an argument.",
+        "The appropriateness of a rhetorical choice depends on audience, purpose, genre, context, and the argument's central claim.",
+        "Ethos can be developed through relevant expertise, transparent evidence, accurate attribution, and fair representation.",
+        "Pathos can communicate human significance, shared values, or emotional consequences.",
+        "Logos can be developed through relevant evidence, coherent reasoning, comparison, and appropriate qualification.",
+        "Strategic integration requires meaningful relationships among rhetorical choices rather than isolated examples.",
+        "Visual, audio, and organizational choices can contribute to rhetorical appeals in multimodal arguments.",
+        "Rhetorical effectiveness should be evaluated alongside accuracy, reasoning, and ethical communication."
+      ],
+      "understand": [
+        "Rhetorical devices and appeals are most effective when they support an argument's central claim and purpose.",
+        "Multiple rhetorical strategies can interact to create effects that individual strategies would not achieve independently.",
+        "The same rhetorical device may serve different functions in different contexts.",
+        "Strategic integration is more sophisticated than mechanically including one example of each appeal.",
+        "A persuasive argument does not require every available rhetorical device.",
+        "Audience awareness helps writers determine which combinations of devices and appeals are appropriate.",
+        "Effective rhetorical choices should clarify and strengthen an argument rather than conceal weak reasoning.",
+        "Ethical persuasion engages audiences while respecting evidence, accuracy, and the complexity of competing perspectives.",
+        "Revision helps writers evaluate whether rhetorical choices work together coherently and effectively."
+      ],
+      "do": [
+        "Identify rhetorical devices and appeals appropriate to a specific audience and purpose.",
+        "Select rhetorical strategies that contribute directly to the central argument.",
+        "Use repetition and parallelism to organize or emphasize related ideas.",
+        "Use antithesis or contrast to clarify meaningful differences.",
+        "Use analogies and examples to make complex reasoning accessible.",
+        "Use anecdotes to illustrate human significance while supporting broader claims with adequate evidence.",
+        "Use rhetorical questions to encourage reflection or emphasize an issue when appropriate.",
+        "Establish credibility through accurate evidence, transparency, relevant expertise, and fair representation.",
+        "Integrate emotional appeals that contribute meaningfully to the argument.",
+        "Develop logical appeals through evidence and explicit reasoning.",
+        "Combine multiple rhetorical devices or appeals within a coherent argumentative structure.",
+        "Adapt rhetorical combinations for different audiences, purposes, and genres.",
+        "Use appropriate multimodal design choices to reinforce argumentative meaning.",
+        "Explain the intended functions and interactions of selected rhetorical strategies.",
+        "Evaluate whether rhetorical choices enhance or distract from the argument.",
+        "Revise rhetorical strategies to improve coherence, audience engagement, credibility, and ethical effectiveness."
+      ],
+      "targets": [
+        "I can select rhetorical devices and appeals appropriate to my audience and purpose.",
+        "I can use rhetorical devices to clarify, organize, or emphasize ideas.",
+        "I can establish credibility through responsible communication.",
+        "I can use emotional appeals without replacing necessary evidence.",
+        "I can develop logical appeals through evidence and reasoning.",
+        "I can combine multiple rhetorical strategies in a coherent argument.",
+        "I can explain why my rhetorical choices work together.",
+        "I can revise rhetorical choices that distract from or weaken my argument."
+      ],
+      "instruction": [
+        "Use mentor texts demonstrating the interaction of multiple rhetorical devices and appeals.",
+        "Model how a single rhetorical device can contribute to different appeals.",
+        "Teach devices through their communicative functions rather than terminology alone.",
+        "Use sentence and paragraph revision activities to explore alternative rhetorical choices.",
+        "Provide audience-specific writing tasks requiring purposeful adaptation.",
+        "Model the integration of anecdotes with credible evidence and reasoning.",
+        "Teach students to use repetition, parallelism, contrast, and rhetorical questions selectively.",
+        "Demonstrate how concessions and transparent source use can contribute to ethos.",
+        "Analyze multimodal examples in which visual, audio, and verbal strategies reinforce one another.",
+        "Require students to explain the rationale for their rhetorical decisions.",
+        "Avoid assigning fixed quotas for rhetorical devices or appeals.",
+        "Use peer feedback to evaluate whether rhetorical choices strengthen the central argument.",
+        "Assess the strategic effectiveness and coherence of rhetorical integration in authentic writing and presentation tasks."
+      ],
+      "evidence": [
+        "Original writing demonstrating purposeful rhetorical devices.",
+        "An argument integrating multiple rhetorical appeals coherently.",
+        "A passage combining rhetorical strategies to strengthen a specific claim.",
+        "Appropriate adaptation of rhetorical choices for different audiences.",
+        "A multimodal argument using design choices that reinforce argumentative meaning.",
+        "A rhetorical rationale explaining the intended functions and interactions of selected strategies.",
+        "Revision demonstrating improved rhetorical coherence and audience engagement.",
+        "Evidence that rhetorical choices support rather than replace credible evidence and reasoning.",
+        "Independent transfer of strategic rhetorical integration to an unfamiliar argumentative task."
+      ],
+      "watchFor": [
+        "Treating rhetorical devices and appeals as interchangeable terms.",
+        "Using rhetorical devices without a clear communicative function.",
+        "Forcing one example of ethos, pathos, and logos into every argument.",
+        "Assuming more rhetorical devices automatically produce a stronger argument.",
+        "Using repetition that adds length without strengthening meaning.",
+        "Using rhetorical questions in place of necessary evidence.",
+        "Relying on anecdotes to establish unsupported broad conclusions.",
+        "Using analogies that overlook important differences between compared situations.",
+        "Using emotional appeals to conceal weak reasoning.",
+        "Treating credibility as a matter of sounding authoritative rather than communicating responsibly.",
+        "Selecting rhetorical strategies without considering the intended audience.",
+        "Using visual or audio effects that distract from or distort argumentative content.",
+        "Assessing rhetorical integration through device counts rather than strategic effectiveness."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, permissions, age suitability, historical context, and the accuracy of contemporary examples. When using texts involving controversial public issues, select appropriate contextual resources and evaluate arguments according to evidence, reasoning, and rhetorical effectiveness rather than agreement with a particular position. Fallacy classifications should be supported by explanations of the specific reasoning problem, and multiple classifications may be defensible in some examples."
+}
+
   "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, permissions, age suitability, historical context, and the current accuracy of digital media examples. Commercial relationships should be identified through explicit disclosures or other documented evidence rather than unsupported assumptions."
 }
