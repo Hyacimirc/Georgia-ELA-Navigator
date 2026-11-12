@@ -2177,13 +2177,16 @@
       ],
       "watchFor": [
         "Equating a prediction with a random guess.",
+       
         "Using every strategy mechanically instead of selecting a useful one."
       ],
       "readingSelectionNote": "Selections are illustrative, not state-prescribed or verified as taught at any named school. Reading length refers to an assigned excerpt; confirm editions, rights, and age suitability. High Interest and accessibility are editorial judgments, not validated reading-level scores."
-     },
+    },
+    {
       "code": "9.T.SS.1",
       "status": "draft — independently developed instructional guidance; educator review recommended",
       "focus": "Organization",
+
       "studentFriendly": "I can explain how a text's organization helps communicate ideas, and I can organize my own writing with an engaging introduction, purposeful development, clear transitions, and an effective conclusion.",
       "know": [
         "Texts use organizational patterns such as chronology, cause and effect, comparison and contrast, problem and solution, and classification.",
