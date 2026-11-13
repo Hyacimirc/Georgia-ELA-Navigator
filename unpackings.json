@@ -11387,5 +11387,2041 @@
   },
   "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, permissions, age suitability, historical context, and the accuracy of contemporary examples. When using texts involving controversial public issues, select appropriate contextual resources and evaluate arguments according to evidence, reasoning, and rhetorical effectiveness rather than agreement with a particular position. Fallacy classifications should be supported by explanations of the specific reasoning problem, and multiple classifications may be defensible in some examples."
 }
-]
+
+,
+{
+  "code": "10.P.EICC.4",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Writing Processes",
+  "studentFriendly": "I can write different kinds of texts for specific audiences and purposes. I can set writing goals, develop and organize ideas, create drafts, evaluate my work, use feedback to make meaningful revisions, and edit my writing so that it communicates clearly and effectively.",
+  "know": [
+    "Writing is a flexible, recursive process rather than a fixed sequence of steps.",
+    "Writers may return to planning, research, drafting, evaluation, revision, and editing as their ideas develop.",
+    "A writing purpose identifies what the writer wants the text to accomplish.",
+    "Writing goals identify specific outcomes the writer intends to achieve.",
+    "A target audience is the particular group of readers or viewers a text is intended to reach.",
+    "Audience knowledge, interests, expectations, experiences, and needs influence writing decisions.",
+    "The rhetorical situation includes the writer, audience, purpose, context, and circumstances surrounding a text.",
+    "A mode is a means of communicating meaning, such as written language, images, audio, or video.",
+    "A genre is a recognizable category of text associated with particular purposes, conventions, and audience expectations.",
+    "Organizational structures include chronological order, cause and effect, comparison and contrast, problem and solution, classification, and other patterns appropriate to a text's purpose.",
+    "Writers may combine organizational structures within a single text.",
+    "Prewriting includes strategies for generating, investigating, selecting, and organizing ideas.",
+    "Prior knowledge includes relevant information, experiences, assumptions, and understandings a writer brings to a task.",
+    "Writers generate ideas through observation, reflection, reading, research, discussion, questioning, and experimentation.",
+    "Inquiry helps writers identify gaps in their understanding and develop more substantial ideas.",
+    "Brainstorming generates possible ideas without requiring immediate evaluation or selection.",
+    "Freewriting encourages continuous exploration of ideas without excessive attention to correctness.",
+    "Clustering and concept mapping reveal relationships among ideas.",
+    "An outline provides a flexible organizational plan for a text.",
+    "A storyboard organizes ideas and sequences for visual, narrative, or multimodal compositions.",
+    "Relevant information contributes directly to the writer's purpose or central idea.",
+    "Useful information helps the audience understand, evaluate, or respond to the text.",
+    "Impactful information strengthens meaning, engagement, clarity, or persuasive effectiveness.",
+    "A draft is a developing version of a text that allows the writer to explore and refine ideas.",
+    "An initial draft does not need to demonstrate final correctness.",
+    "Development involves expanding ideas through explanations, examples, evidence, details, reasoning, or other appropriate techniques.",
+    "Coherence refers to the meaningful and logical relationships among the parts of a text.",
+    "Cohesion refers to language choices that connect sentences, paragraphs, and sections.",
+    "Transitions communicate relationships among ideas rather than merely signaling that another paragraph follows.",
+    "Diction refers to a writer's choice of words.",
+    "Syntax refers to the arrangement of words, phrases, and clauses in sentences.",
+    "Voice is the distinctive quality or perspective communicated through a writer's language and stylistic choices.",
+    "Tone communicates a writer's attitude toward a subject or audience.",
+    "Craft techniques are intentional choices that influence meaning, style, organization, and audience experience.",
+    "Self-evaluation involves examining a text against its intended purpose, audience, goals, and criteria for success.",
+    "Feedback provides information about how a text is working and where it might be improved.",
+    "Peer feedback can reveal audience interpretations, unanswered questions, and areas requiring clarification.",
+    "Effective feedback is specific, actionable, respectful, and connected to the writer's goals.",
+    "Revision involves meaningful changes to ideas, organization, development, language, and craft.",
+    "Global revision addresses larger issues such as focus, structure, development, and purpose.",
+    "Local revision addresses smaller-scale choices such as sentence clarity, diction, transitions, and paragraph development.",
+    "Editing addresses grammar, usage, punctuation, capitalization, spelling, and other relevant written-language conventions.",
+    "Proofreading is a final review for remaining errors or inconsistencies.",
+    "Revision and editing are related but distinct processes.",
+    "Writers should evaluate feedback rather than automatically accept or reject every suggestion.",
+    "A revision rationale explains the changes a writer made and why those changes improve the text.",
+    "A writing portfolio documents development across drafts, assignments, genres, and reflections.",
+    "Metacognition involves examining one's thinking, strategies, decisions, and learning processes.",
+    "Effective writing strategies can transfer across assignments, disciplines, genres, and communication situations."
+  ],
+  "understand": [
+    "Writing processes help writers discover, develop, communicate, and refine ideas.",
+    "Effective writers adapt their processes according to the demands of a particular writing task.",
+    "Planning is useful because it helps writers establish direction, but plans may change as new ideas emerge.",
+    "Writing goals become meaningful when they are connected to a specific purpose and audience.",
+    "Audience awareness influences the selection of content, organization, language, examples, explanations, and design.",
+    "The most appropriate genre or mode depends on what the writer wants to communicate and how the audience will encounter the text.",
+    "Different genres may require different planning, drafting, revision, and editing strategies.",
+    "Writers generate stronger ideas when they examine prior knowledge, investigate unfamiliar information, and engage with other perspectives.",
+    "Research and discussion can reveal limitations in a writer's initial understanding and lead to more substantial content.",
+    "Selecting relevant information is more important than including every available idea or source.",
+    "An effective organizational plan connects ideas according to their relationships and contribution to the writer's purpose.",
+    "Writers may discover more effective organizational structures during drafting or revision.",
+    "Drafting is a process of developing meaning rather than merely transferring an outline into complete sentences.",
+    "Language and craft choices should support the intended meaning and audience experience.",
+    "Coherence requires meaningful relationships among ideas, not simply the presence of transition words.",
+    "Self-evaluation helps writers identify differences between what they intended to communicate and what the text actually communicates.",
+    "Feedback provides information about readers' experiences but does not eliminate the writer's responsibility for making decisions.",
+    "Writers should evaluate feedback in relation to purpose, audience, evidence, and goals.",
+    "Substantive revision may require adding, deleting, reorganizing, combining, or rewriting significant portions of a text.",
+    "Revision can strengthen an already correct sentence or paragraph by improving its meaning, clarity, organization, or effect.",
+    "Editing improves readability and credibility by helping writers communicate according to appropriate language conventions.",
+    "Correct grammar and punctuation do not compensate for unclear ideas, weak development, or ineffective organization.",
+    "Writing improves when writers evaluate both the quality of the finished product and the effectiveness of the processes used to create it.",
+    "Reflection helps writers identify effective strategies and apply them independently to unfamiliar writing situations."
+  ],
+  "do": [
+    "Identify the purpose, context, and intended audience for a writing task.",
+    "Establish specific, achievable writing goals appropriate to the task.",
+    "Analyze audience knowledge, expectations, interests, and needs.",
+    "Select a mode and genre appropriate to the intended purpose and audience.",
+    "Evaluate alternative organizational structures before developing a writing plan.",
+    "Create a flexible outline, concept map, storyboard, or other organizational plan.",
+    "Generate ideas through brainstorming, freewriting, questioning, observation, and reflection.",
+    "Assess relevant prior knowledge and identify gaps or assumptions requiring investigation.",
+    "Gather information from appropriate texts and other credible sources.",
+    "Engage in discussions that generate, challenge, or extend possible ideas.",
+    "Record and organize information gathered during inquiry and research.",
+    "Evaluate potential content for relevance, usefulness, accuracy, and impact.",
+    "Connect selected ideas and information to an organizational plan.",
+    "Establish relationships among ideas and determine appropriate sequencing.",
+    "Revise a writing plan when new evidence or ideas require changes.",
+    "Develop an initial draft that integrates selected ideas and information.",
+    "Develop ideas through explanations, examples, evidence, reasoning, description, or other appropriate techniques.",
+    "Select words, phrases, and sentences that communicate meaning clearly and effectively.",
+    "Use craft techniques appropriate to the intended genre, audience, and purpose.",
+    "Develop coherent paragraphs and sections with meaningful connections.",
+    "Evaluate a draft against its purpose, audience, writing goals, and relevant criteria.",
+    "Identify strengths, limitations, and priorities for improvement.",
+    "Provide specific, actionable feedback on another writer's draft.",
+    "Interpret and evaluate feedback received from teachers, peers, or other readers.",
+    "Determine which feedback should be incorporated, adapted, or declined.",
+    "Revise organization, focus, development, evidence, and relationships among ideas.",
+    "Add, delete, combine, reorder, or rewrite content when necessary.",
+    "Revise word choices, sentence structures, transitions, and craft techniques.",
+    "Evaluate whether revisions improve the text's effectiveness.",
+    "Edit for appropriate grammar, usage, punctuation, capitalization, and spelling.",
+    "Use reference tools and editing strategies to resolve language questions.",
+    "Proofread a revised text for remaining errors and inconsistencies.",
+    "Produce polished texts in multiple genres and modes.",
+    "Document important writing decisions and revisions.",
+    "Reflect on the effectiveness of writing strategies and identify opportunities for improvement.",
+    "Apply effective writing processes independently to new academic, personal, professional, and creative tasks."
+  ],
+  "vocabulary": [
+    {
+      "term": "Writing process",
+      "definition": "The flexible collection of strategies writers use to generate, develop, evaluate, revise, and refine texts.",
+      "example": "A writer researches an issue, develops a draft, discovers a gap in the evidence, returns to research, and revises the draft."
+    },
+    {
+      "term": "Recursive",
+      "definition": "Involving repeated movement among processes rather than following a fixed linear sequence.",
+      "example": "A student returns to planning after feedback reveals that the original organization is ineffective."
+    },
+    {
+      "term": "Purpose",
+      "definition": "The intended function or outcome of a text.",
+      "example": "A student writes a proposal to persuade administrators to establish an outdoor reading area."
+    },
+    {
+      "term": "Writing goal",
+      "definition": "A specific outcome a writer intends to achieve during the creation or improvement of a text.",
+      "example": "The writer plans to strengthen the explanation connecting each piece of evidence to the central claim."
+    },
+    {
+      "term": "Target audience",
+      "definition": "The particular readers, listeners, or viewers a text is designed to reach.",
+      "example": "A guide explaining course registration is written for incoming ninth-grade students and their families."
+    },
+    {
+      "term": "Rhetorical situation",
+      "definition": "The relationship among the writer, audience, purpose, context, and circumstances of communication.",
+      "example": "A student considers why a proposal is needed now, who will read it, and what decision the proposal seeks to influence."
+    },
+    {
+      "term": "Mode",
+      "definition": "A means of communicating meaning, such as written language, images, sound, or video.",
+      "example": "A student combines written explanations and photographs in a digital travel guide."
+    },
+    {
+      "term": "Genre",
+      "definition": "A recognizable category of text with characteristic purposes, conventions, and audience expectations.",
+      "example": "A personal narrative, research report, editorial, and poem are different genres."
+    },
+    {
+      "term": "Organizational structure",
+      "definition": "The arrangement of ideas and information within a text.",
+      "example": "A report uses a problem-and-solution structure to explain a community issue and evaluate possible responses."
+    },
+    {
+      "term": "Prewriting",
+      "definition": "Strategies used to generate, investigate, select, and organize ideas before or during drafting.",
+      "example": "A student interviews classmates, develops questions, and creates a concept map before drafting an article."
+    },
+    {
+      "term": "Prior knowledge",
+      "definition": "Relevant information, experiences, and understandings a writer brings to a topic or task.",
+      "example": "A student uses previous knowledge about local history to generate research questions for a museum guide."
+    },
+    {
+      "term": "Inquiry",
+      "definition": "The process of investigating questions, gathering information, and developing understanding.",
+      "example": "A writer investigates why a neighborhood lacks safe pedestrian routes before proposing improvements."
+    },
+    {
+      "term": "Brainstorming",
+      "definition": "Generating possible ideas before evaluating or selecting among them.",
+      "example": "Students list possible topics for a school magazine article before choosing the most promising one."
+    },
+    {
+      "term": "Freewriting",
+      "definition": "Writing continuously for a period of time to explore ideas without focusing excessively on correctness.",
+      "example": "A student writes for five minutes about a memorable experience to discover possible narrative material."
+    },
+    {
+      "term": "Concept map",
+      "definition": "A visual representation of ideas and the relationships among them.",
+      "example": "A writer connects causes, consequences, and possible solutions on a map before organizing a research essay."
+    },
+    {
+      "term": "Outline",
+      "definition": "A flexible plan showing the intended organization and development of a text.",
+      "example": "A student groups supporting evidence under the major sections of a proposed editorial."
+    },
+    {
+      "term": "Storyboard",
+      "definition": "A visual planning tool that organizes scenes, events, images, or information into a sequence.",
+      "example": "A student plans the scenes, narration, and images for a documentary using a storyboard."
+    },
+    {
+      "term": "Relevance",
+      "definition": "The degree to which information contributes to a particular purpose, question, or central idea.",
+      "example": "A writer removes an interesting historical detail because it does not help explain the article's main topic."
+    },
+    {
+      "term": "Draft",
+      "definition": "A developing version of a text that may be evaluated and revised.",
+      "example": "A student completes an initial narrative draft before examining pacing and character development."
+    },
+    {
+      "term": "Development",
+      "definition": "The process of expanding and clarifying ideas through appropriate details, explanations, evidence, or techniques.",
+      "example": "A writer develops a claim by adding research evidence and explaining its significance."
+    },
+    {
+      "term": "Coherence",
+      "definition": "The meaningful and logical relationship among the parts of a text.",
+      "example": "A report progresses from identifying a problem to explaining its causes and evaluating possible solutions."
+    },
+    {
+      "term": "Cohesion",
+      "definition": "The language connections that help sentences, paragraphs, and sections work together.",
+      "example": "A writer uses pronoun references, repeated key concepts, and appropriate transitions to connect related ideas."
+    },
+    {
+      "term": "Transition",
+      "definition": "A word, phrase, sentence, or other device that communicates a relationship between ideas.",
+      "example": "The phrase In contrast introduces a meaningful difference between two findings."
+    },
+    {
+      "term": "Diction",
+      "definition": "A writer's deliberate choice of words.",
+      "example": "A writer replaces a vague adjective with a precise description that better communicates the setting."
+    },
+    {
+      "term": "Syntax",
+      "definition": "The arrangement of words, phrases, and clauses within sentences.",
+      "example": "A writer uses a short sentence after several longer sentences to emphasize an important realization."
+    },
+    {
+      "term": "Voice",
+      "definition": "The distinctive quality or perspective communicated through a writer's language and stylistic choices.",
+      "example": "A reflective essay develops a thoughtful, observant voice through precise details and personal insights."
+    },
+    {
+      "term": "Tone",
+      "definition": "The attitude toward a subject or audience communicated through a text.",
+      "example": "A formal proposal uses a respectful and practical tone when addressing school administrators."
+    },
+    {
+      "term": "Craft technique",
+      "definition": "An intentional writing choice used to create a particular meaning or effect.",
+      "example": "A writer uses dialogue and pacing to develop tension in a narrative."
+    },
+    {
+      "term": "Self-evaluation",
+      "definition": "The process of examining one's own writing against its purpose, goals, audience, and criteria for success.",
+      "example": "A student rereads an editorial and identifies a claim that requires additional evidence."
+    },
+    {
+      "term": "Feedback",
+      "definition": "Information about a text's strengths, limitations, or possible improvements.",
+      "example": "A peer identifies a paragraph that introduces an important idea without adequately explaining it."
+    },
+    {
+      "term": "Peer review",
+      "definition": "A structured process in which writers evaluate and respond to one another's work.",
+      "example": "Students exchange drafts and identify where the organization helps or hinders understanding."
+    },
+    {
+      "term": "Revision",
+      "definition": "Meaningful changes to a text intended to improve its ideas, organization, development, language, or effectiveness.",
+      "example": "A writer reorganizes an essay around three major causes instead of presenting events chronologically."
+    },
+    {
+      "term": "Global revision",
+      "definition": "Revision addressing large-scale concerns such as focus, organization, development, and purpose.",
+      "example": "A student rewrites the central claim and reorganizes several paragraphs to reflect a more defensible argument."
+    },
+    {
+      "term": "Local revision",
+      "definition": "Revision addressing smaller-scale concerns such as sentence clarity, transitions, diction, and paragraph development.",
+      "example": "A student combines two repetitive sentences and adds a transition clarifying their relationship."
+    },
+    {
+      "term": "Editing",
+      "definition": "Reviewing and correcting a text's language conventions and mechanical accuracy.",
+      "example": "A writer corrects inconsistent verb tense, comma errors, and inappropriate capitalization."
+    },
+    {
+      "term": "Proofreading",
+      "definition": "A final review of a text to identify remaining errors, omissions, or inconsistencies.",
+      "example": "A student checks a finished article for misspelled names, missing punctuation, and formatting inconsistencies."
+    },
+    {
+      "term": "Conventions",
+      "definition": "Established practices governing grammar, usage, punctuation, capitalization, spelling, and other features of written language.",
+      "example": "A writer uses appropriate punctuation to separate independent clauses."
+    },
+    {
+      "term": "Revision rationale",
+      "definition": "An explanation of changes made to a text and the reasons those changes improve it.",
+      "example": "A student explains that moving the strongest evidence earlier makes the argument easier for the intended audience to follow."
+    },
+    {
+      "term": "Writing portfolio",
+      "definition": "A purposeful collection of writing samples, drafts, revisions, and reflections documenting development.",
+      "example": "A student selects three completed texts and explains how their writing strategies improved throughout the semester."
+    },
+    {
+      "term": "Metacognition",
+      "definition": "Awareness and evaluation of one's own thinking, learning, and decision-making processes.",
+      "example": "A writer recognizes that drafting before outlining helps generate ideas but that reverse outlining improves organization afterward."
+    },
+    {
+      "term": "Transfer",
+      "definition": "The application of knowledge or strategies learned in one context to a different context.",
+      "example": "A student applies evidence-selection and revision strategies learned in English class to a history research project."
+    }
+  ],
+  "targets": [
+    "I can establish a clear purpose and specific goals for my writing.",
+    "I can identify my intended audience and determine what that audience needs.",
+    "I can select a mode, genre, and organizational structure appropriate to my purpose.",
+    "I can generate ideas through prior knowledge, reading, research, discussion, and reflection.",
+    "I can identify gaps in my knowledge and investigate questions that strengthen my writing.",
+    "I can select the most relevant, useful, and impactful information for my text.",
+    "I can connect my ideas and information to a flexible organizational plan.",
+    "I can develop an initial draft that integrates my ideas and information.",
+    "I can make intentional choices about words, sentences, organization, and craft.",
+    "I can evaluate whether my writing achieves its purpose and goals.",
+    "I can provide and interpret specific, useful feedback.",
+    "I can decide which feedback will help me improve my writing.",
+    "I can revise my ideas, organization, development, language, and craft.",
+    "I can explain how my revisions improve the effectiveness of my text.",
+    "I can edit my writing for appropriate written-language conventions.",
+    "I can use writing strategies flexibly across different genres and assignments.",
+    "I can reflect on my writing process and apply effective strategies to future tasks."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Shitty First Drafts",
+      "author": "Anne Lamott",
+      "genre": "Reflective essay about writing",
+      "purpose": "Examine how writers generate ideas through imperfect initial drafts and develop stronger writing through revision.",
+      "access": "Published in Bird by Bird; use an authorized edition or licensed excerpt.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible conversational prose; contains profanity in the title and text. Review suitability before assigning.",
+      "interestHook": "A professional writer challenges the assumption that successful authors produce polished first drafts.",
+      "teachingPrompt": "How does Lamott's description of drafting challenge the idea that good writing must be correct or fully developed from the beginning?"
+    },
+    {
+      "title": "Bird by Bird: Some Instructions on Writing and Life",
+      "author": "Anne Lamott",
+      "genre": "Writing craft nonfiction",
+      "purpose": "Explore manageable writing goals, observation, drafting, feedback, and the development of a writer's individual process.",
+      "access": "School library, authorized ebook, or purchased edition.",
+      "readingTime": "15–25 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; select chapters appropriate to student maturity.",
+      "teachingPrompt": "Which strategies described by Lamott could help a writer move from an overwhelming task to manageable writing goals?"
+    },
+    {
+      "title": "On Writing: A Memoir of the Craft",
+      "author": "Stephen King",
+      "genre": "Memoir and writing craft nonfiction",
+      "purpose": "Analyze a professional writer's approaches to drafting, feedback, revision, language, and writing habits.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate; review selected passages for mature language and subject matter.",
+      "interestHook": "A bestselling novelist explains how he develops stories and revises manuscripts.",
+      "teachingPrompt": "Which of King's writing strategies might transfer to academic or creative writing, and which depend on his particular genre and working habits?"
+    },
+    {
+      "title": "The Writing Life",
+      "author": "Annie Dillard",
+      "genre": "Reflective literary nonfiction",
+      "purpose": "Explore the relationship among discovery, uncertainty, persistence, language, and revision.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–20 minutes for selected passages",
+      "highInterest": false,
+      "accessibility": "Advanced; provide support for figurative language and abstract reflections.",
+      "teachingPrompt": "How does Dillard represent the experience of discovering what a text needs to become during the writing process?"
+    },
+    {
+      "title": "Why I Write",
+      "author": "George Orwell",
+      "genre": "Reflective essay",
+      "purpose": "Examine how a writer's motivations, experiences, purposes, and historical context influence writing decisions.",
+      "access": "Use an authorized edition or appropriately licensed source; copyright status varies by jurisdiction.",
+      "readingTime": "15–20 minutes",
+      "highInterest": false,
+      "accessibility": "Moderate to advanced; provide historical context and vocabulary support.",
+      "teachingPrompt": "How do Orwell's different motivations for writing help explain the relationship between a writer's goals and the texts that writer produces?"
+    },
+    {
+      "title": "Politics and the English Language",
+      "author": "George Orwell",
+      "genre": "Argumentative essay about language",
+      "purpose": "Analyze how deliberate revision of diction, syntax, and figurative language can improve clarity and precision.",
+      "access": "Use an authorized edition or appropriately licensed source.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": false,
+      "accessibility": "Advanced; scaffold historical examples and distinguish Orwell's stylistic recommendations from universal grammatical rules.",
+      "teachingPrompt": "Which revisions proposed by Orwell improve clarity, and when might a writer deliberately depart from his stylistic preferences?"
+    },
+    {
+      "title": "Mother Tongue",
+      "author": "Amy Tan",
+      "genre": "Personal and reflective essay",
+      "purpose": "Examine how audience, language varieties, identity, voice, and purpose influence writing decisions.",
+      "access": "Use an authorized anthology, school-licensed database, or published collection.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible language with sophisticated questions about identity and language expectations.",
+      "interestHook": "A novelist reflects on the different forms of English she uses with different audiences.",
+      "teachingPrompt": "How does Tan's awareness of audience and language influence the development of her voice and her decisions as a writer?"
+    },
+    {
+      "title": "How to Tame a Wild Tongue",
+      "author": "Gloria Anzaldúa",
+      "genre": "Personal and cultural essay",
+      "purpose": "Analyze how multilingual language choices, genre blending, audience, identity, and purpose shape a writer's craft.",
+      "access": "Published in Borderlands/La Frontera; use an authorized edition or licensed excerpt.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Advanced; provide cultural context and support for multilingual passages. Review mature content in selected excerpts.",
+      "teachingPrompt": "How do Anzaldúa's choices about language, structure, and audience contribute to the essay's purpose?"
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Novel in vignettes",
+      "purpose": "Study concise narrative development, voice, imagery, selection of details, and flexible organizational choices.",
+      "access": "School library or authorized edition.",
+      "readingTime": "10–20 minutes for selected vignettes",
+      "highInterest": true,
+      "accessibility": "Accessible prose with substantial interpretive and stylistic complexity.",
+      "interestHook": "Brief, memorable narratives demonstrate how carefully selected details can communicate complex experiences.",
+      "teachingPrompt": "How does Cisneros select and organize details to create meaning within a short vignette, and how could a student apply similar strategies?"
+    },
+    {
+      "title": "The Anthropocene Reviewed",
+      "author": "John Green",
+      "genre": "Personal and researched essays",
+      "purpose": "Analyze how a writer combines research, personal experience, reflection, organization, and voice.",
+      "access": "School library, authorized ebook, or purchased edition.",
+      "readingTime": "15–25 minutes for a selected essay",
+      "highInterest": true,
+      "accessibility": "Moderate; select essays appropriate to the class.",
+      "interestHook": "The author reviews ordinary and extraordinary aspects of human life using a familiar rating format.",
+      "teachingPrompt": "How does Green select and connect personal experiences, researched information, and reflective insights to develop a coherent essay?"
+    },
+    {
+      "title": "The Best We Could Do",
+      "author": "Thi Bui",
+      "genre": "Graphic memoir",
+      "purpose": "Examine how a writer selects and organizes personal history through visual and verbal storytelling.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for selected pages",
+      "highInterest": true,
+      "accessibility": "Accessible visual storytelling with complex historical and emotional content; provide contextual support.",
+      "interestHook": "A graphic memoir uses family history, images, and reflection to explore migration and identity.",
+      "teachingPrompt": "How do the author's decisions about image, sequence, dialogue, and narration contribute to the memoir's purpose?"
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and transcript",
+      "purpose": "Analyze how personal experiences, examples, organization, and audience awareness contribute to an effective spoken text.",
+      "access": "Official TED talk and transcript; consult applicable terms of use.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible spoken language with complex cultural and rhetorical ideas.",
+      "teachingPrompt": "How does Adichie select and sequence personal stories to develop a larger idea for an international audience?"
+    },
+    {
+      "title": "Brown Girl Dreaming",
+      "author": "Jacqueline Woodson",
+      "genre": "Memoir in verse",
+      "purpose": "Study how genre, lineation, imagery, selection of details, and narrative sequencing communicate personal experience.",
+      "access": "School library or authorized edition.",
+      "readingTime": "10–20 minutes for selected poems",
+      "highInterest": true,
+      "accessibility": "Accessible individual poems with opportunities for sophisticated analysis of voice and structure.",
+      "teachingPrompt": "How does the choice to write a memoir in verse influence the author's organization, language, and representation of memory?"
+    },
+    {
+      "title": "The Declaration of Independence: Drafting and Revision Materials",
+      "author": "Thomas Jefferson and the Continental Congress",
+      "genre": "Historical document and manuscript revisions",
+      "purpose": "Compare draft and final versions to investigate how audience, political context, collaboration, and revision influence a public text.",
+      "access": "Public-domain historical materials available through the Library of Congress and National Archives.",
+      "readingTime": "20–30 minutes for selected passages and manuscript comparisons",
+      "highInterest": true,
+      "accessibility": "Advanced historical language; provide transcriptions and historical context.",
+      "interestHook": "Students examine how a famous historical document changed before its final adoption.",
+      "teachingPrompt": "What do the differences between draft and final versions reveal about the relationship among audience, purpose, collaboration, and revision?"
+    },
+    {
+      "title": "The Gettysburg Address: Manuscript Versions",
+      "author": "Abraham Lincoln",
+      "genre": "Historical speech and manuscript variants",
+      "purpose": "Examine how differences among surviving manuscript versions influence diction, syntax, emphasis, and meaning.",
+      "access": "Public-domain manuscripts and transcriptions available through the Library of Congress and other established archives.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Short text with advanced rhetorical and historical complexity.",
+      "teachingPrompt": "How do differences among manuscript versions affect the speech's meaning and emphasis, and what can and cannot be inferred about the author's revision decisions?"
+    },
+    {
+      "title": "Frankenstein: Selected Draft Manuscripts",
+      "author": "Mary Shelley",
+      "genre": "Literary manuscript and novel",
+      "purpose": "Investigate the development of a literary text through drafting, revision, collaboration, and editorial decisions.",
+      "access": "Public-domain novel and manuscript images or transcriptions available through established literary archives, including the Shelley-Godwin Archive.",
+      "readingTime": "20–30 minutes for selected comparisons",
+      "highInterest": true,
+      "accessibility": "Advanced; use short passages and readable transcriptions alongside manuscript images.",
+      "interestHook": "Students examine early versions of a famous Gothic novel to investigate how its language and ideas developed.",
+      "teachingPrompt": "What changes can you identify between manuscript and published passages, and how might those changes affect a reader's experience?"
+    },
+    {
+      "title": "Teacher-selected published student writing and draft sequences",
+      "author": "Various student writers",
+      "genre": "Narrative, informational, argumentative, and multimodal compositions",
+      "purpose": "Examine authentic examples of planning, feedback, revision, and editing at an appropriate developmental level.",
+      "access": "Use published student writing with appropriate permissions or anonymized classroom examples shared with consent.",
+      "readingTime": "15–25 minutes",
+      "highInterest": true,
+      "accessibility": "Variable; select examples that demonstrate meaningful growth and a range of writing approaches.",
+      "teachingPrompt": "Which changes between drafts most improve the text's effectiveness, and what evidence supports that evaluation?"
+    },
+    {
+      "title": "Teacher-selected professional editorial and revision examples",
+      "author": "Various writers and editors",
+      "genre": "Journalism and editorial process documents",
+      "purpose": "Analyze how professional writers and editors evaluate accuracy, organization, audience needs, clarity, and publication conventions.",
+      "access": "Use authorized examples from credible publications, journalism education resources, or teacher-created models.",
+      "readingTime": "15–25 minutes",
+      "highInterest": true,
+      "accessibility": "Variable; provide examples with visible changes and explanations.",
+      "teachingPrompt": "Which changes improve factual accuracy, which improve organization or style, and which address written-language conventions?"
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Purpose and audience match",
+      "activity": "Students receive cards describing writing situations, audiences, purposes, genres, and possible goals. They match the components, explain their decisions, and develop a short writing plan for a new situation.",
+      "materials": [
+        "Writing situation cards",
+        "Audience and purpose organizer",
+        "Genre reference chart"
+      ],
+      "scaffolds": "Model one complete match. Provide sentence frames such as My audience needs to know... and My text should accomplish....",
+      "success": "Students correctly identify appropriate purposes, audiences, and genres for at least four of five writing situations and explain their choices.",
+      "alignment": [
+        "10.P.EICC.4.a",
+        "10.P.EICC.4.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–30 min",
+      "title": "From blank page to idea bank",
+      "activity": "Students generate possible content for a short writing task through three strategies: activating prior knowledge, reading a brief source, and discussing the topic with a partner. They organize their ideas into an idea bank and identify one question requiring further investigation.",
+      "materials": [
+        "Accessible source text",
+        "Idea bank organizer",
+        "Discussion prompts"
+      ],
+      "scaffolds": "Provide a familiar topic, modeled examples, oral rehearsal, and optional speech-to-text tools. Separate idea generation from grammar correction.",
+      "success": "Students generate at least five relevant ideas from multiple sources of thinking and identify one meaningful question or knowledge gap.",
+      "alignment": [
+        "10.P.EICC.4.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Sort, select, and organize",
+      "activity": "Students receive information cards related to a writing topic. They identify relevant and irrelevant details, group related information, and organize selected content into a simple structure appropriate to the purpose.",
+      "materials": [
+        "Information cards",
+        "Organizational structure chart",
+        "Planning template"
+      ],
+      "scaffolds": "Use color coding and model how to distinguish interesting information from information that contributes directly to the writing purpose.",
+      "success": "Students select relevant content, organize it into meaningful groups, and explain at least two decisions about inclusion or placement.",
+      "alignment": [
+        "10.P.EICC.4.b",
+        "10.P.EICC.4.d"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Build a developed paragraph",
+      "activity": "Students begin with a short organizational plan and develop a paragraph using a central idea, relevant details or evidence, and appropriate explanations. They compare the draft with the original plan and identify where additional development is needed.",
+      "materials": [
+        "Paragraph planning organizer",
+        "Mentor paragraph",
+        "Relevant evidence or detail cards"
+      ],
+      "scaffolds": "Provide a modeled paragraph, optional sentence frames, and guided oral rehearsal. Gradually remove scaffolds as students develop independence.",
+      "success": "Students produce a coherent paragraph containing a clear central idea, relevant development, and meaningful connections among sentences.",
+      "alignment": [
+        "10.P.EICC.4.d",
+        "10.P.EICC.4.e"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–30 min",
+      "title": "Revision or editing?",
+      "activity": "Students compare pairs of short drafts. They classify changes as substantive revision, local revision, editing, or proofreading and explain how each change affects the text.",
+      "materials": [
+        "Before-and-after writing samples",
+        "Revision and editing comparison chart",
+        "Annotation tools"
+      ],
+      "scaffolds": "Model the difference between adding evidence, reorganizing ideas, clarifying a sentence, and correcting punctuation.",
+      "success": "Students accurately classify at least eight of ten changes and explain how at least two revisions improve meaning or effectiveness.",
+      "alignment": [
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g",
+        "10.P.EICC.4.h"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–30 min",
+      "title": "One revision that matters",
+      "activity": "Students reread a short draft and identify one important weakness related to focus, organization, development, or clarity. They receive targeted feedback, make a meaningful revision, and explain the improvement.",
+      "materials": [
+        "Student draft",
+        "Focused revision checklist",
+        "Before-and-after reflection template"
+      ],
+      "scaffolds": "Limit the task to one manageable revision priority. Provide a brief teacher conference or model a similar revision.",
+      "success": "Students make a substantive change that addresses the identified weakness and explain why the revised text better achieves its purpose.",
+      "alignment": [
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Personal editing checklist",
+      "activity": "Students examine a previous writing sample to identify recurring convention errors. They create a short individualized checklist and apply it to a new draft using appropriate reference tools.",
+      "materials": [
+        "Previous writing sample",
+        "Editing checklist template",
+        "Dictionary or grammar reference"
+      ],
+      "scaffolds": "Focus on two or three recurring error patterns. Provide examples and guided practice before independent editing.",
+      "success": "Students identify recurring error patterns, apply appropriate editing strategies, and correct most instances of the targeted conventions.",
+      "alignment": [
+        "10.P.EICC.4.h"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "35–45 min",
+      "title": "The writing brief",
+      "activity": "Students develop a writing brief for an authentic task. They identify the intended purpose, audience, desired outcome, genre, mode, organizational structure, and measurable writing goals. They explain how their choices respond to the rhetorical situation.",
+      "materials": [
+        "Authentic writing prompts",
+        "Writing brief template",
+        "Genre and audience examples"
+      ],
+      "scaffolds": "Provide sample briefs for a narrative, editorial, informational article, and multimodal composition.",
+      "success": "Students produce a coherent writing brief with specific goals and defensible decisions about audience, purpose, genre, mode, and organization.",
+      "alignment": [
+        "10.P.EICC.4.a",
+        "10.P.EICC.4.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Three ways into a topic",
+      "activity": "Students investigate a writing topic by recording prior knowledge, examining two credible texts, and participating in a structured discussion. They compare the ideas generated through each approach and identify the strongest possibilities for development.",
+      "materials": [
+        "Topic prompts",
+        "Credible source set",
+        "Inquiry and idea-generation organizer"
+      ],
+      "scaffolds": "Model how to distinguish prior knowledge, new information, and assumptions. Require students to record questions rather than treat every initial idea as established fact.",
+      "success": "Students generate substantial content through all three approaches, identify at least one revised understanding, and select relevant ideas for a writing plan.",
+      "alignment": [
+        "10.P.EICC.4.c",
+        "10.P.EICC.4.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "One topic, three structures",
+      "activity": "Students receive a common set of information and develop three possible organizational plans, such as chronological order, cause and effect, and problem and solution. They evaluate which structure best serves a specified audience and purpose.",
+      "materials": [
+        "Common information set",
+        "Organizational structure templates",
+        "Audience and purpose cards"
+      ],
+      "scaffolds": "Provide examples demonstrating how different structures emphasize different relationships among the same ideas.",
+      "success": "Students create three coherent organizational plans and justify the selection of the most effective structure for the intended writing situation.",
+      "alignment": [
+        "10.P.EICC.4.b",
+        "10.P.EICC.4.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Drafting through discovery",
+      "activity": "Students develop an initial draft from a flexible organizational plan. During drafting, they mark places where new ideas, questions, or organizational possibilities emerge. After drafting, they explain how the writing process changed their original plan.",
+      "materials": [
+        "Writing plan",
+        "Drafting workspace",
+        "Discovery annotation guide"
+      ],
+      "scaffolds": "Model how a writer can temporarily mark an unresolved question and continue drafting rather than stop to perfect every sentence.",
+      "success": "Students produce a substantial initial draft and identify at least two meaningful decisions or discoveries that occurred during drafting.",
+      "alignment": [
+        "10.P.EICC.4.c",
+        "10.P.EICC.4.d",
+        "10.P.EICC.4.e"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Mentor text craft laboratory",
+      "activity": "Students analyze a selected mentor text to identify effective choices involving diction, syntax, voice, structure, detail, or pacing. They experiment with two or more of these techniques in their own drafts and explain how the choices contribute to their writing goals.",
+      "materials": [
+        "Selected mentor texts",
+        "Craft analysis organizer",
+        "Student writing drafts"
+      ],
+      "scaffolds": "Model how to imitate a technique without copying an author's language or content. Provide multiple possible craft choices rather than requiring a single style.",
+      "success": "Students apply at least two purposeful craft techniques and explain how each contributes to meaning, audience engagement, or effectiveness.",
+      "alignment": [
+        "10.P.EICC.4.e",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "35–45 min",
+      "title": "Reverse outline",
+      "activity": "Students reread an existing draft and record the main function of each paragraph or section. They compare the resulting reverse outline with their original plan, identify gaps, repetition, or ineffective sequencing, and develop a revised organizational plan.",
+      "materials": [
+        "Student draft",
+        "Reverse outline template",
+        "Organization evaluation checklist"
+      ],
+      "scaffolds": "Model reverse outlining with a sample draft containing an irrelevant paragraph, repeated information, and an underdeveloped section.",
+      "success": "Students accurately identify the function of major sections and propose meaningful organizational changes supported by their evaluation.",
+      "alignment": [
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Feedback that moves writing forward",
+      "activity": "Students exchange drafts using a structured peer-review protocol. Reviewers identify the apparent purpose, summarize the central idea, describe effective choices, identify questions or gaps, and provide specific suggestions connected to the writer's goals.",
+      "materials": [
+        "Student drafts",
+        "Peer feedback protocol",
+        "Writing goals and success criteria"
+      ],
+      "scaffolds": "Model the difference between vague praise, unsupported criticism, and actionable feedback. Require reviewers to describe their experience as readers.",
+      "success": "Students provide specific, respectful, actionable feedback and identify at least two meaningful revision possibilities in their own writing.",
+      "alignment": [
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "35–45 min",
+      "title": "The feedback decision log",
+      "activity": "Students review feedback from multiple readers and classify suggestions as accept, adapt, investigate, or decline. They explain their decisions in relation to purpose, audience, evidence, and writing goals before developing a revision plan.",
+      "materials": [
+        "Student draft",
+        "Peer or teacher feedback",
+        "Feedback decision log"
+      ],
+      "scaffolds": "Provide examples of conflicting feedback and demonstrate how writers can make defensible decisions without accepting every suggestion.",
+      "success": "Students evaluate multiple feedback suggestions, justify their decisions, and develop a prioritized revision plan.",
+      "alignment": [
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Revision surgery",
+      "activity": "Students select a substantial section of a draft and experiment with adding, deleting, reorganizing, combining, and rewriting content. They compare alternative versions and select the one that most effectively supports the intended purpose.",
+      "materials": [
+        "Student draft",
+        "Revision strategy reference",
+        "Before-and-after comparison organizer"
+      ],
+      "scaffolds": "Model a revision that changes the meaning and organization of a paragraph rather than merely replacing words.",
+      "success": "Students make at least three meaningful changes, including one addressing development or organization, and explain how the revisions improve the text.",
+      "alignment": [
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Sentence-level craft workshop",
+      "activity": "Students select several sentences from their drafts and create alternative versions using different diction, syntax, emphasis, transitions, or sentence lengths. They evaluate which versions best communicate the intended meaning and contribute to the text's voice and purpose.",
+      "materials": [
+        "Student drafts",
+        "Sentence revision examples",
+        "Craft evaluation checklist"
+      ],
+      "scaffolds": "Provide sentence-combining, sentence-expansion, and sentence-reordering models. Emphasize that longer sentences are not automatically more sophisticated.",
+      "success": "Students revise several sentences purposefully and explain the effects of their choices on clarity, emphasis, tone, or audience experience.",
+      "alignment": [
+        "10.P.EICC.4.e",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "30–40 min",
+      "title": "The editing passes",
+      "activity": "Students complete several focused editing passes on a substantively revised draft. Each pass addresses a different category, such as sentence boundaries, verb consistency, punctuation, spelling, or formatting. Students consult appropriate references to resolve uncertainties.",
+      "materials": [
+        "Revised student draft",
+        "Editing checklist",
+        "Appropriate language reference tools"
+      ],
+      "scaffolds": "Demonstrate why focused editing passes may be more effective than trying to identify every possible error during a single reading.",
+      "success": "Students identify and correct convention errors, explain selected corrections, and submit a polished version appropriate to the genre and audience.",
+      "alignment": [
+        "10.P.EICC.4.h"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "60–90 min",
+      "title": "One idea, two genres",
+      "activity": "Students communicate the same central idea through two different genres or modes, such as an informational article and a personal narrative, or an editorial and a short video script. They adapt organization, development, language, and craft to each audience and purpose.",
+      "materials": [
+        "Genre mentor texts",
+        "Writing brief templates",
+        "Drafting and revision tools"
+      ],
+      "scaffolds": "Provide examples showing how the same topic can require substantially different structures and language choices in different genres.",
+      "success": "Students produce two coherent texts demonstrating meaningful genre and audience adaptation and explain the writing decisions that distinguish them.",
+      "alignment": [
+        "10.P.EICC.4.a",
+        "10.P.EICC.4.b",
+        "10.P.EICC.4.d",
+        "10.P.EICC.4.e",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The writer's reflection",
+      "activity": "Students compare an initial draft with a revised version and identify their most significant changes. They explain how feedback, research, self-evaluation, and writing goals influenced their decisions and identify strategies they intend to use in future assignments.",
+      "materials": [
+        "Initial and revised drafts",
+        "Feedback records",
+        "Writing reflection template"
+      ],
+      "scaffolds": "Provide prompts requiring specific examples of changes rather than general statements about improvement.",
+      "success": "Students explain at least three meaningful revisions, evaluate the effectiveness of their writing process, and identify a specific strategy for future transfer.",
+      "alignment": [
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g",
+        "10.P.EICC.4.h"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "Inside the manuscript",
+      "activity": "Students compare selected manuscript drafts and published versions of a historical or literary text. They analyze changes in organization, language, emphasis, and development, distinguish observable evidence from speculation about author intentions, and evaluate the effects of the revisions.",
+      "materials": [
+        "Public-domain manuscript images",
+        "Readable transcriptions",
+        "Published text",
+        "Revision analysis organizer"
+      ],
+      "scaffolds": "Provide historical context and accessible transcriptions. Explain that manuscript differences do not always establish a definitive sequence of author decisions.",
+      "success": "Students identify significant changes, evaluate their effects using textual evidence, and develop a nuanced explanation of the relationship between drafting and final composition.",
+      "alignment": [
+        "10.P.EICC.4.e",
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75–100 min",
+      "title": "The editorial board",
+      "activity": "Students work as writers and editors to develop a small publication for a defined audience. They establish editorial goals, evaluate proposed topics, select genres and structures, review drafts, negotiate feedback, revise content, and edit final pieces according to shared publication standards.",
+      "materials": [
+        "Publication planning template",
+        "Editorial guidelines",
+        "Credible research sources",
+        "Collaborative writing tools"
+      ],
+      "scaffolds": "Establish clear editorial roles, decision-making procedures, and expectations for respectful feedback. Require each student to document individual writing decisions.",
+      "success": "Students produce coherent publication-ready texts and demonstrate purposeful planning, content selection, collaborative evaluation, substantive revision, and editing.",
+      "alignment": [
+        "10.P.EICC.4.a",
+        "10.P.EICC.4.b",
+        "10.P.EICC.4.c",
+        "10.P.EICC.4.d",
+        "10.P.EICC.4.e",
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g",
+        "10.P.EICC.4.h"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 min",
+      "title": "Write for a real client",
+      "activity": "Students collaborate with a school organization, community partner, or simulated client to create a purposeful text such as a visitor guide, exhibit label, informational campaign, or public-facing article. They establish goals, investigate audience needs, gather information, draft, solicit feedback, revise, and edit.",
+      "materials": [
+        "Client brief",
+        "Audience research materials",
+        "Genre mentor texts",
+        "Writing and design tools",
+        "Feedback and revision log"
+      ],
+      "scaffolds": "Use a teacher-approved partner or simulated client. Establish manageable scope, appropriate permissions, accessibility expectations, and publication criteria.",
+      "success": "Students create a polished text that addresses a defined audience and authentic purpose, supported by documented research, evaluation, revision, and editing decisions.",
+      "alignment": [
+        "10.P.EICC.4.a",
+        "10.P.EICC.4.b",
+        "10.P.EICC.4.c",
+        "10.P.EICC.4.d",
+        "10.P.EICC.4.e",
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g",
+        "10.P.EICC.4.h"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 min",
+      "title": "The adaptive writer experiment",
+      "activity": "Students investigate their own writing processes by completing two comparable writing tasks using different approaches, such as detailed outlining before drafting and exploratory drafting followed by reverse outlining. They document their processes, compare outcomes, evaluate strengths and limitations, and develop an individualized strategy for future tasks.",
+      "materials": [
+        "Comparable writing prompts",
+        "Process observation log",
+        "Writing evaluation rubric",
+        "Comparative reflection template"
+      ],
+      "scaffolds": "Explain that the goal is not to prove one process universally superior. Encourage students to consider task complexity, time, genre, and personal working preferences.",
+      "success": "Students produce two developed texts, compare the effectiveness of their approaches using specific evidence, and identify appropriate contexts for each strategy.",
+      "alignment": [
+        "10.P.EICC.4.a",
+        "10.P.EICC.4.b",
+        "10.P.EICC.4.e",
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Multi-session project",
+      "title": "The independent writing portfolio",
+      "activity": "Students curate a portfolio containing polished compositions in at least three genres or modes. Each selection includes planning materials, initial drafts, feedback, significant revisions, editing evidence, and a reflective explanation of writing decisions. Students present a portfolio defense evaluating their development and future goals.",
+      "materials": [
+        "Writing portfolio platform or folder",
+        "Drafts and planning materials",
+        "Feedback records",
+        "Portfolio rubric",
+        "Reflection and presentation guide"
+      ],
+      "scaffolds": "Provide portfolio checkpoints and individual conferences while allowing students meaningful choice in topics, genres, and organizational presentation.",
+      "success": "Students demonstrate independent application of all eight writing-process expectations across multiple texts and provide evidence-based explanations of their development as writers.",
+      "alignment": [
+        "10.P.EICC.4.a",
+        "10.P.EICC.4.b",
+        "10.P.EICC.4.c",
+        "10.P.EICC.4.d",
+        "10.P.EICC.4.e",
+        "10.P.EICC.4.f",
+        "10.P.EICC.4.g",
+        "10.P.EICC.4.h"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best describes an effective writing process?",
+      "options": [
+        "Writers must complete each step once before beginning the next.",
+        "Writers move flexibly among planning, drafting, evaluation, revision, and editing as their needs change.",
+        "Writers should complete all editing before developing their ideas.",
+        "Experienced writers do not need to plan or revise."
+      ],
+      "answer": "B",
+      "rationale": "Effective writing processes are recursive and adaptable. Writers may return to earlier processes as their understanding and goals develop."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student plans to write an article encouraging incoming freshmen to participate in school clubs. Which writing goal is most appropriate?",
+      "options": [
+        "Use as many difficult vocabulary words as possible.",
+        "Write exactly five paragraphs regardless of content.",
+        "Explain the benefits of participation and provide clear information about how freshmen can join.",
+        "Include every fact available about the school's history."
+      ],
+      "answer": "C",
+      "rationale": "The goal directly addresses the intended audience and purpose of the article."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student wants to explain how a proposed change to school transportation might solve a safety concern. Which organizational structure is most appropriate?",
+      "options": [
+        "Problem and solution",
+        "Random association",
+        "Alphabetical order",
+        "A list of unrelated personal memories"
+      ],
+      "answer": "A",
+      "rationale": "A problem-and-solution structure allows the writer to establish the safety concern and explain how the proposed change might address it."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which strategy best helps a writer generate substantial content for an unfamiliar topic?",
+      "options": [
+        "Rely exclusively on an initial opinion.",
+        "Begin editing punctuation before investigating the topic.",
+        "Copy the organization and language of the first source encountered.",
+        "Assess prior knowledge, investigate credible texts, and discuss questions with others."
+      ],
+      "answer": "D",
+      "rationale": "Combining prior knowledge, reading, inquiry, and discussion helps writers develop ideas and identify gaps in understanding."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student discovers that an interesting detail does not contribute to the central purpose of an article. What should the student most reasonably do?",
+      "options": [
+        "Include the detail because all researched information belongs in the article.",
+        "Evaluate whether the detail can serve a meaningful function and remove it if it does not.",
+        "Change the article's entire purpose to accommodate the detail.",
+        "Place the detail in the conclusion without explanation."
+      ],
+      "answer": "B",
+      "rationale": "Writers should select information according to its relevance, usefulness, and impact rather than include everything they discover."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "During drafting, a student discovers a more effective way to organize the text than the original outline. What should the student do?",
+      "options": [
+        "Keep the original organization because outlines cannot change.",
+        "Delete the draft and abandon the topic.",
+        "Evaluate the new structure and revise the plan if it better serves the purpose.",
+        "Wait until proofreading to consider organization."
+      ],
+      "answer": "C",
+      "rationale": "Writing plans are flexible tools that may change as writers discover new relationships among ideas."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which action most clearly demonstrates effective drafting?",
+      "options": [
+        "Developing ideas through relevant details, evidence, explanations, and purposeful language choices.",
+        "Correcting every spelling error before writing another sentence.",
+        "Copying a mentor text's sentences without attribution.",
+        "Listing unrelated facts without establishing connections."
+      ],
+      "answer": "A",
+      "rationale": "Drafting develops meaning through the integration of ideas, information, organization, language, and craft."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which question is most useful during self-evaluation of an argumentative draft?",
+      "options": [
+        "Does every paragraph contain exactly five sentences?",
+        "Did I use every word from my vocabulary list?",
+        "Is the document longer than my classmates' documents?",
+        "Does my evidence and reasoning adequately support my claim for the intended audience?"
+      ],
+      "answer": "D",
+      "rationale": "Self-evaluation should examine the relationship between the text's actual effectiveness and its intended purpose, audience, and goals."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which peer feedback comment is most useful?",
+      "options": [
+        "This is good.",
+        "Your second paragraph introduces an important claim, but an example or explanation would help readers understand why it matters.",
+        "I would write about a completely different topic.",
+        "Make everything better."
+      ],
+      "answer": "B",
+      "rationale": "Effective feedback identifies a specific issue, explains its effect on readers, and suggests an actionable direction for improvement."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Two reviewers offer conflicting suggestions about the organization of a draft. What should the writer do?",
+      "options": [
+        "Accept both suggestions even if they cannot work together.",
+        "Ignore all feedback because the reviewers disagree.",
+        "Evaluate each suggestion in relation to the writing purpose, audience, and goals.",
+        "Accept the suggestion from the reviewer with the highest grade."
+      ],
+      "answer": "C",
+      "rationale": "Writers retain responsibility for evaluating feedback and making decisions that improve the text."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which change is the clearest example of global revision?",
+      "options": [
+        "Reorganizing an essay around a more focused central claim and adding evidence to develop the argument.",
+        "Correcting the spelling of a person's name.",
+        "Adding a missing comma.",
+        "Changing an incorrectly capitalized word."
+      ],
+      "answer": "A",
+      "rationale": "Global revision addresses large-scale concerns such as focus, organization, development, and purpose."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which change is primarily an example of editing?",
+      "options": [
+        "Adding a new section to address a counterargument.",
+        "Reorganizing events to improve narrative pacing.",
+        "Replacing an unsupported claim with a qualified conclusion.",
+        "Correcting inconsistent verb tense and sentence-boundary errors."
+      ],
+      "answer": "D",
+      "rationale": "Editing addresses written-language conventions, including grammar, usage, punctuation, and sentence boundaries."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "What is the primary purpose of a reverse outline?",
+      "options": [
+        "To arrange paragraphs in reverse chronological order.",
+        "To examine the actual organization and function of sections in an existing draft.",
+        "To replace every sentence with a shorter sentence.",
+        "To identify spelling errors before drafting."
+      ],
+      "answer": "B",
+      "rationale": "A reverse outline reveals the structure of an existing draft and helps writers identify gaps, repetition, and organizational problems."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A writer replaces the sentence The neighborhood was nice with The shaded sidewalks and crowded Saturday market made the neighborhood feel welcoming. Which revision most directly occurs?",
+      "options": [
+        "The writer changes the genre.",
+        "The writer corrects a spelling error.",
+        "The writer replaces vague language with specific details that develop meaning.",
+        "The writer removes all descriptive language."
+      ],
+      "answer": "C",
+      "rationale": "The revision improves precision and development by replacing a vague evaluation with concrete details."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best explains the relationship between revision and editing?",
+      "options": [
+        "Revision improves meaning and effectiveness, while editing addresses written-language conventions.",
+        "Revision and editing are identical processes.",
+        "Editing always occurs before any ideas are developed.",
+        "Revision involves only correcting punctuation."
+      ],
+      "answer": "A",
+      "rationale": "Revision and editing serve related but distinct purposes. Both contribute to an effective final text."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student is adapting a research report into an informational video for younger students. Which decision best demonstrates awareness of genre and audience?",
+      "options": [
+        "Read the original report aloud without making any changes.",
+        "Remove all evidence because the audience is younger.",
+        "Use more technical vocabulary to make the video appear authoritative.",
+        "Select essential information, explain unfamiliar concepts, and organize visuals and narration to support understanding."
+      ],
+      "answer": "D",
+      "rationale": "Effective adaptation preserves accuracy while changing organization, explanation, language, and presentation to meet audience needs."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which reflection most clearly demonstrates metacognition about writing?",
+      "options": [
+        "I finished the assignment.",
+        "I realized that freewriting helped me generate ideas, but reverse outlining helped me identify repetition and reorganize my draft.",
+        "My essay contains six paragraphs.",
+        "I received a good grade."
+      ],
+      "answer": "B",
+      "rationale": "Metacognition involves evaluating one's thinking, strategies, and decisions rather than merely reporting completion or results."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which evidence most directly demonstrates that a student can revise effectively?",
+      "options": [
+        "A list of revision vocabulary terms.",
+        "A final draft containing no visible spelling errors.",
+        "An initial draft, a substantively improved version, and an explanation connecting the changes to writing goals.",
+        "A completed outline without a draft."
+      ],
+      "answer": "C",
+      "rationale": "Comparing drafts and examining the rationale for meaningful changes provides direct evidence of revision skills."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why writing is described as a recursive process rather than a fixed sequence of steps.",
+      "answer": "Writing is recursive because writers may move among planning, research, drafting, evaluation, revision, and editing as their ideas develop. For example, drafting may reveal a gap in knowledge that requires additional research, and feedback may lead a writer to reconsider the original organization.",
+      "rationale": "A complete response explains flexible movement among processes and provides an appropriate example."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how identifying a target audience can influence a writer's choices about content, organization, and language.",
+      "answer": "Writers consider what the audience already knows, what information it needs, and how it is likely to respond. These considerations influence the selection of details, the order of information, the amount of explanation, the level of vocabulary, the tone, and the genre or mode used to communicate.",
+      "rationale": "Students should connect audience characteristics to specific writing decisions."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "A student is preparing to write about a community issue but knows very little about it. Describe three strategies the student could use to generate meaningful content.",
+      "answer": "The student could identify existing knowledge and questions, read credible sources to develop understanding, and discuss the issue with informed classmates or other appropriate people. These strategies help generate ideas, reveal assumptions, and identify information requiring further investigation.",
+      "rationale": "A successful response addresses prior knowledge, information gathering, and discussion."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why a writer should evaluate information for relevance, usefulness, and impact before including it in a text.",
+      "answer": "Relevant information contributes to the purpose, useful information helps the audience understand or respond to the text, and impactful information strengthens meaning or effectiveness. Evaluating these qualities helps writers avoid unnecessary details and develop a more focused, coherent text.",
+      "rationale": "Assess whether students distinguish purposeful selection from simply collecting or including information."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how self-evaluation and external feedback can work together to improve a draft.",
+      "answer": "Self-evaluation helps a writer examine the draft against personal goals and criteria for success. External feedback provides information about how other readers experience the text. Comparing these perspectives helps the writer identify priorities, evaluate suggestions, and make purposeful revisions.",
+      "rationale": "A complete response recognizes the complementary roles of self-evaluation and reader feedback."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain the difference between substantive revision and editing. Provide one example of each.",
+      "answer": "Substantive revision improves meaning, development, organization, or effectiveness, such as reorganizing an argument and adding evidence to support a claim. Editing addresses written-language conventions, such as correcting comma errors or inconsistent verb tense.",
+      "rationale": "Students should accurately distinguish the processes and provide examples that demonstrate the difference."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Why might a writer decide not to incorporate a particular peer feedback suggestion?",
+      "answer": "A writer might determine that a suggestion does not support the intended purpose, conflicts with credible evidence, misunderstands the genre, or would make the text less effective for its audience. The decision should be based on thoughtful evaluation rather than automatic rejection of criticism.",
+      "rationale": "Assess whether students understand their responsibility to evaluate feedback and make defensible writing decisions."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "A draft about the benefits of a school garden contains an extended paragraph describing the history of the school's mascot. Explain whether this paragraph should be retained, revised, or removed.",
+      "answer": "The paragraph should be removed unless the writer can establish a meaningful relationship between the mascot's history and the garden's purpose or development. Interesting information should not be retained solely because it is available.",
+      "rationale": "The task assesses purposeful content selection and evaluation of relevance."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "Revise the following sentence to improve precision and development: The event was good and lots of people liked it.",
+      "answer": "One acceptable revision is: The community reading festival attracted families throughout the afternoon, and many participants remained after the scheduled activities to exchange book recommendations. In an actual informational text, the added details must be supported by observation or evidence.",
+      "rationale": "The revision replaces vague evaluation with concrete details while recognizing that factual details must not be invented."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "Correct the sentence-boundary error in the following sentence: The students completed their research, they began organizing their findings.",
+      "answer": "One acceptable correction is: The students completed their research, and they began organizing their findings. Another acceptable correction is: The students completed their research; they began organizing their findings.",
+      "rationale": "The original contains a comma splice. A coordinating conjunction, semicolon, or appropriate separation into sentences can correct the error."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Compare two versions of a teacher-selected text. Identify at least three significant changes and explain how the changes influence meaning, organization, language, or audience effectiveness.",
+      "answer": "A successful response accurately identifies changes, distinguishes revision from editing, explains their effects using specific evidence, and evaluates how the revised version better or differently serves the text's purpose.",
+      "rationale": "Assess the student's ability to evaluate observable writing decisions and explain their effects."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Read a selected mentor text and identify two craft techniques that contribute to its purpose. Explain how you could apply similar techniques in an original composition.",
+      "answer": "A strong response identifies specific techniques, explains their effects in the mentor text, and proposes appropriate applications in original writing without copying the author's language or content.",
+      "rationale": "Assess the connection between mentor-text analysis and independent composition."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Develop a purposeful text for a defined audience. Submit a writing brief, idea-generation materials, organizational plan, initial draft, self-evaluation, external feedback, revised draft, edited final version, and a reflection explaining your most significant writing decisions.",
+      "answer": "Successful work demonstrates purposeful goals, appropriate genre and structure, meaningful inquiry, relevant content selection, developed drafting, thoughtful evaluation, substantive revision, accurate editing, and reflective awareness of the writing process.",
+      "rationale": "Use separate rubric criteria aligned to all eight expectations rather than awarding credit solely for completion of process documents."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Adapt an existing composition for a different audience, purpose, genre, or mode. Submit the original text, an adaptation plan, the revised composition, and a rationale explaining your decisions.",
+      "answer": "A successful adaptation preserves necessary accuracy and meaning while making purposeful changes to organization, development, language, craft, and presentation. The rationale explains how these decisions respond to the new rhetorical situation.",
+      "rationale": "Assess independent transfer of writing strategies and meaningful audience and genre adaptation."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Create a writing portfolio containing at least three polished compositions in different genres or modes. Include selected drafts, feedback, revisions, and reflections demonstrating how your writing processes developed.",
+      "answer": "A strong portfolio demonstrates flexible writing strategies, meaningful development across drafts, effective use of feedback, purposeful revision, accurate editing, and evidence-based reflection about strengths, limitations, and future writing goals.",
+      "rationale": "Assess development and transfer across multiple writing situations rather than relying on a single final composition."
+    }
+  ],
+  "evidence": [
+    "A writing brief identifying purpose, audience, goals, genre, mode, and intended organizational structure.",
+    "An audience analysis explaining how reader needs influence writing decisions.",
+    "Specific writing goals connected to the task and intended outcome.",
+    "A flexible organizational plan, outline, concept map, or storyboard.",
+    "Evidence of evaluating alternative genres, modes, or organizational structures.",
+    "Brainstorming, freewriting, questioning, or other idea-generation materials.",
+    "Notes documenting relevant prior knowledge and identified knowledge gaps.",
+    "Research notes demonstrating information gathering from appropriate texts.",
+    "Discussion notes showing how conversations generated or extended ideas.",
+    "A content-selection organizer distinguishing relevant information from unnecessary material.",
+    "An organizational plan connecting selected ideas and information.",
+    "An initial draft demonstrating meaningful development and purposeful language choices.",
+    "Draft annotations documenting discoveries or changes to the original plan.",
+    "Evidence of applying craft techniques learned through mentor-text analysis.",
+    "A self-evaluation connected to purpose, audience, goals, and success criteria.",
+    "Specific and actionable peer or teacher feedback.",
+    "A feedback decision log explaining which suggestions were accepted, adapted, investigated, or declined.",
+    "A reverse outline identifying organizational strengths and weaknesses.",
+    "A prioritized revision plan.",
+    "Before-and-after draft comparisons demonstrating substantive revision.",
+    "Evidence of revisions to focus, organization, development, diction, syntax, and craft.",
+    "A revision rationale explaining how changes improve the text.",
+    "An individualized editing checklist.",
+    "Corrections demonstrating appropriate written-language conventions.",
+    "A polished final text appropriate to the intended audience and purpose.",
+    "An adapted composition demonstrating transfer across audiences, genres, or modes.",
+    "A reflective explanation of effective writing strategies and future goals.",
+    "A writing portfolio documenting development across multiple assignments.",
+    "Independent application of writing processes to an unfamiliar writing situation."
+  ],
+  "instruction": [
+    "Teach writing as a flexible, recursive process rather than a fixed sequence of mandatory steps.",
+    "Model authentic writing decisions through teacher think-alouds and visible drafting.",
+    "Demonstrate how experienced writers return to research, planning, and revision as new questions emerge.",
+    "Begin writing tasks with explicit consideration of purpose, audience, context, and goals.",
+    "Use authentic writing situations that require meaningful communication beyond earning a grade.",
+    "Teach students to establish specific writing goals rather than rely exclusively on assignment completion requirements.",
+    "Provide opportunities to write in narrative, informational, argumentative, poetic, professional, and multimodal genres.",
+    "Compare how different genres and modes respond to different purposes and audience needs.",
+    "Teach organizational structures as flexible tools rather than rigid templates.",
+    "Use examples showing how writers combine organizational structures within a single text.",
+    "Provide multiple prewriting strategies, including brainstorming, freewriting, concept mapping, questioning, outlining, and storyboarding.",
+    "Allow students to select planning strategies appropriate to the task and their developing writing processes.",
+    "Teach students to activate prior knowledge while recognizing assumptions and gaps requiring investigation.",
+    "Integrate reading, research, discussion, and inquiry into the development of writing content.",
+    "Collaborate with the school librarian to support credible research and effective information gathering.",
+    "Teach students to evaluate information for relevance, usefulness, accuracy, and impact.",
+    "Model how writers select and organize information rather than include every available detail.",
+    "Encourage students to revise organizational plans as their understanding develops.",
+    "Provide protected drafting time during which students can develop ideas without excessive concern about immediate correctness.",
+    "Teach students to use placeholders or notes for unresolved questions during drafting.",
+    "Model development through explanation, examples, evidence, reasoning, description, and other genre-appropriate techniques.",
+    "Use mentor texts to demonstrate purposeful diction, syntax, voice, structure, and craft.",
+    "Teach students to imitate writing techniques without copying an author's language or content.",
+    "Provide sentence-level and paragraph-level workshops connected to authentic student drafts.",
+    "Teach coherence and cohesion through meaningful relationships among ideas rather than isolated transition lists.",
+    "Use clear success criteria to support self-evaluation.",
+    "Model how writers compare their intended meaning with what readers actually understand.",
+    "Teach peer-review protocols emphasizing specific, respectful, actionable feedback.",
+    "Require reviewers to describe the effects of writing choices rather than impose personal stylistic preferences.",
+    "Provide opportunities for students to evaluate conflicting feedback and make defensible decisions.",
+    "Teach students to prioritize substantive concerns before focusing exclusively on mechanical errors.",
+    "Model global revision through changes to focus, organization, development, and relationships among ideas.",
+    "Teach reverse outlining as a strategy for evaluating an existing draft's organization.",
+    "Use before-and-after examples to demonstrate the difference between meaningful revision and surface-level correction.",
+    "Provide opportunities to experiment with alternative sentences, paragraphs, and organizational structures.",
+    "Teach local revision through purposeful changes to diction, syntax, transitions, clarity, and emphasis.",
+    "Explain that revision may require removing material that is well written but unnecessary.",
+    "Require students to explain significant revisions in relation to their purpose and audience.",
+    "Teach editing through targeted instruction connected to recurring errors in authentic writing.",
+    "Provide individualized editing checklists based on students' demonstrated needs.",
+    "Teach students to consult dictionaries, style guides, and appropriate language references.",
+    "Use focused editing passes to address particular categories of conventions.",
+    "Distinguish purposeful stylistic or dialect choices from unintended errors while teaching conventions appropriate to the writing situation.",
+    "Teach students to evaluate suggestions from spelling, grammar, and digital writing tools rather than accept them automatically.",
+    "Establish clear expectations for responsible use of digital and AI-assisted writing tools, consistent with school policies.",
+    "Use version histories, draft comparisons, and conferences to make writing development visible.",
+    "Assess the quality of writing decisions rather than merely the number of drafts or completed process worksheets.",
+    "Use writing portfolios to document development across genres, modes, and assignments.",
+    "Provide authentic publication opportunities when appropriate and when necessary permissions are available.",
+    "Encourage students to reflect on which writing strategies work for different tasks and circumstances.",
+    "Gradually remove scaffolds so students independently select, evaluate, and adapt effective writing processes."
+  ],
+  "watchFor": [
+    "Treating the writing process as a rigid sequence that cannot be revisited.",
+    "Requiring identical planning strategies for every writer and every assignment.",
+    "Assuming that completing an outline demonstrates effective planning.",
+    "Establishing vague writing goals unrelated to the intended purpose.",
+    "Identifying the teacher as the only audience for every writing task.",
+    "Selecting a genre or mode without considering audience needs.",
+    "Using a fixed essay structure regardless of the writing purpose.",
+    "Treating prior knowledge as automatically accurate.",
+    "Generating ideas without investigating important knowledge gaps.",
+    "Relying exclusively on personal opinion when a task requires researched information.",
+    "Collecting information without evaluating its relevance or usefulness.",
+    "Including every researched detail regardless of its contribution to the text.",
+    "Organizing information according to the order in which sources were encountered.",
+    "Treating an organizational plan as permanent even when new ideas emerge.",
+    "Expecting an initial draft to demonstrate final correctness.",
+    "Interrupting idea development to correct every mechanical error immediately.",
+    "Producing a draft that repeats an outline without developing ideas.",
+    "Adding evidence or examples without explaining their significance.",
+    "Confusing longer writing with more substantial development.",
+    "Using complex vocabulary primarily to appear sophisticated.",
+    "Assuming longer sentences are always more effective.",
+    "Imitating a mentor text by copying its language rather than applying its techniques.",
+    "Adding transition words without establishing meaningful relationships among ideas.",
+    "Evaluating writing solely according to length, format, or mechanical correctness.",
+    "Treating self-evaluation as a checklist completed without examining the draft.",
+    "Providing peer feedback consisting only of vague praise or criticism.",
+    "Focusing peer review exclusively on grammar before addressing meaning and development.",
+    "Accepting every feedback suggestion without considering its appropriateness.",
+    "Rejecting feedback solely because it requires substantial changes.",
+    "Confusing revision with editing.",
+    "Treating revision as replacing a few words with synonyms.",
+    "Making surface-level changes while leaving major organizational or developmental problems unresolved.",
+    "Avoiding deletion of unnecessary material because considerable time was spent writing it.",
+    "Adding new information during revision without checking accuracy or relevance.",
+    "Reorganizing paragraphs without reconsidering transitions and relationships.",
+    "Changing diction without considering meaning, tone, or audience.",
+    "Treating every unconventional language choice as an error regardless of context or purpose.",
+    "Relying entirely on automated spelling or grammar suggestions.",
+    "Correcting isolated convention errors without addressing recurring patterns.",
+    "Proofreading an early draft repeatedly while neglecting substantive revision.",
+    "Assuming a polished final draft proves that all writing-process expectations have been mastered.",
+    "Assessing the number of drafts rather than the quality of changes between them.",
+    "Requiring artificial revisions to satisfy a process checklist when a writer can justify retaining an effective choice.",
+    "Writing reflections that report completion rather than analyze decisions.",
+    "Failing to transfer effective strategies from one writing situation to another."
+  ],
+  "skills": {
+    "10.P.EICC.4.a": {
+      "focus": "Establish writing purpose, goals, and target audience",
+      "studentFriendly": "I can identify why I am writing, who I want to reach, and what I want my writing to accomplish. I can set specific goals that guide my writing decisions.",
+      "know": [
+        "Purpose identifies what a text is intended to accomplish.",
+        "A target audience is the particular group of readers, listeners, or viewers a writer intends to reach.",
+        "Writing goals identify specific desired outcomes.",
+        "The rhetorical situation includes writer, audience, purpose, context, and circumstances.",
+        "Audiences differ in their knowledge, experiences, interests, expectations, and needs.",
+        "A text may serve multiple related purposes.",
+        "Writing goals may address content, organization, development, language, audience response, or craft.",
+        "Writers can revise goals as their understanding of a task develops."
+      ],
+      "understand": [
+        "Purpose and audience provide direction for writing decisions.",
+        "Effective goals are connected to meaningful communication rather than merely completing an assignment.",
+        "Audience awareness helps writers determine what information, explanation, tone, and presentation are appropriate.",
+        "The same topic can lead to different texts depending on purpose and audience.",
+        "Writing goals provide criteria for evaluating the effectiveness of a draft.",
+        "Writers may adjust goals when new information or circumstances change the writing situation."
+      ],
+      "do": [
+        "Identify the intended purpose of a writing task.",
+        "Identify a specific target audience.",
+        "Analyze audience knowledge, interests, expectations, and needs.",
+        "Establish specific writing goals appropriate to the purpose.",
+        "Explain how the goals respond to the rhetorical situation.",
+        "Determine what the intended audience should understand, consider, experience, or do after encountering the text.",
+        "Evaluate whether initial writing goals are realistic and appropriate.",
+        "Adjust writing goals when necessary."
+      ],
+      "targets": [
+        "I can explain why I am writing.",
+        "I can identify my intended audience.",
+        "I can determine what my audience needs.",
+        "I can establish specific goals for my writing.",
+        "I can use my goals to guide and evaluate my writing decisions."
+      ],
+      "instruction": [
+        "Use authentic writing scenarios with clearly differentiated audiences and purposes.",
+        "Model the creation of a writing brief.",
+        "Compare different texts addressing the same topic for different audiences.",
+        "Teach students to establish goals that address meaning and effectiveness.",
+        "Provide opportunities to analyze audience knowledge and expectations.",
+        "Revisit writing goals during drafting, evaluation, and revision."
+      ],
+      "evidence": [
+        "A writing brief identifying purpose and audience.",
+        "Specific writing goals connected to an authentic task.",
+        "An audience analysis explaining reader needs.",
+        "A rationale connecting writing goals to the intended outcome.",
+        "Evidence of adjusting goals when the writing situation changes."
+      ],
+      "watchFor": [
+        "Confusing the topic with the writing purpose.",
+        "Identifying the teacher as the only audience.",
+        "Establishing goals based solely on length or completion.",
+        "Assuming all audiences have the same knowledge and expectations.",
+        "Failing to revisit goals when the task or understanding changes."
+      ]
+    },
+    "10.P.EICC.4.b": {
+      "focus": "Select modes, genres, and structures to organize a text",
+      "studentFriendly": "I can choose the type of text, way of communicating, and organizational structure that will best accomplish my purpose and meet my audience's needs.",
+      "know": [
+        "Modes include written language, images, audio, video, and other means of communication.",
+        "Genres have recognizable purposes, conventions, and audience expectations.",
+        "Organizational structures include chronological order, comparison and contrast, cause and effect, problem and solution, and other meaningful patterns.",
+        "Writers may combine structures within a single text.",
+        "An outline, concept map, storyboard, or other planning tool can represent intended organization.",
+        "Different genres and modes may require different organizational decisions.",
+        "Organizational plans can change during drafting and revision."
+      ],
+      "understand": [
+        "Genre, mode, and structure influence how an audience encounters and interprets information.",
+        "The most appropriate structure depends on the relationships among ideas and the writer's purpose.",
+        "A familiar organizational pattern is not automatically appropriate for every writing situation.",
+        "Multimodal compositions require attention to the relationship among different communication modes.",
+        "Effective plans provide direction while allowing writers to respond to new discoveries.",
+        "Writers should evaluate organizational choices according to audience needs and communicative effectiveness."
+      ],
+      "do": [
+        "Identify possible genres and modes appropriate to a writing task.",
+        "Compare the advantages and limitations of different communication choices.",
+        "Select a genre and mode that support the intended purpose and audience.",
+        "Identify relationships among the major ideas.",
+        "Evaluate alternative organizational structures.",
+        "Develop a flexible organizational plan.",
+        "Use an appropriate planning tool to represent the intended structure.",
+        "Explain how organizational choices support the writing goals.",
+        "Revise the plan when new information or discoveries require changes."
+      ],
+      "targets": [
+        "I can select a genre and mode appropriate to my purpose.",
+        "I can identify relationships among my ideas.",
+        "I can compare possible organizational structures.",
+        "I can create a flexible plan for my text.",
+        "I can explain why my organizational choices meet my audience's needs."
+      ],
+      "instruction": [
+        "Compare mentor texts representing different genres, modes, and structures.",
+        "Use common information sets to demonstrate alternative organizational patterns.",
+        "Teach outlines, concept maps, and storyboards as flexible planning tools.",
+        "Model how audience and purpose influence organizational choices.",
+        "Provide opportunities to adapt the same topic across multiple genres.",
+        "Encourage students to revise plans as their ideas develop."
+      ],
+      "evidence": [
+        "A defensible genre and mode selection.",
+        "A comparison of alternative organizational structures.",
+        "An outline, concept map, storyboard, or equivalent plan.",
+        "A rationale connecting organization to purpose and audience.",
+        "A revised plan reflecting meaningful discoveries."
+      ],
+      "watchFor": [
+        "Using the same organizational structure for every assignment.",
+        "Confusing genre with topic.",
+        "Selecting a mode because it is visually appealing rather than appropriate.",
+        "Treating outlines as permanent requirements.",
+        "Organizing ideas without considering their relationships.",
+        "Assuming every effective text follows a five-paragraph structure."
+      ]
+    },
+    "10.P.EICC.4.c": {
+      "focus": "Generate content through prior knowledge, texts, and discussion",
+      "studentFriendly": "I can develop ideas for writing by examining what I already know, investigating information from texts, asking questions, and discussing ideas with other people.",
+      "know": [
+        "Prior knowledge includes relevant information, experiences, understandings, and assumptions.",
+        "Inquiry helps writers investigate questions and address gaps in understanding.",
+        "Brainstorming, freewriting, questioning, and concept mapping can generate possible ideas.",
+        "Reading and research provide information, perspectives, examples, and evidence.",
+        "Discussion can generate, clarify, challenge, or extend ideas.",
+        "Source information should be evaluated for accuracy, credibility, and relevance.",
+        "Idea generation and content selection are related but distinct processes.",
+        "Writers may continue generating ideas during drafting and revision."
+      ],
+      "understand": [
+        "Writers develop stronger content when they draw from multiple sources of thinking and information.",
+        "Prior knowledge provides a starting point but may contain gaps or inaccurate assumptions.",
+        "Reading and research can challenge initial understandings and reveal new possibilities.",
+        "Discussion helps writers consider perspectives and questions they might not develop independently.",
+        "Idea generation is an exploratory process that does not require immediate commitment to every possibility.",
+        "The quality of ideas matters more than the quantity generated.",
+        "Writers can return to inquiry whenever drafting or feedback reveals a need for additional information."
+      ],
+      "do": [
+        "Activate relevant prior knowledge.",
+        "Identify assumptions and gaps requiring investigation.",
+        "Generate questions that support inquiry.",
+        "Use brainstorming, freewriting, concept mapping, or other idea-generation strategies.",
+        "Gather information from relevant and credible texts.",
+        "Record useful information and source details.",
+        "Participate in discussions that develop or challenge ideas.",
+        "Compare initial understandings with new information.",
+        "Generate multiple possible directions for a writing task.",
+        "Return to inquiry when new questions emerge."
+      ],
+      "targets": [
+        "I can identify what I already know about a topic.",
+        "I can recognize gaps in my understanding.",
+        "I can generate useful questions and possible ideas.",
+        "I can gather information from relevant texts.",
+        "I can use discussion to develop and reconsider ideas.",
+        "I can return to research when my writing reveals new questions."
+      ],
+      "instruction": [
+        "Model the distinction between prior knowledge, assumptions, and verified information.",
+        "Use inquiry questions to guide purposeful information gathering.",
+        "Teach multiple idea-generation strategies.",
+        "Provide credible and accessible source sets.",
+        "Use structured discussions that encourage questions and competing perspectives.",
+        "Teach students to record source information during research.",
+        "Encourage writers to continue investigating questions throughout drafting and revision."
+      ],
+      "evidence": [
+        "Prior-knowledge notes identifying relevant ideas and assumptions.",
+        "Inquiry questions addressing knowledge gaps.",
+        "Brainstorming, freewriting, or concept-mapping materials.",
+        "Research notes from appropriate texts.",
+        "Discussion notes showing development or reconsideration of ideas.",
+        "An idea bank demonstrating multiple sources of thinking.",
+        "Evidence of additional inquiry prompted by drafting or feedback."
+      ],
+      "watchFor": [
+        "Treating initial opinions as established facts.",
+        "Generating ideas without addressing important knowledge gaps.",
+        "Using only one source of information when broader inquiry is needed.",
+        "Copying source language instead of developing original ideas.",
+        "Treating discussion as unrelated to writing development.",
+        "Selecting a final position before investigating relevant information.",
+        "Assuming idea generation ends when drafting begins."
+      ]
+    },
+    "10.P.EICC.4.d": {
+      "focus": "Connect relevant, useful, and impactful content to an organizational plan",
+      "studentFriendly": "I can choose the information that will contribute most effectively to my writing and connect my ideas, details, and evidence to a clear organizational plan.",
+      "know": [
+        "Relevant information contributes directly to the writer's purpose or central idea.",
+        "Useful information helps the audience understand, evaluate, or respond to the text.",
+        "Impactful information strengthens meaning, engagement, clarity, or effectiveness.",
+        "Organizational plans represent intended relationships and sequences among ideas.",
+        "Supporting details should contribute to the development of larger ideas.",
+        "Writers may organize information according to chronology, cause and effect, comparison, classification, or other meaningful relationships.",
+        "Not every researched detail belongs in the final text.",
+        "New information may require changes to an existing organizational plan."
+      ],
+      "understand": [
+        "Effective writing depends on purposeful selection and organization rather than the accumulation of information.",
+        "A detail can be interesting without being relevant to the intended purpose.",
+        "The usefulness of information depends partly on what the audience needs.",
+        "The impact of information depends on its quality, placement, development, and relationship to the text's goals.",
+        "Grouping related ideas helps writers develop coherent sections.",
+        "The order in which information is discovered does not necessarily determine its most effective placement.",
+        "Organizational plans should respond to the content rather than force information into inappropriate categories."
+      ],
+      "do": [
+        "Evaluate potential content for relevance, usefulness, and impact.",
+        "Identify information that contributes most directly to the central idea or purpose.",
+        "Distinguish essential information from unnecessary or distracting material.",
+        "Group related ideas, evidence, and details.",
+        "Connect selected information to appropriate sections of an organizational plan.",
+        "Determine effective sequencing and emphasis.",
+        "Identify gaps in development or support.",
+        "Remove or relocate information that does not contribute effectively.",
+        "Revise the organizational plan when necessary.",
+        "Explain the rationale for significant content-selection and placement decisions."
+      ],
+      "targets": [
+        "I can select information that supports my purpose.",
+        "I can distinguish relevant information from unnecessary details.",
+        "I can organize related ideas into meaningful groups.",
+        "I can connect evidence and details to my writing plan.",
+        "I can identify gaps in my planned content.",
+        "I can explain why particular information belongs in a particular part of my text."
+      ],
+      "instruction": [
+        "Use information-sorting activities to teach relevance and purposeful selection.",
+        "Model how to connect evidence and details to larger ideas.",
+        "Compare alternative placements of the same information.",
+        "Teach students to evaluate content from the perspective of the intended audience.",
+        "Use organizational plans that reveal relationships rather than merely list topics.",
+        "Encourage students to identify gaps and return to research when necessary.",
+        "Model how writers remove interesting but unnecessary information."
+      ],
+      "evidence": [
+        "A content-selection organizer.",
+        "An explanation of relevance, usefulness, and impact.",
+        "Grouped ideas and supporting information.",
+        "An organizational plan connecting content to major sections.",
+        "Identification of gaps or unnecessary material.",
+        "A revised plan reflecting purposeful selection and sequencing."
+      ],
+      "watchFor": [
+        "Including every available detail.",
+        "Confusing interesting information with relevant information.",
+        "Organizing content according to source order.",
+        "Grouping unrelated information under broad headings.",
+        "Selecting evidence without considering audience needs.",
+        "Treating an outline as a list of disconnected topics.",
+        "Ignoring gaps in development or support."
+      ]
+    },
+    "10.P.EICC.4.e": {
+      "focus": "Construct an initial draft using integrated ideas, language, and craft",
+      "studentFriendly": "I can develop an initial draft that connects my ideas and information. I can choose words, sentences, details, and craft techniques that help my writing achieve its purpose and connect with my audience.",
+      "know": [
+        "An initial draft is a developing version of a text.",
+        "Drafting involves integrating ideas and information into meaningful communication.",
+        "Development may involve explanation, evidence, reasoning, examples, description, dialogue, or other appropriate techniques.",
+        "Diction refers to word choice.",
+        "Syntax refers to the arrangement of words, phrases, and clauses.",
+        "Voice and tone contribute to a text's relationship with its audience.",
+        "Craft techniques influence meaning, structure, emphasis, pacing, and audience experience.",
+        "Coherence and cohesion help readers understand relationships among ideas.",
+        "Drafting may reveal new ideas, questions, or organizational possibilities.",
+        "Initial drafts do not need to demonstrate final correctness."
+      ],
+      "understand": [
+        "Drafting develops meaning rather than merely converting a plan into sentences.",
+        "Writers discover new relationships and possibilities while composing.",
+        "Effective development depends on the purpose, genre, and needs of the audience.",
+        "Language and craft choices should contribute to meaning rather than function as decoration.",
+        "The most effective sentence or word choice depends on context and intended effect.",
+        "Coherence requires meaningful relationships among ideas.",
+        "An imperfect draft provides material for evaluation and revision.",
+        "Writers may return to planning or inquiry when drafting reveals limitations."
+      ],
+      "do": [
+        "Develop an initial draft from a flexible organizational plan.",
+        "Integrate selected ideas and information coherently.",
+        "Develop ideas through genre-appropriate details, evidence, explanations, and techniques.",
+        "Select precise and purposeful words and phrases.",
+        "Construct sentences appropriate to meaning, emphasis, and audience.",
+        "Establish a voice and tone appropriate to the writing situation.",
+        "Apply craft techniques that support the intended purpose.",
+        "Develop coherent paragraphs and sections.",
+        "Use appropriate transitions and language connections.",
+        "Identify emerging questions or discoveries during drafting.",
+        "Adjust the plan or return to inquiry when necessary.",
+        "Complete a substantial initial draft suitable for evaluation and revision."
+      ],
+      "targets": [
+        "I can develop an initial draft from my ideas and plan.",
+        "I can integrate relevant information and details.",
+        "I can develop ideas using techniques appropriate to my genre.",
+        "I can choose words and sentences purposefully.",
+        "I can use craft techniques to strengthen meaning and audience engagement.",
+        "I can adapt my draft when new ideas or questions emerge."
+      ],
+      "instruction": [
+        "Model drafting through visible teacher writing and think-alouds.",
+        "Provide protected time for idea development.",
+        "Use mentor texts to demonstrate effective development and craft.",
+        "Teach sentence-level and paragraph-level writing in the context of authentic drafts.",
+        "Model how writers integrate evidence, examples, and explanations.",
+        "Teach students to use placeholders for unresolved questions.",
+        "Encourage purposeful experimentation with language and organization.",
+        "Provide conferences focused on meaning and development before final editing."
+      ],
+      "evidence": [
+        "A substantial initial draft.",
+        "Integrated ideas and relevant supporting information.",
+        "Genre-appropriate development.",
+        "Purposeful diction, syntax, voice, and tone.",
+        "Effective application of craft techniques.",
+        "Coherent relationships among paragraphs or sections.",
+        "Draft annotations documenting discoveries or questions.",
+        "Evidence of adapting the plan during drafting."
+      ],
+      "watchFor": [
+        "Expecting a polished first draft.",
+        "Treating drafting as transcription of an outline.",
+        "Including evidence without explanation.",
+        "Using vague or repetitive language.",
+        "Adding craft techniques without a meaningful purpose.",
+        "Assuming longer sentences are automatically stronger.",
+        "Using transitions without meaningful relationships among ideas.",
+        "Stopping idea development to correct every mechanical error."
+      ]
+    },
+    "10.P.EICC.4.f": {
+      "focus": "Evaluate writing effectiveness through self-review and external feedback",
+      "studentFriendly": "I can evaluate my writing to determine whether it achieves my purpose and goals. I can use my own review and feedback from other readers to identify strengths and decide what needs improvement.",
+      "know": [
+        "Self-evaluation involves examining one's own writing against its intended goals.",
+        "Success criteria describe characteristics of effective writing for a particular task.",
+        "Feedback provides information about strengths, limitations, and possible improvements.",
+        "Peer review helps writers understand how other readers experience a text.",
+        "Effective feedback is specific, actionable, respectful, and connected to writing goals.",
+        "A reverse outline reveals the actual organization of an existing draft.",
+        "Feedback may be incomplete, conflicting, or inappropriate to the writing situation.",
+        "Writers retain responsibility for evaluating and responding to feedback."
+      ],
+      "understand": [
+        "Evaluation helps writers identify differences between intended meaning and actual communication.",
+        "A draft should be evaluated according to its purpose, audience, genre, and goals.",
+        "Self-evaluation and external feedback provide complementary perspectives.",
+        "Effective evaluation addresses meaning, organization, development, language, and craft rather than only mechanical correctness.",
+        "Readers' questions can reveal gaps or ambiguities the writer did not recognize.",
+        "Not every feedback suggestion will improve a text.",
+        "Writers should prioritize improvements according to their significance.",
+        "Evaluation provides direction for purposeful revision."
+      ],
+      "do": [
+        "Reread a draft with attention to purpose and audience.",
+        "Compare the draft with established writing goals.",
+        "Evaluate focus, organization, development, language, and craft.",
+        "Identify specific strengths and limitations.",
+        "Use a reverse outline or other evaluation strategy when appropriate.",
+        "Identify questions or areas requiring additional information.",
+        "Solicit feedback from appropriate readers.",
+        "Provide specific, actionable feedback on another writer's draft.",
+        "Interpret feedback in relation to the writing goals.",
+        "Evaluate conflicting or incomplete feedback.",
+        "Determine priorities for revision.",
+        "Explain the evidence supporting evaluation decisions."
+      ],
+      "targets": [
+        "I can evaluate whether my draft achieves its purpose.",
+        "I can identify specific strengths and weaknesses in my writing.",
+        "I can provide useful feedback to another writer.",
+        "I can interpret feedback from readers.",
+        "I can decide which suggestions will help me improve my text.",
+        "I can establish meaningful priorities for revision."
+      ],
+      "instruction": [
+        "Model self-evaluation using authentic drafts and clear success criteria.",
+        "Teach students to evaluate meaning and development before focusing exclusively on correctness.",
+        "Use reverse outlining to examine actual organization.",
+        "Teach structured peer-review protocols.",
+        "Model specific, actionable, respectful feedback.",
+        "Require reviewers to explain how writing choices affect their understanding.",
+        "Use examples of conflicting feedback to develop decision-making skills.",
+        "Provide opportunities for students to establish prioritized revision plans."
+      ],
+      "evidence": [
+        "A self-evaluation connected to writing goals.",
+        "Specific identification of strengths and limitations.",
+        "A reverse outline or comparable organizational analysis.",
+        "Actionable peer feedback.",
+        "An interpretation of external feedback.",
+        "A feedback decision log.",
+        "A prioritized revision plan supported by evidence from the draft."
+      ],
+      "watchFor": [
+        "Evaluating writing solely according to length or correctness.",
+        "Completing self-evaluation without examining the actual draft.",
+        "Providing vague praise or criticism.",
+        "Focusing peer review only on grammar.",
+        "Accepting every feedback suggestion automatically.",
+        "Rejecting all criticism without evaluation.",
+        "Allowing reviewers to impose personal preferences unrelated to writing goals.",
+        "Identifying weaknesses without establishing priorities for improvement."
+      ]
+    },
+    "10.P.EICC.4.g": {
+      "focus": "Revise organization, ideas, information, language, and craft",
+      "studentFriendly": "I can use my own evaluation and feedback from others to make meaningful changes to my writing. I can revise my ideas, organization, details, word choices, and craft techniques so that my text communicates more effectively.",
+      "know": [
+        "Revision involves meaningful changes intended to improve a text's effectiveness.",
+        "Global revision addresses focus, organization, development, and larger relationships among ideas.",
+        "Local revision addresses sentence clarity, diction, syntax, transitions, and paragraph-level development.",
+        "Revision strategies include adding, deleting, reorganizing, combining, replacing, and rewriting.",
+        "Feedback and self-evaluation can identify revision priorities.",
+        "Revision may require additional research or reconsideration of initial ideas.",
+        "A revision rationale explains why a change improves the text.",
+        "Revision differs from editing for written-language conventions."
+      ],
+      "understand": [
+        "Effective revision responds to the intended purpose, audience, and writing goals.",
+        "Substantive revision may require significant changes to a draft.",
+        "Correct sentences and well-written passages may still require revision if they do not contribute effectively.",
+        "Adding material is not always the best revision; removing or reorganizing content may improve clarity.",
+        "Language choices should be revised according to meaning and intended effect.",
+        "Writers should evaluate feedback before incorporating suggestions.",
+        "Revision can reveal additional questions and require further inquiry.",
+        "The effectiveness of revision should be evaluated by comparing the original and revised text.",
+        "Meaningful revision is demonstrated by the quality of changes rather than their quantity."
+      ],
+      "do": [
+        "Review self-evaluation and external feedback.",
+        "Identify and prioritize significant revision needs.",
+        "Revise the central focus or controlling idea when necessary.",
+        "Add, remove, or reorganize content to improve development and coherence.",
+        "Integrate additional evidence, examples, or explanations when needed.",
+        "Revise unsupported, inaccurate, or insufficiently developed ideas.",
+        "Clarify relationships among ideas and sections.",
+        "Revise diction, syntax, transitions, and sentence emphasis.",
+        "Adjust voice, tone, and craft techniques for the intended audience.",
+        "Experiment with alternative versions of important passages.",
+        "Evaluate whether changes improve the text's effectiveness.",
+        "Explain the rationale for significant revisions.",
+        "Return to inquiry, planning, or drafting when necessary."
+      ],
+      "targets": [
+        "I can identify the most important changes my draft needs.",
+        "I can revise my ideas and organization.",
+        "I can add, remove, or reorganize information to improve development.",
+        "I can revise words, sentences, and craft techniques purposefully.",
+        "I can use feedback to guide meaningful changes.",
+        "I can explain how my revisions improve the text.",
+        "I can return to research or planning when revision reveals new needs."
+      ],
+      "instruction": [
+        "Model substantive revision using before-and-after drafts.",
+        "Teach global revision before requiring exclusive attention to surface-level corrections.",
+        "Use reverse outlines to identify organizational problems.",
+        "Teach adding, deleting, combining, reorganizing, and rewriting as purposeful strategies.",
+        "Provide opportunities to compare alternative versions of a passage.",
+        "Use targeted sentence and paragraph revision workshops.",
+        "Teach students to evaluate feedback rather than implement every suggestion automatically.",
+        "Require revision rationales connected to writing goals.",
+        "Assess the effectiveness of changes rather than the number of revisions."
+      ],
+      "evidence": [
+        "A prioritized revision plan.",
+        "Before-and-after drafts demonstrating meaningful changes.",
+        "Revisions to focus, organization, and development.",
+        "Additional or more effective supporting information.",
+        "Purposeful deletion or relocation of unnecessary material.",
+        "Revisions to diction, syntax, transitions, voice, or craft.",
+        "A revision rationale connected to purpose and audience.",
+        "Evidence of improved effectiveness in the revised text."
+      ],
+      "watchFor": [
+        "Confusing revision with editing.",
+        "Replacing words with synonyms without improving meaning.",
+        "Making changes solely to demonstrate that revision occurred.",
+        "Adding unnecessary material instead of strengthening development.",
+        "Avoiding significant organizational changes.",
+        "Retaining irrelevant passages because they required substantial effort.",
+        "Changing factual information without verifying accuracy.",
+        "Accepting feedback without considering its appropriateness.",
+        "Failing to evaluate whether revisions actually improve the text."
+      ]
+    },
+    "10.P.EICC.4.h": {
+      "focus": "Edit texts for written-language conventions",
+      "studentFriendly": "I can review and edit my writing for grammar, usage, punctuation, capitalization, spelling, and other conventions appropriate to my writing situation so that my final text communicates clearly.",
+      "know": [
+        "Written-language conventions include grammar, usage, punctuation, capitalization, spelling, and other established practices.",
+        "Editing addresses correctness and consistency in written communication.",
+        "Proofreading is a final review for remaining errors or omissions.",
+        "Sentence-boundary errors include unintended fragments, run-ons, and comma splices.",
+        "Writers should maintain appropriate agreement, verb consistency, pronoun reference, and other grammatical relationships.",
+        "Punctuation helps communicate sentence structure and meaning.",
+        "Language conventions may vary according to genre, context, and intended audience.",
+        "Purposeful stylistic choices should be distinguished from unintended errors.",
+        "Dictionaries, style guides, and grammar references can support editing decisions.",
+        "Automated editing suggestions require evaluation rather than automatic acceptance."
+      ],
+      "understand": [
+        "Appropriate written-language conventions support clarity, readability, and credibility.",
+        "Editing is related to but distinct from substantive revision.",
+        "A text can be grammatically correct while remaining ineffective in meaning or organization.",
+        "Focused editing passes can help writers identify recurring error patterns.",
+        "Effective editors understand the reasons for corrections rather than rely exclusively on automated tools.",
+        "Appropriate language choices depend on the writing situation and genre.",
+        "Purposeful dialect or stylistic choices should be evaluated in context.",
+        "Proofreading helps writers identify errors introduced during revision or overlooked during earlier editing."
+      ],
+      "do": [
+        "Review a revised draft for written-language conventions.",
+        "Identify recurring patterns of grammatical or mechanical errors.",
+        "Correct unintended sentence-boundary errors.",
+        "Correct inappropriate agreement, verb consistency, pronoun reference, and other grammatical problems.",
+        "Use punctuation appropriate to sentence structure and intended meaning.",
+        "Correct capitalization and spelling errors.",
+        "Check consistency of formatting and relevant style conventions.",
+        "Consult appropriate dictionaries, style guides, or grammar references.",
+        "Evaluate automated editing suggestions before accepting them.",
+        "Distinguish purposeful stylistic choices from unintended errors.",
+        "Complete focused editing passes.",
+        "Proofread the final text for remaining errors and inconsistencies.",
+        "Explain selected editing decisions."
+      ],
+      "targets": [
+        "I can identify and correct recurring convention errors in my writing.",
+        "I can edit sentence structure, grammar, and usage.",
+        "I can use appropriate punctuation, capitalization, and spelling.",
+        "I can consult reliable language references.",
+        "I can evaluate automated editing suggestions.",
+        "I can proofread my final text for remaining errors.",
+        "I can explain how editing improves clarity and readability."
+      ],
+      "instruction": [
+        "Teach conventions through authentic student writing rather than isolated correction exercises alone.",
+        "Use diagnostic writing samples to identify recurring error patterns.",
+        "Provide individualized editing checklists.",
+        "Model focused editing passes addressing specific convention categories.",
+        "Teach students to consult appropriate language references.",
+        "Use sentence-combining and sentence-boundary exercises connected to actual drafts.",
+        "Distinguish intentional stylistic choices from unintended errors.",
+        "Teach students to evaluate grammar and spelling tool suggestions critically.",
+        "Provide opportunities to proofread after substantive revision.",
+        "Assess independent application of conventions in authentic writing."
+      ],
+      "evidence": [
+        "An individualized editing checklist.",
+        "Identification of recurring convention errors.",
+        "Corrections to sentence boundaries, grammar, usage, punctuation, capitalization, and spelling.",
+        "Evidence of consulting appropriate reference tools.",
+        "Explanations of selected editing decisions.",
+        "A polished final text appropriate to the genre and audience.",
+        "Independent application of editing strategies to unfamiliar writing tasks."
+      ],
+      "watchFor": [
+        "Treating editing as the entire writing process.",
+        "Focusing exclusively on mechanical correctness before developing ideas.",
+        "Correcting errors without understanding the relevant convention.",
+        "Relying entirely on automated editing tools.",
+        "Applying a grammar suggestion that changes the intended meaning.",
+        "Treating every purposeful stylistic or dialect choice as an error.",
+        "Ignoring recurring error patterns.",
+        "Assuming a single proofreading pass will identify every problem.",
+        "Failing to check errors introduced during revision."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, copyright permissions, age suitability, historical context, and the accuracy of manuscript transcriptions. Some writing craft texts contain mature language or subject matter; select excerpts appropriate to the instructional setting. Manuscript comparisons should distinguish observable textual changes from unsupported assumptions about author intentions. Writing-process activities should allow flexible approaches rather than require every writer to follow an identical sequence. Evaluate the quality and effectiveness of writing decisions rather than simply counting drafts, revisions, or completed process documents."
 }
+  ]
+}
+
