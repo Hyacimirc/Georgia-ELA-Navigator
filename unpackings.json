@@ -15523,7 +15523,2889 @@
   },
   "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, copyright permissions, age suitability, and historical or scientific context. Some nonfiction selections contain mature language, violence, medical information, or sensitive historical content; review passages before assigning. Use authentic source records and authoritative MLA guidance when teaching documentation. Database availability and access permissions may vary by school and subscription. Research activities should distinguish evidence-supported conclusions from unsupported claims and should not treat all competing perspectives as equally credible. AI-assisted research activities must follow applicable school policies and require verification of claims, quotations, and references against authentic sources."
 }
+  
+,
+{
+  "code": "10.T.T.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Narrative Techniques",
+  "studentFriendly": "I can evaluate how narrative techniques work together to create meaning and achieve an author's purpose. I can analyze how themes develop throughout a text, connect to society, and appear in literature from different time periods. I can write engaging narratives that develop complex characters who change, use setting to create mood, and develop meaningful ideas or themes through metaphors and other intentional craft choices.",
+  "know": [
+    "A narrative presents a sequence of real or imagined experiences or events.",
+    "Narrative techniques are deliberate choices writers make to develop experiences, characters, settings, conflicts, and ideas.",
+    "Narrative techniques interact rather than operate independently.",
+    "Plot is the arrangement of events within a narrative.",
+    "Chronological structure presents events in their temporal sequence.",
+    "Nonlinear structure presents events outside their chronological sequence.",
+    "A flashback presents an event that occurred before the current narrative moment.",
+    "A flash-forward presents an event occurring after the current narrative moment.",
+    "Foreshadowing provides clues or anticipatory details that prepare readers for later developments.",
+    "In medias res describes a narrative beginning in the middle of an action or situation.",
+    "A frame narrative contains one or more stories within an outer narrative.",
+    "Parallel plots develop two or more related sequences of events.",
+    "A circular narrative returns to an image, situation, location, or idea introduced near its beginning.",
+    "A fragmented narrative presents events or experiences through discontinuous sections that readers must connect.",
+    "Pacing refers to the speed at which a narrative presents events and information.",
+    "Scene presents events through relatively detailed action, dialogue, and description.",
+    "Summary condenses events or periods of time.",
+    "Suspense develops uncertainty or anticipation concerning an outcome.",
+    "Conflict is a struggle involving opposing desires, forces, values, circumstances, or responsibilities.",
+    "Internal conflict occurs within a character.",
+    "External conflict involves a character's struggle with another person, society, nature, technology, or another external force.",
+    "Multiple conflicts can interact within a single narrative.",
+    "A protagonist is a central character whose experiences, goals, or struggles organize a narrative.",
+    "An antagonist is a character, institution, circumstance, or force opposing a protagonist.",
+    "An antagonist is not necessarily morally evil.",
+    "Characterization is the development and presentation of a character.",
+    "Direct characterization explicitly describes a character's qualities.",
+    "Indirect characterization reveals qualities through actions, dialogue, thoughts, relationships, appearance, and responses.",
+    "A complex character possesses multiple, sometimes conflicting motivations, qualities, desires, or beliefs.",
+    "A dynamic character undergoes meaningful change.",
+    "A static character remains substantially unchanged.",
+    "A round character is developed with complexity and depth.",
+    "A flat character is developed through relatively few characteristics.",
+    "A character arc describes the development or transformation of a character across a narrative.",
+    "Character motivation refers to the desires, needs, fears, beliefs, and circumstances influencing behavior.",
+    "A foil is a character whose contrasting qualities illuminate another character.",
+    "An archetype is a recurring character type, situation, image, or narrative pattern appearing across literary traditions.",
+    "Common character archetypes include the hero, mentor, trickster, outsider, caregiver, and ruler.",
+    "Common narrative patterns include the quest, journey, transformation, descent and return, and coming of age.",
+    "An archetype is not the same as a stereotype.",
+    "An archetype can be adapted, challenged, reversed, or complicated.",
+    "A stereotype reduces individuals or groups to oversimplified assumptions.",
+    "Point of view identifies the narrative position through which events are presented.",
+    "First-person narration presents events through a narrator who refers to the self as I.",
+    "Third-person limited narration generally restricts access to the experiences or thoughts of one focal character at a time.",
+    "Third-person omniscient narration can provide access to multiple characters' thoughts and experiences.",
+    "Third-person objective narration presents observable actions and dialogue without directly revealing characters' private thoughts.",
+    "Second-person narration addresses a central figure or reader as you.",
+    "Perspective reflects a character's or narrator's experiences, beliefs, assumptions, knowledge, and interpretation.",
+    "Point of view and perspective are related but distinct concepts.",
+    "Multiple perspectives present events through more than one interpretive position.",
+    "An unreliable narrator provides an account that readers have reason to question.",
+    "Narrator reliability may be affected by limited knowledge, memory, bias, misunderstanding, or deliberate deception.",
+    "The narrator is not automatically identical to the author.",
+    "Narrative distance concerns how closely readers experience a character's thoughts, feelings, and perceptions.",
+    "Dramatic irony occurs when readers or audiences possess important information that a character lacks.",
+    "Situational irony occurs when an outcome meaningfully differs from expectations.",
+    "Verbal irony occurs when language communicates a meaning different from its apparent literal meaning.",
+    "Setting includes the time, place, social environment, and circumstances of a narrative.",
+    "Setting can influence character behavior, conflict, atmosphere, and thematic development.",
+    "Mood is the emotional atmosphere created for readers.",
+    "Tone is the attitude conveyed toward a subject, situation, character, or audience.",
+    "Imagery uses language that evokes sensory experience.",
+    "Diction refers to deliberate word choice.",
+    "Connotation refers to associations and implications beyond a word's literal definition.",
+    "Dialogue represents spoken interaction between characters.",
+    "Subtext is meaning implied beneath a character's spoken words or observable behavior.",
+    "Interior monologue presents a character's internal thoughts.",
+    "Reflection allows narrators or characters to interpret experiences and their significance.",
+    "A symbol is a concrete element that suggests meanings beyond its literal function.",
+    "A motif is a recurring element that contributes to a work's meaning or thematic development.",
+    "A metaphor describes one thing in terms of another to suggest a meaningful relationship.",
+    "An extended metaphor develops a comparison across multiple sentences, passages, or sections of a text.",
+    "A metaphor can develop an idea or theme rather than merely decorate a sentence.",
+    "A recurring metaphor may change in significance as characters and conflicts develop.",
+    "A simile makes an explicit comparison using words such as like or as.",
+    "Personification attributes human qualities to nonhuman entities or abstract ideas.",
+    "Theme is an interpretive statement about an idea, experience, relationship, or aspect of human life developed through a text.",
+    "A thematic topic is a broad subject such as belonging, power, justice, or identity.",
+    "A thematic statement expresses an interpretation of what a text suggests about a topic.",
+    "A text may develop multiple related or competing themes.",
+    "Themes may emerge through character choices, conflicts, consequences, setting, structure, imagery, symbolism, and patterns of language.",
+    "Thematic development occurs as a text introduces, complicates, extends, or transforms ideas.",
+    "Social relevance concerns the relationship between a text's ideas and experiences, institutions, conflicts, values, or questions within society.",
+    "Historical context includes the circumstances, beliefs, institutions, and cultural conditions surrounding a text's creation or setting.",
+    "Intertextuality concerns meaningful relationships among texts.",
+    "An allusion is a reference to another text, historical event, cultural figure, or other recognizable source.",
+    "An adaptation transforms an existing narrative into a new version, context, form, or medium.",
+    "A retelling reinterprets or reconstructs an existing story.",
+    "Literary works can share narrative patterns without one work directly borrowing from another.",
+    "Textual evidence consists of specific details, quotations, descriptions, and structural features supporting an interpretation.",
+    "Reasoning explains how textual evidence supports an analytical claim.",
+    "Authorial purpose concerns what a text is designed to accomplish for an audience.",
+    "A narrative may entertain, challenge assumptions, preserve experiences, explore ethical questions, criticize institutions, or develop understanding.",
+    "Authorial purpose should be inferred from textual and contextual evidence rather than unsupported speculation about private intentions.",
+    "Narrative effectiveness depends on the relationship among craft choices, purpose, audience, and meaning."
+  ],
+  "understand": [
+    "Narrative meaning emerges through relationships among techniques rather than through isolated literary devices.",
+    "Identifying a technique is a starting point for analysis, not the final analytical task.",
+    "Effective literary analysis explains how and why a technique contributes to a particular effect or interpretation.",
+    "Narrative structure influences what readers know, when they know it, and how they interpret events.",
+    "Changing the order of events can alter suspense, sympathy, thematic emphasis, and readers' judgments.",
+    "Pacing influences which experiences receive attention and which are compressed.",
+    "Multiple perspectives can reveal competing interpretations of the same event.",
+    "A narrator's limited knowledge or assumptions can create a gap between narration and readers' understanding.",
+    "A narrative can encourage readers to question an apparently authoritative account.",
+    "Archetypes provide recognizable patterns that authors may use or deliberately challenge.",
+    "Recognizing an archetype does not require reducing a character to a single role.",
+    "Authors may complicate traditional narrative patterns to challenge cultural expectations.",
+    "Character complexity emerges through conflicting motivations, relationships, choices, and consequences.",
+    "Meaningful character change is generally developed through experiences and decisions rather than asserted without preparation.",
+    "A character may change in understanding, values, relationships, behavior, or sense of identity.",
+    "Internal and external conflicts can reinforce or complicate one another.",
+    "Setting can function as an active force shaping character choices and conflict.",
+    "Setting, imagery, and diction interact to establish mood.",
+    "The same setting can create different moods when described through different perspectives or language choices.",
+    "Dialogue can reveal relationships, conflict, characterization, and information while also advancing events.",
+    "Subtext can reveal tensions that characters do not state directly.",
+    "Symbols acquire meaning through their textual context, recurrence, associations, and relationships to other elements.",
+    "A symbol may develop multiple meanings or change in significance across a text.",
+    "A metaphor can organize readers' understanding of an abstract idea through a sustained concrete comparison.",
+    "Recurring metaphors can connect character development, setting, conflict, and thematic meaning.",
+    "A theme is more precise than a single-word topic.",
+    "A theme is not necessarily a universal moral or lesson.",
+    "A defensible thematic interpretation must account for relevant evidence across a text.",
+    "Themes may become more complex as characters confront contradictions and consequences.",
+    "An ending may reinforce, complicate, or challenge an apparent theme introduced earlier.",
+    "Comparing passages within a text helps readers trace thematic development.",
+    "Comparing texts helps readers recognize shared concerns and differences in their treatment.",
+    "Social relevance emerges through meaningful connections between textual ideas and social experiences, institutions, or questions.",
+    "A socially relevant interpretation should remain grounded in the text rather than replace literary analysis with personal opinion.",
+    "Historical and cultural context can illuminate how a work develops or challenges particular ideas.",
+    "Literature from different time periods may revisit similar character types, event patterns, and themes.",
+    "Recurring narrative patterns can change in meaning when transferred into different cultural or historical settings.",
+    "An adaptation may preserve elements of an earlier narrative while transforming its values, conflicts, perspectives, or implications.",
+    "A shared theme or archetype does not by itself prove direct influence between texts.",
+    "Evaluating narrative craft requires considering the relationship between an author's choices and the text's purposes.",
+    "A technique is not automatically effective simply because it appears in a narrative.",
+    "Alternative craft choices can produce different effects without necessarily being better or worse in every context.",
+    "A narrative writer should select techniques according to the desired audience experience and purpose.",
+    "Effective narrative writing balances action, dialogue, description, reflection, and summary according to the needs of the story.",
+    "An extended metaphor should contribute to meaning rather than become an unrelated decorative pattern.",
+    "Revision allows writers to strengthen relationships among character development, setting, structure, and theme.",
+    "Reading like a writer helps students transfer insights from mentor texts into their own compositions."
+  ],
+  "do": [
+    "Identify narrative techniques within literary and narrative nonfiction texts.",
+    "Distinguish plot events from the order in which those events are presented.",
+    "Construct timelines comparing chronological events with narrative presentation.",
+    "Analyze the effects of flashbacks, flash-forwards, framing, parallel plots, and nonlinear structures.",
+    "Evaluate how narrative structure influences readers' understanding and emotional responses.",
+    "Identify internal and external conflicts and explain their relationships.",
+    "Analyze how conflict influences character decisions and development.",
+    "Identify direct and indirect characterization.",
+    "Analyze character motivations, contradictions, relationships, and changes.",
+    "Distinguish complex characterization from simplistic character descriptions.",
+    "Trace a character arc using evidence from multiple points in a text.",
+    "Identify recurring character archetypes and narrative patterns.",
+    "Analyze how authors use, adapt, or challenge archetypes.",
+    "Distinguish archetypes from reductive stereotypes.",
+    "Identify narrative point of view and relevant perspectives.",
+    "Analyze how narrators' knowledge, experiences, and assumptions influence presentation.",
+    "Compare multiple perspectives on a common event or conflict.",
+    "Evaluate narrator reliability using textual evidence.",
+    "Explain how narrative distance influences readers' access to character experiences.",
+    "Analyze the effects of dramatic, situational, and verbal irony.",
+    "Analyze how setting influences conflict, characterization, and meaning.",
+    "Evaluate how imagery, diction, and setting interact to create mood.",
+    "Distinguish mood from tone.",
+    "Analyze dialogue and subtext for their contributions to character development and conflict.",
+    "Evaluate how pacing influences tension, emphasis, and readers' expectations.",
+    "Analyze how scene, summary, and reflection contribute to narrative purpose.",
+    "Identify symbols, motifs, metaphors, and other recurring patterns.",
+    "Trace changes in the significance of a symbol or metaphor across a text.",
+    "Evaluate how narrative techniques interact to create particular effects.",
+    "Support interpretations with specific and relevant textual evidence.",
+    "Explain the reasoning connecting evidence to analytical claims.",
+    "Infer plausible authorial purposes from textual and contextual evidence.",
+    "Critique the effectiveness of narrative choices in relation to purpose and audience.",
+    "Compare alternative craft choices and evaluate their potential effects.",
+    "Distinguish thematic topics from defensible thematic statements.",
+    "Develop thematic interpretations using evidence from multiple passages.",
+    "Trace how a theme is introduced, developed, complicated, and transformed.",
+    "Analyze relationships among character change, conflict, imagery, structure, and theme.",
+    "Evaluate the social relevance of a text's thematic concerns.",
+    "Compare thematic development across literary works.",
+    "Analyze how historical and cultural context influences recurring literary patterns.",
+    "Compare character archetypes and event patterns across different time periods.",
+    "Identify meaningful similarities and differences between earlier works and adaptations.",
+    "Distinguish documented literary influence from broader similarities in narrative patterns.",
+    "Plan narratives around a clear purpose and intended audience.",
+    "Develop complex characters with competing desires, fears, responsibilities, or beliefs.",
+    "Construct conflicts that reveal character complexity.",
+    "Develop meaningful character change through experiences, decisions, and consequences.",
+    "Select narrative perspectives appropriate to the intended effect.",
+    "Organize events to create purposeful narrative progression.",
+    "Use setting and sensory details to establish and develop mood.",
+    "Use dialogue and subtext to reveal relationships and conflict.",
+    "Adjust pacing through scene, summary, reflection, and sentence-level choices.",
+    "Develop a recurring or extended metaphor connected to a central idea or theme.",
+    "Use narrative techniques in combination rather than as isolated requirements.",
+    "Create endings that develop, complicate, or resolve thematic concerns.",
+    "Evaluate the effectiveness of narrative choices in relation to purpose and audience.",
+    "Revise narratives to strengthen character development, thematic coherence, mood, pacing, and figurative language."
+  ],
+  "vocabulary": [
+    {
+      "term": "Narrative technique",
+      "definition": "A deliberate storytelling choice used to develop experiences, characters, conflicts, settings, or ideas.",
+      "example": "An author delays revealing a character's motivation until a flashback changes readers' understanding."
+    },
+    {
+      "term": "Plot",
+      "definition": "The arrangement of events within a narrative.",
+      "example": "A mystery begins with a disappearance and gradually reveals the events leading to it."
+    },
+    {
+      "term": "Chronological structure",
+      "definition": "The presentation of events in the order in which they occur.",
+      "example": "A story follows a character from the beginning of a journey through its conclusion."
+    },
+    {
+      "term": "Nonlinear structure",
+      "definition": "The presentation of events outside their chronological sequence.",
+      "example": "A novel alternates between a character's childhood and adult experiences."
+    },
+    {
+      "term": "Flashback",
+      "definition": "A narrative movement to an event occurring before the current narrative moment.",
+      "example": "A character's return to an abandoned house introduces a memory of a childhood argument."
+    },
+    {
+      "term": "Flash-forward",
+      "definition": "A narrative movement to an event occurring after the current narrative moment.",
+      "example": "A story briefly presents the protagonist's future before returning to the present conflict."
+    },
+    {
+      "term": "Foreshadowing",
+      "definition": "The use of details that anticipate or prepare readers for later narrative developments.",
+      "example": "Repeated references to a damaged bridge prepare readers for a later transportation crisis."
+    },
+    {
+      "term": "In medias res",
+      "definition": "Beginning a narrative in the middle of an action or situation.",
+      "example": "A story opens during an escape and later explains why the character is fleeing."
+    },
+    {
+      "term": "Frame narrative",
+      "definition": "A narrative structure containing one or more stories within an outer story.",
+      "example": "An elderly narrator recounts a childhood adventure to a younger listener."
+    },
+    {
+      "term": "Parallel plots",
+      "definition": "Two or more related sequences of events developed within a narrative.",
+      "example": "A novel follows siblings whose separate journeys eventually reveal the consequences of the same family conflict."
+    },
+    {
+      "term": "Circular narrative",
+      "definition": "A narrative that returns to a situation, image, place, or idea introduced near its beginning.",
+      "example": "A story begins and ends at a train station, but the protagonist's understanding of departure has changed."
+    },
+    {
+      "term": "Pacing",
+      "definition": "The speed and rhythm with which a narrative presents events and information.",
+      "example": "A writer slows the narrative during a difficult decision by presenting detailed thoughts and actions."
+    },
+    {
+      "term": "Scene",
+      "definition": "A relatively detailed presentation of a narrative event through action, dialogue, and description.",
+      "example": "A writer presents an argument through dialogue, gestures, and immediate reactions."
+    },
+    {
+      "term": "Summary",
+      "definition": "A condensed presentation of events or experiences within a narrative.",
+      "example": "A sentence describes several uneventful months before the narrative returns to a significant encounter."
+    },
+    {
+      "term": "Suspense",
+      "definition": "Uncertainty or anticipation concerning a narrative outcome.",
+      "example": "Readers know a character is approaching danger but do not know whether the character will recognize it."
+    },
+    {
+      "term": "Conflict",
+      "definition": "A struggle involving opposing forces, desires, values, responsibilities, or circumstances.",
+      "example": "A character must choose between protecting a friend and revealing an injustice."
+    },
+    {
+      "term": "Internal conflict",
+      "definition": "A struggle occurring within a character.",
+      "example": "A protagonist wants independence but fears disappointing family members."
+    },
+    {
+      "term": "External conflict",
+      "definition": "A struggle between a character and an outside person, force, institution, or circumstance.",
+      "example": "A protagonist challenges a community rule that limits individual freedom."
+    },
+    {
+      "term": "Protagonist",
+      "definition": "A central character whose experiences, goals, or struggles organize a narrative.",
+      "example": "The story follows a teenager attempting to repair a damaged relationship."
+    },
+    {
+      "term": "Antagonist",
+      "definition": "A person, institution, circumstance, or force opposing a protagonist.",
+      "example": "An inflexible institution prevents the protagonist from achieving an important goal."
+    },
+    {
+      "term": "Characterization",
+      "definition": "The methods through which a writer develops and presents characters.",
+      "example": "A writer reveals a character's generosity through choices rather than directly describing the character as generous."
+    },
+    {
+      "term": "Direct characterization",
+      "definition": "Explicit description of a character's qualities.",
+      "example": "The narrator describes a character as impatient and suspicious."
+    },
+    {
+      "term": "Indirect characterization",
+      "definition": "The revelation of character qualities through actions, dialogue, thoughts, relationships, and responses.",
+      "example": "A character repeatedly checks whether others have enough food before serving herself."
+    },
+    {
+      "term": "Complex character",
+      "definition": "A character possessing multiple, sometimes contradictory motivations, qualities, beliefs, or desires.",
+      "example": "A character values honesty but conceals information to protect a sibling."
+    },
+    {
+      "term": "Dynamic character",
+      "definition": "A character who undergoes meaningful change across a narrative.",
+      "example": "A character who initially values independence above all else learns to accept help."
+    },
+    {
+      "term": "Static character",
+      "definition": "A character whose central qualities or beliefs remain substantially unchanged.",
+      "example": "A character maintains the same commitment to justice despite changing circumstances."
+    },
+    {
+      "term": "Round character",
+      "definition": "A character developed with complexity and depth.",
+      "example": "A protagonist possesses strengths, flaws, competing motivations, and unexpected responses."
+    },
+    {
+      "term": "Flat character",
+      "definition": "A character developed through relatively few characteristics.",
+      "example": "A minor character primarily functions as a messenger who delivers important information."
+    },
+    {
+      "term": "Character arc",
+      "definition": "The development or transformation of a character across a narrative.",
+      "example": "A character moves from unquestioning loyalty toward independent moral judgment."
+    },
+    {
+      "term": "Motivation",
+      "definition": "The desires, needs, beliefs, fears, or circumstances influencing a character's behavior.",
+      "example": "A character conceals a failure because she fears losing her family's trust."
+    },
+    {
+      "term": "Foil",
+      "definition": "A character whose contrasting qualities illuminate another character.",
+      "example": "A cautious sibling highlights the protagonist's impulsiveness."
+    },
+    {
+      "term": "Archetype",
+      "definition": "A recurring character type, situation, image, or narrative pattern appearing across literary traditions.",
+      "example": "The mentor appears in many stories as a figure who offers knowledge or guidance."
+    },
+    {
+      "term": "Stereotype",
+      "definition": "An oversimplified assumption about an individual or group.",
+      "example": "A narrative reduces every member of a community to the same personality and motivations."
+    },
+    {
+      "term": "Quest",
+      "definition": "A narrative pattern organized around a journey or pursuit of a significant goal.",
+      "example": "A protagonist travels through unfamiliar places while seeking a missing family member."
+    },
+    {
+      "term": "Coming-of-age narrative",
+      "definition": "A narrative centered on a character's developing maturity, identity, or understanding.",
+      "example": "A teenager reevaluates inherited beliefs after encountering unfamiliar experiences."
+    },
+    {
+      "term": "Point of view",
+      "definition": "The narrative position through which events and information are presented.",
+      "example": "A first-person narrator describes a conflict through personal memories and observations."
+    },
+    {
+      "term": "Perspective",
+      "definition": "An interpretive position shaped by experiences, beliefs, knowledge, assumptions, and circumstances.",
+      "example": "Two siblings interpret their parent's decision differently because of their different experiences."
+    },
+    {
+      "term": "First-person narration",
+      "definition": "Narration presented through a narrator who refers to the self as I.",
+      "example": "A protagonist recounts the events that changed her understanding of friendship."
+    },
+    {
+      "term": "Third-person limited narration",
+      "definition": "Narration that generally restricts access to one focal character's thoughts or experiences at a time.",
+      "example": "Readers know what one character fears but must infer another character's intentions."
+    },
+    {
+      "term": "Third-person omniscient narration",
+      "definition": "Narration capable of revealing the thoughts, experiences, and circumstances of multiple characters.",
+      "example": "A narrator reveals how several family members privately interpret the same conversation."
+    },
+    {
+      "term": "Third-person objective narration",
+      "definition": "Narration presenting observable actions and dialogue without directly revealing private thoughts.",
+      "example": "Readers infer a character's anxiety from gestures, silence, and speech."
+    },
+    {
+      "term": "Unreliable narrator",
+      "definition": "A narrator whose account readers have reason to question.",
+      "example": "A narrator insists that everyone admires him, although other characters' actions suggest otherwise."
+    },
+    {
+      "term": "Narrative distance",
+      "definition": "The degree of closeness between readers and a character's immediate thoughts, perceptions, and experiences.",
+      "example": "A passage moves from a broad description of a city to a character's immediate sensations and fears."
+    },
+    {
+      "term": "Dramatic irony",
+      "definition": "A situation in which readers or audiences possess important information that a character lacks.",
+      "example": "Readers know a message has been intercepted while the protagonist continues to trust its delivery."
+    },
+    {
+      "term": "Situational irony",
+      "definition": "A meaningful contrast between an expected outcome and what actually occurs.",
+      "example": "A character's attempt to conceal a mistake ultimately makes the mistake publicly known."
+    },
+    {
+      "term": "Verbal irony",
+      "definition": "Language communicating a meaning different from its apparent literal meaning.",
+      "example": "A character describes a disastrous afternoon as absolutely perfect."
+    },
+    {
+      "term": "Setting",
+      "definition": "The time, place, social environment, and circumstances of a narrative.",
+      "example": "A story's setting in a closely regulated community shapes the protagonist's available choices."
+    },
+    {
+      "term": "Mood",
+      "definition": "The emotional atmosphere created for readers.",
+      "example": "Descriptions of empty streets, distant footsteps, and failing lights create apprehension."
+    },
+    {
+      "term": "Tone",
+      "definition": "The attitude conveyed toward a subject, situation, character, or audience.",
+      "example": "A narrator describes a community tradition with affectionate amusement."
+    },
+    {
+      "term": "Imagery",
+      "definition": "Language that evokes sensory experience.",
+      "example": "A description of damp stone, cold air, and echoing footsteps establishes a setting's atmosphere."
+    },
+    {
+      "term": "Diction",
+      "definition": "Deliberate word choice.",
+      "example": "Describing a house as sheltering rather than enclosing changes its emotional associations."
+    },
+    {
+      "term": "Connotation",
+      "definition": "Associations or implications beyond a word's literal meaning.",
+      "example": "The words stubborn and determined may describe similar behavior but convey different judgments."
+    },
+    {
+      "term": "Dialogue",
+      "definition": "Spoken interaction represented within a narrative.",
+      "example": "A conversation reveals that two friends interpret an earlier disagreement differently."
+    },
+    {
+      "term": "Subtext",
+      "definition": "Meaning implied beneath spoken language or observable behavior.",
+      "example": "A character repeatedly asks whether a guest is leaving, suggesting a desire for privacy without stating it directly."
+    },
+    {
+      "term": "Interior monologue",
+      "definition": "The presentation of a character's internal thoughts.",
+      "example": "Readers experience a character's conflicting reactions before an important decision."
+    },
+    {
+      "term": "Reflection",
+      "definition": "Interpretation of an experience and its significance by a narrator or character.",
+      "example": "An adult narrator considers why a childhood incident remains important."
+    },
+    {
+      "term": "Symbol",
+      "definition": "A concrete element suggesting meanings beyond its literal function.",
+      "example": "A locked door may represent exclusion, secrecy, or a barrier to independence depending on the narrative context."
+    },
+    {
+      "term": "Motif",
+      "definition": "A recurring element contributing to a text's meaning or thematic development.",
+      "example": "Repeated references to maps reinforce a character's search for direction and identity."
+    },
+    {
+      "term": "Metaphor",
+      "definition": "A comparison that describes one thing in terms of another to suggest a meaningful relationship.",
+      "example": "A character describes family expectations as an invisible fence."
+    },
+    {
+      "term": "Extended metaphor",
+      "definition": "A metaphor developed through multiple related details across a passage or text.",
+      "example": "A narrative repeatedly presents a damaged garden as a way of exploring a family's neglected relationships and gradual recovery."
+    },
+    {
+      "term": "Simile",
+      "definition": "An explicit comparison using words such as like or as.",
+      "example": "The empty station felt like a theater after the audience had departed."
+    },
+    {
+      "term": "Personification",
+      "definition": "The attribution of human qualities to nonhuman entities or abstract ideas.",
+      "example": "The wind argued with the shutters throughout the night."
+    },
+    {
+      "term": "Theme",
+      "definition": "An interpretive statement about an idea, experience, relationship, or aspect of human life developed through a text.",
+      "example": "A narrative suggests that belonging becomes difficult when acceptance requires surrendering one's identity."
+    },
+    {
+      "term": "Thematic topic",
+      "definition": "A broad subject or concern explored within a text.",
+      "example": "Identity, power, justice, loyalty, and freedom are thematic topics."
+    },
+    {
+      "term": "Thematic development",
+      "definition": "The introduction, extension, complication, or transformation of a central idea across a text.",
+      "example": "A narrative initially presents loyalty as admirable but later explores the harm caused by unquestioning loyalty."
+    },
+    {
+      "term": "Social relevance",
+      "definition": "The relationship between a text's ideas and significant social experiences, institutions, values, conflicts, or questions.",
+      "example": "A narrative about conformity can illuminate contemporary questions about peer pressure and institutional authority."
+    },
+    {
+      "term": "Historical context",
+      "definition": "The circumstances, institutions, beliefs, and cultural conditions surrounding a text's creation or setting.",
+      "example": "Understanding colonial rule helps readers interpret conflicts in Things Fall Apart."
+    },
+    {
+      "term": "Intertextuality",
+      "definition": "Meaningful relationships among literary or other texts.",
+      "example": "A contemporary novel revisits the characters and central conflict of an ancient tragedy."
+    },
+    {
+      "term": "Allusion",
+      "definition": "A reference to another text, cultural figure, historical event, or recognizable source.",
+      "example": "A narrative refers to Icarus to suggest the danger of excessive ambition."
+    },
+    {
+      "term": "Adaptation",
+      "definition": "A transformation of an existing narrative into a new version, form, medium, or context.",
+      "example": "A contemporary novel reimagines an ancient myth from the perspective of a previously marginalized character."
+    },
+    {
+      "term": "Authorial purpose",
+      "definition": "What a text is designed to accomplish for its intended audience.",
+      "example": "A writer uses a dystopian narrative to challenge assumptions about security and individual freedom."
+    },
+    {
+      "term": "Textual evidence",
+      "definition": "Specific details, quotations, descriptions, or structural features supporting an interpretation.",
+      "example": "A reader cites contrasting descriptions of a house at the beginning and end of a story to support an interpretation of character change."
+    },
+    {
+      "term": "Reasoning",
+      "definition": "Explanation connecting evidence to an analytical claim or interpretation.",
+      "example": "A student explains how the narrator's changing descriptions reveal a developing understanding of belonging."
+    }
+  ],
+  "targets": [
+    "I can identify important narrative techniques and explain their effects.",
+    "I can evaluate how multiple narrative techniques work together.",
+    "I can analyze how plot structure influences what readers know and when they know it.",
+    "I can explain how conflict contributes to character development and meaning.",
+    "I can analyze complex characters and trace meaningful character change.",
+    "I can identify archetypes and evaluate how authors adapt or challenge them.",
+    "I can compare perspectives and evaluate narrator reliability.",
+    "I can explain how setting, imagery, and diction create mood.",
+    "I can analyze dialogue, subtext, pacing, and reflection.",
+    "I can trace symbols, motifs, and metaphors across a text.",
+    "I can evaluate narrative choices in relation to authorial purpose.",
+    "I can develop a defensible thematic statement rather than simply name a topic.",
+    "I can trace how a theme develops and becomes more complex across a text.",
+    "I can compare thematic development within and across texts.",
+    "I can evaluate a theme's social relevance using textual evidence and reasoning.",
+    "I can analyze recurring character types, themes, and event patterns across historical periods.",
+    "I can explain how adaptations transform earlier narrative patterns.",
+    "I can support literary interpretations with relevant textual evidence.",
+    "I can plan a narrative for a specific purpose and audience.",
+    "I can develop complex characters with meaningful motivations and conflicts.",
+    "I can create a believable character arc.",
+    "I can use setting and sensory language to establish mood.",
+    "I can use dialogue, pacing, and perspective to engage readers.",
+    "I can develop an idea or theme through a recurring or extended metaphor.",
+    "I can revise my narrative so that its craft choices work together to create meaning."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "genre": "Novel and historical fiction",
+      "purpose": "Evaluate how tragic characterization, cultural context, narrative structure, conflict, proverbs, and recurring imagery interact to develop themes concerning identity, change, power, and colonialism.",
+      "access": "School library or authorized print or digital edition.",
+      "readingTime": "25–35 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced; provide historical and cultural context concerning Igbo society and British colonial rule. Includes violence and difficult family relationships.",
+      "interestHook": "A respected community leader confronts personal fears and profound changes to the society that defines him.",
+      "teachingPrompt": "How do Okonkwo's motivations, internal conflicts, relationships, and changing social circumstances interact to complicate his characterization and the novel's thematic concerns?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Historical fiction",
+      "purpose": "Analyze an unconventional narrator, nonlinear structure, foreshadowing, symbolism, and recurring language to evaluate how narrative techniques interact.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–35 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate; unconventional narration and historical context require support. Contains wartime violence, persecution, and death.",
+      "interestHook": "Death narrates the story of a girl discovering the power of words in Nazi Germany.",
+      "teachingPrompt": "How do Death's narrative perspective, anticipatory disclosures, and recurring references to words influence readers' understanding of loss and human connection?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Novel in vignettes",
+      "purpose": "Examine how a fragmented vignette structure, recurring images, metaphor, setting, and developing narrative voice contribute to themes of identity and belonging.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for a cluster of vignettes",
+      "highInterest": true,
+      "accessibility": "Accessible individual passages with sophisticated thematic relationships. Review sensitive content involving gender, poverty, and sexual violence.",
+      "interestHook": "A young narrator gradually develops her own understanding of home, independence, and the life she wants.",
+      "teachingPrompt": "How do recurring descriptions of houses, windows, and neighborhoods develop Esperanza's changing understanding of home and freedom?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian novel",
+      "purpose": "Evaluate first-person perspective, survival conflict, spectacle, symbolism, and pacing in relation to social criticism and audience engagement.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; contains violence, death, and political oppression.",
+      "interestHook": "A teenager must survive a televised competition while navigating a society that turns suffering into entertainment.",
+      "teachingPrompt": "How do Katniss's limited perspective, survival decisions, and public performances work together to develop the novel's critique of power and spectacle?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "title": "The Poet X",
+      "author": "Elizabeth Acevedo",
+      "genre": "Novel in verse",
+      "purpose": "Analyze how narrative voice, poetic form, imagery, metaphor, and character development interact across a coming-of-age narrative.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for selected poems",
+      "highInterest": true,
+      "accessibility": "Accessible individual poems with complex thematic relationships. Includes sensitive discussions of sexuality, religion, family conflict, and identity.",
+      "interestHook": "A teenager discovers that writing poetry gives her a way to express experiences and questions she struggles to communicate.",
+      "teachingPrompt": "How do the narrator's developing voice, recurring figurative language, and conflicts with expectations contribute to the novel's exploration of self-expression?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "title": "Long Way Down",
+      "author": "Jason Reynolds",
+      "genre": "Novel in verse",
+      "purpose": "Evaluate compressed time, suspense, recurring language, symbolism, and encounters with multiple perspectives.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected elevator encounters",
+      "highInterest": true,
+      "accessibility": "Accessible verse structure with sophisticated ethical questions. Contains gun violence, grief, and death.",
+      "interestHook": "A teenager's elevator ride becomes a confrontation with inherited rules about revenge.",
+      "teachingPrompt": "How do the compressed setting, recurring rules, and encounters with different characters complicate the protagonist's understanding of revenge?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "title": "American Born Chinese",
+      "author": "Gene Luen Yang",
+      "genre": "Graphic novel",
+      "purpose": "Analyze interwoven narratives, archetypes, visual symbolism, cultural adaptation, and thematic convergence.",
+      "access": "School library or authorized edition.",
+      "readingTime": "25–40 minutes for selected sections",
+      "highInterest": true,
+      "accessibility": "Accessible visual format with complex narrative relationships. Contains intentionally depicted racial stereotypes that require contextualized discussion.",
+      "interestHook": "Three apparently separate stories converge around questions of identity, acceptance, and transformation.",
+      "teachingPrompt": "How do the Monkey King narrative, Jin Wang's experiences, and the exaggerated stereotype in the third storyline interact to develop a shared thematic concern?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic poetry",
+      "purpose": "Analyze the quest archetype, nonlinear storytelling, heroic characterization, recurring patterns, and the historical foundations of later journey narratives.",
+      "access": "Public-domain translations or authorized modern translations; select an appropriate edition.",
+      "readingTime": "20–35 minutes for selected episodes",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced depending on translation. Provide support for mythology, epic conventions, and historical context. Includes violence.",
+      "interestHook": "A warrior's difficult journey home tests his intelligence, loyalties, pride, and ability to survive.",
+      "teachingPrompt": "How do the journey structure, recurring tests, and Odysseus's conflicting qualities complicate the traditional heroic archetype?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "genre": "Mythological retelling and literary fantasy",
+      "purpose": "Compare a contemporary reinterpretation of myth with earlier representations of Circe, evaluating perspective, characterization, agency, and thematic transformation.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for carefully selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced. Contains mature sexual content and violence; teacher review is essential before assigning.",
+      "interestHook": "A figure traditionally encountered through another hero's journey becomes the central narrator of her own story.",
+      "teachingPrompt": "How does making Circe the narrator rather than a figure encountered by Odysseus transform the character's motivations and the narrative's thematic possibilities?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "title": "Antigone",
+      "author": "Sophocles",
+      "genre": "Classical tragedy",
+      "purpose": "Evaluate conflicting loyalties, tragic structure, characterization, competing perspectives, and the social relevance of ethical conflict.",
+      "access": "Public-domain translations or authorized modern translations.",
+      "readingTime": "25–40 minutes for selected scenes",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced depending on translation. Provide context for Greek tragedy and burial customs. Contains death and suicide.",
+      "interestHook": "A young woman challenges political authority when obedience conflicts with her obligations to family and conscience.",
+      "teachingPrompt": "How do Antigone's and Creon's competing convictions develop a conflict that resists a simple distinction between personal loyalty and public responsibility?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "title": "Home Fire",
+      "author": "Kamila Shamsie",
+      "genre": "Contemporary literary novel",
+      "purpose": "Compare a modern reworking of Antigone with the classical tragedy, examining multiple perspectives, family loyalty, political authority, and social context.",
+      "access": "School library or authorized edition.",
+      "readingTime": "25–35 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Advanced; provide political and cultural context. Contains terrorism-related subject matter, death, and mature content.",
+      "interestHook": "A contemporary family becomes entangled in conflicts involving citizenship, loyalty, political power, and belonging.",
+      "teachingPrompt": "How does Shamsie's use of multiple perspectives and contemporary political circumstances transform the central conflicts of Antigone?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "title": "The Lottery",
+      "author": "Shirley Jackson",
+      "genre": "Short story",
+      "purpose": "Evaluate the interaction of setting, foreshadowing, symbolism, narrative restraint, irony, and social criticism.",
+      "access": "Authorized anthology, publisher, or licensed digital resource.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible language with sophisticated implications. Contains ritualized violence.",
+      "interestHook": "An ordinary community gathering gradually reveals the disturbing consequences of unquestioned tradition.",
+      "teachingPrompt": "How do the ordinary setting, restrained narration, and recurring objects influence readers' expectations and develop the story's critique of conformity?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "genre": "Philosophical short fiction",
+      "purpose": "Analyze narrative address, delayed disclosure, setting, moral conflict, and the social relevance of collective responsibility.",
+      "access": "Authorized anthology or digital edition.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; contains disturbing descriptions of child suffering.",
+      "interestHook": "A seemingly ideal society depends on a condition that forces readers to reconsider its happiness.",
+      "teachingPrompt": "How does the narrator's invitation to imagine Omelas interact with the delayed revelation of its central injustice to shape readers' ethical responses?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Paper Menagerie",
+      "author": "Ken Liu",
+      "genre": "Speculative short fiction",
+      "purpose": "Analyze symbolism, recurring imagery, magical elements, changing characterization, and retrospective narration.",
+      "access": "Authorized anthology or licensed digital edition.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; includes racism, family conflict, grief, and loss.",
+      "interestHook": "A child's magical paper animals become connected to his changing relationship with his mother and cultural identity.",
+      "teachingPrompt": "How does the significance of the paper animals change as the narrator's relationship with his mother develops?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "Short story",
+      "purpose": "Evaluate compressed plot structure, irony, characterization, setting, and imagery in relation to freedom and social expectations.",
+      "access": "Public-domain text through established literary archives.",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible length with complex irony and historical context. Includes death.",
+      "interestHook": "An unexpected announcement produces a response that challenges readers' assumptions about marriage and grief.",
+      "teachingPrompt": "How do the descriptions of the open window and Louise Mallard's changing emotional state interact with the story's ending?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "genre": "Psychological short fiction",
+      "purpose": "Analyze restricted perspective, narrator reliability, setting, symbolism, and the relationship between narrative structure and social criticism.",
+      "access": "Public-domain text through established digital collections.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; provide context concerning historical medical practices and gender expectations. Contains psychological distress.",
+      "interestHook": "A narrator's increasingly intense attention to the wallpaper in her room reveals a deeper conflict involving autonomy and confinement.",
+      "teachingPrompt": "How do the confined setting, journal-like narration, and changing descriptions of the wallpaper work together to develop the story's meaning?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Necklace",
+      "author": "Guy de Maupassant",
+      "genre": "Short story",
+      "purpose": "Evaluate characterization, pacing, symbolism, social expectations, and situational irony.",
+      "access": "Public-domain translations or authorized editions.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate depending on translation; provide context concerning nineteenth-century class expectations.",
+      "interestHook": "A borrowed piece of jewelry leads to consequences that transform a woman's life.",
+      "teachingPrompt": "How do the necklace's changing significance, Mathilde's motivations, and the story's compressed treatment of time develop its critique of social aspiration?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "genre": "Gothic short fiction",
+      "purpose": "Evaluate unreliable narration, repetition, pacing, sensory imagery, and psychological conflict.",
+      "access": "Public-domain text through established literary archives.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; contains murder and psychological distress.",
+      "interestHook": "A narrator attempts to prove his rationality while describing actions that undermine his own claims.",
+      "teachingPrompt": "How do the narrator's repeated assertions, sensory descriptions, and accelerated pacing influence readers' evaluation of his reliability?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b"
+      ]
+    },
+    {
+      "title": "The Cask of Amontillado",
+      "author": "Edgar Allan Poe",
+      "genre": "Gothic short fiction",
+      "purpose": "Analyze dramatic irony, setting, characterization, narrative perspective, and symbolism in a tightly structured revenge narrative.",
+      "access": "Public-domain text through established digital archives.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; provide vocabulary support. Contains murder and confinement.",
+      "interestHook": "A narrator leads an unsuspecting acquaintance into a setting designed to fulfill a secret purpose.",
+      "teachingPrompt": "How do the narrator's retrospective perspective, the changing setting, and the contrast between spoken dialogue and private intention create suspense?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "title": "The Most Dangerous Game",
+      "author": "Richard Connell",
+      "genre": "Adventure and suspense short fiction",
+      "purpose": "Evaluate reversal, survival conflict, pacing, setting, characterization, and ethical implications.",
+      "access": "Public-domain text in the United States or authorized anthology.",
+      "readingTime": "25–35 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; includes violence and hunting-related content.",
+      "interestHook": "An experienced hunter encounters an opponent who transforms the meaning of the hunt.",
+      "teachingPrompt": "How does the reversal of the hunter and hunted roles interact with the setting and pacing to develop questions about power and empathy?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Veldt",
+      "author": "Ray Bradbury",
+      "genre": "Science fiction short story",
+      "purpose": "Analyze foreshadowing, setting, symbolism, technological conflict, and social relevance.",
+      "access": "Authorized anthology or licensed digital edition.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; contains disturbing violence involving a family.",
+      "interestHook": "A technologically advanced home appears to satisfy every desire while revealing serious problems within a family.",
+      "teachingPrompt": "How do the nursery's setting, recurring sensory details, and the parents' changing responses contribute to the story's critique of technological dependence?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Pedestrian",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian short fiction",
+      "purpose": "Analyze atmospheric setting, symbolism, contrast, characterization, and social criticism.",
+      "access": "Authorized anthology or licensed digital edition.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible length with abstract social implications.",
+      "interestHook": "A man's ordinary evening walk becomes suspicious in a society organized around technological conformity.",
+      "teachingPrompt": "How do the empty streets, contrasting images of houses, and encounter with authority develop the story's treatment of individuality?",
+      "alignment": [
+        "10.T.T.1.b",
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "title": "The Third and Final Continent",
+      "author": "Jhumpa Lahiri",
+      "genre": "Literary short fiction",
+      "purpose": "Examine retrospective narration, understated characterization, recurring details, setting, and thematic development across changing cultural circumstances.",
+      "access": "Authorized edition of Interpreter of Maladies.",
+      "readingTime": "25–35 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; provide context concerning immigration and the historical setting.",
+      "interestHook": "An immigrant narrator reflects on ordinary encounters and relationships that acquire significance over a lifetime.",
+      "teachingPrompt": "How do repeated details, changes in setting, and the narrator's retrospective perspective develop a theme concerning adaptation and belonging?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "title": "Two Kinds",
+      "author": "Amy Tan",
+      "genre": "Literary short fiction",
+      "purpose": "Analyze competing perspectives, internal and external conflict, retrospective narration, and the changing significance of music.",
+      "access": "Authorized edition of The Joy Luck Club or licensed anthology.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; provide cultural and family context without generalizing individual experiences.",
+      "interestHook": "A daughter struggles against her mother's expectations and later reconsiders the meaning of their conflict.",
+      "teachingPrompt": "How does the narrator's retrospective perspective and the relationship between the two piano pieces complicate the story's exploration of identity and family expectations?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and personal narrative",
+      "purpose": "Examine how personal anecdotes, contrasting perspectives, recurring ideas, and narrative reflection support a broader social argument.",
+      "access": "Official TED talk and transcript.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible language with sophisticated cultural and social implications.",
+      "interestHook": "The speaker examines how the stories people encounter can shape and distort their understanding of others.",
+      "teachingPrompt": "How do Adichie's personal narratives and reflections work together to develop her central argument about representation and perspective?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "Persepolis",
+      "author": "Marjane Satrapi",
+      "genre": "Graphic memoir",
+      "purpose": "Evaluate the interaction of visual symbolism, retrospective perspective, episodic structure, historical context, and developing identity.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Accessible visual format with complex historical and political context. Contains violence, oppression, and mature themes.",
+      "interestHook": "A young narrator attempts to understand personal identity and political upheaval during the Iranian Revolution and its aftermath.",
+      "teachingPrompt": "How do the visual contrasts, the narrator's developing understanding, and the historical setting shape readers' interpretation of individual freedom?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "genre": "Novella and literary absurdism",
+      "purpose": "Analyze an extraordinary premise, characterization, setting, symbolism, family conflict, and themes of alienation and obligation.",
+      "access": "Public-domain translations where applicable or authorized editions.",
+      "readingTime": "20–35 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced depending on translation. Contains disturbing imagery, neglect, and death.",
+      "interestHook": "A man awakens physically transformed and discovers how dramatically his relationships depend on his usefulness to others.",
+      "teachingPrompt": "How do Gregor's changing circumstances, the family's responses, and the increasingly restrictive setting develop the novella's exploration of identity and human value?",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "title": "The Boy Who Harnessed the Wind",
+      "author": "William Kamkwamba and Bryan Mealer",
+      "genre": "Memoir",
+      "purpose": "Analyze narrative conflict, purposeful characterization, setting, reflection, and the transformation of obstacles into opportunities for development.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; editions vary. Provide geographic, economic, and cultural context.",
+      "interestHook": "A teenager uses knowledge, experimentation, and persistence to build a windmill in response to difficult circumstances.",
+      "teachingPrompt": "How do the physical and social setting, the narrator's motivations, and the sequence of setbacks and discoveries develop the memoir's central ideas?",
+      "alignment": [
+        "10.T.T.1.b",
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Technique, evidence, effect",
+      "activity": "Students examine a short narrative passage and identify one technique, record a specific example, and explain its effect on readers. They progress from identifying a single technique to explaining how two techniques work together.",
+      "materials": [
+        "Short narrative passage",
+        "Technique-evidence-effect organizer",
+        "Narrative vocabulary reference"
+      ],
+      "scaffolds": "Model an example using setting and imagery. Provide sentence frames that connect evidence to effect rather than simply restating the technique.",
+      "success": "Students identify relevant techniques, provide accurate textual evidence, and explain at least one meaningful interaction.",
+      "alignment": [
+        "10.T.T.1.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Plot order versus story order",
+      "activity": "Students arrange event cards in chronological order and compare that sequence with the order in which events appear in a narrative. They identify flashbacks, delayed disclosures, and other structural choices.",
+      "materials": [
+        "Short nonlinear narrative",
+        "Event cards",
+        "Dual timeline organizer"
+      ],
+      "scaffolds": "Provide clearly marked time references and model the difference between when an event occurs and when readers learn about it.",
+      "success": "Students accurately reconstruct the event sequence and explain how one structural choice influences readers' understanding.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–30 min",
+      "title": "Character evidence detective",
+      "activity": "Students collect evidence of a character's actions, dialogue, thoughts, and relationships. They infer character traits and identify an apparent contradiction in the character's behavior.",
+      "materials": [
+        "Accessible narrative passage",
+        "Character evidence chart",
+        "Inference sentence frames"
+      ],
+      "scaffolds": "Provide a partially completed organizer and distinguish evidence from inferred traits.",
+      "success": "Students develop a supported characterization that includes at least two qualities and explains one apparent contradiction.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–30 min",
+      "title": "Same event, different perspectives",
+      "activity": "Students read two short accounts of the same fictional event. They identify what each narrator knows, believes, emphasizes, or misunderstands.",
+      "materials": [
+        "Paired narrative accounts",
+        "Perspective comparison chart"
+      ],
+      "scaffolds": "Color-code shared facts and differing interpretations. Model the distinction between narrative point of view and personal perspective.",
+      "success": "Students explain how differences in knowledge or experience influence each narrator's account.",
+      "alignment": [
+        "10.T.T.1.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Mood through setting",
+      "activity": "Students read two descriptions of the same location written to create different moods. They identify sensory details and word choices before revising a neutral description to establish a selected mood.",
+      "materials": [
+        "Paired setting descriptions",
+        "Mood vocabulary chart",
+        "Neutral setting passage"
+      ],
+      "scaffolds": "Provide sensory categories and contrasting word choices. Model how changing a few details alters the atmosphere.",
+      "success": "Students explain how specific details create mood and produce a revised description with a consistent intended atmosphere.",
+      "alignment": [
+        "10.T.T.1.b",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Topic or theme?",
+      "activity": "Students sort examples into thematic topics, plot summaries, unsupported generalizations, and defensible thematic statements. They revise single-word topics into interpretive statements supported by a short narrative.",
+      "materials": [
+        "Theme sorting cards",
+        "Short narrative",
+        "Theme development organizer"
+      ],
+      "scaffolds": "Model moving from a topic to a statement about what the text suggests concerning that topic.",
+      "success": "Students distinguish topics from themes and produce a defensible thematic statement supported by at least two textual details.",
+      "alignment": [
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "The changing object",
+      "activity": "Students trace an object appearing at several points in a short story. They identify its literal role and examine how its significance changes in relation to character experiences.",
+      "materials": [
+        "Short narrative containing a recurring object",
+        "Beginning-middle-end organizer"
+      ],
+      "scaffolds": "Provide selected passages and model the distinction between an object's literal function and possible symbolic significance.",
+      "success": "Students support an interpretation of the object's significance with evidence from at least two points in the text.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "30–40 min",
+      "title": "Archetype and variation",
+      "activity": "Students compare two recognizable mentor, hero, trickster, or outsider figures. They identify shared characteristics and explain how each character differs from the familiar pattern.",
+      "materials": [
+        "Short character descriptions",
+        "Archetype reference chart",
+        "Comparison organizer"
+      ],
+      "scaffolds": "Use familiar stories before introducing unfamiliar literary examples. Explain that archetypes are flexible patterns rather than rigid categories.",
+      "success": "Students identify a shared archetype and explain a meaningful difference between its two representations.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Build a metaphor that matters",
+      "activity": "Students select a concrete object or process that can represent an abstract idea. They develop several related details and write a short passage connecting the metaphor to a character's experience.",
+      "materials": [
+        "Concrete object cards",
+        "Abstract idea cards",
+        "Metaphor planning organizer"
+      ],
+      "scaffolds": "Model a coherent comparison such as a neglected garden representing a damaged relationship. Help students distinguish a sustained comparison from unrelated figurative expressions.",
+      "success": "Students develop a coherent metaphor containing at least two related details that contribute to an identifiable idea.",
+      "alignment": [
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Narrative technique interaction laboratory",
+      "activity": "Students analyze a selected passage containing several interacting narrative techniques. They construct a diagram showing relationships among perspective, characterization, setting, structure, symbolism, and thematic meaning.",
+      "materials": [
+        "Literary passage",
+        "Narrative interaction diagram",
+        "Textual evidence organizer"
+      ],
+      "scaffolds": "Model how a setting can influence conflict while a narrator's perspective shapes readers' interpretation of that conflict.",
+      "success": "Students develop a supported explanation of how at least three techniques interact to create a meaningful effect.",
+      "alignment": [
+        "10.T.T.1.a"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The narrator on trial",
+      "activity": "Students investigate the reliability of a narrator by collecting evidence of inconsistencies, limited knowledge, bias, omissions, or differences between narration and observable events. They develop a qualified judgment about which parts of the account can reasonably be trusted.",
+      "materials": [
+        "Selected unreliable-narrator text",
+        "Reliability evidence chart",
+        "Analytical discussion questions"
+      ],
+      "scaffolds": "Distinguish deliberate deception from misunderstanding, limited perspective, and unreliable memory.",
+      "success": "Students evaluate narrator reliability using specific evidence and explain how reliability influences interpretation.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Reconstruct the plot",
+      "activity": "Students reorganize a nonlinear narrative into chronological order. They compare the reconstructed version with the author's original arrangement and evaluate changes in suspense, emphasis, characterization, and meaning.",
+      "materials": [
+        "Nonlinear short story or novel excerpt",
+        "Event sequencing cards",
+        "Comparative analysis organizer"
+      ],
+      "scaffolds": "Model one structural change and distinguish preference from evidence-based evaluation of effect.",
+      "success": "Students explain how at least two structural choices contribute to a plausible authorial purpose.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Character arc under pressure",
+      "activity": "Students trace a complex character's development across three or more significant moments. They analyze competing motivations, conflicts, decisions, and consequences before explaining how character change contributes to a theme.",
+      "materials": [
+        "Selected novel or short story",
+        "Character arc timeline",
+        "Evidence and reasoning organizer"
+      ],
+      "scaffolds": "Require evidence from multiple stages rather than relying only on the ending. Include examples of change in understanding as well as behavior.",
+      "success": "Students develop a coherent explanation of character change supported by evidence from across the narrative.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Archetype disruption",
+      "activity": "Students identify a familiar character archetype in a literary work and examine how the author complicates or reverses expected characteristics. They explain how the variation influences readers' understanding and thematic interpretation.",
+      "materials": [
+        "Selected literary passage",
+        "Archetype comparison chart",
+        "Textual evidence organizer"
+      ],
+      "scaffolds": "Provide examples of familiar heroic, mentor, and trickster figures while avoiding reductive cultural generalizations.",
+      "success": "Students evaluate how an author uses and transforms an archetype rather than merely assigning a character to a category.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The symbolism timeline",
+      "activity": "Students trace a recurring symbol or motif across several passages. They examine changes in description, context, character response, and relationship to conflict before developing an interpretation of its thematic significance.",
+      "materials": [
+        "Text containing a recurring symbol or motif",
+        "Passage sequence organizer",
+        "Symbolism analysis chart"
+      ],
+      "scaffolds": "Model how a symbol can acquire different meanings at different stages of a narrative.",
+      "success": "Students support an interpretation of symbolic development with evidence from at least three passages.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Authorial purpose and craft critique",
+      "activity": "Students select an important narrative choice and evaluate how it contributes to the text's purpose. They propose an alternative choice and explain how that change would influence readers' understanding or emotional experience.",
+      "materials": [
+        "Selected narrative",
+        "Craft critique organizer",
+        "Alternative technique examples"
+      ],
+      "scaffolds": "Model the difference between describing a technique, analyzing its effect, and evaluating its effectiveness.",
+      "success": "Students develop a defensible critique supported by textual evidence and a reasoned comparison with an alternative craft choice.",
+      "alignment": [
+        "10.T.T.1.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Theme across three passages",
+      "activity": "Students select passages from the beginning, middle, and end of a narrative. They trace how a central thematic concern is introduced, complicated, and developed through character choices, conflict, imagery, or structural patterns.",
+      "materials": [
+        "Complete short story or selected novel passages",
+        "Theme development timeline",
+        "Evidence organizer"
+      ],
+      "scaffolds": "Provide guiding questions about what changes between passages and which details complicate an initial interpretation.",
+      "success": "Students develop a thematic statement that accounts for the narrative's progression and support it with evidence from all three passages.",
+      "alignment": [
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "50–65 min",
+      "title": "Literature and social relevance",
+      "activity": "Students analyze a text's treatment of a social concern such as conformity, belonging, authority, inequality, or collective responsibility. They connect the thematic interpretation to a relevant social context while maintaining a clear distinction between textual analysis and outside commentary.",
+      "materials": [
+        "Selected literary text",
+        "Credible contextual resource",
+        "Theme and social relevance organizer"
+      ],
+      "scaffolds": "Model a claim-evidence-reasoning response that begins with the literary text and then establishes a supported social connection.",
+      "success": "Students explain thematic development and social relevance using specific textual evidence, clear reasoning, and appropriate contextual information.",
+      "alignment": [
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "50–70 min",
+      "title": "Two texts, one thematic concern",
+      "activity": "Students compare two narratives addressing a common concern, such as conformity in The Lottery and The Pedestrian. They evaluate similarities and differences in characterization, setting, conflict, structure, and thematic implications.",
+      "materials": [
+        "Two selected literary texts",
+        "Comparative theme matrix",
+        "Textual evidence organizer"
+      ],
+      "scaffolds": "Require students to develop a separate thematic interpretation for each text before constructing a comparative claim.",
+      "success": "Students produce a comparative analysis that explains how different narrative choices develop related but potentially distinct thematic meanings.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "50–70 min",
+      "title": "Ancient story, contemporary transformation",
+      "activity": "Students compare a selected episode from The Odyssey with an authorized passage from a contemporary mythological retelling. They examine preserved and transformed character roles, conflicts, perspectives, and values.",
+      "materials": [
+        "Selected classical text",
+        "Selected contemporary retelling",
+        "Historical context notes",
+        "Adaptation comparison organizer"
+      ],
+      "scaffolds": "Provide background on the earlier narrative and distinguish explicit adaptation from general thematic similarity.",
+      "success": "Students explain how a contemporary text draws on and transforms an earlier narrative pattern using evidence from both works.",
+      "alignment": [
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The quest across cultures and time",
+      "activity": "Students compare two or more journey narratives from different historical periods or literary traditions. They identify shared event patterns and examine differences in motivations, obstacles, outcomes, and values.",
+      "materials": [
+        "Selected journey narratives",
+        "Context notes",
+        "Narrative pattern comparison chart"
+      ],
+      "scaffolds": "Avoid assuming that all narratives follow a single universal formula. Encourage students to identify meaningful variations and culturally specific elements.",
+      "success": "Students explain how recurring narrative patterns acquire different meanings in distinct historical and cultural contexts.",
+      "alignment": [
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Perspective transformation workshop",
+      "activity": "Students rewrite a selected narrative event from another character's perspective. They revise diction, knowledge, motivation, emphasis, and emotional response while preserving essential events.",
+      "materials": [
+        "Selected mentor passage",
+        "Perspective planning organizer",
+        "Revision checklist"
+      ],
+      "scaffolds": "Model how a perspective change affects more than pronouns. Require students to explain what the new narrator can and cannot know.",
+      "success": "Students produce a coherent alternative perspective and explain how their changes influence characterization and readers' interpretation.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Dialogue and subtext studio",
+      "activity": "Students write a scene in which two characters want different outcomes but neither directly states the central conflict. They use dialogue, gestures, pauses, setting, and internal responses to communicate underlying tension.",
+      "materials": [
+        "Mentor dialogue passage",
+        "Character motivation cards",
+        "Dialogue revision checklist"
+      ],
+      "scaffolds": "Model the distinction between what a character says, what the character wants, and what readers can infer.",
+      "success": "Students create a scene in which dialogue and other narrative details reveal conflict and character complexity without excessive explanation.",
+      "alignment": [
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Pacing the turning point",
+      "activity": "Students write two versions of a significant narrative event. One uses compressed summary, and the other uses detailed scene. They evaluate which version better serves a selected purpose and revise accordingly.",
+      "materials": [
+        "Narrative event prompt",
+        "Scene and summary mentor examples",
+        "Pacing comparison organizer"
+      ],
+      "scaffolds": "Model how sentence length, dialogue, sensory detail, and reflection can alter narrative speed.",
+      "success": "Students demonstrate purposeful control of pacing and justify their selected approach in relation to audience and narrative purpose.",
+      "alignment": [
+        "10.T.T.1.b",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Setting as an active force",
+      "activity": "Students create a narrative scene in which the physical or social setting influences the protagonist's choices. They use imagery, diction, and environmental details to establish mood and develop conflict.",
+      "materials": [
+        "Setting photographs or descriptions",
+        "Character and conflict planning organizer",
+        "Mood revision checklist"
+      ],
+      "scaffolds": "Require students to identify how the setting changes available choices rather than functioning only as background.",
+      "success": "Students produce a scene in which setting creates a recognizable mood and contributes meaningfully to character decisions or conflict.",
+      "alignment": [
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "50–70 min",
+      "title": "Extended metaphor narrative workshop",
+      "activity": "Students select a thematic concern and develop a recurring metaphor connected to a character's experiences. They plan how the metaphor will appear near the beginning, change during a significant conflict, and acquire additional meaning near the ending.",
+      "materials": [
+        "Mentor passages containing recurring metaphors",
+        "Metaphor development map",
+        "Narrative planning organizer"
+      ],
+      "scaffolds": "Model a sustained comparison using related details. Explain that the metaphor should develop alongside the character rather than appear as an unrelated decorative requirement.",
+      "success": "Students create a narrative sequence in which a coherent metaphor contributes to thematic development at multiple points.",
+      "alignment": [
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "Multi-session project",
+      "title": "Character transformation narrative",
+      "activity": "Students write an original narrative featuring a complex character whose experiences lead to meaningful change. They develop an intentional setting, internal and external conflict, purposeful perspective, dialogue, pacing, and a recurring or extended metaphor connected to a theme.",
+      "materials": [
+        "Narrative planning organizer",
+        "Mentor texts",
+        "Peer feedback protocol",
+        "Narrative craft rubric"
+      ],
+      "scaffolds": "Use planning conferences, targeted mini-lessons, and revision checkpoints. Encourage purposeful technique selection rather than mechanical inclusion of every possible device.",
+      "success": "Students produce a coherent narrative with believable character development, purposeful mood, thematic development through metaphor, and craft choices suited to audience and purpose.",
+      "alignment": [
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "Narrative architecture comparative study",
+      "activity": "Students compare two structurally complex narratives and investigate how their organization controls information, establishes relationships among events, and shapes thematic interpretation. They develop a comparative argument evaluating the effectiveness of each structure.",
+      "materials": [
+        "Two structurally complex narratives",
+        "Narrative architecture diagrams",
+        "Comparative analysis rubric"
+      ],
+      "scaffolds": "Provide analytical models without prescribing a single interpretation. Encourage students to account for ambiguities and alternative readings.",
+      "success": "Students produce a sophisticated comparative evaluation supported by precise evidence and reasoning about interacting narrative techniques.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75–100 min",
+      "title": "Antigone across centuries",
+      "activity": "Students compare selected scenes from Antigone with carefully chosen passages from Home Fire or another established adaptation. They investigate how historical circumstances, political institutions, family relationships, and narrative perspectives transform a shared conflict.",
+      "materials": [
+        "Selected classical tragedy scenes",
+        "Selected contemporary adaptation passages",
+        "Historical and cultural context resources",
+        "Comparative interpretation organizer"
+      ],
+      "scaffolds": "Provide context for both works and ensure students distinguish the original dramatic form from the contemporary narrative form.",
+      "success": "Students evaluate how the adaptation preserves and transforms earlier patterns while developing socially relevant thematic concerns in a new historical context.",
+      "alignment": [
+        "10.T.T.1.c",
+        "10.T.T.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "The ethics of narrative perspective",
+      "activity": "Students investigate how a narrative's distribution of voice and knowledge influences readers' judgments of characters and social conflicts. They compare a dominant perspective with an alternative or marginalized perspective and evaluate the consequences of each narrative arrangement.",
+      "materials": [
+        "Selected multi-perspective narrative",
+        "Perspective and representation matrix",
+        "Analytical writing prompt"
+      ],
+      "scaffolds": "Distinguish textual evidence from assumptions about an author's intentions. Encourage consideration of ambiguity and competing interpretations.",
+      "success": "Students develop a nuanced evaluation of how narrative perspective interacts with characterization, structure, and social meaning.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.b",
+        "10.T.T.1.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Multi-session project",
+      "title": "Retell a familiar story from the margins",
+      "activity": "Students select an established myth, folktale, literary work, or other recognizable narrative and create a transformative retelling centered on a previously secondary character. They preserve identifiable elements while changing perspective, motivation, conflict, setting, and thematic emphasis.",
+      "materials": [
+        "Original narrative",
+        "Adaptation planning organizer",
+        "Historical and cultural context resources",
+        "Narrative craft rubric"
+      ],
+      "scaffolds": "Require students to identify the earlier narrative's context and avoid treating cultural traditions as interchangeable. Provide feedback on purposeful transformation rather than superficial modernization.",
+      "success": "Students produce an original retelling that meaningfully transforms earlier narrative patterns and includes complex character development, purposeful mood, and metaphorical thematic development.",
+      "alignment": [
+        "10.T.T.1.d",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Multi-session project",
+      "title": "Braided narrative studio",
+      "activity": "Students construct a narrative using two interwoven timelines or perspectives. They develop a shared thematic concern through recurring metaphors, contrasting settings, parallel events, and complex character development. They write a craft commentary explaining the relationships among their techniques.",
+      "materials": [
+        "Braided narrative mentor texts",
+        "Parallel timeline planner",
+        "Metaphor development map",
+        "Narrative craft rubric"
+      ],
+      "scaffolds": "Use structural conferences to help students maintain clarity and meaningful connections between narrative strands.",
+      "success": "Students create a coherent multi-strand narrative in which structure, perspective, character development, setting, and metaphor work together to achieve a deliberate purpose.",
+      "alignment": [
+        "10.T.T.1.a",
+        "10.T.T.1.e"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Multi-session project",
+      "title": "Narrative as social inquiry",
+      "activity": "Students investigate a socially relevant issue and develop an original fictional or nonfiction narrative that explores its complexities through character experience rather than direct exposition alone. They integrate purposeful narrative techniques and, where appropriate, researched contextual information.",
+      "materials": [
+        "Teacher-approved research resources",
+        "Narrative planning organizer",
+        "Mentor texts",
+        "Craft commentary rubric"
+      ],
+      "scaffolds": "Require credible research, careful representation, and avoidance of stereotypes. Encourage students to develop competing motivations and perspectives rather than reducing characters to representatives of opposing positions.",
+      "success": "Students create a compelling narrative that explores a socially relevant concern through complex characterization, meaningful conflict, purposeful mood, and thematic development through metaphor.",
+      "alignment": [
+        "10.T.T.1.c",
+        "10.T.T.1.e"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best describes the relationship among narrative techniques?",
+      "options": [
+        "Each technique contributes to meaning independently of all other techniques.",
+        "Narrative techniques can interact to shape readers' understanding, emotional responses, and thematic interpretations.",
+        "A narrative is effective only when it includes every recognized literary technique.",
+        "Narrative techniques are primarily used to make descriptions longer."
+      ],
+      "answer": "B",
+      "rationale": "Narrative meaning often emerges through interactions among techniques rather than through isolated devices."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A story opens with a character abandoning a familiar home and later reveals the events leading to that decision. Which effect is most directly created by this structure?",
+      "options": [
+        "It eliminates the need for characterization.",
+        "It guarantees that the narrator is unreliable.",
+        "It encourages readers to reinterpret the opening event as additional information becomes available.",
+        "It prevents the narrative from developing a theme."
+      ],
+      "answer": "C",
+      "rationale": "Delayed disclosure can change readers' interpretation of an event as its causes and context become clearer."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which description most clearly establishes a complex character?",
+      "options": [
+        "A character values honesty but conceals information because she fears harming someone she loves.",
+        "A character is described as kind in every situation without further development.",
+        "A character appears briefly to deliver a message.",
+        "A character performs a single action unrelated to the central conflict."
+      ],
+      "answer": "A",
+      "rationale": "Competing values and motivations contribute to character complexity."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which evidence most strongly supports the claim that a character undergoes meaningful change?",
+      "options": [
+        "The character wears different clothing in the final scene.",
+        "The character travels to a new location.",
+        "The narrator introduces additional characters near the ending.",
+        "The character makes a decision reflecting a substantially different understanding from the one expressed earlier."
+      ],
+      "answer": "D",
+      "rationale": "Meaningful character change involves development in understanding, values, relationships, or behavior."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A narrative presents a traditional mentor figure who provides misleading guidance and eventually depends on the younger protagonist for help. What is the most significant effect?",
+      "options": [
+        "The character can no longer contribute to an archetypal pattern.",
+        "The author complicates the mentor archetype and challenges expectations about wisdom and authority.",
+        "The narrative becomes an example of chronological structure.",
+        "The character's role eliminates the possibility of thematic development."
+      ],
+      "answer": "B",
+      "rationale": "Authors can transform familiar archetypes to challenge expectations and develop meaning."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best distinguishes an archetype from a stereotype?",
+      "options": [
+        "An archetype is always a protagonist, while a stereotype is always an antagonist.",
+        "An archetype appears only in ancient literature.",
+        "An archetype is a recurring literary pattern, while a stereotype reduces individuals or groups to oversimplified assumptions.",
+        "An archetype is necessarily accurate, while a stereotype is necessarily fictional."
+      ],
+      "answer": "C",
+      "rationale": "Archetypes are recurring narrative patterns; stereotypes involve reductive assumptions about people or groups."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Two first-person narrators describe the same disagreement but interpret its causes differently. What should a reader primarily investigate?",
+      "options": [
+        "How each narrator's experiences, knowledge, motivations, and assumptions influence the account.",
+        "Which narrator uses the greatest number of adjectives.",
+        "Whether both accounts contain exactly the same number of sentences.",
+        "Which narrator appears first in the text."
+      ],
+      "answer": "A",
+      "rationale": "Differences in perspective can influence how narrators interpret and present the same event."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which evidence most strongly suggests that a narrator may be unreliable?",
+      "options": [
+        "The narrator uses first-person pronouns.",
+        "The narrator describes a familiar setting.",
+        "The narrator expresses an emotion.",
+        "The narrator's repeated claims conflict with observable events and other credible textual evidence."
+      ],
+      "answer": "D",
+      "rationale": "Narrator unreliability requires evidence of limitations, inconsistencies, distortion, or other reasons to question the account."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Readers know that a character's trusted companion has secretly betrayed her, but the character remains unaware. Which technique most directly creates tension?",
+      "options": [
+        "Personification",
+        "Dramatic irony",
+        "Chronological summary",
+        "Direct characterization"
+      ],
+      "answer": "B",
+      "rationale": "Dramatic irony occurs when readers possess significant information that a character lacks."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A writer describes a school hallway as a narrow corridor of locked doors, flickering lights, and distant echoes. Which explanation most effectively analyzes the description?",
+      "options": [
+        "The description contains several nouns.",
+        "The setting establishes the location of the story.",
+        "The sensory imagery and restrictive diction create an unsettling mood that may reinforce a character's sense of confinement.",
+        "The description proves that the narrator is omniscient."
+      ],
+      "answer": "C",
+      "rationale": "The response explains how setting, imagery, and diction interact to establish mood and potentially develop characterization."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best distinguishes mood from tone?",
+      "options": [
+        "Mood concerns the emotional atmosphere created for readers, while tone concerns the attitude conveyed toward a subject or situation.",
+        "Mood is the narrator's point of view, while tone is the plot structure.",
+        "Mood and tone are interchangeable terms for setting.",
+        "Mood occurs only in poetry, while tone occurs only in prose."
+      ],
+      "answer": "A",
+      "rationale": "Mood concerns atmosphere, while tone concerns an expressed or implied attitude."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A character says that a friend's departure does not matter, but repeatedly checks the time and avoids looking at the friend's empty chair. Which technique most directly communicates the character's unspoken feelings?",
+      "options": [
+        "Flash-forward",
+        "Frame narrative",
+        "Chronological structure",
+        "Subtext"
+      ],
+      "answer": "D",
+      "rationale": "The contrast between spoken language and observable behavior suggests meaning beneath the character's words."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A writer describes several years in one paragraph but devotes three pages to a character's decision during a single afternoon. What is the most likely effect?",
+      "options": [
+        "The narrative loses its chronological sequence.",
+        "The pacing emphasizes the significance of the decision relative to the intervening years.",
+        "The writer establishes an unreliable narrator.",
+        "The narrative necessarily becomes a frame story."
+      ],
+      "answer": "B",
+      "rationale": "The contrast between summary and detailed scene directs readers' attention toward the significant decision."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A recurring image of a closed window appears when a character feels trapped. Near the ending, the character opens the window after making an independent decision. Which interpretation is best supported?",
+      "options": [
+        "The window functions only as a description of the building.",
+        "The author uses the window to establish chronological structure.",
+        "The changing image of the window may symbolize the character's developing sense of freedom.",
+        "The image proves that the narrator has become unreliable."
+      ],
+      "answer": "C",
+      "rationale": "The recurring image changes in relation to the character's experiences and supports a symbolic interpretation."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which response most effectively evaluates an author's narrative choice?",
+      "options": [
+        "The author delays revealing the cause of the conflict, creating suspense and encouraging readers to reconsider their initial judgment of the protagonist.",
+        "The author uses a flashback.",
+        "The story contains several characters and a setting.",
+        "The story is interesting because it has a plot."
+      ],
+      "answer": "A",
+      "rationale": "Effective evaluation connects a specific craft choice to its consequences for readers and the narrative's meaning."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement is a thematic interpretation rather than a thematic topic?",
+      "options": [
+        "Family",
+        "Loyalty",
+        "Personal identity",
+        "Unquestioning loyalty can prevent individuals from recognizing harm caused by those they trust."
+      ],
+      "answer": "D",
+      "rationale": "The statement expresses an interpretation of what a narrative may suggest about loyalty."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which approach provides the strongest evidence for a claim about thematic development?",
+      "options": [
+        "Selecting one sentence from the beginning without examining the rest of the text.",
+        "Comparing significant passages from different stages of the narrative and explaining how their relationships develop the theme.",
+        "Identifying the author's birthplace without connecting it to the text.",
+        "Summarizing the final event without discussing earlier developments."
+      ],
+      "answer": "B",
+      "rationale": "Thematic development requires analysis of how an idea emerges, changes, or becomes more complex across a text."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A narrative initially presents a community tradition as comforting but gradually reveals its harmful consequences. Which explanation best describes the thematic development?",
+      "options": [
+        "The theme remains unchanged because the same tradition appears throughout the narrative.",
+        "The narrative cannot develop a theme because it contains conflicting ideas.",
+        "The narrative complicates an initial association between tradition and belonging by revealing the consequences of unquestioned conformity.",
+        "The narrative develops only a setting rather than a theme."
+      ],
+      "answer": "C",
+      "rationale": "Themes can develop through complication and changing interpretations of recurring experiences or ideas."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which response most effectively analyzes the social relevance of a narrative?",
+      "options": [
+        "The protagonist's conflict with community expectations develops a theme about conformity that can illuminate contemporary pressures to suppress individual judgment; this interpretation is supported by the character's changing decisions.",
+        "The story is socially relevant because it is old.",
+        "The story is socially relevant because the reader agrees with the protagonist.",
+        "The story is socially relevant because its title includes a familiar word."
+      ],
+      "answer": "A",
+      "rationale": "A strong analysis connects thematic development to a meaningful social concern using textual evidence and reasoning."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Two narratives from different centuries feature protagonists who challenge political authority because of family obligations. Which analytical approach is most appropriate?",
+      "options": [
+        "Assume the later author directly copied the earlier work.",
+        "Conclude that both narratives necessarily communicate identical themes.",
+        "Ignore historical context because the central conflict is similar.",
+        "Compare how each work develops the recurring conflict through its historical circumstances, characterization, structure, and thematic emphasis."
+      ],
+      "answer": "D",
+      "rationale": "Comparative literary analysis examines both shared patterns and meaningful differences in historical and cultural treatment."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A contemporary retelling shifts an ancient narrative from the hero's perspective to the perspective of a character originally presented as an obstacle. What is the most likely analytical significance?",
+      "options": [
+        "The new narrative cannot retain any relationship to the original.",
+        "The perspective shift can transform characterization, readers' judgments, and the thematic meaning of the earlier pattern.",
+        "The retelling must communicate the same values as the original.",
+        "The change affects only pronoun use."
+      ],
+      "answer": "B",
+      "rationale": "Adaptations can preserve recognizable narrative elements while transforming perspective, characterization, and thematic implications."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement is most accurate when comparing literary works that contain similar archetypes?",
+      "options": [
+        "Similar archetypes always prove direct influence.",
+        "Similar archetypes eliminate the importance of cultural context.",
+        "Similar archetypes may reflect shared or recurring narrative patterns without establishing direct borrowing.",
+        "Similar archetypes require identical plot structures."
+      ],
+      "answer": "C",
+      "rationale": "Recurring patterns can appear across literary traditions without documented direct influence."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which narrative plan most effectively develops a character arc?",
+      "options": [
+        "A protagonist begins with a strong belief, encounters conflicts that challenge it, makes difficult choices, and develops a changed understanding.",
+        "A protagonist is introduced as courageous and is repeatedly described as courageous without facing a significant challenge.",
+        "A protagonist changes beliefs in the final sentence without any preceding development.",
+        "A protagonist moves through several settings without experiencing meaningful conflict or reflection."
+      ],
+      "answer": "A",
+      "rationale": "A believable character arc develops change through experiences, conflicts, decisions, and consequences."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which narrative choice most effectively uses setting to create mood and contribute to conflict?",
+      "options": [
+        "Naming a city without describing its relevance.",
+        "Providing an unrelated description of the weather.",
+        "Listing every object in a room without selecting meaningful details.",
+        "Describing a crowded station through the anxious protagonist's perceptions while the setting makes it difficult to locate a missing sibling."
+      ],
+      "answer": "D",
+      "rationale": "The setting establishes atmosphere while also influencing the protagonist's experience and available choices."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which example most clearly uses an extended metaphor to develop a narrative theme?",
+      "options": [
+        "A writer compares a character's shoes to clouds in one unrelated sentence.",
+        "A writer repeatedly develops the image of a damaged bridge as a character struggles to restore trust, changing the comparison as the relationship develops.",
+        "A writer includes a different unrelated metaphor in every paragraph.",
+        "A writer explicitly states the story's theme before introducing any characters."
+      ],
+      "answer": "B",
+      "rationale": "A sustained and developing comparison can connect character experiences to a central thematic concern."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A writer wants readers to gradually recognize that a seemingly helpful character is manipulating the protagonist. Which combination of techniques would most effectively support this purpose?",
+      "options": [
+        "An unrelated setting description and a complete summary of the ending.",
+        "A list of character traits followed by an explanation of the theme.",
+        "Limited perspective, subtle inconsistencies in dialogue, recurring suggestive details, and delayed disclosure.",
+        "A chronological list of events without characterization."
+      ],
+      "answer": "C",
+      "rationale": "The selected techniques interact to control readers' knowledge and gradually reveal the character's behavior."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which revision would most improve a narrative containing a metaphor that appears only once and has no connection to the central conflict?",
+      "options": [
+        "Develop related metaphorical details at significant points in the character's experiences so the comparison contributes to thematic meaning.",
+        "Add several unrelated similes to the same paragraph.",
+        "Replace the metaphor with a longer description of an unrelated object.",
+        "Explain that the metaphor is included because the assignment requires figurative language."
+      ],
+      "answer": "A",
+      "rationale": "Purposeful metaphorical development connects figurative language to character, conflict, and theme."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which criterion is most important when evaluating whether a narrative technique is effective?",
+      "options": [
+        "Whether the technique has a difficult literary term.",
+        "Whether the technique appears frequently.",
+        "Whether every reader interprets the technique identically.",
+        "Whether the technique contributes meaningfully to the narrative's purpose, audience experience, and development of ideas."
+      ],
+      "answer": "D",
+      "rationale": "Narrative effectiveness depends on the relationship between a craft choice and its intended contribution."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain the difference between identifying a narrative technique and evaluating its effectiveness. Provide an example.",
+      "answer": "Identification names the technique, while evaluation explains how effectively it contributes to a purpose or meaning. For example, identifying a flashback names the structural device. Evaluating it explains how the delayed information changes readers' judgment of a character and strengthens the narrative's exploration of misunderstanding.",
+      "rationale": "Assess whether students distinguish recognition from evidence-based analysis and evaluation."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how narrative perspective and symbolism can interact to develop meaning.",
+      "answer": "A narrator's experiences and assumptions influence how a recurring object is described and interpreted. As the narrator's understanding changes, descriptions of the object may also change, allowing the symbol to develop additional significance connected to characterization and theme.",
+      "rationale": "A complete response explains a meaningful relationship between two narrative techniques."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how internal and external conflict can work together to develop a complex character.",
+      "answer": "An external conflict can force a character to confront competing internal desires, fears, or beliefs. The character's responses and decisions reveal complexity and may lead to meaningful change. For example, a conflict with an unjust rule may expose a character's struggle between personal safety and moral responsibility.",
+      "rationale": "Assess understanding of the relationship between conflict, motivation, and character development."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why a narrator's perspective should not automatically be treated as the author's personal perspective.",
+      "answer": "A narrator is a constructed voice within a narrative and may possess beliefs, limitations, or motivations that differ from the author's. Authors may use unreliable or restricted narrators to encourage readers to question the account. Interpretations of authorial purpose should therefore be supported by the text and relevant context.",
+      "rationale": "Assess whether students distinguish the narrative voice from the author and avoid unsupported assumptions."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how changing a narrative from chronological to nonlinear structure could influence its effect.",
+      "answer": "A nonlinear structure can delay important information, establish parallels between different periods, create suspense, or change readers' interpretation of earlier events. Its effectiveness depends on how the arrangement supports characterization, purpose, and thematic meaning.",
+      "rationale": "Students should explain specific consequences of structural arrangement rather than simply define nonlinear narration."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how a theme can become more complex across a narrative.",
+      "answer": "A narrative may introduce an idea through an initial situation, complicate it through conflicting experiences or perspectives, and develop a more nuanced understanding through character choices and consequences. Later events may challenge rather than simply reinforce the initial thematic interpretation.",
+      "rationale": "Assess understanding of theme as a developing interpretation rather than a fixed moral."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why an analysis of social relevance should remain grounded in textual evidence.",
+      "answer": "Social relevance concerns how a text's ideas connect to social experiences or questions. Without textual evidence, a response may become a general discussion of an issue rather than an analysis of the literary work. Evidence and reasoning establish how the narrative actually develops the relevant concern.",
+      "rationale": "Assess the relationship among thematic analysis, textual evidence, and social interpretation."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how an adaptation can preserve an earlier narrative pattern while changing its thematic meaning.",
+      "answer": "An adaptation may retain recognizable characters, conflicts, or event sequences while changing the historical setting, perspective, motivations, or outcome. These changes can transform the values and questions emphasized by the earlier narrative.",
+      "rationale": "Assess understanding of literary continuity and transformation across time periods."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain the difference between a metaphor that decorates a sentence and an extended metaphor that develops a narrative theme.",
+      "answer": "A decorative metaphor may create a vivid local description without influencing the narrative's larger meaning. An extended or recurring metaphor develops a coherent comparison across significant moments, connecting character experiences and conflicts to an emerging thematic concern.",
+      "rationale": "Assess the specific Grade 10 expectation concerning metaphorical thematic development."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how a writer can use setting to create mood without explicitly naming the intended emotion.",
+      "answer": "The writer can select sensory details, imagery, diction, and environmental conditions that evoke the intended atmosphere. A character's perceptions and responses can reinforce the mood without directly stating that the setting is frightening, peaceful, or tense.",
+      "rationale": "Assess understanding of indirect mood development through purposeful narrative details."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Read a selected passage from The Lottery. Analyze how at least two narrative techniques interact to influence readers' expectations and develop the story's meaning.",
+      "answer": "A successful response identifies relevant techniques such as ordinary setting, restrained narration, foreshadowing, symbolism, or irony. It provides precise textual evidence and explains how the techniques work together to influence expectations and support an interpretation.",
+      "rationale": "Assess evaluation of interacting narrative techniques rather than isolated device identification."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Read a selected passage from The Tell-Tale Heart. Evaluate how the narrator's perspective, repetition, sensory imagery, and pacing influence readers' judgment of the narrator.",
+      "answer": "A strong response explains how the narrator's assertions and descriptions create reasons to question the account. It connects specific language and pacing choices to the development of psychological tension and reader interpretation.",
+      "rationale": "Assess the interaction of narrative techniques and evaluation of authorial craft."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Compare selected early and late passages from The House on Mango Street. Analyze how recurring images of houses or home contribute to Esperanza's changing understanding of identity and independence.",
+      "answer": "A successful response identifies meaningful recurring images, compares their significance across passages, and explains how they contribute to character development and thematic meaning. It supports the interpretation with specific textual evidence.",
+      "rationale": "Assess thematic development through recurring imagery, setting, and characterization."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Compare selected passages from The Lottery and The Ones Who Walk Away from Omelas. Evaluate how each text develops a socially relevant theme concerning collective responsibility or conformity.",
+      "answer": "A strong response develops a defensible thematic interpretation for each text, compares relevant narrative techniques, and explains how the texts' different structures and perspectives shape their ethical implications. It supports the comparison with evidence from both works.",
+      "rationale": "Assess comparative thematic analysis, social relevance, and evidence-based reasoning."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Compare a selected episode from The Odyssey with a passage from a contemporary retelling. Analyze how the later work draws on and transforms an earlier character type, event pattern, or theme.",
+      "answer": "A successful response identifies a meaningful relationship between the works, explains relevant similarities and differences, and evaluates how changes in perspective, characterization, or context transform the earlier pattern. It uses specific evidence from both texts.",
+      "rationale": "Assess analysis of literary patterns across historical periods."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Read selected passages from Things Fall Apart showing Okonkwo at different stages of the novel. Analyze how internal conflict, social circumstances, and characterization interact to develop a thematic concern.",
+      "answer": "A strong response identifies competing motivations and relevant changes in circumstances, supports claims with evidence from multiple passages, and explains how these elements contribute to a nuanced thematic interpretation.",
+      "rationale": "Assess interaction among narrative techniques, character complexity, and thematic development."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "A student writes a narrative in which the protagonist changes from selfish to generous in the final paragraph without any earlier indication of conflict or development. Explain how the student could revise the narrative.",
+      "answer": "The writer could establish the protagonist's initial motivations, introduce experiences that challenge those motivations, develop competing desires or internal conflict, and show decisions and consequences that gradually prepare for the change. The ending should reflect development supported by earlier events.",
+      "rationale": "Assess understanding of believable character arcs and meaningful narrative progression."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "A student writes that a room is frightening but provides no sensory details or character responses. Explain how the description could be revised to establish mood more effectively.",
+      "answer": "The writer could select details involving light, sound, temperature, texture, spatial arrangement, and the character's perceptions. Purposeful diction and imagery could establish apprehension without relying solely on an explicit statement of emotion.",
+      "rationale": "Assess purposeful use of setting and sensory language to create mood."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "A narrative uses an image of a locked gate in its opening but never returns to the image. The writer wants to develop a theme concerning belonging. Describe a possible revision.",
+      "answer": "The writer could develop related images of barriers, entrances, keys, or thresholds at significant points in the protagonist's experiences. The meaning of the gate could change as the protagonist confronts exclusion or develops a different understanding of belonging.",
+      "rationale": "Assess purposeful development of a recurring metaphor or symbolic pattern connected to theme."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "A student writes a scene from a first-person narrator's perspective but includes another character's private thoughts without explaining how the narrator knows them. Identify the problem and propose a revision.",
+      "answer": "The passage violates the established limits of the first-person narrator's knowledge unless the narrator has a credible way to know the information. The writer could reveal the other character's feelings through dialogue, behavior, inference, or an intentionally established perspective shift.",
+      "rationale": "Assess control of narrative perspective and consistency of narrative knowledge."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Develop a literary analysis evaluating how narrative techniques interact within a selected short story or novel. Analyze at least three meaningful craft choices, explain their relationships, and evaluate how they contribute to the author's purpose and thematic development.",
+      "answer": "Successful work presents a defensible analytical claim, selects precise textual evidence, explains relationships among narrative techniques, evaluates their effects, and develops a coherent interpretation of purpose and meaning.",
+      "rationale": "Assess integrated mastery of narrative technique interaction and craft evaluation."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Compare two literary works from different historical periods that share a meaningful theme, character archetype, or event pattern. Analyze how each work develops the shared concern and evaluate how historical or cultural differences influence its meaning and social relevance.",
+      "answer": "A successful comparative analysis identifies a meaningful relationship, examines similarities and differences in narrative craft, provides relevant historical or cultural context, and supports conclusions with evidence and reasoning from both texts.",
+      "rationale": "Assess thematic comparison, social relevance, and analysis of literary continuity and transformation."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Write an original narrative featuring a complex protagonist whose experiences lead to meaningful change. Use setting to establish mood, develop conflict and perspective purposefully, and use a recurring or extended metaphor to develop an idea or theme across the narrative. Include a brief craft commentary explaining your choices.",
+      "answer": "Successful work demonstrates coherent narrative progression, believable character complexity and change, purposeful setting and mood, effective use of narrative techniques, thematic development through metaphor, and clear alignment between craft choices and the intended audience and purpose.",
+      "rationale": "Assess direct application of all major components of 10.T.T.1.e."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Create a transformative retelling of an established literary narrative from a different perspective or historical setting. Preserve recognizable elements of the earlier work while developing a new interpretation through characterization, conflict, mood, structure, and metaphor.",
+      "answer": "A successful retelling demonstrates understanding of the original narrative, purposeful transformation of its patterns, coherent character development, effective setting and mood, and thematic development suited to the new context. A craft commentary explains the relationship between the original and transformed narrative.",
+      "rationale": "Assess transfer of cross-period literary analysis into original narrative construction."
+    }
+  ],
+  "evidence": [
+    "Accurate identification of relevant narrative techniques within literary texts.",
+    "Textual evidence supporting interpretations of narrative craft.",
+    "Explanations of relationships among perspective, structure, characterization, setting, symbolism, and other techniques.",
+    "Narrative timelines distinguishing chronological events from their presentation.",
+    "Evaluation of the effects of nonlinear structures, framing, flashbacks, and delayed disclosure.",
+    "Analysis of how pacing influences suspense, emphasis, and interpretation.",
+    "Character analyses supported by actions, dialogue, thoughts, relationships, and consequences.",
+    "Explanations of competing character motivations and internal conflicts.",
+    "Character arc analyses using evidence from multiple stages of a narrative.",
+    "Evaluation of relationships between internal and external conflict.",
+    "Analysis of recurring archetypes and their transformation.",
+    "Distinctions between archetypes and reductive stereotypes.",
+    "Comparisons of narrative perspectives on shared events.",
+    "Evidence-based evaluations of narrator reliability.",
+    "Analysis of how narrative distance influences readers' access to experiences.",
+    "Explanations of dramatic, situational, or verbal irony in context.",
+    "Analysis of interactions among setting, imagery, diction, and mood.",
+    "Analysis of dialogue and subtext.",
+    "Evidence tracing symbols, motifs, and metaphors across a text.",
+    "Evaluations of how recurring elements change in significance.",
+    "Defensible claims about authorial purpose supported by textual and contextual evidence.",
+    "Craft critiques explaining the effectiveness of narrative choices.",
+    "Comparisons of original and alternative narrative techniques.",
+    "Thematic statements distinguishing interpretations from broad topics.",
+    "Evidence tracing thematic development across multiple passages.",
+    "Analyses explaining how conflicts and character changes contribute to themes.",
+    "Comparative analyses of related themes across literary works.",
+    "Reasoned explanations of a text's social relevance.",
+    "Appropriate use of historical and cultural context to illuminate interpretation.",
+    "Comparisons of recurring themes, character types, and event patterns across time periods.",
+    "Analyses of how adaptations preserve and transform earlier narratives.",
+    "Distinctions between documented influence and general literary similarity.",
+    "Narrative plans identifying purpose and intended audience.",
+    "Original complex characters with meaningful and potentially competing motivations.",
+    "Narrative conflicts that reveal character qualities and contribute to development.",
+    "Believable character arcs supported by experiences, decisions, and consequences.",
+    "Purposeful narrative perspectives and consistent management of narrative knowledge.",
+    "Settings that establish mood and influence narrative experiences.",
+    "Purposeful sensory imagery and diction.",
+    "Dialogue and subtext contributing to characterization and conflict.",
+    "Effective control of narrative pacing through scene, summary, and reflection.",
+    "Recurring or extended metaphors developed across significant narrative moments.",
+    "Clear relationships between metaphorical patterns and thematic development.",
+    "Coherent narratives integrating multiple purposeful techniques.",
+    "Endings that develop, complicate, or resolve central narrative concerns.",
+    "Craft commentaries explaining relationships among narrative choices, purpose, and audience.",
+    "Revisions strengthening characterization, structure, mood, metaphor, and thematic coherence.",
+    "Independent transfer of mentor-text techniques into original narrative writing."
+  ],
+  "instruction": [
+    "Teach narrative techniques as interacting choices rather than isolated literary terms.",
+    "Begin analysis with the distinction among identification, explanation, analysis, and evaluation.",
+    "Model how a specific textual detail can support an interpretation of narrative effect.",
+    "Use short, accessible passages before moving to structurally complex literary works.",
+    "Teach plot as the arrangement of events rather than merely the events themselves.",
+    "Use dual timelines to distinguish chronological sequence from narrative presentation.",
+    "Compare chronological and nonlinear versions of narrative events.",
+    "Model how flashbacks, framing, parallel plots, and delayed disclosures influence readers' knowledge.",
+    "Teach pacing through contrasts among scene, summary, description, and reflection.",
+    "Use mentor passages to demonstrate how sentence-level choices influence narrative rhythm.",
+    "Teach internal and external conflict as potentially interacting forces.",
+    "Model characterization through actions, dialogue, thoughts, relationships, and consequences.",
+    "Distinguish character complexity from the amount of description provided.",
+    "Distinguish round and flat characterization from dynamic and static development.",
+    "Teach character arcs through evidence from multiple narrative stages.",
+    "Use character motivation maps to investigate competing desires, beliefs, responsibilities, and fears.",
+    "Teach archetypes as recurring and adaptable patterns rather than rigid character categories.",
+    "Distinguish archetypes from stereotypes and avoid reductive cultural assumptions.",
+    "Provide examples of authors challenging or reversing familiar archetypes.",
+    "Teach point of view and perspective as related but distinct concepts.",
+    "Compare different accounts of shared narrative events.",
+    "Model how narrative knowledge influences what readers can reasonably infer.",
+    "Teach narrator reliability through textual evidence rather than assumptions based on grammatical person.",
+    "Distinguish deliberate deception from limited knowledge, memory, and misunderstanding.",
+    "Teach narrative distance through passages that vary in closeness to character experience.",
+    "Use dramatic irony to demonstrate how differences in knowledge create tension.",
+    "Teach setting as physical, historical, cultural, and social context.",
+    "Model how setting influences available choices, relationships, and conflicts.",
+    "Distinguish mood from tone through paired examples.",
+    "Teach the interaction of imagery, diction, setting, and perspective in creating atmosphere.",
+    "Use setting transformation exercises to demonstrate how the same location can produce different moods.",
+    "Teach dialogue as a technique for revealing character, conflict, relationships, and information.",
+    "Model subtext through differences between spoken language, behavior, and motivation.",
+    "Teach reflection as a means of interpreting experiences rather than merely summarizing events.",
+    "Distinguish symbols, motifs, metaphors, and other recurring elements.",
+    "Avoid presenting symbols as having universal meanings independent of textual context.",
+    "Trace changes in the significance of recurring images and objects across texts.",
+    "Model extended metaphor as a sustained comparison connected to developing ideas.",
+    "Teach students to distinguish coherent metaphorical patterns from unrelated figurative language.",
+    "Use interaction diagrams to demonstrate how multiple techniques contribute to meaning.",
+    "Require students to explain how textual evidence supports an analytical claim.",
+    "Teach authorial purpose through plausible interpretations supported by text and context.",
+    "Avoid unsupported speculation about an author's private intentions.",
+    "Use alternative craft choices to help students evaluate narrative effectiveness.",
+    "Distinguish thematic topics, plot summaries, moral statements, and thematic interpretations.",
+    "Model developing thematic statements that account for relevant evidence across a text.",
+    "Teach thematic development through beginning-middle-end passage comparisons.",
+    "Use examples in which later events complicate initial thematic interpretations.",
+    "Connect character change, conflict, symbolism, structure, and imagery to thematic development.",
+    "Teach social relevance through text-grounded connections to institutions, experiences, values, and social questions.",
+    "Distinguish literary analysis from unsupported personal commentary about social issues.",
+    "Provide credible historical and cultural context when it contributes to interpretation.",
+    "Use paired texts to compare related themes and differing narrative treatments.",
+    "Avoid requiring all texts addressing a common topic to communicate identical themes.",
+    "Teach recurring narrative patterns across historical periods and literary traditions.",
+    "Compare established adaptations with their earlier sources.",
+    "Distinguish explicit adaptation, documented influence, allusion, and broader literary similarity.",
+    "Avoid presenting one narrative pattern as a mandatory universal structure for all cultures.",
+    "Use mentor-text analysis to prepare students for original narrative writing.",
+    "Begin narrative planning with purpose, audience, character motivation, and thematic possibilities.",
+    "Model developing complex characters through competing desires and responsibilities.",
+    "Teach believable character change through decisions, consequences, and reflection.",
+    "Provide opportunities to experiment with narrative perspective and structural arrangement.",
+    "Teach setting development through selected meaningful details rather than exhaustive description.",
+    "Model mood creation through sensory language and purposeful diction.",
+    "Use dialogue workshops to develop subtext and interpersonal conflict.",
+    "Teach students to adjust pacing according to the importance and purpose of narrative events.",
+    "Use metaphor development maps to connect recurring comparisons to character experiences.",
+    "Require students to develop metaphorical significance across multiple narrative moments.",
+    "Encourage writers to integrate techniques according to purpose rather than mechanically satisfy a device checklist.",
+    "Use craft commentaries to help students articulate relationships among narrative choices.",
+    "Provide peer feedback protocols focused on character development, coherence, mood, and theme.",
+    "Use revision conferences to identify unsupported character changes and underdeveloped thematic patterns.",
+    "Assess narrative craft, thematic development, and audience effectiveness as connected but distinguishable criteria.",
+    "Gradually remove analytical organizers and writing scaffolds to develop independent interpretation and composition."
+  ],
+  "watchFor": [
+    "Treating identification of literary devices as sufficient analysis.",
+    "Listing techniques without explaining their relationships or effects.",
+    "Confusing plot events with the order of narrative presentation.",
+    "Assuming chronological structure is always less sophisticated than nonlinear structure.",
+    "Identifying a flashback without explaining its contribution to meaning.",
+    "Confusing foreshadowing with a prediction made by the reader.",
+    "Assuming suspense requires an action-oriented or violent conflict.",
+    "Treating pacing as simply the length of a text.",
+    "Assuming every narrative must follow a single fixed plot diagram.",
+    "Reducing complex characters to one adjective.",
+    "Confusing round characterization with dynamic character development.",
+    "Assuming every static character is flat or poorly developed.",
+    "Identifying character change without examining earlier motivations and later decisions.",
+    "Treating an antagonist as necessarily evil.",
+    "Ignoring relationships between internal and external conflict.",
+    "Assuming archetypes are rigid categories that determine every character trait.",
+    "Confusing archetypes with stereotypes.",
+    "Applying a familiar narrative pattern without considering cultural or historical differences.",
+    "Confusing grammatical point of view with a character's interpretive perspective.",
+    "Assuming all first-person narrators are unreliable.",
+    "Assuming third-person narration is always objective or omniscient.",
+    "Treating the narrator as identical to the author.",
+    "Claiming narrator unreliability without specific textual evidence.",
+    "Ignoring the limitations of a narrator's knowledge.",
+    "Confusing dramatic, situational, and verbal irony.",
+    "Treating setting as a location without considering social or historical circumstances.",
+    "Confusing mood with tone.",
+    "Naming an emotion without analyzing how language and setting create it.",
+    "Assuming imagery refers only to visual description.",
+    "Treating dialogue as useful only for advancing plot.",
+    "Overlooking subtext and differences between speech and behavior.",
+    "Confusing symbols with motifs or assuming all recurring details are symbolic.",
+    "Assigning fixed symbolic meanings without examining textual context.",
+    "Ignoring changes in symbolic significance across a narrative.",
+    "Treating metaphor as decoration unrelated to character or theme.",
+    "Using unrelated metaphors and describing them as an extended metaphor.",
+    "Confusing a thematic topic with a thematic statement.",
+    "Presenting a plot summary as thematic analysis.",
+    "Assuming every theme must be a universal moral lesson.",
+    "Selecting one quotation without considering thematic development across the text.",
+    "Ignoring passages that complicate an initial thematic interpretation.",
+    "Forcing different literary works to communicate identical themes.",
+    "Discussing a social issue without connecting the discussion to the literary text.",
+    "Assuming social relevance requires a text to address a current event explicitly.",
+    "Using historical context as a substitute for close reading.",
+    "Making unsupported claims about an author's intentions.",
+    "Evaluating craft solely according to personal preference.",
+    "Assuming similar narrative patterns prove direct literary borrowing.",
+    "Treating adaptations as successful only when they reproduce the original exactly.",
+    "Ignoring differences in historical and cultural context when comparing narratives.",
+    "Creating characters whose motivations remain undeveloped.",
+    "Forcing character change into an ending without establishing believable development.",
+    "Introducing conflicts that do not influence characterization or meaning.",
+    "Changing narrative perspective unintentionally or inconsistently.",
+    "Revealing information that the established narrator could not reasonably know.",
+    "Using excessive description without considering its contribution to mood or purpose.",
+    "Naming a mood repeatedly rather than developing it through narrative details.",
+    "Writing dialogue that explains information characters would already know.",
+    "Using dialogue without meaningful character interaction or subtext.",
+    "Giving equal narrative attention to every event regardless of importance.",
+    "Including a metaphor once without developing its thematic significance.",
+    "Explaining a metaphor so explicitly that the narrative leaves no meaningful interpretive work for readers.",
+    "Adding narrative techniques solely to satisfy a checklist.",
+    "Ending a narrative with an unsupported or disconnected moral statement.",
+    "Revising only grammar and punctuation while leaving significant craft problems unresolved.",
+    "Assessing narrative writing primarily through the number of literary devices included."
+  ],
+  "skills": {
+    "10.T.T.1.a": {
+      "focus": "Evaluate the interaction of narrative techniques using textual evidence",
+      "studentFriendly": "I can evaluate how narrative techniques such as archetypes, multiple perspectives, plot structure, and symbolism work together to create meaning. I can support my interpretations with specific textual evidence and explain how the techniques influence readers.",
+      "know": [
+        "Narrative techniques are deliberate choices used to develop experiences, characters, conflicts, and ideas.",
+        "Archetypes are recurring character types, situations, images, or narrative patterns.",
+        "Authors can adapt, complicate, reverse, or challenge archetypes.",
+        "Point of view identifies the narrative position through which events are presented.",
+        "Perspective reflects experiences, knowledge, beliefs, assumptions, and interpretations.",
+        "Multiple perspectives can provide different interpretations of shared events.",
+        "Narrator reliability concerns whether readers have reason to trust or question an account.",
+        "Plot structure concerns the arrangement and presentation of narrative events.",
+        "Nonlinear structures can influence when readers receive important information.",
+        "Characterization develops characters through direct description and indirect evidence.",
+        "Conflict can reveal motivations and contribute to character development.",
+        "Setting includes physical, temporal, cultural, and social circumstances.",
+        "Symbols suggest meanings beyond their literal functions.",
+        "Motifs are recurring elements contributing to meaning.",
+        "Metaphors develop comparisons that can connect experiences to abstract ideas.",
+        "Textual evidence includes specific language, events, descriptions, and structural features.",
+        "Reasoning explains the relationship between evidence and interpretation."
+      ],
+      "understand": [
+        "Narrative techniques interact to shape meaning and readers' experiences.",
+        "A technique's significance depends on its context and relationship to other narrative choices.",
+        "Archetypes can establish expectations that authors subsequently complicate.",
+        "Perspective influences how readers encounter characterization, conflict, and symbolic details.",
+        "Multiple perspectives can reveal limitations in individual interpretations.",
+        "Narrative structure influences when and how readers understand events.",
+        "Symbols may acquire additional meanings as characters and conflicts develop.",
+        "Characterization, setting, and conflict can reinforce or complicate one another.",
+        "Identifying techniques is insufficient without explaining their effects and relationships.",
+        "A defensible evaluation requires specific textual evidence and reasoning.",
+        "Alternative interpretations may be valid when supported by relevant evidence."
+      ],
+      "do": [
+        "Identify relevant narrative techniques within a text.",
+        "Recognize recurring character archetypes and narrative patterns.",
+        "Analyze how authors use or transform archetypes.",
+        "Identify narrative point of view and relevant perspectives.",
+        "Compare perspectives on shared events or conflicts.",
+        "Evaluate narrator reliability using textual evidence.",
+        "Analyze the arrangement of narrative events.",
+        "Evaluate how structural choices influence readers' knowledge and expectations.",
+        "Analyze characterization, motivation, and conflict.",
+        "Examine how setting influences character experiences.",
+        "Identify symbols, motifs, and recurring metaphors.",
+        "Trace changes in the significance of recurring elements.",
+        "Explain how two or more narrative techniques interact.",
+        "Select precise textual evidence supporting an interpretation.",
+        "Explain the reasoning connecting evidence to analytical claims.",
+        "Evaluate the contribution of interacting techniques to meaning and reader experience."
+      ],
+      "targets": [
+        "I can identify relevant narrative techniques.",
+        "I can analyze how authors use and adapt archetypes.",
+        "I can compare narrative perspectives.",
+        "I can evaluate narrator reliability.",
+        "I can explain how plot structure influences interpretation.",
+        "I can analyze symbolism and recurring narrative elements.",
+        "I can explain how multiple techniques work together.",
+        "I can support my evaluation with textual evidence and reasoning."
+      ],
+      "instruction": [
+        "Use short mentor passages containing several interacting techniques.",
+        "Model the difference between identifying a device and evaluating its contribution.",
+        "Teach archetypes through examples and meaningful variations.",
+        "Use paired accounts to investigate perspective and narrative knowledge.",
+        "Teach narrator reliability through contradictions, omissions, and contextual evidence.",
+        "Construct dual timelines for nonlinear narratives.",
+        "Use character evidence charts to connect motivations, choices, and conflicts.",
+        "Trace recurring symbols through multiple passages.",
+        "Model how setting and perspective influence the interpretation of symbolic details.",
+        "Use narrative interaction diagrams to connect techniques.",
+        "Require students to explain how evidence supports their evaluations.",
+        "Gradually move from analysis of two interacting techniques to more complex combinations."
+      ],
+      "evidence": [
+        "Accurate identification of relevant narrative techniques.",
+        "Supported analysis of archetypes and their transformation.",
+        "Comparisons of narrative perspectives.",
+        "Evidence-based evaluations of narrator reliability.",
+        "Analysis of narrative structure and information disclosure.",
+        "Character and conflict analyses supported by textual evidence.",
+        "Interpretations of symbolism and recurring narrative elements.",
+        "Explanations of relationships among multiple techniques.",
+        "Analytical claims supported by precise textual evidence.",
+        "Reasoned evaluations of how interacting techniques contribute to meaning."
+      ],
+      "watchFor": [
+        "Listing techniques without analyzing their effects.",
+        "Discussing techniques as though they operate independently.",
+        "Treating archetypes as rigid character categories.",
+        "Confusing archetypes with stereotypes.",
+        "Confusing point of view with perspective.",
+        "Assuming first-person narration is necessarily unreliable.",
+        "Identifying structural devices without explaining their significance.",
+        "Assigning symbolic meanings without textual support.",
+        "Ignoring changes in symbolic significance across a text.",
+        "Providing quotations without explaining their relationship to an analytical claim."
+      ]
+    },
+    "10.T.T.1.b": {
+      "focus": "Evaluate and critique narrative craft in relation to authorial purpose",
+      "studentFriendly": "I can evaluate how an author's purpose influences choices about plot structure, conflict, narrative devices, word choice, and other storytelling techniques. I can explain whether those choices are effective and support my critique with textual evidence.",
+      "know": [
+        "Authorial purpose concerns what a text is designed to accomplish.",
+        "Narratives may entertain, explore experiences, challenge assumptions, criticize institutions, or develop understanding.",
+        "Plot structure controls the arrangement and disclosure of events.",
+        "Conflict organizes struggles involving competing forces, motivations, or responsibilities.",
+        "Internal conflict occurs within a character.",
+        "External conflict involves opposing outside forces or circumstances.",
+        "Pacing influences the speed and emphasis of narrative presentation.",
+        "Foreshadowing anticipates later developments.",
+        "Flashbacks provide earlier experiences or contextual information.",
+        "Irony creates meaningful contrasts involving expectations, language, or knowledge.",
+        "Diction influences meaning, tone, mood, and characterization.",
+        "Imagery evokes sensory experience.",
+        "Setting can establish atmosphere and influence conflict.",
+        "Dialogue and subtext can reveal relationships and motivations.",
+        "Narrative perspective influences access to information and character experiences.",
+        "A critique is a reasoned evaluation supported by evidence rather than a statement of preference."
+      ],
+      "understand": [
+        "Authors select narrative techniques in relation to intended purposes and audience experiences.",
+        "A single narrative may pursue multiple related purposes.",
+        "Structural choices influence suspense, emphasis, interpretation, and emotional response.",
+        "Conflict can develop characterization and thematic concerns rather than merely provide action.",
+        "Word choice can influence readers' judgments and emotional responses.",
+        "Narrative devices can control information and create meaningful expectations or reversals.",
+        "A technique is not effective simply because it is present.",
+        "The effectiveness of a technique depends on its contribution to purpose and meaning.",
+        "Alternative craft choices may produce different effects.",
+        "Evaluations should explain how textual evidence supports judgments about effectiveness.",
+        "Authorial purpose should be inferred from relevant evidence rather than unsupported speculation."
+      ],
+      "do": [
+        "Infer plausible authorial purposes from textual and contextual evidence.",
+        "Identify significant narrative craft choices.",
+        "Analyze how plot structure influences readers' understanding.",
+        "Evaluate the relationship between conflict and narrative purpose.",
+        "Analyze how pacing, foreshadowing, flashbacks, and other devices influence effects.",
+        "Evaluate how diction and imagery contribute to mood, tone, and characterization.",
+        "Analyze the contribution of setting to narrative purpose.",
+        "Evaluate how dialogue and subtext develop relationships and conflict.",
+        "Analyze how narrative perspective influences readers' access to information.",
+        "Compare the effects of alternative narrative choices.",
+        "Develop a reasoned critique of narrative effectiveness.",
+        "Support evaluative claims with precise textual evidence.",
+        "Explain relationships among craft choices, purpose, audience, and meaning."
+      ],
+      "targets": [
+        "I can infer a narrative's purpose using evidence.",
+        "I can evaluate how plot structure contributes to purpose.",
+        "I can analyze how conflict develops meaning.",
+        "I can evaluate the effects of narrative devices.",
+        "I can explain how word choice influences readers.",
+        "I can compare the effects of alternative craft choices.",
+        "I can critique narrative effectiveness using textual evidence and reasoning."
+      ],
+      "instruction": [
+        "Teach authorial purpose as an evidence-based interpretation.",
+        "Compare narratives with different purposes and audience expectations.",
+        "Model how the same event can be presented through different structural arrangements.",
+        "Use scene and summary comparisons to evaluate pacing.",
+        "Analyze internal and external conflict in relation to characterization and meaning.",
+        "Teach diction through meaningful substitutions that change narrative effects.",
+        "Compare descriptions of the same setting written to create different moods.",
+        "Model the effects of withholding and revealing information.",
+        "Use alternative-perspective rewriting to evaluate narrative choices.",
+        "Teach students to distinguish personal preference from reasoned critique.",
+        "Require students to explain how specific evidence supports judgments about effectiveness.",
+        "Encourage evaluation of interacting techniques rather than isolated devices."
+      ],
+      "evidence": [
+        "Defensible interpretations of authorial purpose.",
+        "Evaluation of plot structure and its effects.",
+        "Analysis of conflict in relation to characterization and meaning.",
+        "Evaluation of pacing and narrative devices.",
+        "Analysis of diction, imagery, mood, and tone.",
+        "Explanations of how setting and perspective contribute to purpose.",
+        "Comparisons of original and alternative craft choices.",
+        "Reasoned critiques supported by specific textual evidence.",
+        "Clear explanations connecting craft choices to audience experience and narrative purpose."
+      ],
+      "watchFor": [
+        "Assuming every narrative has only one purpose.",
+        "Making unsupported claims about an author's personal intentions.",
+        "Naming devices without explaining their effects.",
+        "Treating plot structure as a mandatory fixed sequence.",
+        "Discussing conflict without connecting it to characterization or meaning.",
+        "Assuming complex structures are automatically more effective.",
+        "Evaluating word choice without considering context.",
+        "Confusing mood with tone.",
+        "Treating personal enjoyment as sufficient evidence of narrative effectiveness.",
+        "Criticizing a technique without considering the purpose it serves."
+      ]
+    },
+    "10.T.T.1.c": {
+      "focus": "Analyze thematic development and evaluate social relevance within and across texts",
+      "studentFriendly": "I can analyze how a theme develops and becomes more complex throughout a text. I can compare passages within and across literary works, evaluate how their themes connect to society, and support my interpretations with textual evidence and reasoning.",
+      "know": [
+        "A thematic topic is a broad subject explored by a text.",
+        "A thematic statement expresses an interpretation of what a text suggests about a subject.",
+        "A text may develop multiple related or competing themes.",
+        "Thematic development occurs as ideas are introduced, extended, complicated, or transformed.",
+        "Character motivations, choices, and consequences can contribute to theme.",
+        "Internal and external conflict can develop thematic concerns.",
+        "Setting and social circumstances can influence thematic meaning.",
+        "Narrative structure can shape the progression of thematic ideas.",
+        "Symbols, motifs, imagery, and metaphors can contribute to thematic development.",
+        "An ending may reinforce, complicate, or challenge earlier thematic implications.",
+        "Social relevance concerns connections between textual ideas and social experiences, institutions, values, or questions.",
+        "Historical and cultural context can illuminate thematic interpretation.",
+        "Texts addressing the same topic may develop different thematic meanings.",
+        "Textual evidence provides specific support for an interpretation.",
+        "Reasoning explains how evidence supports a thematic claim."
+      ],
+      "understand": [
+        "Theme is an interpretation rather than a single-word topic.",
+        "Theme is not necessarily a moral lesson or universal statement.",
+        "A thematic interpretation should account for relevant evidence across a text.",
+        "Themes may develop through tension, contradiction, ambiguity, and changing perspectives.",
+        "Later events can complicate an idea introduced earlier.",
+        "Character development and narrative conflict can reveal changing understandings of a central concern.",
+        "Recurring symbols and metaphors can connect experiences across different stages of a narrative.",
+        "Comparing passages helps readers trace the progression of thematic meaning.",
+        "Comparing texts reveals both shared concerns and differences in treatment.",
+        "Social relevance should emerge from a supported interpretation of the text.",
+        "Historical and cultural context can deepen interpretation without replacing close reading.",
+        "Literary analysis should distinguish textual claims from unsupported personal commentary.",
+        "Different interpretations may be defensible when supported by relevant evidence and reasoning."
+      ],
+      "do": [
+        "Identify significant thematic topics within a narrative.",
+        "Develop defensible thematic statements.",
+        "Distinguish thematic interpretations from plot summaries and unsupported generalizations.",
+        "Select passages from different stages of a text.",
+        "Trace how a thematic concern is introduced and developed.",
+        "Analyze how later events complicate earlier thematic implications.",
+        "Connect character development and conflict to thematic meaning.",
+        "Analyze how recurring symbols, motifs, and metaphors contribute to theme.",
+        "Evaluate the contribution of narrative structure to thematic development.",
+        "Compare thematic development across passages within a text.",
+        "Compare related thematic concerns across literary works.",
+        "Analyze differences in how authors develop similar topics.",
+        "Identify relevant social experiences, institutions, or questions connected to a theme.",
+        "Evaluate the social relevance of a text's thematic concerns.",
+        "Use relevant historical or cultural context to support interpretation.",
+        "Select precise textual evidence from multiple passages or works.",
+        "Explain the reasoning connecting evidence to thematic claims.",
+        "Develop coherent analytical and comparative responses."
+      ],
+      "targets": [
+        "I can distinguish a thematic topic from a thematic statement.",
+        "I can develop a defensible interpretation of a theme.",
+        "I can trace how a theme develops across a text.",
+        "I can explain how character choices and conflicts contribute to theme.",
+        "I can analyze how recurring images and metaphors develop ideas.",
+        "I can compare thematic development within and across texts.",
+        "I can evaluate a theme's social relevance.",
+        "I can support thematic interpretations with textual evidence and reasoning."
+      ],
+      "instruction": [
+        "Teach theme through comparisons among topics, plot summaries, morals, and interpretations.",
+        "Model developing thematic statements from patterns of textual evidence.",
+        "Use beginning-middle-end passage comparisons to trace development.",
+        "Require students to examine evidence that complicates initial interpretations.",
+        "Connect character arcs and conflict to thematic concerns.",
+        "Trace recurring symbols, motifs, and metaphors across texts.",
+        "Model how endings can transform earlier thematic implications.",
+        "Use paired texts addressing common concerns through different narrative choices.",
+        "Require students to develop separate interpretations before comparing texts.",
+        "Teach social relevance through text-grounded connections to meaningful social questions.",
+        "Provide credible historical and cultural context when appropriate.",
+        "Distinguish literary analysis from unsupported commentary about contemporary issues.",
+        "Model claim-evidence-reasoning structures for thematic analysis.",
+        "Encourage qualified interpretations that account for ambiguity and complexity."
+      ],
+      "evidence": [
+        "Accurate distinctions between thematic topics and thematic statements.",
+        "Defensible thematic interpretations.",
+        "Passage comparisons tracing thematic development.",
+        "Analysis of character choices, conflicts, and consequences in relation to theme.",
+        "Analysis of recurring symbols, motifs, and metaphors.",
+        "Explanations of how later events complicate earlier thematic meanings.",
+        "Comparative analyses of related themes across texts.",
+        "Evidence-based evaluations of social relevance.",
+        "Appropriate contextual information supporting interpretation.",
+        "Precise textual evidence from multiple passages or works.",
+        "Reasoning connecting evidence to thematic claims.",
+        "Coherent analytical responses demonstrating nuanced interpretation."
+      ],
+      "watchFor": [
+        "Naming a topic and presenting it as a complete theme.",
+        "Summarizing plot instead of analyzing thematic meaning.",
+        "Assuming every narrative communicates a single moral lesson.",
+        "Selecting evidence from only one passage when analyzing development.",
+        "Ignoring evidence that complicates an initial thematic interpretation.",
+        "Treating recurring symbols as having fixed meanings.",
+        "Forcing two texts to communicate identical themes.",
+        "Discussing a social concern without connecting it to textual evidence.",
+        "Treating personal agreement with a text as proof of social relevance.",
+        "Using historical context to replace literary analysis.",
+        "Providing quotations without explaining their significance."
+      ]
+    },
+    "10.T.T.1.d": {
+      "focus": "Analyze literary relationships among themes, event patterns, and character types across time periods",
+      "studentFriendly": "I can analyze how literary works from different time periods use related themes, event patterns, and character types. I can explain how authors preserve, adapt, or challenge earlier literary patterns and how historical and cultural context influences their meaning.",
+      "know": [
+        "Literary works can share recurring themes, character types, and event patterns.",
+        "An archetype is a recurring literary character type, situation, image, or narrative pattern.",
+        "Common recurring patterns include quests, journeys, transformations, coming-of-age experiences, and conflicts involving competing loyalties.",
+        "Historical context includes circumstances, institutions, beliefs, and cultural conditions surrounding a text.",
+        "Cultural context can influence narrative values, characterization, conflicts, and interpretations.",
+        "Intertextuality concerns meaningful relationships among texts.",
+        "An allusion references another recognizable text, figure, event, or cultural source.",
+        "An adaptation transforms an existing narrative into a new version, context, form, or medium.",
+        "A retelling reconstructs or reinterprets an existing story.",
+        "Authors may preserve recognizable elements while changing perspective, characterization, setting, conflict, or outcome.",
+        "Shared narrative patterns do not necessarily establish direct literary influence.",
+        "Documented influence, explicit adaptation, allusion, and general literary similarity are distinguishable relationships."
+      ],
+      "understand": [
+        "Literary traditions contain recurring concerns and patterns that can appear across historical periods.",
+        "Recurring patterns may acquire different meanings in different cultural and historical circumstances.",
+        "Authors can adapt familiar character types to challenge inherited assumptions.",
+        "Similar event patterns may develop different themes depending on characterization, perspective, and outcome.",
+        "Adaptations can preserve recognizable elements while transforming their values and implications.",
+        "Changing narrative perspective can transform the meaning of an earlier story.",
+        "Historical and cultural context can explain meaningful similarities and differences among works.",
+        "Shared patterns should not be treated as proof of direct borrowing without supporting evidence.",
+        "Literary comparison requires attention to differences as well as similarities.",
+        "No single narrative formula adequately describes every literary tradition.",
+        "Analysis of literary relationships should be supported by evidence from the works being compared."
+      ],
+      "do": [
+        "Identify recurring themes across literary works.",
+        "Recognize shared character archetypes and event patterns.",
+        "Compare the development of related patterns in texts from different periods.",
+        "Identify relevant historical and cultural circumstances.",
+        "Analyze how context influences character motivations, conflict, and thematic meaning.",
+        "Explain how authors preserve or transform earlier narrative elements.",
+        "Compare earlier narratives with established adaptations or retellings.",
+        "Analyze the effects of changes in perspective, setting, characterization, and outcome.",
+        "Distinguish explicit adaptation from general narrative similarity.",
+        "Evaluate whether available evidence supports claims of direct literary influence.",
+        "Explain how recurring patterns acquire new meanings across historical periods.",
+        "Select relevant textual evidence from multiple works.",
+        "Develop coherent comparative interpretations supported by reasoning."
+      ],
+      "targets": [
+        "I can identify recurring themes, character types, and event patterns.",
+        "I can compare literary works from different historical periods.",
+        "I can explain how historical and cultural context influences narrative meaning.",
+        "I can analyze how an adaptation transforms an earlier story.",
+        "I can explain how authors challenge familiar character archetypes.",
+        "I can distinguish direct literary influence from general similarities.",
+        "I can support cross-period literary comparisons with textual evidence."
+      ],
+      "instruction": [
+        "Introduce recurring narrative patterns through accessible examples.",
+        "Compare character archetypes across different historical and cultural contexts.",
+        "Teach literary patterns as adaptable rather than rigid or universally mandatory.",
+        "Use paired earlier and contemporary texts with meaningful relationships.",
+        "Compare classical narratives with established modern adaptations.",
+        "Provide credible historical and cultural context for each work.",
+        "Model how a perspective change transforms characterization and thematic implications.",
+        "Teach the distinction among adaptation, allusion, documented influence, and shared patterns.",
+        "Require students to analyze differences rather than simply list similarities.",
+        "Use comparative matrices organized around themes, character types, events, and contextual influences.",
+        "Encourage interpretations that recognize culturally specific meanings.",
+        "Use transformative retelling projects to reinforce understanding of literary relationships."
+      ],
+      "evidence": [
+        "Identification of recurring literary themes, archetypes, and event patterns.",
+        "Comparisons of literary works from different historical periods.",
+        "Analysis of similarities and meaningful differences in narrative development.",
+        "Appropriate use of historical and cultural context.",
+        "Analysis of how authors preserve and transform earlier patterns.",
+        "Comparisons of established adaptations with their source narratives.",
+        "Explanations of how perspective changes influence meaning.",
+        "Distinctions between direct influence and general literary similarity.",
+        "Comparative claims supported by evidence from multiple works.",
+        "Reasoning explaining how literary patterns acquire new meanings across time."
+      ],
+      "watchFor": [
+        "Treating all examples of an archetype as identical.",
+        "Assuming similar patterns establish direct borrowing.",
+        "Ignoring historical and cultural context.",
+        "Presenting a single narrative structure as universal and mandatory.",
+        "Reducing cultural traditions to oversimplified patterns.",
+        "Listing similarities without analyzing meaningful differences.",
+        "Assuming adaptations must preserve the original work's values.",
+        "Treating a perspective change as merely a change in pronouns.",
+        "Evaluating adaptations only according to fidelity to the earlier narrative.",
+        "Making comparative claims without evidence from both works."
+      ]
+    },
+    "10.T.T.1.e": {
+      "focus": "Construct narratives using complex character development, purposeful setting, mood, and thematic development through metaphor",
+      "studentFriendly": "I can write engaging narratives that develop complex characters who change through their experiences. I can use setting to create mood, choose storytelling techniques that support my purpose and audience, and develop an idea or theme throughout my narrative using a recurring or extended metaphor.",
+      "know": [
+        "Narrative writing develops real or imagined experiences through purposeful storytelling choices.",
+        "Narrative purpose and audience influence decisions about content, structure, perspective, and style.",
+        "Complex characters possess multiple and potentially competing motivations, beliefs, fears, or desires.",
+        "Dynamic characters undergo meaningful change.",
+        "A character arc develops through experiences, conflicts, decisions, and consequences.",
+        "Internal and external conflicts can interact to reveal characterization.",
+        "Narrative perspective controls access to information and character experiences.",
+        "Plot structure organizes the presentation of events.",
+        "Pacing influences the speed and emphasis of narrative presentation.",
+        "Scene presents significant events through detailed action, dialogue, and description.",
+        "Summary condenses events or periods of time.",
+        "Reflection interprets experiences and their significance.",
+        "Setting includes physical, temporal, cultural, and social circumstances.",
+        "Mood is the emotional atmosphere created for readers.",
+        "Imagery and diction can establish and develop mood.",
+        "Dialogue can reveal relationships, motivations, and conflict.",
+        "Subtext communicates meaning beneath spoken words or observable behavior.",
+        "A metaphor develops a meaningful comparison between unlike things.",
+        "An extended metaphor develops a comparison through multiple related details.",
+        "A recurring metaphor can connect experiences across a narrative.",
+        "Metaphorical patterns can contribute to the development of an idea or theme.",
+        "Theme emerges through relationships among character experiences, conflicts, structure, language, and other narrative choices.",
+        "Revision strengthens relationships among narrative techniques, purpose, audience, and meaning."
+      ],
+      "understand": [
+        "Effective narrative writing begins with purposeful choices rather than a checklist of devices.",
+        "Character complexity develops through competing motivations and meaningful responses to circumstances.",
+        "Believable character change requires preparation through experiences, decisions, and consequences.",
+        "A character can change in understanding, values, behavior, relationships, or identity.",
+        "Conflict should contribute to character development and narrative meaning.",
+        "Narrative perspective influences readers' access to information and emotional experience.",
+        "Structure and pacing should reflect the importance and purpose of narrative events.",
+        "Setting can influence conflict and characterization while establishing mood.",
+        "Mood can be developed through carefully selected details without explicitly naming an emotion.",
+        "Dialogue is more effective when it contributes to character relationships, conflict, or narrative progression.",
+        "Subtext can reveal motivations that characters do not directly express.",
+        "Metaphors can develop thematic meaning rather than merely embellish descriptions.",
+        "A recurring metaphor should acquire significance through its relationship to narrative experiences.",
+        "An extended metaphor requires a coherent comparison developed through related details.",
+        "Thematic meaning can emerge through character choices and recurring language without an explicit moral statement.",
+        "Effective endings develop, complicate, or resolve central narrative concerns.",
+        "Narrative techniques should work together to achieve the writer's purpose and engage the intended audience.",
+        "Revision should address character development, structure, mood, metaphor, and theme as well as sentence-level correctness."
+      ],
+      "do": [
+        "Identify a meaningful narrative purpose and intended audience.",
+        "Generate real or imagined narrative situations.",
+        "Develop a complex protagonist with competing motivations or responsibilities.",
+        "Establish meaningful internal and external conflicts.",
+        "Plan a believable character arc.",
+        "Develop character change through significant experiences and decisions.",
+        "Use direct and indirect characterization purposefully.",
+        "Select a narrative perspective appropriate to the intended effect.",
+        "Maintain consistent management of narrative knowledge.",
+        "Organize events to create coherent and purposeful progression.",
+        "Experiment with chronological and nonlinear structures when appropriate.",
+        "Use scene, summary, and reflection to control pacing.",
+        "Develop settings that influence character experiences and conflict.",
+        "Select sensory details and diction that establish an intended mood.",
+        "Use dialogue and subtext to develop relationships and motivations.",
+        "Identify an abstract idea or thematic concern for the narrative.",
+        "Develop a coherent metaphor connected to the character's experiences.",
+        "Plan how the metaphor will recur or develop across significant narrative moments.",
+        "Use related metaphorical details to strengthen thematic meaning.",
+        "Integrate narrative techniques in ways that reinforce one another.",
+        "Develop an ending connected to character change and thematic concerns.",
+        "Evaluate whether narrative choices achieve the intended purpose.",
+        "Seek and evaluate feedback about character development, coherence, mood, and theme.",
+        "Revise structural and stylistic choices to strengthen narrative effectiveness.",
+        "Explain the relationships among selected craft choices in a reflective commentary."
+      ],
+      "targets": [
+        "I can identify a purpose and audience for my narrative.",
+        "I can create a complex character with competing motivations.",
+        "I can develop conflicts that reveal character qualities.",
+        "I can show believable character change across a narrative.",
+        "I can choose a purposeful narrative perspective and structure.",
+        "I can use setting and sensory details to establish mood.",
+        "I can use dialogue, subtext, and pacing to engage readers.",
+        "I can develop a recurring or extended metaphor connected to a central idea.",
+        "I can use metaphor to develop thematic meaning throughout my narrative.",
+        "I can integrate narrative techniques so they work together.",
+        "I can revise my narrative to strengthen characterization, mood, coherence, and theme.",
+        "I can explain how my craft choices support my purpose and audience."
+      ],
+      "instruction": [
+        "Use mentor texts to demonstrate purposeful narrative craft.",
+        "Begin planning with audience, purpose, character motivation, and thematic possibilities.",
+        "Model complex characters through competing desires, responsibilities, and beliefs.",
+        "Use character arc maps to connect experiences, decisions, and change.",
+        "Teach students to develop internal and external conflict together.",
+        "Model indirect characterization through actions, dialogue, thoughts, and relationships.",
+        "Provide opportunities to experiment with alternative narrative perspectives.",
+        "Teach students to manage what narrators and characters can reasonably know.",
+        "Use structural planning tools to organize events purposefully.",
+        "Compare scene and summary to develop control of pacing.",
+        "Model setting descriptions that influence both mood and character experience.",
+        "Use sensory language workshops to develop purposeful atmosphere.",
+        "Teach dialogue and subtext through conflicting character motivations.",
+        "Model selecting an abstract idea and a concrete metaphorical comparison.",
+        "Use metaphor development maps showing how related details recur at significant narrative moments.",
+        "Compare effective thematic metaphors with isolated decorative figurative language.",
+        "Teach students to develop thematic meaning through narrative experiences rather than unsupported moral statements.",
+        "Model endings that reflect or complicate character development.",
+        "Use craft commentaries to help students evaluate their choices.",
+        "Provide peer feedback focused on narrative purpose and reader experience.",
+        "Use revision conferences to strengthen character arcs, structural coherence, mood, and metaphorical development.",
+        "Assess the integration and effectiveness of narrative techniques rather than the number included."
+      ],
+      "evidence": [
+        "A narrative plan identifying purpose and intended audience.",
+        "A complex protagonist with meaningful and potentially competing motivations.",
+        "Internal and external conflicts contributing to characterization.",
+        "A believable character arc developed through experiences and decisions.",
+        "Purposeful use of direct and indirect characterization.",
+        "A consistent or deliberately managed narrative perspective.",
+        "Coherent narrative structure and event progression.",
+        "Effective control of pacing through scene, summary, and reflection.",
+        "Setting details contributing to mood and character experiences.",
+        "Purposeful imagery and diction.",
+        "Dialogue and subtext developing relationships and conflict.",
+        "A coherent recurring or extended metaphor.",
+        "Metaphorical details developed across significant narrative moments.",
+        "A clear relationship between metaphor and thematic development.",
+        "Narrative techniques working together to achieve an intended purpose.",
+        "An ending connected to character development and thematic concerns.",
+        "A reflective commentary explaining craft choices.",
+        "Evidence of revision strengthening narrative effectiveness.",
+        "Independent application of narrative techniques in original compositions."
+      ],
+      "watchFor": [
+        "Creating a protagonist with only one undeveloped trait.",
+        "Treating character complexity as a long physical description.",
+        "Introducing character change without believable preparation.",
+        "Using conflicts that do not contribute to character development or meaning.",
+        "Changing narrative perspective unintentionally.",
+        "Revealing information beyond the established narrator's knowledge.",
+        "Using nonlinear structure without a clear purpose or coherent progression.",
+        "Presenting all events at the same level of detail.",
+        "Describing setting without considering its contribution to mood or conflict.",
+        "Naming emotions instead of developing atmosphere through narrative details.",
+        "Using dialogue solely to explain information.",
+        "Ignoring subtext and competing motivations.",
+        "Including an isolated metaphor unrelated to the narrative's central idea.",
+        "Using multiple unrelated comparisons instead of a coherent extended metaphor.",
+        "Repeating a metaphor without developing its significance.",
+        "Stating a moral at the ending without preparing it through narrative experiences.",
+        "Adding literary devices mechanically to satisfy assignment requirements.",
+        "Revising only grammar and punctuation rather than narrative craft.",
+        "Evaluating narrative success primarily through the number of techniques included."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified assignments at any named school. Reading times refer to selected excerpts or passage clusters unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, copyright permissions, age suitability, and historical or cultural context. Some selections contain violence, death, racism, sexual content, psychological distress, religious conflict, or other sensitive material; review specific passages before assigning. Use appropriate translations when comparing literature across historical periods. Distinguish established adaptations and documented literary influence from broader similarities in recurring narrative patterns. Avoid treating archetypes as rigid universal categories or reducing culturally specific narratives to a single interpretive framework. Narrative writing activities should emphasize purposeful integration of techniques and thematic development through metaphor rather than mechanical completion of a literary-device checklist."
+}
   ]
 }
+
 
 
