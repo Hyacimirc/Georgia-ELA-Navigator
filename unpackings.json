@@ -13422,6 +13422,2108 @@
   },
   "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, copyright permissions, age suitability, historical context, and the accuracy of manuscript transcriptions. Some writing craft texts contain mature language or subject matter; select excerpts appropriate to the instructional setting. Manuscript comparisons should distinguish observable textual changes from unsupported assumptions about author intentions. Writing-process activities should allow flexible approaches rather than require every writer to follow an identical sequence. Evaluate the quality and effectiveness of writing decisions rather than simply counting drafts, revisions, or completed process documents."
 }
+
+,
+{
+  "code": "10.T.RA.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Curating Sources & Evidence",
+  "studentFriendly": "I can find relevant information using credible print and digital sources, including academic databases. I can evaluate information for accuracy, validity, relevance, misconceptions, conflicting perspectives, and bias. I can select and integrate textual evidence responsibly, using MLA citations and Works Cited entries to acknowledge my sources.",
+  "know": [
+    "Research involves locating, evaluating, selecting, organizing, and using information to investigate questions or develop understanding.",
+    "Curating sources involves deliberately selecting and organizing sources according to their quality, relevance, and usefulness.",
+    "Curating evidence involves selecting specific information from sources to support an interpretation, explanation, argument, or research question.",
+    "A source is a text, document, recording, artifact, dataset, or other resource that provides information.",
+    "Evidence is specific information used to support a claim, interpretation, explanation, or conclusion.",
+    "A research question identifies the issue or problem a researcher intends to investigate.",
+    "A central argument is the main position or claim developed within an argumentative text.",
+    "Credibility refers to the degree to which a source can reasonably be trusted for a particular purpose.",
+    "Authority refers to the knowledge, expertise, experience, or institutional responsibility that qualifies a source to address a topic.",
+    "Accuracy refers to the degree to which information corresponds with verifiable facts or evidence.",
+    "Validity refers to whether information, evidence, reasoning, or conclusions are adequately supported and appropriate to the question being considered.",
+    "Relevance refers to the relationship between information and a particular research question, argument, or purpose.",
+    "Currency refers to the timeliness of information in relation to the research topic.",
+    "Bias is a tendency, preference, assumption, or perspective that may influence the selection, interpretation, or presentation of information.",
+    "A source can have an identifiable perspective and still provide accurate and useful information.",
+    "A misconception is an inaccurate or incomplete understanding of a concept, event, issue, or relationship.",
+    "Conflicting information occurs when sources present incompatible factual claims, interpretations, or conclusions.",
+    "Conflicting perspectives may reflect differences in experiences, values, assumptions, purposes, methods, or interpretations.",
+    "A primary source provides firsthand evidence or direct documentation relevant to a research question.",
+    "A secondary source analyzes, interprets, contextualizes, or discusses primary sources or existing research.",
+    "A tertiary source summarizes or organizes information from other sources, often for introductory reference.",
+    "Whether a source is primary or secondary depends partly on the research question.",
+    "Print sources include books, journals, newspapers, magazines, reports, and other printed publications.",
+    "Digital sources include websites, ebooks, online journals, databases, digital archives, multimedia resources, and datasets.",
+    "An academic database is an organized collection of searchable information resources, often including scholarly journals, reference works, newspapers, and other publications.",
+    "A library catalog identifies resources available through a library or library system.",
+    "A search engine locates and ranks online information according to algorithms that may consider relevance, popularity, personalization, and other factors.",
+    "A database search may allow users to search by subject, author, title, keyword, publication date, document type, and other fields.",
+    "Keywords are important words or phrases used to locate information related to a topic.",
+    "Subject headings are standardized terms used to organize and retrieve information about particular topics.",
+    "Boolean operators such as AND, OR, and NOT can help refine searches when supported by the search platform.",
+    "Quotation marks can be used in many search systems to search for an exact phrase.",
+    "Search filters can narrow results by date, publication type, subject, language, availability, and other characteristics.",
+    "An abstract summarizes the purpose, methods, findings, or major ideas of a scholarly publication.",
+    "Peer review is a process in which qualified experts evaluate scholarly work before publication.",
+    "Peer-reviewed publication does not guarantee that every claim is accurate, current, or applicable to a particular question.",
+    "Publication context includes the publisher, publication date, intended audience, purpose, editorial process, and circumstances surrounding a source.",
+    "A DOI is a persistent digital identifier commonly assigned to scholarly publications and other digital objects.",
+    "A permalink is a stable link intended to provide continued access to a particular resource.",
+    "Lateral reading involves investigating a source by consulting information outside the source itself.",
+    "Corroboration involves comparing information with independent evidence or other credible sources.",
+    "Source tracing involves following a claim, quotation, statistic, or image back to its original source when possible.",
+    "Independent sources provide evidence that is not merely repeated from the same underlying report or publication.",
+    "A claim may be widely repeated without being independently verified.",
+    "A conflict of interest occurs when financial, professional, political, personal, or institutional interests may influence a source's judgments or presentation.",
+    "An inference is a conclusion developed from evidence and reasoning rather than stated directly in a text.",
+    "A quotation reproduces the exact words of a source and requires appropriate attribution.",
+    "A paraphrase restates a source's meaning using substantially original wording and sentence structure.",
+    "A summary presents the central ideas of a source or passage in a condensed form.",
+    "Quotations, paraphrases, and summaries generally require citations when they communicate information or ideas obtained from a source.",
+    "A signal phrase introduces a source or its information within a writer's own sentence.",
+    "Evidence integration involves connecting source material to a writer's own ideas, explanations, and reasoning.",
+    "Synthesis involves connecting information from multiple sources to develop a more complete understanding or original conclusion.",
+    "Plagiarism involves presenting another person's words, ideas, or work without appropriate acknowledgment.",
+    "Patchwriting involves closely reproducing a source's wording or sentence structure while making limited substitutions.",
+    "Common knowledge is information generally known within an appropriate audience or field, although what qualifies depends on context.",
+    "MLA style provides conventions for documenting sources and integrating textual evidence in humanities writing.",
+    "An MLA in-text citation identifies the source of information and includes a relevant location marker when available and appropriate.",
+    "An MLA Works Cited entry provides the information readers need to identify and locate a cited source.",
+    "An MLA in-text citation should direct readers to the corresponding Works Cited entry.",
+    "MLA documentation uses applicable core elements such as author, title, container, contributors, version, number, publisher, publication date, and location.",
+    "A container is a larger work or platform that contains a source, such as a journal containing an article or an anthology containing an essay.",
+    "Works Cited entries are generally arranged alphabetically by their first element and formatted with hanging indents.",
+    "Citation generators and database-generated citations may contain errors and require verification.",
+    "Artificial intelligence tools may generate inaccurate information, fabricated quotations, or nonexistent citations.",
+    "A citation acknowledges a source but does not establish that the source is credible or that its claims are accurate."
+  ],
+  "understand": [
+    "Effective research requires purposeful selection and evaluation rather than simply collecting large quantities of information.",
+    "The most useful source depends on the research question, the information needed, and the intended purpose.",
+    "A credible source for one research question may be inappropriate for another.",
+    "Different source types contribute different kinds of evidence and perspectives.",
+    "Academic databases can provide access to information that may be difficult to locate through general web searches.",
+    "Database access does not eliminate the need to evaluate individual sources.",
+    "Search strategies influence the quality, relevance, and range of information researchers discover.",
+    "Researchers refine search terms and strategies as their understanding of a topic develops.",
+    "Authority should be evaluated in relation to the specific topic and claims being considered.",
+    "Accuracy, validity, relevance, and credibility are related but distinct characteristics of information.",
+    "A source can be accurate but irrelevant to a particular research question.",
+    "A source can be relevant but unreliable or inadequately supported.",
+    "The importance of publication date depends on the research topic and the kind of information needed.",
+    "A historical primary source may remain valuable even when it is not current.",
+    "Identifying bias requires examining evidence, language, selection of information, purpose, perspective, and publication context.",
+    "An author's identity or affiliation alone does not establish whether a particular claim is accurate.",
+    "The presence of bias does not automatically make a source unusable.",
+    "Researchers should distinguish factual disagreement from differences in interpretation, values, or priorities.",
+    "Conflicting information can reveal gaps in evidence, differences in research methods, changing knowledge, or competing interpretations.",
+    "Repeated claims are not necessarily corroborated when multiple sources rely on the same original information.",
+    "Lateral reading and source tracing help researchers investigate claims beyond the appearance of a webpage or publication.",
+    "Researchers should acknowledge uncertainty when available evidence does not justify a definitive conclusion.",
+    "Strong evidence is selected according to its relevance, quality, specificity, and contribution to the writer's reasoning.",
+    "Quotations are useful when the exact wording of a source matters.",
+    "Paraphrases are useful when a source's meaning is important but its exact wording is not necessary.",
+    "Summaries are useful when readers need an overview of a larger argument, text, or body of information.",
+    "Paraphrasing requires understanding and reconstructing meaning rather than replacing individual words with synonyms.",
+    "Evidence becomes more effective when writers explain its relationship to their claims or interpretations.",
+    "Synthesis requires examining relationships among sources rather than presenting disconnected source summaries.",
+    "Accurate attribution helps readers distinguish the writer's ideas from information obtained from other sources.",
+    "MLA documentation allows readers to trace evidence back to its source and evaluate its use.",
+    "A Works Cited page and in-text citations function together as a documentation system.",
+    "A correctly formatted citation does not compensate for weak, irrelevant, or inaccurate evidence.",
+    "Responsible researchers verify quotations, statistics, source details, and citations before using them.",
+    "Digital tools can support research but cannot replace a researcher's responsibility to evaluate and verify information.",
+    "Effective research habits transfer across academic disciplines, professional contexts, and everyday information decisions."
+  ],
+  "do": [
+    "Identify the central argument, topic, or research question that will guide information gathering.",
+    "Determine what types of information and evidence are needed.",
+    "Select appropriate print and digital research tools.",
+    "Navigate a library catalog to locate relevant books and other resources.",
+    "Navigate academic databases to locate credible information.",
+    "Develop effective keywords and search phrases.",
+    "Use appropriate search operators, subject headings, and filters.",
+    "Revise search strategies when initial results are too broad, too narrow, or insufficiently relevant.",
+    "Distinguish among primary, secondary, and tertiary sources in relation to a research question.",
+    "Use abstracts, tables of contents, indexes, headings, and other text features to evaluate potential relevance.",
+    "Investigate author qualifications and publication context.",
+    "Identify a source's intended audience and purpose.",
+    "Evaluate source credibility in relation to the information being sought.",
+    "Verify factual claims, quotations, statistics, and other evidence.",
+    "Evaluate whether information is valid, relevant, accurate, and adequately supported.",
+    "Identify misconceptions or unsupported assumptions within sources.",
+    "Identify conflicting factual claims and perspectives across sources.",
+    "Analyze how author bias, interests, assumptions, and purposes influence presentation.",
+    "Distinguish observable evidence of bias from unsupported assumptions about an author.",
+    "Use lateral reading to investigate unfamiliar sources.",
+    "Trace claims and quotations to their original sources when possible.",
+    "Compare independent sources to corroborate important information.",
+    "Evaluate possible explanations for conflicting information.",
+    "Identify limitations and uncertainties within available evidence.",
+    "Select the strongest evidence for a particular claim, question, or interpretation.",
+    "Record accurate bibliographic information during research.",
+    "Organize evidence by topic, question, claim, or meaningful relationship.",
+    "Distinguish source language from personal notes and interpretations.",
+    "Select appropriate quotations, paraphrases, and summaries.",
+    "Paraphrase source material using original wording and sentence structure while preserving meaning.",
+    "Summarize central ideas accurately and concisely.",
+    "Integrate quotations into original sentences using appropriate signal phrases and punctuation.",
+    "Explain how selected evidence supports an inference, interpretation, explanation, or claim.",
+    "Compare and connect information from multiple sources.",
+    "Develop qualified conclusions when evidence is incomplete or conflicting.",
+    "Use MLA in-text citations when integrating textual evidence.",
+    "Create basic MLA Works Cited entries for cited sources.",
+    "Ensure that in-text citations correspond to Works Cited entries.",
+    "Verify citation details using reliable MLA guidance.",
+    "Evaluate and correct automatically generated citations.",
+    "Avoid plagiarism, patchwriting, and misrepresentation of source material.",
+    "Verify information and citations suggested by digital or AI-assisted tools.",
+    "Revise source selection and evidence integration when stronger information becomes available."
+  ],
+  "vocabulary": [
+    {
+      "term": "Source",
+      "definition": "A text, document, recording, artifact, dataset, or other resource that provides information.",
+      "example": "A historical letter, scholarly article, documentary, and government report can all serve as research sources."
+    },
+    {
+      "term": "Evidence",
+      "definition": "Specific information used to support a claim, interpretation, explanation, or conclusion.",
+      "example": "A researcher uses findings from a transportation study to support an explanation of pedestrian safety."
+    },
+    {
+      "term": "Curation",
+      "definition": "The purposeful selection, evaluation, and organization of resources or information.",
+      "example": "A student creates a collection of six credible sources addressing different aspects of a research question."
+    },
+    {
+      "term": "Credibility",
+      "definition": "The degree to which a source can reasonably be trusted for a particular purpose.",
+      "example": "A report becomes more credible when its authors explain their methods, identify their evidence, and acknowledge limitations."
+    },
+    {
+      "term": "Authority",
+      "definition": "The expertise, experience, knowledge, or responsibility that qualifies a source to address a topic.",
+      "example": "A transportation engineer may have relevant expertise when evaluating road design."
+    },
+    {
+      "term": "Accuracy",
+      "definition": "The degree to which information corresponds with verifiable facts or evidence.",
+      "example": "A student verifies a historical date using archival records and established historical scholarship."
+    },
+    {
+      "term": "Validity",
+      "definition": "The extent to which information, reasoning, evidence, or conclusions are adequately supported and appropriate to the question being considered.",
+      "example": "A conclusion about all high school students may lack validity if it relies on a survey of only five volunteers."
+    },
+    {
+      "term": "Relevance",
+      "definition": "The degree to which information contributes to a particular research question or purpose.",
+      "example": "A study of adolescent sleep is more relevant to a question about high school start times than a study of infant sleep."
+    },
+    {
+      "term": "Currency",
+      "definition": "The timeliness of information in relation to a particular topic or purpose.",
+      "example": "Recent population data may be necessary for a report about current community demographics."
+    },
+    {
+      "term": "Bias",
+      "definition": "A tendency, preference, assumption, or perspective that may influence the selection, interpretation, or presentation of information.",
+      "example": "An advertisement emphasizes a product's advantages while omitting information about its limitations."
+    },
+    {
+      "term": "Perspective",
+      "definition": "A position or lens through which a person interprets a topic, event, or issue.",
+      "example": "Students, teachers, parents, and transportation officials may evaluate a school scheduling proposal from different perspectives."
+    },
+    {
+      "term": "Misconception",
+      "definition": "An inaccurate or incomplete understanding of a concept, event, issue, or relationship.",
+      "example": "A source repeats the misconception that a widely shared online claim must be accurate."
+    },
+    {
+      "term": "Corroboration",
+      "definition": "The process of checking information against independent evidence or other credible sources.",
+      "example": "A student compares a newspaper's account of an event with public records and independently reported accounts."
+    },
+    {
+      "term": "Primary source",
+      "definition": "Firsthand evidence or direct documentation relevant to a research question.",
+      "example": "A diary written during a historical event provides firsthand evidence of the writer's experiences."
+    },
+    {
+      "term": "Secondary source",
+      "definition": "A source that analyzes, interprets, or contextualizes primary sources or existing research.",
+      "example": "A historian's book analyzing Civil War letters is a secondary source for research about the war."
+    },
+    {
+      "term": "Tertiary source",
+      "definition": "A resource that summarizes or organizes information from other sources, often for introductory reference.",
+      "example": "An encyclopedia article provides background information before a researcher investigates more specialized sources."
+    },
+    {
+      "term": "Academic database",
+      "definition": "An organized collection of searchable information resources used for academic research.",
+      "example": "A student searches an academic database to locate journal articles about the effects of social media."
+    },
+    {
+      "term": "Library catalog",
+      "definition": "A searchable system identifying resources available through a library or library system.",
+      "example": "A student searches the school library catalog for books about environmental justice."
+    },
+    {
+      "term": "Keyword",
+      "definition": "An important word or phrase used to search for information.",
+      "example": "Adolescent sleep and school start times are useful keywords for researching student sleep patterns."
+    },
+    {
+      "term": "Subject heading",
+      "definition": "A standardized term used to classify and retrieve resources about a particular topic.",
+      "example": "A researcher selects an established database subject heading to locate articles classified under the same topic."
+    },
+    {
+      "term": "Boolean operator",
+      "definition": "A search term such as AND, OR, or NOT used to combine or refine search concepts in systems that support these operators.",
+      "example": "A student searches adolescents AND sleep to locate results addressing both concepts."
+    },
+    {
+      "term": "Search filter",
+      "definition": "A search-system feature that limits results according to selected characteristics.",
+      "example": "A researcher limits results to scholarly journal articles published within an appropriate date range."
+    },
+    {
+      "term": "Abstract",
+      "definition": "A concise overview of a scholarly publication's purpose, methods, findings, or central ideas.",
+      "example": "A student reads an article's abstract to determine whether the study addresses the research question."
+    },
+    {
+      "term": "Peer review",
+      "definition": "A process in which qualified experts evaluate scholarly work before publication.",
+      "example": "Researchers submit a study to a journal where specialists evaluate its methods and conclusions."
+    },
+    {
+      "term": "Publication context",
+      "definition": "The circumstances surrounding a source's creation and distribution, including its publisher, audience, date, purpose, and editorial process.",
+      "example": "A student compares an independent news report with a company's promotional announcement about the same product."
+    },
+    {
+      "term": "Conflict of interest",
+      "definition": "A financial, professional, personal, political, or institutional interest that may influence a source's judgments or presentation.",
+      "example": "A researcher examines whether a company funded a study evaluating the company's own product."
+    },
+    {
+      "term": "Lateral reading",
+      "definition": "Investigating a source by consulting information outside the source itself.",
+      "example": "Before trusting an unfamiliar website, a student searches for independent information about the organization operating it."
+    },
+    {
+      "term": "Source tracing",
+      "definition": "Following a claim, quotation, statistic, or image back to its original source when possible.",
+      "example": "A student follows a news article's link to the original study rather than relying exclusively on the article's description."
+    },
+    {
+      "term": "Independent verification",
+      "definition": "Checking information using evidence that does not merely repeat the same underlying source.",
+      "example": "Three websites repeating one press release do not provide three independent confirmations."
+    },
+    {
+      "term": "DOI",
+      "definition": "A persistent digital object identifier used to identify and locate scholarly publications and other digital resources.",
+      "example": "A student records an article's DOI for use in a Works Cited entry."
+    },
+    {
+      "term": "Permalink",
+      "definition": "A stable link intended to provide continued access to a particular digital resource.",
+      "example": "A student saves a database article's permanent link instead of copying a temporary search-session address."
+    },
+    {
+      "term": "Inference",
+      "definition": "A conclusion developed from evidence and reasoning rather than directly stated information.",
+      "example": "A reader infers that a character feels isolated by examining dialogue, actions, and descriptions."
+    },
+    {
+      "term": "Quotation",
+      "definition": "The exact words of a source reproduced with appropriate quotation formatting and attribution.",
+      "example": "A literary analysis quotes a character's dialogue because the precise wording supports the interpretation."
+    },
+    {
+      "term": "Paraphrase",
+      "definition": "A restatement of a source's meaning using substantially original wording and sentence structure.",
+      "example": "A student explains a study's findings in original language while citing the study."
+    },
+    {
+      "term": "Summary",
+      "definition": "A condensed representation of a source's central ideas or major findings.",
+      "example": "A researcher summarizes a lengthy report in three sentences before comparing it with another report."
+    },
+    {
+      "term": "Signal phrase",
+      "definition": "Language introducing a source or its information within a writer's own sentence.",
+      "example": "The phrase According to the study's authors introduces information from a research publication."
+    },
+    {
+      "term": "Evidence integration",
+      "definition": "The purposeful incorporation of source material into a writer's original explanation, interpretation, or argument.",
+      "example": "A writer introduces a quotation, cites its source, and explains how its language supports the central claim."
+    },
+    {
+      "term": "Synthesis",
+      "definition": "Connecting information from multiple sources to develop a more complete understanding or original conclusion.",
+      "example": "A student compares three studies and explains how their different findings reveal limitations in a proposed policy."
+    },
+    {
+      "term": "Plagiarism",
+      "definition": "Presenting another person's words, ideas, or work without appropriate acknowledgment.",
+      "example": "A student copies a paragraph from a website into an essay without quotation formatting or citation."
+    },
+    {
+      "term": "Patchwriting",
+      "definition": "Closely reproducing a source's language or sentence structure while making limited changes.",
+      "example": "A student replaces several words in a source sentence with synonyms but retains its distinctive structure and phrasing."
+    },
+    {
+      "term": "Common knowledge",
+      "definition": "Information generally known within an appropriate audience or field and not ordinarily requiring attribution.",
+      "example": "A general statement that Earth orbits the Sun is commonly known, while a specific study's findings require attribution."
+    },
+    {
+      "term": "Attribution",
+      "definition": "Acknowledgment identifying the source of information, language, ideas, or creative work.",
+      "example": "A student identifies the author of a report before presenting its findings."
+    },
+    {
+      "term": "MLA style",
+      "definition": "Documentation and writing conventions established by the Modern Language Association.",
+      "example": "A literary analysis uses MLA in-text citations and a Works Cited page."
+    },
+    {
+      "term": "In-text citation",
+      "definition": "A brief reference within a text identifying the source of quoted, paraphrased, or summarized material.",
+      "example": "A citation containing an author's surname and page number directs readers to the corresponding Works Cited entry."
+    },
+    {
+      "term": "Works Cited",
+      "definition": "An MLA list of sources cited within a composition.",
+      "example": "A student includes an alphabetized Works Cited page containing entries for each source cited in an essay."
+    },
+    {
+      "term": "Container",
+      "definition": "A larger work or platform that contains the source being cited.",
+      "example": "A journal is the container for an article published within it."
+    },
+    {
+      "term": "Hanging indent",
+      "definition": "A formatting pattern in which the first line of an entry begins at the margin and subsequent lines are indented.",
+      "example": "MLA Works Cited entries use hanging indents to make individual sources easier to distinguish."
+    }
+  ],
+  "targets": [
+    "I can identify the information I need to answer a research question.",
+    "I can locate relevant print and digital sources.",
+    "I can use academic databases to find credible information.",
+    "I can develop and refine effective search strategies.",
+    "I can distinguish among primary, secondary, and tertiary sources.",
+    "I can investigate a source's author, publisher, purpose, and context.",
+    "I can evaluate information for credibility, accuracy, validity, relevance, and currency.",
+    "I can identify misconceptions and unsupported claims.",
+    "I can recognize conflicting information and perspectives.",
+    "I can analyze how bias influences the presentation of information.",
+    "I can verify claims by consulting independent sources.",
+    "I can trace information to its original source.",
+    "I can explain possible reasons for disagreements among sources.",
+    "I can select the strongest evidence for a particular question or claim.",
+    "I can distinguish my own ideas from information obtained from sources.",
+    "I can quote, paraphrase, and summarize accurately.",
+    "I can integrate evidence into my own writing and explain its significance.",
+    "I can connect information from multiple sources.",
+    "I can use MLA in-text citations when incorporating source material.",
+    "I can create basic MLA Works Cited entries.",
+    "I can verify that my citations accurately identify real sources.",
+    "I can avoid plagiarism and patchwriting.",
+    "I can revise my conclusions when stronger evidence becomes available."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction and investigative journalism",
+      "purpose": "Examine how a researcher integrates interviews, historical records, scientific information, and competing perspectives to investigate a complex topic.",
+      "access": "School library or authorized print or digital edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate; provide background on medical research, informed consent, and historical context. Review sensitive medical and family content.",
+      "interestHook": "A woman's cells transformed medical research while her family remained largely unaware of their significance.",
+      "teachingPrompt": "What kinds of sources does Skloot use, what does each contribute, and how does she address differences among scientific, historical, and personal perspectives?"
+    },
+    {
+      "title": "The 57 Bus",
+      "author": "Dashka Slater",
+      "genre": "Narrative nonfiction",
+      "purpose": "Analyze the selection and integration of interviews, court records, news coverage, and other evidence in a complex real-world investigation.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Accessible narrative structure with complex ethical and legal questions; contains violence and sensitive identity-related content.",
+      "interestHook": "One incident on a public bus changes the lives of two teenagers and raises questions about justice and responsibility.",
+      "teachingPrompt": "How do different sources contribute to the author's representation of the incident, and why would relying on only one account produce an incomplete understanding?"
+    },
+    {
+      "title": "The Boy Who Harnessed the Wind",
+      "author": "William Kamkwamba and Bryan Mealer",
+      "genre": "Memoir and narrative nonfiction",
+      "purpose": "Examine how information from books, observation, experimentation, and personal experience contributes to problem-solving.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; editions vary in length and complexity.",
+      "interestHook": "A teenager uses information from library books to build a windmill and address a practical problem.",
+      "teachingPrompt": "How does Kamkwamba locate, evaluate, and apply information, and what additional sources could help a researcher investigate the scientific principles behind his work?"
+    },
+    {
+      "title": "Hidden Figures",
+      "author": "Margot Lee Shetterly",
+      "genre": "Historical narrative nonfiction",
+      "purpose": "Examine how archival records, interviews, historical scholarship, and contextual evidence can recover overlooked contributions.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate; provide historical context concerning segregation, scientific research, and the space program.",
+      "teachingPrompt": "Which types of evidence help Shetterly reconstruct historical experiences, and how can readers distinguish documented events from interpretive conclusions?"
+    },
+    {
+      "title": "Bomb: The Race to Build—and Steal—the World's Most Dangerous Weapon",
+      "author": "Steve Sheinkin",
+      "genre": "Historical narrative nonfiction",
+      "purpose": "Analyze how historical records, interviews, and multiple perspectives contribute to a researched narrative.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected chapters and source notes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; provide historical context and review discussion of warfare.",
+      "interestHook": "Scientific discovery, espionage, and international competition converge in a high-stakes historical investigation.",
+      "teachingPrompt": "How do the author's source notes help readers evaluate the evidence behind the narrative?"
+    },
+    {
+      "title": "The Radium Girls",
+      "author": "Kate Moore",
+      "genre": "Historical investigative nonfiction",
+      "purpose": "Examine how medical evidence, legal records, testimony, and corporate claims can conflict within a historical investigation.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate; contains descriptions of serious illness, injury, and death.",
+      "interestHook": "Young factory workers challenge claims about workplace safety and help transform labor protections.",
+      "teachingPrompt": "How can researchers evaluate conflicting claims when organizations have financial interests in the conclusions?"
+    },
+    {
+      "title": "The Great Influenza",
+      "author": "John M. Barry",
+      "genre": "Historical and scientific nonfiction",
+      "purpose": "Compare historical records, scientific evidence, institutional decisions, and public communication during a major health crisis.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Advanced; scaffold historical context and scientific terminology.",
+      "teachingPrompt": "How do historical context, institutional priorities, and scientific uncertainty influence the reliability and interpretation of information?"
+    },
+    {
+      "title": "The Anthropocene Reviewed",
+      "author": "John Green",
+      "genre": "Personal and researched essays",
+      "purpose": "Analyze how a writer combines personal experience, historical information, scientific findings, and reflection.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for a selected essay",
+      "highInterest": true,
+      "accessibility": "Moderate; select essays appropriate to the instructional setting.",
+      "teachingPrompt": "Which statements represent personal interpretation, which depend on factual sources, and how could readers verify the information?"
+    },
+    {
+      "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+      "author": "Carl Sagan",
+      "genre": "Scientific and argumentative nonfiction",
+      "purpose": "Investigate evidence evaluation, skepticism, unsupported claims, alternative explanations, and standards of reasoning.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced; provide support for scientific examples and historical references.",
+      "teachingPrompt": "How can a researcher distinguish productive skepticism from rejecting evidence merely because it conflicts with an existing belief?"
+    },
+    {
+      "title": "The Data Detective",
+      "author": "Tim Harford",
+      "genre": "Popular nonfiction about statistics",
+      "purpose": "Analyze how statistical claims can be evaluated through context, methodology, uncertainty, and source verification.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate; provide support for unfamiliar statistical concepts.",
+      "interestHook": "The author investigates how numbers can clarify or distort understanding of everyday issues.",
+      "teachingPrompt": "What questions should a researcher ask before using a statistic as evidence?"
+    },
+    {
+      "title": "Calling Bullshit: The Art of Skepticism in a Data-Driven World",
+      "author": "Carl T. Bergstrom and Jevin D. West",
+      "genre": "Informational nonfiction",
+      "purpose": "Evaluate misleading data visualizations, statistical claims, source credibility, and the presentation of quantitative information.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced; contains profanity in the title and text. Review suitability before assigning.",
+      "teachingPrompt": "How can an apparently accurate number or graph create a misleading impression when its context is omitted?"
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and transcript",
+      "purpose": "Examine how selective information and limited perspectives can produce misconceptions.",
+      "access": "Official TED talk and transcript.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible language with sophisticated cultural and interpretive questions.",
+      "teachingPrompt": "How does Adichie's argument help explain why researchers should examine multiple perspectives rather than rely on a single account?"
+    },
+    {
+      "title": "The War of the Worlds Radio Broadcast and Contemporary Newspaper Coverage",
+      "author": "Orson Welles, the Mercury Theatre, and contemporary journalists",
+      "genre": "Radio drama and historical news coverage",
+      "purpose": "Investigate the difference between a primary source, subsequent reporting, and later historical interpretations of an event.",
+      "access": "Use authorized recordings, transcripts, historical newspaper archives, and established historical scholarship.",
+      "readingTime": "20–30 minutes for selected materials",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; provide context about radio broadcasting in 1938.",
+      "interestHook": "Students investigate whether the famous broadcast caused the widespread panic often described in popular accounts.",
+      "teachingPrompt": "What evidence supports or challenges claims about the public response, and how might later retellings exaggerate the original event?"
+    },
+    {
+      "title": "The Declaration of Independence and Selected Historical Responses",
+      "author": "Thomas Jefferson, the Continental Congress, and historical respondents",
+      "genre": "Historical primary sources",
+      "purpose": "Compare primary documents and historical interpretations to examine perspective, context, evidence, and competing claims.",
+      "access": "Public-domain documents through the National Archives, Library of Congress, and other established historical collections.",
+      "readingTime": "20–30 minutes for selected excerpts",
+      "highInterest": false,
+      "accessibility": "Advanced historical language; provide annotations and contextual support.",
+      "teachingPrompt": "How do different historical documents reveal competing perspectives, and what additional evidence is needed to evaluate claims about the period?"
+    },
+    {
+      "title": "The Narrative of the Life of Frederick Douglass, an American Slave",
+      "author": "Frederick Douglass",
+      "genre": "Autobiography and historical primary source",
+      "purpose": "Examine firsthand testimony, historical context, rhetorical purpose, and the relationship between personal evidence and broader historical claims.",
+      "access": "Public-domain text available through Project Gutenberg and established digital archives.",
+      "readingTime": "15–25 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Moderate to advanced; contains descriptions of enslavement, racism, and violence.",
+      "teachingPrompt": "What does Douglass's firsthand account establish, and what additional sources could help contextualize or investigate broader historical questions?"
+    },
+    {
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "genre": "Short story",
+      "purpose": "Use precise textual evidence to support an inference and distinguish literary interpretation from historical or medical research.",
+      "access": "Public-domain text available through established digital collections.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; includes psychological distress and historical treatment of women.",
+      "teachingPrompt": "Which passages support an interpretation of the narrator's changing condition, and what external sources could help explain the historical context without replacing textual analysis?"
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "Short story",
+      "purpose": "Practice selecting, integrating, and citing concise textual evidence to support inferential responses.",
+      "access": "Public-domain text available through established literary archives.",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible length with substantial interpretive complexity.",
+      "teachingPrompt": "Which details most strongly support an interpretation of Louise Mallard's response, and how should those details be integrated into an MLA-documented response?"
+    },
+    {
+      "title": "Selected Civic Online Reasoning Lessons",
+      "author": "Digital Inquiry Group",
+      "genre": "Media literacy and source-evaluation instructional materials",
+      "purpose": "Practice lateral reading, source investigation, claim verification, and evaluation of online evidence.",
+      "access": "Digital Inquiry Group educational resources; review current access and use requirements.",
+      "readingTime": "15–30 minutes per selected lesson",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; choose tasks appropriate to students' prior research experience.",
+      "teachingPrompt": "What can independent information about a source reveal that the source's own About page does not?"
+    },
+    {
+      "title": "Selected MLA Style Center Guidance",
+      "author": "Modern Language Association",
+      "genre": "Academic documentation reference",
+      "purpose": "Investigate accurate MLA in-text citations, Works Cited entries, source containers, and documentation decisions.",
+      "access": "Official MLA Style Center website and authorized MLA Handbook resources.",
+      "readingTime": "10–20 minutes for selected examples",
+      "highInterest": false,
+      "accessibility": "Accessible reference material; model application to actual sources.",
+      "teachingPrompt": "How does the MLA documentation system help readers connect an in-text citation with the correct source?"
+    },
+    {
+      "title": "Teacher-selected scholarly article and related news coverage",
+      "author": "Various researchers and journalists",
+      "genre": "Academic research and science journalism",
+      "purpose": "Compare original research findings with public-facing interpretations and identify differences in accuracy, emphasis, and limitations.",
+      "access": "Use academic databases, open-access journals, and credible news publications.",
+      "readingTime": "20–35 minutes",
+      "highInterest": true,
+      "accessibility": "Variable; provide an accessible abstract and selected passages from the original study.",
+      "teachingPrompt": "Does the news coverage accurately represent the study's findings, methods, limitations, and level of certainty?"
+    },
+    {
+      "title": "Teacher-selected public policy source set",
+      "author": "Various researchers, public agencies, journalists, and advocacy organizations",
+      "genre": "Government reports, research articles, news reports, and advocacy texts",
+      "purpose": "Compare evidence, perspectives, publication purposes, and competing claims about a relevant community issue.",
+      "access": "Use credible government publications, academic databases, established journalism, and clearly identified advocacy sources.",
+      "readingTime": "25–40 minutes",
+      "highInterest": true,
+      "accessibility": "Variable; select a manageable issue and provide background knowledge.",
+      "teachingPrompt": "Which disagreements concern factual evidence, which concern values or priorities, and which require further investigation?"
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "20–25 min",
+      "title": "Source type sorting laboratory",
+      "activity": "Students sort source cards into categories such as primary, secondary, tertiary, scholarly, journalistic, reference, and promotional. They explain which sources would be most useful for a specified research question.",
+      "materials": [
+        "Source cards",
+        "Research question cards",
+        "Source type reference chart"
+      ],
+      "scaffolds": "Provide examples and nonexamples. Model how a source's classification can change depending on the research question.",
+      "success": "Students accurately classify most sources and justify the selection of appropriate sources for at least three research questions.",
+      "alignment": [
+        "10.T.RA.2.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Database navigation guided search",
+      "activity": "Students follow a modeled search in an available academic database. They enter keywords, examine results, apply an appropriate filter, read an abstract or summary, and record the information needed to locate one relevant source.",
+      "materials": [
+        "School-approved academic database",
+        "Guided search worksheet",
+        "Research question"
+      ],
+      "scaffolds": "Provide screenshots, a short search demonstration, and a manageable topic. Pair students when appropriate and gradually remove procedural supports.",
+      "success": "Students independently locate at least one credible and relevant database source and explain why it addresses the research question.",
+      "alignment": [
+        "10.T.RA.2.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–30 min",
+      "title": "Credible does not always mean relevant",
+      "activity": "Students examine a set of short source descriptions containing credible but irrelevant information, relevant but unreliable information, and sources that are both credible and relevant. They classify each source and explain their decisions.",
+      "materials": [
+        "Source descriptions",
+        "Credibility and relevance organizer",
+        "Research question"
+      ],
+      "scaffolds": "Use a two-axis sorting chart and model the distinction between trustworthiness and usefulness.",
+      "success": "Students correctly evaluate credibility and relevance as separate characteristics in at least four of five examples.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–30 min",
+      "title": "Claim, evidence, or opinion?",
+      "activity": "Students annotate a short informational or argumentative text to distinguish factual claims, supporting evidence, interpretations, opinions, and unsupported assertions. They identify which statements require additional verification.",
+      "materials": [
+        "Accessible informational text",
+        "Annotation key",
+        "Claim and evidence organizer"
+      ],
+      "scaffolds": "Model one paragraph and provide sentence frames for explaining why a statement needs verification.",
+      "success": "Students accurately classify most statements and identify at least two claims that require further investigation.",
+      "alignment": [
+        "10.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Find the original claim",
+      "activity": "Students follow a teacher-selected online claim through a short chain of sources to identify its original report, study, or document. They compare the original information with later descriptions.",
+      "materials": [
+        "Teacher-selected claim",
+        "Source tracing worksheet",
+        "Approved digital resources"
+      ],
+      "scaffolds": "Provide a manageable source chain with clear links. Model how to distinguish the original publication from later summaries.",
+      "success": "Students identify the original source and explain at least one difference between the original information and a later representation.",
+      "alignment": [
+        "10.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Quotation, paraphrase, or summary?",
+      "activity": "Students compare a short source passage with several examples of quotations, paraphrases, summaries, and patchwriting. They classify the examples and revise an inadequate paraphrase.",
+      "materials": [
+        "Short source passage",
+        "Source-use examples",
+        "Paraphrasing checklist"
+      ],
+      "scaffolds": "Model reading the source, setting it aside, explaining its meaning orally, and then writing an original restatement.",
+      "success": "Students correctly distinguish the source-use methods and produce an accurate paraphrase using original wording and structure with appropriate attribution.",
+      "alignment": [
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–35 min",
+      "title": "Citation matching",
+      "activity": "Students match MLA in-text citations to corresponding Works Cited entries. They identify the first element of each entry and determine when page numbers or other location markers are appropriate.",
+      "materials": [
+        "Sample in-text citations",
+        "Sample Works Cited entries",
+        "MLA reference sheet"
+      ],
+      "scaffolds": "Use color coding to connect author names or shortened titles across the two citation locations.",
+      "success": "Students correctly match at least eight of ten citations and explain how an in-text citation directs readers to its source.",
+      "alignment": [
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Search strategy challenge",
+      "activity": "Students investigate a common research question using several search strategies. They compare broad keywords, more precise search phrases, Boolean combinations, subject headings, and database filters. They record how each strategy affects the relevance and quality of results.",
+      "materials": [
+        "Academic database access",
+        "Search strategy log",
+        "Common research question"
+      ],
+      "scaffolds": "Model the development of alternative keywords and explain that search syntax varies across platforms.",
+      "success": "Students document multiple search strategies, locate several credible and relevant sources, and explain which refinements improved their results.",
+      "alignment": [
+        "10.T.RA.2.a"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Library catalog versus database versus web",
+      "activity": "Students investigate the same question using a library catalog, an academic database, and a general web search. They compare the kinds of resources retrieved, access options, publication context, and usefulness for the research task.",
+      "materials": [
+        "Library catalog",
+        "Academic database",
+        "General web search access",
+        "Comparison organizer"
+      ],
+      "scaffolds": "Collaborate with the school librarian to demonstrate each research tool. Provide a topic for which all three tools can produce useful results.",
+      "success": "Students locate relevant resources through all three tools and explain the strengths and limitations of each search environment.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Lateral reading investigation",
+      "activity": "Students evaluate an unfamiliar website or organization by investigating its ownership, funding, reputation, expertise, and relationship to the claims being made. They consult independent sources rather than relying exclusively on the organization's self-description.",
+      "materials": [
+        "Teacher-selected websites",
+        "Lateral reading organizer",
+        "Independent verification resources"
+      ],
+      "scaffolds": "Model opening additional sources and distinguishing independent reporting from repeated promotional material.",
+      "success": "Students provide an evidence-based credibility evaluation supported by at least two appropriate external sources.",
+      "alignment": [
+        "10.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The conflicting headlines laboratory",
+      "activity": "Students compare headlines and articles reporting on the same study or event. They identify differences in wording, factual claims, emphasis, interpretation, and certainty. They trace the coverage to the original source when available.",
+      "materials": [
+        "Multiple articles about one event or study",
+        "Original report or study",
+        "Comparison chart"
+      ],
+      "scaffolds": "Provide background knowledge and explain the distinction between disagreement about facts and disagreement about interpretation.",
+      "success": "Students identify significant differences, verify central claims, and explain which representations are most adequately supported by the original evidence.",
+      "alignment": [
+        "10.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Bias without dismissal",
+      "activity": "Students examine two or more sources representing different perspectives on a common issue. They identify each source's purpose, audience, evidence, language choices, omissions, and possible interests. They evaluate individual claims without automatically accepting or rejecting an entire source.",
+      "materials": [
+        "Balanced source set",
+        "Bias and perspective organizer",
+        "Independent factual reference sources"
+      ],
+      "scaffolds": "Model the difference between identifying a perspective and demonstrating that a factual claim is inaccurate.",
+      "success": "Students support their analysis of bias with specific textual evidence and explain which information remains useful despite differences in perspective.",
+      "alignment": [
+        "10.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The evidence quality tournament",
+      "activity": "Students evaluate several pieces of evidence addressing a common claim. They compare relevance, specificity, source quality, methodological limitations, and explanatory usefulness. They rank the evidence and defend their selections.",
+      "materials": [
+        "Common claim",
+        "Evidence cards",
+        "Evidence quality criteria"
+      ],
+      "scaffolds": "Include evidence that is accurate but irrelevant, relevant but unsupported, and credible but limited in scope.",
+      "success": "Students select the strongest evidence and provide defensible explanations that address both quality and relevance.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "The misconception investigation",
+      "activity": "Students investigate a common misconception related to science, history, literature, or everyday information. They trace the claim, locate credible evidence, compare explanations, and develop a carefully qualified correction supported by citations.",
+      "materials": [
+        "Teacher-approved misconception topics",
+        "Academic and reference resources",
+        "Claim verification organizer"
+      ],
+      "scaffolds": "Choose claims that can be investigated using accessible and reliable evidence. Avoid requiring students to treat unsupported claims as equally credible alternatives.",
+      "success": "Students accurately identify the misconception, explain the supporting evidence for their correction, and document the sources used.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b",
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Source synthesis matrix",
+      "activity": "Students organize information from at least three sources into a matrix arranged by questions or themes rather than by source. They identify agreements, disagreements, unique contributions, and limitations before writing a synthesis paragraph.",
+      "materials": [
+        "Three or more relevant sources",
+        "Synthesis matrix",
+        "MLA reference materials"
+      ],
+      "scaffolds": "Model how to move from source-by-source notes to thematic organization and comparison.",
+      "success": "Students connect information from multiple sources, identify meaningful relationships, and produce a coherent paragraph with appropriate citations.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b",
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "35–45 min",
+      "title": "Quotation integration workshop",
+      "activity": "Students revise paragraphs containing dropped quotations, excessive quotation, weak signal phrases, or unexplained evidence. They integrate quotations grammatically, add appropriate citations, and explain how each quotation supports the writer's interpretation.",
+      "materials": [
+        "Sample paragraphs",
+        "Literary or informational source text",
+        "MLA citation guide"
+      ],
+      "scaffolds": "Model several integration patterns, including signal phrases and quotations embedded within original sentences.",
+      "success": "Students integrate selected quotations accurately and explain their relevance using original reasoning.",
+      "alignment": [
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Paraphrase without patchwriting",
+      "activity": "Students read a short scholarly or informational passage, identify its central meaning, set the original aside, and explain the information in their own words. They compare the paraphrase with the original for accuracy, originality, and appropriate attribution.",
+      "materials": [
+        "Selected source passages",
+        "Paraphrase evaluation checklist",
+        "MLA documentation resources"
+      ],
+      "scaffolds": "Model paraphrasing a complete idea rather than substituting individual words. Provide support for necessary technical terminology.",
+      "success": "Students produce accurate paraphrases that substantially differ from the original wording and sentence structure while preserving meaning and citing the source.",
+      "alignment": [
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "40–50 min",
+      "title": "Build a Works Cited page",
+      "activity": "Students create MLA Works Cited entries for a book, a scholarly journal article, a website article, and another relevant source type. They identify applicable core elements, arrange entries alphabetically, and check their formatting against authoritative MLA examples.",
+      "materials": [
+        "Actual source records",
+        "MLA Style Center examples",
+        "Works Cited template"
+      ],
+      "scaffolds": "Model identifying source information before formatting an entry. Explain that not every core element applies to every source.",
+      "success": "Students produce identifiable and substantially accurate MLA entries using appropriate elements, order, punctuation, and formatting.",
+      "alignment": [
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "35–45 min",
+      "title": "Citation generator audit",
+      "activity": "Students compare automatically generated citations with the original sources and authoritative MLA guidance. They identify missing, inaccurate, or incorrectly formatted information and revise the entries.",
+      "materials": [
+        "Original source records",
+        "Database-generated or citation-generator entries",
+        "MLA reference materials"
+      ],
+      "scaffolds": "Provide examples containing common errors involving author names, publication dates, titles, containers, and URLs.",
+      "success": "Students verify source details and correct citation errors rather than accepting generated entries automatically.",
+      "alignment": [
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–60 min",
+      "title": "Inferential response with textual evidence",
+      "activity": "Students read a literary text and respond to an inferential question. They select precise textual evidence, integrate quotations or paraphrases, explain how the evidence supports the inference, and provide appropriate MLA citations and a Works Cited entry.",
+      "materials": [
+        "Selected short story or literary passage",
+        "Inferential question",
+        "MLA documentation guide"
+      ],
+      "scaffolds": "Model the distinction between evidence and explanation. Provide a response organizer that connects an inference, selected evidence, and reasoning.",
+      "success": "Students develop a defensible inference supported by relevant textual evidence, clear explanation, and accurate source documentation.",
+      "alignment": [
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "Follow the evidence chain",
+      "activity": "Students investigate a widely circulated claim by tracing it through social media posts, news articles, press releases, and an original study or document. They construct a source genealogy showing where information originated and how its representation changed.",
+      "materials": [
+        "Teacher-approved public claim",
+        "Original research or documentation",
+        "Source genealogy template",
+        "Academic database access"
+      ],
+      "scaffolds": "Provide a claim with an accessible evidence chain. Teach students to distinguish independent verification from repetition of a common source.",
+      "success": "Students accurately reconstruct the evidence chain, identify changes in meaning or certainty, and evaluate the claim using original evidence and appropriate citations.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b",
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75–100 min",
+      "title": "Why credible studies disagree",
+      "activity": "Students compare two or more credible studies addressing a common question. They examine differences in research populations, definitions, methods, publication dates, limitations, and conclusions. They develop a qualified explanation of why the findings may differ.",
+      "materials": [
+        "Teacher-selected scholarly studies",
+        "Research comparison matrix",
+        "MLA documentation resources"
+      ],
+      "scaffolds": "Select accessible abstracts and methods summaries. Provide support for interpreting sample size, population, correlation, and other relevant research concepts.",
+      "success": "Students identify meaningful methodological differences and develop an evidence-based synthesis that acknowledges uncertainty rather than forcing agreement.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b",
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 min",
+      "title": "The independent fact-check desk",
+      "activity": "Students act as fact-checkers for a simulated publication. They investigate factual claims, verify quotations and statistics, examine source independence, identify misleading omissions, and produce an annotated verification report.",
+      "materials": [
+        "Teacher-created article containing verifiable claims",
+        "Academic databases",
+        "Government and archival sources",
+        "Fact-check report template"
+      ],
+      "scaffolds": "Include claims with different verification outcomes, such as supported, contradicted, misleading without context, and insufficient evidence.",
+      "success": "Students document credible verification processes, justify their evaluations, and provide accurate MLA citations for the evidence used.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b",
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 min",
+      "title": "AI citation forensic investigation",
+      "activity": "Students examine a teacher-prepared AI-generated research response containing a mixture of accurate information, unsupported claims, incomplete citations, and fabricated references. They verify each source through library catalogs, academic databases, publisher websites, and original publications.",
+      "materials": [
+        "Teacher-prepared AI-generated sample",
+        "Academic database access",
+        "Library catalog",
+        "Verification checklist",
+        "MLA guidance"
+      ],
+      "scaffolds": "Use a controlled sample rather than requiring students to enter personal information into an AI system. Model verification of author, title, publication, date, DOI, and quoted language.",
+      "success": "Students identify unsupported or fabricated material, locate authentic replacement sources, and explain why plausible formatting does not establish source authenticity.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b",
+        "10.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Multi-session project",
+      "title": "Curated research dossier",
+      "activity": "Students investigate an independently selected question and develop a curated dossier containing a diverse collection of credible sources, source evaluations, an evidence matrix, a synthesis of competing perspectives, an explanation of unresolved questions, and an MLA Works Cited page.",
+      "materials": [
+        "Academic databases",
+        "Library catalog",
+        "Print and digital sources",
+        "Source evaluation templates",
+        "Synthesis matrix",
+        "MLA reference materials"
+      ],
+      "scaffolds": "Provide research conferences and checkpoints while allowing students to make independent decisions about source selection and organization.",
+      "success": "Students demonstrate independent source navigation, sophisticated evaluation, purposeful evidence selection, meaningful synthesis, accurate attribution, and awareness of limitations across all three expectations.",
+      "alignment": [
+        "10.T.RA.2.a",
+        "10.T.RA.2.b",
+        "10.T.RA.2.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Selected response",
+      "prompt": "Which action best demonstrates effective source curation?",
+      "options": [
+        "Collecting every source returned by a search engine.",
+        "Selecting sources according to their credibility, relevance, quality, and contribution to a research question.",
+        "Using only sources that agree with an initial opinion.",
+        "Choosing sources according to the attractiveness of their websites."
+      ],
+      "answer": "B",
+      "rationale": "Source curation involves purposeful evaluation and selection rather than indiscriminate collection."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student is researching whether later school start times influence adolescent sleep. Which search phrase is most likely to locate relevant academic research?",
+      "options": [
+        "School",
+        "Teenagers and things",
+        "Adolescent sleep AND school start times",
+        "Interesting facts about education"
+      ],
+      "answer": "C",
+      "rationale": "The search phrase combines specific concepts directly related to the research question."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which resource is generally the best starting point for locating scholarly journal articles?",
+      "options": [
+        "An academic database",
+        "A social media comment section",
+        "An online shopping website",
+        "A personal entertainment blog"
+      ],
+      "answer": "A",
+      "rationale": "Academic databases provide organized access to scholarly and other research publications."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student finds a credible article about elementary school reading instruction while researching high school transportation safety. What is the primary limitation of this source?",
+      "options": [
+        "It is necessarily inaccurate.",
+        "It cannot have an identifiable author.",
+        "It must contain plagiarism.",
+        "It lacks relevance to the research question."
+      ],
+      "answer": "D",
+      "rationale": "A source may be credible and accurate while providing little useful information for a particular question."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which source would be a primary source for a researcher investigating a person's experiences during the Great Depression?",
+      "options": [
+        "A modern encyclopedia article summarizing the Great Depression.",
+        "A diary written by the person during the Great Depression.",
+        "A recent textbook chapter about economic history.",
+        "A contemporary historian's interpretation of the person's diary."
+      ],
+      "answer": "B",
+      "rationale": "The diary provides firsthand evidence of the person's experiences during the period."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "What is the most appropriate reason to read a scholarly article's abstract before examining the full text?",
+      "options": [
+        "The abstract guarantees that the study is accurate.",
+        "The abstract eliminates the need to examine the study's methods.",
+        "The abstract helps determine whether the article addresses the research question.",
+        "The abstract replaces the need to cite the article."
+      ],
+      "answer": "C",
+      "rationale": "An abstract provides an overview that helps researchers evaluate potential relevance before reading the complete publication."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which action best demonstrates lateral reading?",
+      "options": [
+        "Consulting independent sources to investigate the organization responsible for an unfamiliar website.",
+        "Reading every page of the unfamiliar website without leaving it.",
+        "Accepting the website's own description of its credibility.",
+        "Evaluating the website primarily by its visual design."
+      ],
+      "answer": "A",
+      "rationale": "Lateral reading involves examining information outside the source to investigate its credibility and context."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Three websites report the same statistic, but all three cite the same press release. What should a researcher conclude?",
+      "options": [
+        "The statistic has been independently verified three times.",
+        "The statistic is automatically false.",
+        "The statistic no longer requires citation.",
+        "The reports repeat a common source and do not establish independent corroboration."
+      ],
+      "answer": "D",
+      "rationale": "Multiple publications repeating one original source do not necessarily provide independent evidence."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best describes the relationship between bias and credibility?",
+      "options": [
+        "Every source with an identifiable perspective is unusable.",
+        "A source's perspective should be evaluated, but its individual claims may still be accurate and useful.",
+        "A source without emotional language cannot contain bias.",
+        "Only sources with which the researcher disagrees contain bias."
+      ],
+      "answer": "B",
+      "rationale": "Bias and perspective require examination, but they do not automatically establish that all information within a source is inaccurate."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A company publishes a report claiming that its own product is more effective than competing products. What should a researcher investigate first?",
+      "options": [
+        "Whether the report uses an attractive font.",
+        "Whether the company has a memorable name.",
+        "The report's evidence, methods, funding, possible conflicts of interest, and independent verification.",
+        "Whether the report agrees with the researcher's initial opinion."
+      ],
+      "answer": "C",
+      "rationale": "The company's financial interest makes it important to evaluate the evidence, methods, and availability of independent corroboration."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Two credible studies reach different conclusions about a common issue. Which response is most appropriate?",
+      "options": [
+        "Compare their methods, populations, definitions, dates, limitations, and evidence.",
+        "Reject both studies because they disagree.",
+        "Accept whichever study was encountered first.",
+        "Average the conclusions without examining the research."
+      ],
+      "answer": "A",
+      "rationale": "Differences in methodology, scope, and evidence may help explain why credible studies reach different conclusions."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A news article reports that a study proves a particular activity causes improved academic performance. The original study reports only an association. What is the most important problem?",
+      "options": [
+        "The article is shorter than the study.",
+        "The article includes the study's publication date.",
+        "The article uses vocabulary appropriate for a general audience.",
+        "The article presents a stronger causal conclusion than the original evidence supports."
+      ],
+      "answer": "D",
+      "rationale": "An association does not by itself establish causation. The article misrepresents the strength of the study's conclusion."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which action best helps a researcher verify an online quotation attributed to a historical figure?",
+      "options": [
+        "Accept the quotation because it appears on an image.",
+        "Trace the quotation to an original speech, letter, publication, or reliable documentary source.",
+        "Count the number of websites repeating the quotation.",
+        "Assume the quotation is accurate if it sounds appropriate."
+      ],
+      "answer": "B",
+      "rationale": "Tracing a quotation to an original or reliable documentary source helps establish its authenticity and context."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best explains why publication date matters?",
+      "options": [
+        "The newest source is always the most credible.",
+        "Older sources should never be used in research.",
+        "The importance of currency depends on the research question and type of information needed.",
+        "Publication dates matter only when creating citations."
+      ],
+      "answer": "C",
+      "rationale": "Recent information may be essential for changing topics, while older sources may provide valuable historical evidence."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which evidence would most directly support a claim about a literary character's motivation?",
+      "options": [
+        "A relevant passage showing the character's dialogue, actions, or thoughts, accompanied by an explanation.",
+        "The number of pages in the novel.",
+        "A general biography of an unrelated author.",
+        "An unsupported statement from an anonymous discussion post."
+      ],
+      "answer": "A",
+      "rationale": "Relevant textual details and reasoning provide direct support for an interpretation of a character's motivation."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which situation most clearly calls for a direct quotation rather than a paraphrase?",
+      "options": [
+        "A writer needs to summarize the findings of a lengthy report.",
+        "A writer wants to provide general background information.",
+        "A writer needs to combine several studies' major conclusions.",
+        "A literary analysis depends on examining the precise wording of a character's statement."
+      ],
+      "answer": "D",
+      "rationale": "Direct quotation is particularly useful when the exact language of a source is important to the analysis."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best describes an effective paraphrase?",
+      "options": [
+        "It changes several words but retains the original sentence structure.",
+        "It accurately restates the source's meaning using substantially original wording and structure and includes appropriate attribution.",
+        "It removes all information that requires citation.",
+        "It reproduces the source exactly without quotation marks."
+      ],
+      "answer": "B",
+      "rationale": "An effective paraphrase preserves meaning while using original language and structure and acknowledging the source."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student summarizes the findings of a scholarly article in completely original language. What documentation is generally required?",
+      "options": [
+        "None, because the student used original wording.",
+        "Quotation marks around the entire summary.",
+        "An appropriate in-text citation and corresponding Works Cited entry.",
+        "Only the name of the database used to locate the article."
+      ],
+      "answer": "C",
+      "rationale": "Summarized information obtained from a source requires attribution even when the writer uses original language."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student quotes a passage from page 42 of a book by Maria Lopez. The author's name does not appear in the sentence. Which parenthetical citation follows the basic MLA author-page pattern?",
+      "options": [
+        "(Lopez 42)",
+        "(Maria Lopez, 2024, p. 42)",
+        "(Page 42)",
+        "(Lopez, page forty-two)"
+      ],
+      "answer": "A",
+      "rationale": "The basic MLA author-page citation uses the author's surname followed by the page number without a comma."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A sentence introduces a quotation with the words According to Lopez. The quotation appears on page 42. Which parenthetical citation is ordinarily appropriate?",
+      "options": [
+        "(Lopez Lopez 42)",
+        "(Maria Lopez, p. 42)",
+        "(2024)",
+        "(42)"
+      ],
+      "answer": "D",
+      "rationale": "When the author's name is already supplied in the sentence, MLA ordinarily requires only the relevant page number in the parenthetical citation."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "An online article has an identifiable author but no page numbers or other numbered divisions. Which action is appropriate when using MLA documentation?",
+      "options": [
+        "Invent page numbers based on the length of the webpage.",
+        "Identify the source through the author or other appropriate citation element without inventing a location marker.",
+        "Use the webpage's screen position as a page number.",
+        "Omit attribution because the article is online."
+      ],
+      "answer": "B",
+      "rationale": "MLA documentation should use available and appropriate location markers rather than invent nonexistent page numbers."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "What is the primary purpose of an MLA Works Cited page?",
+      "options": [
+        "To demonstrate that a writer has read every available source.",
+        "To provide a list of possible future research topics.",
+        "To identify the sources cited in a composition so readers can locate them.",
+        "To replace all in-text citations."
+      ],
+      "answer": "C",
+      "rationale": "The Works Cited page provides fuller source information corresponding to citations within the composition."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student cites an article published within an academic journal. What is the journal's role in the MLA citation?",
+      "options": [
+        "It is a container for the article.",
+        "It is necessarily the article's author.",
+        "It replaces the article's title.",
+        "It is the student's research question."
+      ],
+      "answer": "A",
+      "rationale": "A journal is a larger publication containing the article being cited."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which action is most appropriate after using a citation generator?",
+      "options": [
+        "Assume the citation is accurate because it was generated automatically.",
+        "Delete the original source information.",
+        "Use the citation without checking whether the source exists.",
+        "Compare the citation with the original source and authoritative MLA guidance."
+      ],
+      "answer": "D",
+      "rationale": "Automatically generated citations may contain missing or incorrect information and require verification."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "An AI-generated response includes a scholarly citation that appears professionally formatted. The student cannot locate the article through the publisher, academic databases, or library resources. What should the student do?",
+      "options": [
+        "Use the citation because its formatting looks correct.",
+        "Treat the reference as unverified and locate authentic evidence before using the claim.",
+        "Invent a DOI to complete the citation.",
+        "Assume the article exists because the AI response sounds confident."
+      ],
+      "answer": "B",
+      "rationale": "Plausible formatting does not establish that a source exists. Researchers must verify references and use authentic evidence."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which paragraph structure most clearly demonstrates synthesis?",
+      "options": [
+        "One paragraph summarizes Source A, the next summarizes Source B, and the final paragraph summarizes Source C without connecting them.",
+        "A paragraph reproduces quotations from several sources without explanation.",
+        "A paragraph compares findings from several sources, explains their relationships and limitations, and develops a supported conclusion.",
+        "A paragraph lists the titles of all sources used."
+      ],
+      "answer": "C",
+      "rationale": "Synthesis connects information across sources to develop understanding rather than merely presenting separate summaries."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "A student finds an accurate statistic but discovers that it describes a population substantially different from the one being researched. What should the student do?",
+      "options": [
+        "Evaluate whether the statistic is applicable and acknowledge limitations or select more appropriate evidence.",
+        "Use the statistic without mentioning the population.",
+        "Change the population described in the original source.",
+        "Assume that all accurate statistics are relevant."
+      ],
+      "answer": "A",
+      "rationale": "Evidence must be appropriate to the research question. Differences in population may limit the validity of a conclusion."
+    },
+    {
+      "type": "Selected response",
+      "prompt": "Which statement best explains the relationship between citation and source credibility?",
+      "options": [
+        "A source becomes credible when it is cited in MLA format.",
+        "A source without a DOI cannot be credible.",
+        "Accurate citations eliminate the need to verify evidence.",
+        "Citation identifies the source, while credibility must be evaluated separately."
+      ],
+      "answer": "D",
+      "rationale": "Documentation supports transparency and verification but does not establish the accuracy or quality of the source."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain the difference between credibility and relevance. Provide an example of a source that is credible but not relevant to a particular research question.",
+      "answer": "Credibility concerns whether a source can reasonably be trusted for a particular purpose. Relevance concerns whether the information contributes to the research question. A credible scientific article about ocean temperatures may be irrelevant to a question about the symbolism in a short story.",
+      "rationale": "A complete response distinguishes the two characteristics and provides an example showing that one does not guarantee the other."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how academic databases can help a researcher locate relevant information more effectively than an unfocused general web search.",
+      "answer": "Academic databases organize searchable publications and often provide tools such as subject headings, publication filters, abstracts, and document-type limits. These features help researchers locate more targeted sources, although individual results still require evaluation.",
+      "rationale": "Assess whether students understand the advantages of database navigation without assuming all database content is automatically credible."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why a researcher might use both primary and secondary sources when investigating a historical event.",
+      "answer": "Primary sources provide firsthand evidence or direct documentation, while secondary sources analyze and contextualize that evidence. Using both can help a researcher understand individual experiences, broader historical circumstances, and competing interpretations.",
+      "rationale": "A strong response identifies the complementary contributions of the two source types."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Describe how lateral reading can help a student evaluate an unfamiliar website.",
+      "answer": "The student can investigate the website's organization, ownership, reputation, expertise, and funding through independent sources. The student can also verify important claims and compare them with original evidence rather than relying only on the website's own descriptions.",
+      "rationale": "Assess whether students understand that lateral reading requires investigation beyond the source itself."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why identifying bias does not automatically justify rejecting every claim made by a source.",
+      "answer": "Bias may influence which information a source selects, emphasizes, or interprets, but individual claims may still be supported by accurate evidence. Researchers should evaluate the claims, methods, purpose, and independent verification before deciding how the source can be used.",
+      "rationale": "A complete response distinguishes perspective or bias from factual accuracy."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why five articles repeating the same original report may not provide five independent confirmations of a claim.",
+      "answer": "The articles may all depend on the same underlying evidence. Repetition does not establish that additional researchers or sources independently verified the claim. A researcher should trace the information and seek independent evidence.",
+      "rationale": "Assess whether students distinguish source repetition from corroboration."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Two credible sources disagree about the effectiveness of a public policy. Describe three questions a researcher should investigate before deciding how to interpret their findings.",
+      "answer": "A researcher could examine whether the sources studied comparable populations, used similar definitions and methods, and evaluated the policy during comparable periods. The researcher could also investigate funding, limitations, and the evidence supporting each conclusion.",
+      "rationale": "Students should identify meaningful factors that may explain conflicting findings."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain the difference between a quotation, paraphrase, and summary. Explain why each may require citation.",
+      "answer": "A quotation reproduces exact source language, a paraphrase restates a source's meaning in original wording and structure, and a summary condenses its major ideas. All three may require citation because they communicate words, information, or ideas obtained from a source.",
+      "rationale": "Assess both accurate definitions and understanding of attribution responsibilities."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain how an MLA in-text citation and Works Cited entry work together.",
+      "answer": "The in-text citation briefly identifies the source and includes an appropriate location marker when available. The corresponding Works Cited entry provides fuller information that allows readers to identify and locate the source.",
+      "rationale": "Students should understand MLA as an interconnected documentation system rather than two unrelated formatting tasks."
+    },
+    {
+      "type": "Short constructed response",
+      "prompt": "Explain why a writer should not rely exclusively on quotations when developing an original research argument.",
+      "answer": "Quotations can provide valuable evidence, but the writer must develop original reasoning, explain relationships among sources, and connect evidence to the central argument. Paraphrasing, summarizing, and synthesis can help maintain the writer's own analytical voice.",
+      "rationale": "Assess whether students understand that evidence supports rather than replaces original thinking."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Examine a teacher-selected news article and the original study it describes. Identify one claim from the article and evaluate whether the original study adequately supports that claim.",
+      "answer": "A successful response identifies the claim accurately, examines the original study's findings and limitations, compares the two representations, and develops a supported evaluation with appropriate citations.",
+      "rationale": "Assess source tracing, accuracy verification, and evaluation of the relationship between evidence and conclusions."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Compare two sources presenting different perspectives on a common issue. Identify evidence of each source's perspective or bias and explain which information remains useful for investigating the research question.",
+      "answer": "A strong response identifies specific language, evidence selection, publication context, or omissions that reveal perspective. It evaluates individual claims and explains their relevance and credibility without dismissing a source solely because it has a perspective.",
+      "rationale": "Assess nuanced evaluation of bias, credibility, and relevance."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Examine a set of three sources discussing the same factual claim. Determine whether the sources provide independent corroboration or repeat a common original source.",
+      "answer": "A successful response traces the claim through citations or links, identifies shared or independent evidence, and explains how source dependence affects confidence in the claim.",
+      "rationale": "Assess the student's ability to evaluate evidence chains and source independence."
+    },
+    {
+      "type": "Source-based analysis",
+      "prompt": "Read a selected literary passage and develop an inference about a character, theme, or conflict. Integrate at least two relevant pieces of textual evidence using MLA documentation.",
+      "answer": "A successful response develops a defensible inference, selects precise evidence, integrates it into original sentences, explains how it supports the interpretation, and provides appropriate in-text citations and a Works Cited entry.",
+      "rationale": "Assess the application of MLA documentation to inferential literary analysis."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "A student writes an essay containing a paraphrase of a source but includes no citation because the wording is original. Explain the problem and describe how to correct it.",
+      "answer": "The information or idea still comes from another source and requires attribution. The student should provide an appropriate MLA in-text citation and a corresponding Works Cited entry while ensuring the paraphrase accurately represents the source.",
+      "rationale": "Assess understanding that attribution applies to borrowed ideas and information, not only exact quotations."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "A student's Works Cited page contains an entry for a journal article, but the essay's in-text citation uses a different author's name. Explain how the student should investigate and correct the problem.",
+      "answer": "The student should verify the original article's author and other publication details, determine whether the in-text citation and Works Cited entry refer to the same source, and correct whichever information is inaccurate so readers can trace the citation.",
+      "rationale": "Assess understanding of source verification and correspondence between citation components."
+    },
+    {
+      "type": "Editing and revision",
+      "prompt": "A paragraph contains a quotation followed immediately by a new unrelated claim. Explain how the writer could improve the integration of evidence.",
+      "answer": "The writer should introduce the quotation appropriately, provide its citation, explain how the quoted language supports the paragraph's claim, and establish a meaningful connection to the next idea or remove the unrelated claim.",
+      "rationale": "Assess the integration of evidence into original reasoning rather than quotation placement alone."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Investigate a teacher-approved research question using a library catalog, an academic database, and appropriate digital sources. Submit a search log, a curated collection of at least five relevant sources, evaluations of source quality, an evidence matrix, a synthesis paragraph, and an MLA Works Cited page.",
+      "answer": "Successful work demonstrates effective research navigation, purposeful source selection, credible evidence, evaluation of accuracy and relevance, awareness of conflicting perspectives and bias, meaningful synthesis, and appropriate MLA documentation.",
+      "rationale": "Use separate rubric criteria for research navigation, source evaluation, and documentation rather than assessing source quantity alone."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Investigate a widely circulated claim and produce a fact-check report. Trace the claim to its original source when possible, compare independent evidence, identify misconceptions or misleading representations, and develop a qualified conclusion supported by MLA citations.",
+      "answer": "A successful report documents the evidence chain, evaluates source credibility and independence, accurately identifies unsupported or misleading information, acknowledges uncertainty, and provides verifiable documentation.",
+      "rationale": "Assess independent application of source evaluation and responsible evidence use."
+    },
+    {
+      "type": "Performance task",
+      "prompt": "Develop an annotated research dossier addressing a complex issue. Include credible sources representing relevant perspectives, explanations of source strengths and limitations, a comparison of conflicting information, and a documented synthesis of the strongest available evidence.",
+      "answer": "A strong dossier demonstrates purposeful source selection, nuanced evaluation, accurate comparison, independent reasoning, acknowledgment of limitations, and appropriate MLA in-text citations and Works Cited entries.",
+      "rationale": "Assess integrated mastery of all three expectations through an authentic research product."
+    }
+  ],
+  "evidence": [
+    "A research question or central argument guiding source selection.",
+    "A research plan identifying the kinds of information needed.",
+    "A search log documenting keywords, subject headings, filters, and search refinements.",
+    "Evidence of locating relevant resources through a library catalog.",
+    "Evidence of independently navigating academic databases.",
+    "A curated collection of credible print and digital sources.",
+    "Explanations of how selected sources address the research question.",
+    "Accurate identification of primary, secondary, and tertiary sources in context.",
+    "Source annotations identifying authors, publication contexts, purposes, and audiences.",
+    "Evaluation of author qualifications and relevant expertise.",
+    "Evaluation of source credibility, accuracy, validity, relevance, and currency.",
+    "Evidence of lateral reading and independent investigation.",
+    "Documentation tracing claims to original sources.",
+    "Identification of misconceptions and unsupported assertions.",
+    "Analysis of conflicting factual claims and perspectives.",
+    "Specific textual evidence supporting an analysis of author bias.",
+    "Evidence of evaluating possible conflicts of interest.",
+    "Corroboration using genuinely independent sources.",
+    "Explanation of possible reasons for conflicting research findings.",
+    "Identification of uncertainty and limitations in available evidence.",
+    "A source evaluation matrix or annotated bibliography.",
+    "An evidence organizer connecting information to specific claims or questions.",
+    "Accurate notes distinguishing quotations, paraphrases, summaries, and original interpretations.",
+    "Purposeful selection of relevant and adequately supported evidence.",
+    "Accurate quotations preserving the source's wording and context.",
+    "Paraphrases demonstrating original wording and sentence structure.",
+    "Concise and accurate summaries of source material.",
+    "Effective signal phrases and grammatical quotation integration.",
+    "Original explanations connecting evidence to claims or interpretations.",
+    "Synthesis connecting information across multiple sources.",
+    "Qualified conclusions reflecting the strength and limitations of evidence.",
+    "Appropriate MLA in-text citations.",
+    "Accurate basic MLA Works Cited entries.",
+    "Correspondence between in-text citations and Works Cited entries.",
+    "Evidence of verifying and correcting automatically generated citations.",
+    "Accurate documentation of source details such as authors, titles, dates, containers, and locations.",
+    "Evidence of verifying information and references suggested by digital tools.",
+    "Revision of research conclusions in response to stronger or conflicting evidence.",
+    "Independent transfer of source evaluation and documentation skills to unfamiliar research tasks."
+  ],
+  "instruction": [
+    "Teach research as an iterative process of inquiry, discovery, evaluation, selection, and communication.",
+    "Begin research instruction with a clear question or purpose rather than an arbitrary source-count requirement.",
+    "Collaborate with the school librarian to provide authentic instruction in library catalogs, academic databases, and source evaluation.",
+    "Use available GALILEO resources and school-licensed databases to model academic research.",
+    "Demonstrate how library catalogs, academic databases, and general web search tools retrieve different kinds of information.",
+    "Teach students to select research tools according to their information needs.",
+    "Model keyword development, alternative terminology, subject headings, and search refinement.",
+    "Teach Boolean operators and phrase searching in the context of platforms that support them.",
+    "Explain how filters affect search results and when restrictive filters may exclude useful information.",
+    "Teach students to use abstracts, tables of contents, indexes, headings, and publication records to evaluate potential relevance.",
+    "Distinguish scholarly articles, news reports, reference entries, advocacy texts, promotional materials, and other source types.",
+    "Teach primary, secondary, and tertiary sources in relation to specific research questions.",
+    "Explain that academic databases may contain different publication types and that not every result is peer reviewed.",
+    "Model evaluating author qualifications in relation to the particular claim or topic.",
+    "Teach credibility, accuracy, validity, relevance, and currency as distinct but related evaluation criteria.",
+    "Avoid teaching website domain extensions as automatic indicators of credibility.",
+    "Explain that professional design, polished language, and apparent authority do not establish accuracy.",
+    "Teach students to investigate publication context, intended audience, purpose, ownership, funding, and editorial processes.",
+    "Model lateral reading using authentic unfamiliar websites and organizations.",
+    "Teach source tracing through citations, links, publication records, and original documents.",
+    "Demonstrate how multiple articles can repeat the same underlying evidence.",
+    "Teach corroboration using independent sources rather than simple source counting.",
+    "Use authentic examples of misconceptions and misleading claims that students can investigate with reliable evidence.",
+    "Teach students to distinguish factual claims, interpretations, opinions, predictions, and unsupported assertions.",
+    "Model how to evaluate the strength of evidence supporting a particular conclusion.",
+    "Teach students to identify differences between correlation and causation when relevant to research claims.",
+    "Provide opportunities to examine the limitations of sample size, population, methodology, and scope.",
+    "Teach bias through observable choices involving language, evidence, framing, emphasis, and omission.",
+    "Distinguish an author's perspective from proof that a particular claim is inaccurate.",
+    "Avoid treating unsupported claims as equally credible merely because competing perspectives exist.",
+    "Provide source sets that contain meaningful differences in perspective, evidence, and interpretation.",
+    "Model how to investigate conflicting information without forcing sources into artificial agreement.",
+    "Teach students to acknowledge uncertainty and qualify conclusions when evidence is limited.",
+    "Use evidence-ranking tasks to demonstrate that relevance and quality matter more than quantity.",
+    "Teach students to organize research notes by question, claim, theme, or meaningful relationship.",
+    "Require students to record source details during research rather than reconstruct citations afterward.",
+    "Teach students to distinguish copied source language from original notes and interpretations.",
+    "Model selecting quotations when precise wording contributes to analysis.",
+    "Teach paraphrasing as reconstruction of meaning rather than synonym substitution.",
+    "Provide practice summarizing central ideas without distorting the original source.",
+    "Teach signal phrases and grammatical integration of quotations into original sentences.",
+    "Model how writers explain the significance of evidence rather than assume quotations speak for themselves.",
+    "Use synthesis matrices to help students compare information across sources.",
+    "Teach students to identify agreements, disagreements, unique contributions, and limitations.",
+    "Use literary analysis tasks to practice inferential responses supported by precise textual evidence.",
+    "Teach MLA documentation through authentic source use rather than isolated formatting exercises alone.",
+    "Model basic MLA author-page citations and situations requiring different citation patterns.",
+    "Explain that location markers should be included when available and appropriate rather than invented.",
+    "Teach students to connect in-text citations to the first relevant element of Works Cited entries.",
+    "Model identifying applicable MLA core elements and source containers.",
+    "Teach alphabetical organization and hanging indents for Works Cited entries.",
+    "Use authoritative MLA guidance to address unfamiliar source types.",
+    "Teach students to verify database-generated and automatically generated citations.",
+    "Explain that correct citation formatting does not establish source credibility.",
+    "Teach plagiarism prevention through accurate note-taking, attribution, paraphrasing, and evidence integration.",
+    "Provide opportunities to identify and revise patchwriting.",
+    "Teach students to verify quotations, statistics, publication details, and other factual information before submission.",
+    "Establish clear expectations for responsible AI-assisted research consistent with school policies.",
+    "Teach students to verify AI-generated claims and references against authentic sources.",
+    "Assess the quality of source selection and reasoning rather than merely the number of sources.",
+    "Use research conferences and source evaluation checkpoints to identify misconceptions early.",
+    "Gradually remove search templates and evaluation scaffolds to develop independent researchers."
+  ],
+  "watchFor": [
+    "Beginning research without a clear question or purpose.",
+    "Selecting sources primarily because they are easy to access.",
+    "Using the first search results without evaluating their relevance or quality.",
+    "Assuming that search-engine ranking establishes credibility.",
+    "Using overly broad keywords without refining the search.",
+    "Applying search filters without considering whether useful sources may be excluded.",
+    "Assuming academic databases contain only peer-reviewed scholarship.",
+    "Treating peer review as a guarantee of accuracy.",
+    "Confusing a library catalog with a full-text academic database.",
+    "Classifying sources as primary or secondary without considering the research question.",
+    "Assuming a source's professional appearance establishes authority.",
+    "Evaluating credibility solely through domain extensions such as .org or .edu.",
+    "Assuming that a person's general credentials establish expertise on every topic.",
+    "Treating an organization's self-description as independent verification.",
+    "Confusing source credibility with relevance.",
+    "Assuming that accurate information is automatically appropriate evidence.",
+    "Treating publication date as the only indicator of source quality.",
+    "Rejecting historical sources solely because they are old.",
+    "Identifying bias based only on disagreement with a source.",
+    "Assuming that every source with an identifiable perspective is unreliable.",
+    "Ignoring the influence of funding, ownership, purpose, and audience.",
+    "Claiming that an author is biased without identifying supporting evidence.",
+    "Treating all perspectives as equally supported regardless of evidence.",
+    "Confusing factual disagreements with differences in values or interpretation.",
+    "Assuming that conflicting information means every source is unreliable.",
+    "Accepting widely repeated claims without tracing their origins.",
+    "Counting repeated reports from one original source as independent corroboration.",
+    "Relying on a news summary without examining an available original study.",
+    "Confusing correlation with causation.",
+    "Generalizing research findings beyond the populations or circumstances studied.",
+    "Ignoring methodological limitations and uncertainty.",
+    "Selecting evidence because it supports an existing opinion while ignoring stronger conflicting evidence.",
+    "Including irrelevant information merely because it is interesting.",
+    "Collecting large numbers of sources without purposeful evaluation.",
+    "Recording quotations without distinguishing them from original notes.",
+    "Failing to record bibliographic information during research.",
+    "Misquoting a source or removing language necessary to preserve its meaning.",
+    "Using quotations without explaining their significance.",
+    "Allowing source material to replace the writer's original reasoning.",
+    "Treating paraphrasing as replacing individual words with synonyms.",
+    "Changing a source's meaning while paraphrasing.",
+    "Summarizing minor details while omitting the central idea.",
+    "Assuming paraphrased or summarized information does not require citation.",
+    "Presenting disconnected source summaries as synthesis.",
+    "Forcing sources into agreement when their findings differ.",
+    "Drawing conclusions stronger than the available evidence supports.",
+    "Inventing page numbers for unpaginated digital sources.",
+    "Using an in-text citation that does not correspond to a Works Cited entry.",
+    "Listing sources on a Works Cited page without documenting their use in the composition.",
+    "Confusing an article title with its journal or other container.",
+    "Omitting source information that is necessary for readers to identify the publication.",
+    "Accepting citation-generator output without verification.",
+    "Assuming that an accurately formatted citation establishes a source's authenticity.",
+    "Using AI-generated quotations or references without locating the original sources.",
+    "Assessing research primarily through citation punctuation rather than source quality and reasoning.",
+    "Failing to revise conclusions when new evidence challenges an initial interpretation."
+  ],
+  "skills": {
+    "10.T.RA.2.a": {
+      "focus": "Navigate credible print and digital sources, including academic databases, to locate relevant information",
+      "studentFriendly": "I can use library resources, academic databases, and other credible print and digital sources to find information that directly addresses my research question, topic, or central argument.",
+      "know": [
+        "A research question or central argument guides information gathering.",
+        "Print and digital sources provide different kinds of information and evidence.",
+        "Library catalogs identify available books and other resources.",
+        "Academic databases organize searchable research publications and other information resources.",
+        "General web search tools locate information across a broad range of websites.",
+        "Keywords and search phrases influence the results a researcher retrieves.",
+        "Subject headings provide standardized terms for locating related resources.",
+        "Boolean operators and search filters can refine results when supported by the search platform.",
+        "Abstracts and other publication features help researchers evaluate potential relevance.",
+        "Primary, secondary, and tertiary sources contribute different kinds of information.",
+        "Credibility depends on relevant authority, evidence, publication context, and other factors.",
+        "Relevance depends on the relationship between information and the research question.",
+        "Search strategies can be revised as researchers develop greater understanding of a topic.",
+        "Not every source retrieved through an academic database is scholarly or peer reviewed.",
+        "Bibliographic information helps researchers identify and retrieve sources."
+      ],
+      "understand": [
+        "Effective source navigation begins with a clear understanding of the information needed.",
+        "Different research tools are useful for different purposes.",
+        "Academic databases can provide targeted access to scholarly and specialized publications.",
+        "Search results depend partly on the language and strategies used by the researcher.",
+        "Researchers may need to experiment with alternative terms, subject headings, and filters.",
+        "A source can be credible but irrelevant to a particular question.",
+        "A source can be relevant but inadequately supported or unreliable.",
+        "The most useful research collection often includes complementary source types.",
+        "Source selection requires evaluation rather than reliance on search ranking.",
+        "Researchers should record source information while locating and evaluating resources.",
+        "Independent research skills transfer across academic disciplines and everyday information needs."
+      ],
+      "do": [
+        "Identify the central argument, topic, or research question.",
+        "Determine what kinds of information are needed.",
+        "Select appropriate print and digital research tools.",
+        "Navigate a library catalog to locate relevant resources.",
+        "Navigate academic databases to locate relevant publications.",
+        "Develop specific keywords and alternative search terms.",
+        "Use appropriate subject headings and search operators.",
+        "Apply filters that improve relevance without unnecessarily excluding useful information.",
+        "Examine abstracts, headings, indexes, and publication details.",
+        "Distinguish among relevant source types.",
+        "Investigate author qualifications and publication context.",
+        "Evaluate preliminary credibility and relevance.",
+        "Select sources that contribute meaningfully to the research question.",
+        "Revise search strategies when results are insufficient.",
+        "Record accurate bibliographic information and stable access details.",
+        "Explain why selected sources are appropriate for the research task."
+      ],
+      "targets": [
+        "I can identify what information I need.",
+        "I can select research tools appropriate to my question.",
+        "I can use a library catalog to locate resources.",
+        "I can navigate academic databases independently.",
+        "I can develop and refine effective search terms.",
+        "I can use search filters and subject headings appropriately.",
+        "I can evaluate whether a source is relevant and credible.",
+        "I can select a useful collection of print and digital sources.",
+        "I can record the information needed to locate and cite my sources."
+      ],
+      "instruction": [
+        "Collaborate with the school librarian to model authentic research navigation.",
+        "Demonstrate searches using available GALILEO resources and school-licensed databases.",
+        "Compare the purposes and results of library catalogs, academic databases, and general web searches.",
+        "Model how a research question can be translated into keywords and related concepts.",
+        "Teach subject headings, phrase searching, Boolean operators, and filters in appropriate search environments.",
+        "Use abstracts and publication records to evaluate potential relevance.",
+        "Teach source types through authentic examples connected to research questions.",
+        "Model evaluating preliminary credibility before selecting a source.",
+        "Provide opportunities to compare search strategies and explain which refinements improve results.",
+        "Require students to record bibliographic details during research.",
+        "Gradually remove procedural scaffolds to develop independent database navigation."
+      ],
+      "evidence": [
+        "A clearly defined research question or central argument.",
+        "A research plan identifying needed information.",
+        "A documented search strategy.",
+        "Effective use of keywords, subject headings, and appropriate filters.",
+        "Relevant resources located through a library catalog.",
+        "Relevant publications located through academic databases.",
+        "A curated collection of credible print and digital sources.",
+        "Explanations connecting selected sources to the research question.",
+        "Evidence of refining searches when initial results are inadequate.",
+        "Accurate bibliographic records and source access information.",
+        "Independent application of research navigation skills."
+      ],
+      "watchFor": [
+        "Searching without a clear research question.",
+        "Using vague keywords without refining the search.",
+        "Selecting the first available results.",
+        "Assuming search ranking establishes source quality.",
+        "Confusing a library catalog with a full-text database.",
+        "Assuming every database result is scholarly.",
+        "Applying filters mechanically without considering their effects.",
+        "Confusing relevance with credibility.",
+        "Selecting sources based primarily on convenience.",
+        "Failing to record publication information during research.",
+        "Relying on teacher-provided sources without developing independent search skills."
+      ]
+    },
+    "10.T.RA.2.b": {
+      "focus": "Analyze misconceptions, conflicting information, perspectives, and bias while verifying information quality",
+      "studentFriendly": "I can compare information from different sources, identify misconceptions and conflicting claims or perspectives, and analyze how bias may influence a source. I can verify whether information is accurate, relevant, valid, and adequately supported before using it.",
+      "know": [
+        "Credibility concerns whether a source can reasonably be trusted for a particular purpose.",
+        "Accuracy concerns whether information corresponds with verifiable facts or evidence.",
+        "Validity concerns whether information, reasoning, or conclusions are adequately supported and appropriate to the question.",
+        "Relevance concerns whether information contributes to the research question or purpose.",
+        "Authority concerns relevant expertise, experience, knowledge, or responsibility.",
+        "Currency concerns the timeliness of information in relation to the topic.",
+        "A misconception is an inaccurate or incomplete understanding.",
+        "Conflicting factual claims may result from differences in evidence, methods, definitions, scope, or accuracy.",
+        "Conflicting perspectives may reflect differences in experiences, values, assumptions, or purposes.",
+        "Bias may influence language, evidence selection, emphasis, framing, interpretation, and omission.",
+        "A source's perspective does not automatically establish whether its claims are accurate.",
+        "Publication context includes author, publisher, purpose, audience, date, and editorial circumstances.",
+        "Conflicts of interest may influence the presentation or interpretation of information.",
+        "Lateral reading investigates a source through external information.",
+        "Source tracing follows claims to original evidence when possible.",
+        "Corroboration requires comparison with independent evidence.",
+        "Repeated reports may rely on a common original source.",
+        "Research findings may be limited by population, methodology, scope, or available evidence.",
+        "Correlation does not by itself establish causation.",
+        "Researchers should acknowledge uncertainty when evidence does not support definitive conclusions."
+      ],
+      "understand": [
+        "Information quality must be evaluated in relation to the specific research question.",
+        "A source's appearance, popularity, or publication format does not establish accuracy.",
+        "Credibility, accuracy, validity, relevance, and currency are related but distinct evaluation criteria.",
+        "An identifiable perspective may influence a source without making every claim inaccurate.",
+        "Analysis of bias should be supported by observable evidence rather than assumptions about an author.",
+        "Researchers should evaluate individual claims and their supporting evidence.",
+        "Misconceptions may persist because claims are repeated without verification.",
+        "Independent corroboration provides stronger verification than repeated reporting from a single source.",
+        "Lateral reading helps researchers investigate information that a source may omit from its own description.",
+        "Original studies and documents can clarify whether later representations preserve the evidence accurately.",
+        "Credible sources may disagree because they investigate different populations, use different methods, or interpret evidence differently.",
+        "Factual disagreements should be distinguished from differences in values, priorities, or interpretation.",
+        "A source's limitations may affect how its evidence can be used.",
+        "Researchers should not give unsupported claims equal weight merely because competing perspectives exist.",
+        "Effective evaluation may require changing an initial interpretation or conclusion.",
+        "Acknowledging uncertainty is a feature of responsible research rather than a failure to reach a conclusion."
+      ],
+      "do": [
+        "Identify important factual claims and interpretations within a source.",
+        "Distinguish evidence from unsupported assertions.",
+        "Investigate author qualifications and publication context.",
+        "Identify intended audience, purpose, and possible conflicts of interest.",
+        "Evaluate credibility in relation to the particular information being considered.",
+        "Verify important facts, quotations, statistics, and claims.",
+        "Evaluate whether evidence adequately supports the source's conclusions.",
+        "Determine whether information is relevant to the research question.",
+        "Identify misconceptions and inaccurate representations.",
+        "Compare conflicting information across sources.",
+        "Distinguish factual disagreement from differences in interpretation or values.",
+        "Analyze language, framing, evidence selection, emphasis, and omission for indications of bias.",
+        "Support evaluations of bias with specific evidence.",
+        "Use lateral reading to investigate unfamiliar sources.",
+        "Trace claims to original publications or documentation.",
+        "Determine whether multiple sources provide independent corroboration.",
+        "Compare research methods, populations, definitions, and limitations when appropriate.",
+        "Identify conclusions that exceed the strength or scope of available evidence.",
+        "Evaluate whether information remains useful despite identifiable perspective or limitations.",
+        "Develop qualified conclusions reflecting the quality of evidence.",
+        "Revise source evaluations and conclusions when new evidence becomes available."
+      ],
+      "targets": [
+        "I can evaluate a source's credibility and authority.",
+        "I can distinguish accuracy, validity, relevance, and currency.",
+        "I can identify misconceptions and unsupported claims.",
+        "I can compare conflicting information and perspectives.",
+        "I can identify evidence of bias without automatically dismissing a source.",
+        "I can investigate a source using lateral reading.",
+        "I can trace claims to original evidence.",
+        "I can distinguish independent verification from repeated reporting.",
+        "I can evaluate the limitations of evidence and conclusions.",
+        "I can explain possible reasons why credible sources disagree.",
+        "I can select information that is adequately supported and relevant.",
+        "I can acknowledge uncertainty and revise my conclusions when necessary."
+      ],
+      "instruction": [
+        "Teach credibility, accuracy, validity, relevance, and currency as separate but connected concepts.",
+        "Use source sets containing meaningful differences in quality, purpose, perspective, and evidence.",
+        "Model evaluating claims rather than relying on the overall appearance of a source.",
+        "Teach lateral reading through authentic online investigations.",
+        "Demonstrate source tracing from public claims to original documents and studies.",
+        "Use examples of multiple publications repeating one underlying report.",
+        "Teach students to distinguish independent corroboration from repetition.",
+        "Model analysis of bias through language, framing, evidence selection, and omission.",
+        "Teach students to distinguish perspective from factual inaccuracy.",
+        "Use examples of conflicts of interest without assuming that funding automatically invalidates research.",
+        "Compare conflicting studies or reports and investigate methodological differences.",
+        "Teach students to recognize unsupported causal claims and overgeneralization when relevant.",
+        "Provide opportunities to investigate common misconceptions using reliable evidence.",
+        "Model qualified conclusions that acknowledge limitations and uncertainty.",
+        "Require students to justify source evaluations using specific evidence.",
+        "Encourage revision of initial beliefs when stronger evidence becomes available."
+      ],
+      "evidence": [
+        "Source evaluations supported by specific evidence.",
+        "Analysis of author qualifications and publication context.",
+        "Identification of misconceptions and unsupported claims.",
+        "Comparison of conflicting factual claims and perspectives.",
+        "Textual evidence supporting an analysis of bias.",
+        "Evaluation of possible conflicts of interest.",
+        "Lateral reading records documenting independent investigation.",
+        "Source tracing records identifying original evidence.",
+        "Evidence of independent corroboration.",
+        "Analysis distinguishing repeated reporting from independent verification.",
+        "Evaluation of research methods, populations, scope, and limitations when appropriate.",
+        "Identification of conclusions exceeding available evidence.",
+        "Explanations of why credible sources may disagree.",
+        "Qualified conclusions reflecting the strength and limitations of evidence.",
+        "Revised evaluations or conclusions based on new information."
+      ],
+      "watchFor": [
+        "Evaluating sources primarily through visual appearance.",
+        "Assuming a domain extension establishes credibility.",
+        "Treating author qualifications as relevant to every possible topic.",
+        "Confusing accuracy with relevance.",
+        "Assuming the newest source is always best.",
+        "Identifying bias solely because a source presents an unfamiliar or opposing perspective.",
+        "Making unsupported claims about an author's motives.",
+        "Rejecting all information from a source because it has an identifiable perspective.",
+        "Treating unsupported claims as equivalent to well-supported findings.",
+        "Accepting widely repeated information without tracing its source.",
+        "Counting repeated reports as independent corroboration.",
+        "Confusing correlation with causation.",
+        "Generalizing findings beyond the evidence.",
+        "Ignoring research limitations.",
+        "Forcing conflicting sources into agreement.",
+        "Selecting evidence solely because it confirms an existing belief.",
+        "Expressing greater certainty than available evidence supports.",
+        "Refusing to revise conclusions when credible new evidence emerges."
+      ]
+    },
+    "10.T.RA.2.c": {
+      "focus": "Integrate and cite textual evidence using MLA guidelines and corresponding Works Cited entries",
+      "studentFriendly": "I can use relevant textual evidence to support my interpretations, explanations, and arguments. I can quote, paraphrase, and summarize accurately, explain how evidence supports my ideas, and use MLA in-text citations and Works Cited entries to acknowledge my sources.",
+      "know": [
+        "Textual evidence provides support for interpretations, explanations, claims, and conclusions.",
+        "An inference is a conclusion developed through evidence and reasoning.",
+        "A quotation reproduces exact source language.",
+        "A paraphrase restates source meaning using substantially original wording and structure.",
+        "A summary condenses the central ideas or major findings of a source.",
+        "Quotations, paraphrases, and summaries generally require attribution when they communicate source material.",
+        "A signal phrase introduces a source or its information.",
+        "Evidence integration connects source material to original sentences and reasoning.",
+        "A dropped quotation is presented without adequate grammatical or contextual integration.",
+        "Synthesis connects information from multiple sources.",
+        "Plagiarism involves presenting another person's words, ideas, or work without appropriate acknowledgment.",
+        "Patchwriting closely reproduces source language or structure while making limited changes.",
+        "MLA style provides conventions for documenting sources in humanities writing.",
+        "An MLA in-text citation identifies a source and includes an appropriate location marker when available.",
+        "The basic MLA author-page pattern uses an author's surname and page number when both are appropriate.",
+        "When the author's name appears in the sentence, unnecessary repetition of that name in the parenthetical citation should generally be avoided.",
+        "Sources without page numbers should not be assigned invented page numbers.",
+        "A Works Cited entry provides fuller identifying information about a cited source.",
+        "An in-text citation should direct readers to the corresponding Works Cited entry.",
+        "MLA documentation uses applicable core elements rather than requiring every possible element for every source.",
+        "A container is a larger publication or platform containing the source being cited.",
+        "Works Cited entries are generally alphabetized by their first element and use hanging indents.",
+        "Citation generators and database citation tools require verification.",
+        "Accurate citation does not establish source credibility or the truth of a claim."
+      ],
+      "understand": [
+        "Effective evidence use begins with selecting information that directly supports the writer's purpose.",
+        "An inference requires both relevant evidence and reasoning explaining the connection.",
+        "Quotations are particularly useful when exact language matters.",
+        "Paraphrases and summaries allow writers to communicate source information efficiently while maintaining an original analytical voice.",
+        "Paraphrasing requires understanding the source rather than merely replacing words.",
+        "Source material must be represented accurately and in appropriate context.",
+        "Evidence should support rather than replace original reasoning.",
+        "Readers need to understand how evidence relates to a claim or interpretation.",
+        "Synthesis involves meaningful relationships among sources rather than disconnected summaries.",
+        "Attribution distinguishes source material from the writer's own ideas.",
+        "Borrowed ideas and information may require citation even when expressed in original language.",
+        "MLA in-text citations and Works Cited entries work together to make evidence traceable.",
+        "Citation patterns depend on the information available and the way a source is introduced.",
+        "Documentation should not invent missing bibliographic details or location markers.",
+        "Citation tools can assist with formatting but do not replace verification.",
+        "Responsible evidence use requires both accurate documentation and evaluation of source quality."
+      ],
+      "do": [
+        "Identify the claim, interpretation, inference, or explanation requiring support.",
+        "Select relevant and adequately supported textual evidence.",
+        "Determine whether quotation, paraphrase, or summary is most appropriate.",
+        "Reproduce quotations accurately and preserve necessary context.",
+        "Paraphrase source information using original wording and sentence structure.",
+        "Summarize central ideas accurately and concisely.",
+        "Distinguish original analysis from information obtained from sources.",
+        "Introduce source material using appropriate signal phrases or other grammatical integration strategies.",
+        "Integrate quotations into original sentences.",
+        "Explain how evidence supports an inference, claim, or interpretation.",
+        "Connect information from multiple sources when appropriate.",
+        "Provide appropriate MLA in-text citations.",
+        "Use relevant page numbers or other location markers when available and appropriate.",
+        "Avoid inventing location markers for unpaginated sources.",
+        "Identify the applicable MLA core elements for each source.",
+        "Create basic Works Cited entries for books, articles, websites, and other relevant sources.",
+        "Identify source containers when applicable.",
+        "Arrange Works Cited entries alphabetically and use appropriate formatting.",
+        "Verify correspondence between in-text citations and Works Cited entries.",
+        "Check citation details against the original sources and authoritative MLA guidance.",
+        "Correct automatically generated citation errors.",
+        "Identify and revise plagiarism or patchwriting.",
+        "Verify quotations and references suggested by digital or AI-assisted tools.",
+        "Revise evidence integration to strengthen original reasoning and source transparency."
+      ],
+      "targets": [
+        "I can select relevant evidence to support an inference or claim.",
+        "I can decide when to quote, paraphrase, or summarize.",
+        "I can quote source language accurately.",
+        "I can paraphrase information using original language and structure.",
+        "I can summarize central ideas accurately.",
+        "I can integrate evidence into my own sentences.",
+        "I can explain how evidence supports my reasoning.",
+        "I can distinguish my ideas from source material.",
+        "I can use MLA in-text citations appropriately.",
+        "I can create basic MLA Works Cited entries.",
+        "I can connect every in-text citation to the appropriate source entry.",
+        "I can verify and correct automatically generated citations.",
+        "I can avoid plagiarism and patchwriting."
+      ],
+      "instruction": [
+        "Teach evidence integration through authentic literary analysis and research writing.",
+        "Model selecting evidence according to relevance, quality, and contribution to an inference or claim.",
+        "Compare effective and ineffective uses of quotations, paraphrases, and summaries.",
+        "Teach paraphrasing through comprehension and reconstruction of meaning.",
+        "Use examples of patchwriting and guide students in revising them.",
+        "Model signal phrases and grammatical quotation integration.",
+        "Teach students to explain the significance of evidence in their own words.",
+        "Use synthesis matrices to help students connect information from multiple sources.",
+        "Teach MLA in-text citations in the context of actual student writing.",
+        "Model author-page citations, author names in signal phrases, and sources without page numbers.",
+        "Explain how an in-text citation connects to a Works Cited entry.",
+        "Teach applicable MLA core elements and source containers using authentic source records.",
+        "Use official MLA guidance for unfamiliar citation situations.",
+        "Model alphabetical arrangement and hanging indents.",
+        "Teach students to verify source details and citation-generator output.",
+        "Require students to distinguish quotations, paraphrases, summaries, and original notes during research.",
+        "Teach verification of AI-generated references and quotations.",
+        "Assess evidence quality, original reasoning, accurate attribution, and documentation as related but distinct criteria."
+      ],
+      "evidence": [
+        "A defensible inference, interpretation, explanation, or claim supported by textual evidence.",
+        "Purposeful selection of quotations, paraphrases, and summaries.",
+        "Accurate reproduction of quoted source language.",
+        "Paraphrases demonstrating original wording and sentence structure.",
+        "Accurate summaries of source ideas.",
+        "Effective signal phrases and grammatical quotation integration.",
+        "Original explanations connecting evidence to reasoning.",
+        "Meaningful synthesis across sources.",
+        "Clear distinctions between source information and original analysis.",
+        "Appropriate MLA in-text citations.",
+        "Accurate location markers when available and appropriate.",
+        "Basic MLA Works Cited entries identifying cited sources.",
+        "Appropriate identification of source containers.",
+        "Correspondence between in-text citations and Works Cited entries.",
+        "Evidence of verifying and correcting automatically generated citations.",
+        "Revision of inadequate paraphrases or improperly integrated evidence.",
+        "Accurate and responsible attribution in independent writing tasks."
+      ],
+      "watchFor": [
+        "Selecting quotations solely because they sound impressive.",
+        "Using evidence unrelated to the central claim or inference.",
+        "Misquoting a source or removing essential context.",
+        "Treating paraphrasing as synonym substitution.",
+        "Changing source meaning while paraphrasing.",
+        "Summarizing details without preserving central ideas.",
+        "Assuming paraphrases and summaries do not require citation.",
+        "Presenting dropped quotations without grammatical integration.",
+        "Using quotations without explaining their significance.",
+        "Allowing source material to replace original analysis.",
+        "Presenting disconnected summaries as synthesis.",
+        "Confusing quotation formatting with source attribution.",
+        "Repeating author information unnecessarily in an in-text citation.",
+        "Inventing page numbers for unpaginated sources.",
+        "Using citations that do not correspond to Works Cited entries.",
+        "Omitting source details necessary for identification.",
+        "Confusing a source title with its container.",
+        "Accepting automatically generated citations without checking them.",
+        "Assuming a citation proves that a source exists or is credible.",
+        "Using AI-generated references without locating authentic publications.",
+        "Assessing MLA formatting without evaluating the quality and accuracy of evidence integration."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are illustrative teacher-developed recommendations, not state-prescribed works or verified reading assignments at any named school. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Confirm editions, availability, copyright permissions, age suitability, and historical or scientific context. Some nonfiction selections contain mature language, violence, medical information, or sensitive historical content; review passages before assigning. Use authentic source records and authoritative MLA guidance when teaching documentation. Database availability and access permissions may vary by school and subscription. Research activities should distinguish evidence-supported conclusions from unsupported claims and should not treat all competing perspectives as equally credible. AI-assisted research activities must follow applicable school policies and require verification of claims, quotations, and references against authentic sources."
+}
   ]
 }
+
 
