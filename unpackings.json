@@ -22357,6 +22357,2598 @@
   "readingSelectionNote": "Selections are independently developed instructional recommendations rather than state-prescribed texts. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments, not validated reading-level measures. Verify edition, translation, availability, permissions, age suitability, and local instructional requirements before assigning materials. Some selections include violence, grief, discrimination, psychological distress, or mature themes and require thoughtful excerpt selection and contextual preparation. Cross-period pairings illustrate literary continuity and transformation; shared patterns should not be treated as evidence of direct influence unless that relationship is documented."
 }
 
+,
+{
+  "code": "10.T.T.4",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Poetic Techniques",
+  "studentFriendly": "I can evaluate how poets use language, sound, structure, imagery, and figurative language to develop meaning, communicate themes, and affect readers. I can discuss and critique different kinds of poetry and use purposeful poetic techniques and conventions to create my own poems for a specific audience and purpose.",
+  "know": [
+    "The characteristics and purposes of poetry across literary traditions, historical periods, and contemporary forms.",
+    "The differences among lyric, narrative, dramatic, and descriptive poetry.",
+    "The characteristics of sonnets, ballads, odes, elegies, haiku, villanelles, dramatic monologues, prose poems, free verse, and spoken-word poetry.",
+    "The distinction between poetic form and poetic genre.",
+    "The relationship among poetic form, structure, content, and meaning.",
+    "The meanings of line, stanza, couplet, tercet, quatrain, sestet, octave, and refrain.",
+    "The differences among end-stopped lines, enjambment, and caesura.",
+    "How line breaks, stanza breaks, punctuation, and white space influence meaning and reading experience.",
+    "The differences among rhythm, meter, and rhyme.",
+    "The characteristics of iambic, trochaic, anapestic, and dactylic metrical patterns.",
+    "How to identify common rhyme schemes using letter notation.",
+    "The differences among end rhyme, internal rhyme, perfect rhyme, and slant rhyme.",
+    "The functions of alliteration, assonance, consonance, onomatopoeia, repetition, and refrain.",
+    "The meanings and functions of euphony and cacophony.",
+    "How sound patterns contribute to emphasis, atmosphere, movement, and meaning.",
+    "The differences among simile, metaphor, extended metaphor, personification, hyperbole, understatement, and paradox.",
+    "The meanings and functions of symbolism, motif, allusion, apostrophe, and irony.",
+    "How imagery appeals to the senses and contributes to interpretation.",
+    "How diction, connotation, denotation, and syntax influence poetic meaning.",
+    "The distinction between a poet and a poem's speaker.",
+    "How poetic voice, persona, audience, and situation influence interpretation.",
+    "The differences among tone, mood, subject, central idea, and theme.",
+    "How shifts in tone, imagery, perspective, or structure can signal changes in meaning.",
+    "The meaning and function of a volta or turn in a poem.",
+    "How ambiguity, juxtaposition, compression, and implication contribute to poetic complexity.",
+    "How poetic techniques can work together to develop a theme.",
+    "How cultural, historical, and literary contexts can inform poetic interpretation.",
+    "The difference between identifying a poetic technique, analyzing its effect, and evaluating its effectiveness.",
+    "How textual evidence and reasoning support a defensible interpretation or critique.",
+    "How oral performance choices such as emphasis, tempo, volume, pause, and intonation influence a poem's presentation.",
+    "How poetic conventions can be followed, adapted, or deliberately challenged.",
+    "How audience and purpose influence the selection of poetic techniques.",
+    "How revision can strengthen poetic imagery, sound, structure, precision, and thematic development."
+  ],
+  "understand": [
+    "Poetry communicates meaning through the interaction of language, sound, structure, imagery, and implication.",
+    "A poem's form can reinforce, complicate, or challenge its content.",
+    "Poetic techniques should be evaluated according to their contribution to meaning rather than merely their presence.",
+    "The same poetic technique may create different effects in different contexts.",
+    "Line breaks can influence pacing, emphasis, ambiguity, and the relationship between words or ideas.",
+    "Enjambment can create movement, suspense, or temporary ambiguity, while end-stopped lines can create emphasis or closure.",
+    "Stanza organization can establish patterns, contrasts, transitions, and developments in thought.",
+    "Sound patterns can reinforce meaning, create emotional effects, establish expectations, or disrupt expectations.",
+    "Meter and rhythm are related but not identical; a poem can establish rhythm without following a regular metrical pattern.",
+    "Free verse is not an absence of structure but a form in which poets make deliberate organizational and rhythmic choices.",
+    "A departure from an established rhyme or metrical pattern may contribute to a poem's meaning.",
+    "Figurative language can express complex relationships and experiences that literal language may not communicate as effectively.",
+    "An extended metaphor develops meaning through related images or comparisons across multiple lines or sections.",
+    "Images can operate literally, symbolically, or both, depending on context.",
+    "Symbols do not have fixed meanings independent of the poem in which they appear.",
+    "Poetic diction can communicate multiple associations through connotation and implication.",
+    "The speaker's perspective may differ from the poet's personal beliefs or experiences.",
+    "A poem's tone may shift as the speaker's understanding, emotional state, or circumstances change.",
+    "The mood experienced by readers may differ from the attitude expressed by the speaker.",
+    "Themes develop through patterns, contrasts, images, structural choices, and relationships among ideas.",
+    "A poem can support multiple defensible interpretations without supporting every possible interpretation.",
+    "Ambiguity can be a purposeful source of complexity rather than a flaw requiring one definitive explanation.",
+    "Poetry can address personal, cultural, political, historical, philosophical, and social concerns.",
+    "Historical and cultural context can deepen interpretation but should not replace analysis of the poem itself.",
+    "Reading poetry aloud can reveal rhythmic, sonic, and structural relationships that are less apparent during silent reading.",
+    "Different performances of the same poem can emphasize different meanings or emotional qualities.",
+    "Literary critique requires evidence-based judgment rather than a simple statement of personal preference.",
+    "Effective poetry does not require rhyme, regular meter, elevated vocabulary, or an explicit moral.",
+    "A poetic convention can be useful when it supports a writer's purpose and restrictive when it does not.",
+    "Purposeful poetic composition involves selecting techniques that work together to create an intended experience.",
+    "Strong poetic revision involves reconsidering individual words, lineation, structure, imagery, sound, and thematic coherence."
+  ],
+  "do": [
+    "Read, listen to, view, and discuss poetry representing different forms, periods, cultures, and purposes.",
+    "Identify a poem's speaker, situation, subject, and significant structural features.",
+    "Distinguish the speaker's perspective from the poet's identity.",
+    "Identify and analyze patterns of lineation, stanza organization, rhyme, rhythm, and meter.",
+    "Evaluate how line breaks and punctuation influence emphasis, pacing, and interpretation.",
+    "Analyze how enjambment, end-stopped lines, and caesura contribute to meaning.",
+    "Identify sound devices and explain their effects within specific poetic contexts.",
+    "Evaluate how sound patterns interact with imagery, diction, and thematic development.",
+    "Analyze how figurative language creates relationships among ideas, experiences, and images.",
+    "Interpret extended metaphors using evidence from multiple portions of a poem.",
+    "Evaluate the effects of symbolism, allusion, irony, paradox, and juxtaposition.",
+    "Analyze how connotations and precise word choices contribute to poetic voice and meaning.",
+    "Explain how imagery contributes to mood, characterization of the speaker, or theme.",
+    "Identify and analyze shifts in tone, perspective, imagery, structure, or argument.",
+    "Develop defensible interpretations of poetic meaning and theme.",
+    "Trace the development of a theme through connected images, patterns, and structural choices.",
+    "Compare how different poetic techniques contribute to related or contrasting themes.",
+    "Evaluate how a poem's form supports or complicates its content.",
+    "Analyze how a poet establishes and disrupts expectations.",
+    "Compare different performances or readings of a poem.",
+    "Evaluate how oral delivery influences audience interpretation.",
+    "Participate in evidence-based discussions that consider multiple interpretations.",
+    "Critique poetic choices using explicit criteria and textual evidence.",
+    "Distinguish personal response from evidence-based literary evaluation.",
+    "Select an intended audience, purpose, subject, and poetic form.",
+    "Develop an appropriate poetic speaker or voice.",
+    "Use precise diction and sensory imagery to communicate experiences and ideas.",
+    "Create meaningful figurative comparisons and extended metaphors.",
+    "Use sound patterns, repetition, and rhythm purposefully.",
+    "Use line breaks, stanza breaks, punctuation, and white space to shape meaning.",
+    "Apply or adapt poetic conventions according to the intended effect.",
+    "Develop a coherent idea, emotional progression, or theme across a poem.",
+    "Revise poetic compositions to strengthen precision, structure, sound, and thematic coherence.",
+    "Present or perform original poetry using purposeful delivery choices when appropriate.",
+    "Explain how specific poetic choices contribute to the intended audience experience and purpose."
+  ],
+  "vocabulary": [
+    {
+      "term": "Poetry",
+      "definition": "Literary expression that uses concentrated language, sound, structure, imagery, and other techniques to communicate meaning or create an experience.",
+      "example": "A poem uses recurring images of changing seasons to explore memory and loss."
+    },
+    {
+      "term": "Poetic technique",
+      "definition": "A deliberate choice involving language, sound, structure, imagery, or presentation that contributes to a poem's effects.",
+      "example": "A poet places a significant word at the end of a line to emphasize its importance."
+    },
+    {
+      "term": "Poetic convention",
+      "definition": "An established practice or recognizable feature associated with poetry or a particular poetic form.",
+      "example": "A traditional English sonnet commonly contains fourteen lines and a concluding couplet."
+    },
+    {
+      "term": "Poetic form",
+      "definition": "The organizational pattern or structural design of a poem.",
+      "example": "A villanelle uses a recurring pattern of refrains and rhyme."
+    },
+    {
+      "term": "Lyric poetry",
+      "definition": "Poetry that primarily expresses a speaker's thoughts, feelings, perceptions, or reflections.",
+      "example": "A speaker reflects on the emotional significance of returning to a childhood home."
+    },
+    {
+      "term": "Narrative poetry",
+      "definition": "Poetry that presents a sequence of connected events or tells a story.",
+      "example": "A ballad recounts a journey that ends in an unexpected loss."
+    },
+    {
+      "term": "Dramatic monologue",
+      "definition": "A poem in which a fictional or constructed speaker addresses an implied or identifiable listener, often revealing aspects of the speaker's character.",
+      "example": "A powerful speaker describes a past relationship while unintentionally revealing controlling behavior."
+    },
+    {
+      "term": "Sonnet",
+      "definition": "A fourteen-line poetic form with conventions that vary among traditions, often involving a developed idea and a significant turn.",
+      "example": "An English sonnet develops a comparison across three quatrains and concludes with a couplet."
+    },
+    {
+      "term": "Petrarchan sonnet",
+      "definition": "A sonnet commonly organized into an octave and a sestet, often with a shift in thought between them.",
+      "example": "The octave presents a problem, and the sestet develops a response or reconsideration."
+    },
+    {
+      "term": "Shakespearean sonnet",
+      "definition": "An English sonnet commonly organized into three quatrains and a concluding couplet, traditionally using the rhyme scheme ABAB CDCD EFEF GG.",
+      "example": "Three quatrains develop different aspects of an argument, and the final couplet offers a concluding insight."
+    },
+    {
+      "term": "Ballad",
+      "definition": "A narrative poem or song, often characterized by recurring stanzas, strong rhythm, repetition, and a memorable story.",
+      "example": "A poem recounts a dramatic event through alternating dialogue and narrative description."
+    },
+    {
+      "term": "Ode",
+      "definition": "A poem that addresses, celebrates, examines, or reflects upon a subject with sustained attention.",
+      "example": "A poet addresses an ordinary household object and explores its unexpected significance."
+    },
+    {
+      "term": "Elegy",
+      "definition": "A poem reflecting on loss, death, remembrance, or mourning.",
+      "example": "A speaker remembers a deceased friend through images of familiar shared places."
+    },
+    {
+      "term": "Haiku",
+      "definition": "A short poetic form originating in Japan, traditionally associated with a concentrated image, seasonal awareness, and a meaningful juxtaposition; English-language adaptations vary.",
+      "example": "A brief poem juxtaposes an autumn leaf with the movement of a passing train."
+    },
+    {
+      "term": "Villanelle",
+      "definition": "A nineteen-line poetic form consisting of five tercets and a concluding quatrain, with two recurring refrains and a prescribed rhyme pattern.",
+      "example": "Two repeated lines acquire increasingly complex meanings as the poem develops."
+    },
+    {
+      "term": "Free verse",
+      "definition": "Poetry that does not follow a fixed metrical or rhyme scheme but uses purposeful rhythm, lineation, and other structural choices.",
+      "example": "A poem uses varying line lengths and repeated images to create movement and emphasis."
+    },
+    {
+      "term": "Blank verse",
+      "definition": "Unrhymed poetry written in a regular meter, most commonly iambic pentameter in English literature.",
+      "example": "A dramatic speech uses five iambic feet per line without a regular end-rhyme pattern."
+    },
+    {
+      "term": "Prose poem",
+      "definition": "A poetic composition presented in prose paragraphs while using concentrated imagery, figurative language, rhythm, or other poetic techniques.",
+      "example": "A short paragraph develops an extended metaphor through rhythmic sentences and compressed imagery."
+    },
+    {
+      "term": "Spoken-word poetry",
+      "definition": "Poetry composed or presented with particular attention to oral performance, voice, rhythm, and audience engagement.",
+      "example": "A performer uses changes in pace, volume, repetition, and gesture to emphasize a poem's central idea."
+    },
+    {
+      "term": "Line",
+      "definition": "A unit of poetic language whose ending may be determined by meaning, rhythm, visual design, or other artistic choices.",
+      "example": "A poet isolates a single word on a line to create emphasis."
+    },
+    {
+      "term": "Stanza",
+      "definition": "A grouping of poetic lines that functions as a structural unit.",
+      "example": "A poem uses separate stanzas to distinguish childhood memories from adult reflections."
+    },
+    {
+      "term": "Couplet",
+      "definition": "Two consecutive poetic lines functioning as a unit.",
+      "example": "A sonnet ends with a couplet that offers a final reconsideration of the preceding ideas."
+    },
+    {
+      "term": "Tercet",
+      "definition": "A stanza or grouping of three poetic lines.",
+      "example": "A poem develops its central image through a sequence of tercets."
+    },
+    {
+      "term": "Quatrain",
+      "definition": "A stanza or grouping of four poetic lines.",
+      "example": "Each quatrain develops a different aspect of a speaker's argument."
+    },
+    {
+      "term": "Sestet",
+      "definition": "A grouping of six poetic lines, often associated with the concluding portion of a Petrarchan sonnet.",
+      "example": "A sestet responds to the emotional problem established in an octave."
+    },
+    {
+      "term": "Octave",
+      "definition": "A grouping of eight poetic lines, often associated with the opening portion of a Petrarchan sonnet.",
+      "example": "An octave develops a description that the remaining six lines reinterpret."
+    },
+    {
+      "term": "Refrain",
+      "definition": "A line, phrase, or group of lines repeated at intervals throughout a poem.",
+      "example": "A repeated question becomes more urgent each time it appears."
+    },
+    {
+      "term": "Lineation",
+      "definition": "The arrangement and division of language into poetic lines.",
+      "example": "A poet breaks a sentence immediately before an unexpected word to delay its revelation."
+    },
+    {
+      "term": "Enjambment",
+      "definition": "The continuation of a grammatical unit or thought beyond the end of a poetic line without a strong concluding pause.",
+      "example": "The first line ends with a verb, and its object appears at the beginning of the next line."
+    },
+    {
+      "term": "End-stopped line",
+      "definition": "A poetic line that concludes with a significant grammatical or rhetorical pause.",
+      "example": "A line ends with a complete sentence and a period."
+    },
+    {
+      "term": "Caesura",
+      "definition": "A significant pause or break within a poetic line.",
+      "example": "A dash interrupts a line to create hesitation before a speaker's admission."
+    },
+    {
+      "term": "White space",
+      "definition": "The unprinted space surrounding or separating elements of a poem, which may contribute to pacing, emphasis, visual design, or meaning.",
+      "example": "A large gap separates two contrasting images and encourages a longer pause."
+    },
+    {
+      "term": "Rhythm",
+      "definition": "The perceived pattern of movement, stress, duration, and pause in language.",
+      "example": "Repeated short phrases create a quick, insistent rhythm."
+    },
+    {
+      "term": "Meter",
+      "definition": "A recurring organizational pattern of stressed and unstressed syllables or other rhythmic units in poetry.",
+      "example": "A poem establishes a regular pattern of five iambs per line."
+    },
+    {
+      "term": "Metrical foot",
+      "definition": "A recurring unit of stressed and unstressed syllables used to describe meter in English poetry.",
+      "example": "An iamb consists of an unstressed syllable followed by a stressed syllable."
+    },
+    {
+      "term": "Iamb",
+      "definition": "A metrical foot consisting of an unstressed syllable followed by a stressed syllable.",
+      "example": "The word begin commonly illustrates an iambic stress pattern."
+    },
+    {
+      "term": "Trochee",
+      "definition": "A metrical foot consisting of a stressed syllable followed by an unstressed syllable.",
+      "example": "The word garden commonly illustrates a trochaic stress pattern."
+    },
+    {
+      "term": "Anapest",
+      "definition": "A metrical foot consisting of two unstressed syllables followed by a stressed syllable.",
+      "example": "The word understand can illustrate an anapestic stress pattern."
+    },
+    {
+      "term": "Dactyl",
+      "definition": "A metrical foot consisting of one stressed syllable followed by two unstressed syllables.",
+      "example": "The word beautiful commonly illustrates a dactylic stress pattern."
+    },
+    {
+      "term": "Iambic pentameter",
+      "definition": "A metrical pattern consisting primarily of five iambic feet per line.",
+      "example": "Many Shakespearean sonnets establish iambic pentameter while allowing meaningful rhythmic variation."
+    },
+    {
+      "term": "Scansion",
+      "definition": "The process of examining and marking the rhythmic or metrical patterns of poetic language.",
+      "example": "A student marks stressed and unstressed syllables to examine a line's relationship to an established meter."
+    },
+    {
+      "term": "Rhyme",
+      "definition": "A correspondence between sounds in words, especially stressed vowel sounds and the sounds that follow them.",
+      "example": "Light and night form a perfect rhyme."
+    },
+    {
+      "term": "Rhyme scheme",
+      "definition": "The pattern of end rhymes in a poem, commonly represented with letters.",
+      "example": "A four-line stanza with alternating rhymes follows an ABAB pattern."
+    },
+    {
+      "term": "End rhyme",
+      "definition": "Rhyme occurring at the ends of poetic lines.",
+      "example": "Two lines conclude with the words rain and train."
+    },
+    {
+      "term": "Internal rhyme",
+      "definition": "Rhyme occurring within a line or between an internal word and another word in a poem.",
+      "example": "The phrase bright light appears within a single line."
+    },
+    {
+      "term": "Slant rhyme",
+      "definition": "An approximate rhyme involving related but not fully matching sounds.",
+      "example": "The words shape and keep share a final consonant sound but differ in their vowel sounds."
+    },
+    {
+      "term": "Alliteration",
+      "definition": "The repetition of initial consonant sounds in nearby words.",
+      "example": "Silver streams slip silently."
+    },
+    {
+      "term": "Assonance",
+      "definition": "The repetition of vowel sounds in nearby words.",
+      "example": "The low road home repeats a long o sound."
+    },
+    {
+      "term": "Consonance",
+      "definition": "The repetition of consonant sounds within or at the ends of nearby words.",
+      "example": "The words blank, think, and trunk repeat a final consonant cluster."
+    },
+    {
+      "term": "Onomatopoeia",
+      "definition": "The use of words whose sounds imitate or suggest the sounds they describe.",
+      "example": "The words hiss, buzz, and clang evoke recognizable sounds."
+    },
+    {
+      "term": "Repetition",
+      "definition": "The deliberate recurrence of words, phrases, sounds, images, or structures.",
+      "example": "A poet repeats a phrase at the beginning of successive lines to emphasize a developing idea."
+    },
+    {
+      "term": "Anaphora",
+      "definition": "The repetition of a word or phrase at the beginning of successive lines, clauses, or sentences.",
+      "example": "Several lines begin with the phrase I remember."
+    },
+    {
+      "term": "Epistrophe",
+      "definition": "The repetition of a word or phrase at the ends of successive lines, clauses, or sentences.",
+      "example": "Several lines conclude with the phrase not yet."
+    },
+    {
+      "term": "Euphony",
+      "definition": "A combination of sounds perceived as smooth, harmonious, or pleasing in a particular context.",
+      "example": "Flowing vowel sounds and soft consonants contribute to a peaceful description."
+    },
+    {
+      "term": "Cacophony",
+      "definition": "A combination of sounds perceived as harsh, discordant, or jarring in a particular context.",
+      "example": "Abrupt consonant clusters and sharp sound patterns contribute to a description of mechanical destruction."
+    },
+    {
+      "term": "Imagery",
+      "definition": "Language that evokes sensory experience or creates a vivid mental impression.",
+      "example": "The smell of wet pavement and the warmth of afternoon sunlight establish a recognizable setting."
+    },
+    {
+      "term": "Visual imagery",
+      "definition": "Language that evokes the sense of sight.",
+      "example": "A narrow stripe of gold light crosses a darkened room."
+    },
+    {
+      "term": "Auditory imagery",
+      "definition": "Language that evokes the sense of hearing.",
+      "example": "A distant bell echoes through an empty station."
+    },
+    {
+      "term": "Tactile imagery",
+      "definition": "Language that evokes the sense of touch or physical sensation.",
+      "example": "Rough wool scratches against a speaker's wrist."
+    },
+    {
+      "term": "Olfactory imagery",
+      "definition": "Language that evokes the sense of smell.",
+      "example": "The scent of orange blossoms drifts through an open window."
+    },
+    {
+      "term": "Gustatory imagery",
+      "definition": "Language that evokes the sense of taste.",
+      "example": "A bitter trace of coffee remains on the speaker's tongue."
+    },
+    {
+      "term": "Figurative language",
+      "definition": "Language that communicates meaning through comparisons, associations, or expressions beyond straightforward literal description.",
+      "example": "A speaker describes regret as a shadow that follows every decision."
+    },
+    {
+      "term": "Simile",
+      "definition": "A figurative comparison that explicitly uses a comparison word such as like or as.",
+      "example": "The abandoned house stood like a forgotten photograph."
+    },
+    {
+      "term": "Metaphor",
+      "definition": "A figurative comparison that presents one thing in terms of another without an explicit comparison word such as like or as.",
+      "example": "The city is a restless machine."
+    },
+    {
+      "term": "Extended metaphor",
+      "definition": "A metaphor developed through multiple related details across a passage or complete text.",
+      "example": "A poem compares memory to an old house, developing the comparison through rooms, windows, keys, and locked doors."
+    },
+    {
+      "term": "Personification",
+      "definition": "The attribution of human qualities or actions to nonhuman things, forces, or abstract ideas.",
+      "example": "The wind argues with the windows."
+    },
+    {
+      "term": "Hyperbole",
+      "definition": "Deliberate exaggeration used for emphasis or expressive effect.",
+      "example": "The speaker claims to have waited a thousand years for a reply."
+    },
+    {
+      "term": "Understatement",
+      "definition": "The deliberate presentation of something as less significant or intense than it actually is.",
+      "example": "A speaker describes a devastating disappointment as a small inconvenience."
+    },
+    {
+      "term": "Paradox",
+      "definition": "An apparently contradictory statement or situation that may reveal a meaningful insight.",
+      "example": "A speaker discovers that letting go of a possession makes its significance more enduring."
+    },
+    {
+      "term": "Oxymoron",
+      "definition": "A compact combination of apparently contradictory terms.",
+      "example": "The phrase deafening silence combines contrasting ideas."
+    },
+    {
+      "term": "Symbolism",
+      "definition": "The use of an image, object, action, or other element to suggest meanings beyond its literal function.",
+      "example": "An unopened letter may represent an unresolved relationship when supported by the poem's context."
+    },
+    {
+      "term": "Motif",
+      "definition": "A recurring image, idea, phrase, or pattern that contributes to a text's meaning.",
+      "example": "Repeated references to doors reinforce a poem's exploration of opportunity and exclusion."
+    },
+    {
+      "term": "Allusion",
+      "definition": "A reference to another text, historical event, cultural figure, myth, or other recognizable source.",
+      "example": "A poem refers to Icarus to develop an idea about ambition and its consequences."
+    },
+    {
+      "term": "Apostrophe",
+      "definition": "A direct address to an absent person, abstract idea, object, or nonhuman entity.",
+      "example": "A speaker directly addresses time as though it could respond."
+    },
+    {
+      "term": "Irony",
+      "definition": "A meaningful contrast between appearance and reality, expectation and outcome, or literal expression and intended meaning.",
+      "example": "A speaker praises a supposedly perfect city while describing evidence of widespread suffering."
+    },
+    {
+      "term": "Juxtaposition",
+      "definition": "The placement of contrasting or related elements near one another to create a meaningful relationship.",
+      "example": "A poem places an image of a lavish banquet beside an image of an empty kitchen."
+    },
+    {
+      "term": "Diction",
+      "definition": "A writer's selection and use of words.",
+      "example": "A poet selects words associated with decay to establish an atmosphere of deterioration."
+    },
+    {
+      "term": "Denotation",
+      "definition": "The literal or primary meaning of a word.",
+      "example": "A house is a building used as a place of residence."
+    },
+    {
+      "term": "Connotation",
+      "definition": "The emotional, cultural, or associative meanings connected with a word beyond its literal definition.",
+      "example": "The word home may suggest belonging, safety, or memory."
+    },
+    {
+      "term": "Syntax",
+      "definition": "The arrangement of words and grammatical structures within phrases, clauses, and sentences.",
+      "example": "A poet delays the main verb to create suspense before completing a thought."
+    },
+    {
+      "term": "Speaker",
+      "definition": "The voice or constructed perspective through which a poem is expressed.",
+      "example": "A poem may be spoken by a fictional character whose beliefs differ from those of the poet."
+    },
+    {
+      "term": "Persona",
+      "definition": "A deliberately constructed identity or character adopted by a poetic speaker.",
+      "example": "A poet writes from the perspective of an aging tree observing changes in a city."
+    },
+    {
+      "term": "Poetic voice",
+      "definition": "The distinctive qualities of expression created through a poem's diction, syntax, perspective, rhythm, and attitude.",
+      "example": "A conversational voice uses direct address, informal language, and irregular line lengths."
+    },
+    {
+      "term": "Tone",
+      "definition": "The attitude conveyed by a speaker or text toward its subject, audience, or situation.",
+      "example": "A speaker describes a childhood memory with affectionate but regretful language."
+    },
+    {
+      "term": "Mood",
+      "definition": "The emotional atmosphere or experience created for readers or listeners.",
+      "example": "Dark imagery and abrupt pauses create an atmosphere of uncertainty."
+    },
+    {
+      "term": "Theme",
+      "definition": "A developed insight or understanding about a significant subject, experience, or concern.",
+      "example": "A poem suggests that remembering the past can preserve connections while also intensifying loss."
+    },
+    {
+      "term": "Volta",
+      "definition": "A significant turn or shift in thought, perspective, argument, or emotional direction within a poem.",
+      "example": "A sonnet moves from describing an apparent problem to reconsidering its meaning."
+    },
+    {
+      "term": "Ambiguity",
+      "definition": "The presence of more than one plausible meaning or interpretation.",
+      "example": "A reference to a closing door may suggest either protection or exclusion."
+    },
+    {
+      "term": "Compression",
+      "definition": "The concentration of meaning into relatively few words through precise language, implication, imagery, and structure.",
+      "example": "A brief image of an untouched place setting communicates absence without explicitly explaining a loss."
+    },
+    {
+      "term": "Poetic critique",
+      "definition": "An evidence-based evaluation of how a poem's artistic choices contribute to its meaning, purpose, or effectiveness.",
+      "example": "A student evaluates how a repeated refrain becomes increasingly ironic as a poem develops."
+    },
+    {
+      "term": "Performance",
+      "definition": "The oral or embodied presentation of a poem through choices involving voice, timing, emphasis, gesture, and delivery.",
+      "example": "A reader slows before a poem's final line to emphasize a shift in meaning."
+    }
+  ],
+  "targets": [
+    "I can identify a poem's speaker, situation, subject, and significant structural features.",
+    "I can distinguish a poem's speaker from its poet.",
+    "I can explain how a poem's form contributes to its meaning.",
+    "I can analyze how line breaks and stanza organization influence emphasis and interpretation.",
+    "I can evaluate the effects of enjambment, caesura, and end-stopped lines.",
+    "I can analyze patterns of rhyme, rhythm, meter, and sound.",
+    "I can explain how changes in sound or rhythm influence meaning.",
+    "I can interpret imagery, symbolism, and figurative language using evidence.",
+    "I can trace how an extended metaphor develops across a poem.",
+    "I can explain how diction and connotation contribute to poetic voice and tone.",
+    "I can identify a significant shift in a poem and evaluate its effect.",
+    "I can develop and support a defensible thematic interpretation.",
+    "I can evaluate how multiple poetic techniques work together to develop meaning.",
+    "I can compare how different poems address related ideas through different artistic choices.",
+    "I can discuss alternative interpretations respectfully and evaluate their textual support.",
+    "I can critique a poem using explicit criteria and relevant evidence.",
+    "I can evaluate how oral performance influences interpretation.",
+    "I can select poetic techniques appropriate to a specific audience and purpose.",
+    "I can create a poem using purposeful imagery, figurative language, sound, and structure.",
+    "I can follow or adapt poetic conventions to achieve an intended effect.",
+    "I can revise my poem to strengthen its language, organization, sound, and meaning.",
+    "I can explain how my poetic choices contribute to the experience I want to create."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Sonnet 18",
+      "author": "William Shakespeare",
+      "genre": "Shakespearean sonnet",
+      "purpose": "Evaluate sonnet structure, extended comparison, imagery, meter, rhyme, and the concluding couplet.",
+      "access": "Folger Shakespeare Library or public-domain editions",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Moderate; support Early Modern English vocabulary.",
+      "teachingPrompt": "Evaluate how the poem develops and complicates its initial comparison. Explain how the concluding couplet transforms the poem's treatment of beauty, time, and artistic preservation."
+    },
+    {
+      "title": "Sonnet 130",
+      "author": "William Shakespeare",
+      "genre": "Shakespearean sonnet / anti-Petrarchan love poem",
+      "purpose": "Analyze irony, unconventional imagery, comparison, poetic conventions, and the concluding turn.",
+      "access": "Folger Shakespeare Library or public-domain editions",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; explain conventional Renaissance love poetry.",
+      "interestHook": "Can a love poem be more convincing when it refuses to idealize its subject?",
+      "teachingPrompt": "Evaluate how Shakespeare challenges conventional romantic comparisons while retaining the sonnet form. Explain how the final couplet reshapes the reader's understanding of the preceding descriptions."
+    },
+    {
+      "title": "Ozymandias",
+      "author": "Percy Bysshe Shelley",
+      "genre": "Sonnet",
+      "purpose": "Analyze framed narration, irony, imagery, symbolism, sonnet structure, and themes of power and impermanence.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; support vocabulary and historical context.",
+      "teachingPrompt": "Evaluate how the ruined statue, its inscription, the surrounding landscape, and the poem's layered voices interact to challenge claims of permanent political power."
+    },
+    {
+      "title": "The World Is Too Much with Us",
+      "author": "William Wordsworth",
+      "genre": "Petrarchan sonnet",
+      "purpose": "Analyze octave-sestet structure, allusion, personification, tone, and social criticism.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Moderate to challenging; explain mythological references.",
+      "teachingPrompt": "Evaluate how the sonnet's structural turn and mythological allusions develop its criticism of materialism and humanity's relationship with nature."
+    },
+    {
+      "title": "Hope is the thing with feathers",
+      "author": "Emily Dickinson",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze extended metaphor, compressed imagery, sound, punctuation, and thematic development.",
+      "access": "Public-domain editions or Poetry Foundation; consult a reliable edition for punctuation.",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Accessible to moderate.",
+      "teachingPrompt": "Trace the bird metaphor across the poem. Evaluate how the image develops from a description of hope into an exploration of endurance and generosity."
+    },
+    {
+      "title": "Because I could not stop for Death",
+      "author": "Emily Dickinson",
+      "genre": "Lyric poetry / meditation",
+      "purpose": "Analyze personification, symbolism, narrative progression, meter, slant rhyme, and ambiguity.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; support unfamiliar syntax and abstract interpretation.",
+      "teachingPrompt": "Evaluate how the personification of Death and the journey's changing images complicate conventional expectations about mortality. Consider how rhythm and punctuation influence the poem's atmosphere."
+    },
+    {
+      "title": "I'm Nobody! Who are you?",
+      "author": "Emily Dickinson",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze direct address, irony, diction, sound, and social commentary.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "interestHook": "What if being unknown is more desirable than being famous?",
+      "teachingPrompt": "Evaluate how conversational diction, direct address, and the comparison involving a frog develop the speaker's attitude toward public recognition."
+    },
+    {
+      "title": "The Raven",
+      "author": "Edgar Allan Poe",
+      "genre": "Gothic narrative poem",
+      "purpose": "Analyze refrain, internal rhyme, meter, alliteration, symbolism, atmosphere, and escalating psychological conflict.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate to challenging; support vocabulary and oral reading.",
+      "interestHook": "How can one repeated word become increasingly disturbing?",
+      "teachingPrompt": "Evaluate how the recurring refrain acquires new significance as the speaker's questions change. Explain how sound patterns, imagery, and structure intensify the poem's exploration of grief."
+    },
+    {
+      "title": "Annabel Lee",
+      "author": "Edgar Allan Poe",
+      "genre": "Narrative lyric / elegiac poetry",
+      "purpose": "Analyze repetition, rhythm, rhyme, idealized imagery, speaker perspective, and themes of love and loss.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "teachingPrompt": "Evaluate how repeated phrases and musical sound patterns contribute to the speaker's presentation of love and grief. Consider whether the poem's speaker invites sympathy, questioning, or both."
+    },
+    {
+      "title": "The Road Not Taken",
+      "author": "Robert Frost",
+      "genre": "Lyric narrative poem",
+      "purpose": "Analyze extended metaphor, ambiguity, irony, retrospective narration, and thematic interpretation.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible language with substantial interpretive complexity.",
+      "teachingPrompt": "Compare the descriptions of the two roads with the speaker's imagined future account. Evaluate how the poem complicates familiar interpretations about individuality and decision-making."
+    },
+    {
+      "title": "Stopping by Woods on a Snowy Evening",
+      "author": "Robert Frost",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze interlocking rhyme, meter, imagery, repetition, and tension between desire and obligation.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Accessible language with interpretive depth.",
+      "teachingPrompt": "Evaluate how the poem's regular sound patterns and final repetition contribute to the tension between the speaker's attraction to the woods and continuing obligations."
+    },
+    {
+      "title": "Mending Wall",
+      "author": "Robert Frost",
+      "genre": "Dramatic lyric / blank verse",
+      "purpose": "Analyze conversational voice, blank verse, symbolism, contrasting perspectives, and recurring statements.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate.",
+      "teachingPrompt": "Evaluate how the physical wall becomes a means of exploring boundaries, tradition, and relationships. Explain how the speaker's questions interact with the neighbor's repeated assertion."
+    },
+    {
+      "title": "We Wear the Mask",
+      "author": "Paul Laurence Dunbar",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze extended metaphor, refrain, collective voice, irony, and historical context.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; provide context concerning racial oppression in the United States.",
+      "teachingPrompt": "Evaluate how the mask metaphor, collective pronouns, and repeated refrain develop a theme about the difference between public appearance and private experience."
+    },
+    {
+      "title": "Sympathy",
+      "author": "Paul Laurence Dunbar",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze extended metaphor, sensory imagery, repetition, and thematic development.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "teachingPrompt": "Trace the development of the caged bird image across the poem. Evaluate how repetition and contrasting sensory details communicate the speaker's understanding of confinement and longing."
+    },
+    {
+      "title": "Harlem",
+      "author": "Langston Hughes",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze simile, imagery, rhetorical questioning, lineation, and thematic escalation.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible language; historical context deepens interpretation.",
+      "teachingPrompt": "Evaluate how the sequence of sensory comparisons develops the consequences of deferred aspirations. Explain how the final question changes the emotional and thematic direction of the poem."
+    },
+    {
+      "title": "Mother to Son",
+      "author": "Langston Hughes",
+      "genre": "Dramatic lyric",
+      "purpose": "Analyze extended metaphor, poetic voice, vernacular language, direct address, and thematic development.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how the staircase metaphor and the mother's distinctive voice communicate the difficulty and necessity of perseverance. Discuss how the poem's conversational form supports its purpose."
+    },
+    {
+      "title": "The Negro Speaks of Rivers",
+      "author": "Langston Hughes",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze allusion, repetition, collective identity, imagery, and historical continuity.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; provide geographical and historical context.",
+      "teachingPrompt": "Evaluate how the recurring river imagery and references to different civilizations expand the poem's speaker beyond an individual identity."
+    },
+    {
+      "title": "I, Too",
+      "author": "Langston Hughes",
+      "genre": "Lyric poetry / social commentary",
+      "purpose": "Analyze allusion, symbolism, structural progression, voice, and assertion of belonging.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible; provide historical context and the relationship to Walt Whitman's poetry.",
+      "teachingPrompt": "Evaluate how the kitchen and table imagery, shifts in time, and direct assertion of identity develop the poem's argument about belonging and equality."
+    },
+    {
+      "title": "Still I Rise",
+      "author": "Maya Angelou",
+      "genre": "Lyric poetry / declaration",
+      "purpose": "Analyze repetition, direct address, simile, rhythm, imagery, and the development of a resilient poetic voice.",
+      "access": "And Still I Rise or authorized publication",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible; historical and cultural context enriches interpretation.",
+      "teachingPrompt": "Evaluate how recurring declarations, rhetorical questions, and increasingly expansive imagery develop the speaker's response to oppression and exclusion."
+    },
+    {
+      "title": "Caged Bird",
+      "author": "Maya Angelou",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze contrasting imagery, symbolism, repetition, stanza structure, and thematic development.",
+      "access": "Shaker, Why Don't You Sing? or authorized publication",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Compare the images associated with the free bird and the caged bird. Evaluate how structural alternation and the recurring song develop the poem's treatment of freedom and constraint."
+    },
+    {
+      "title": "The Bean Eaters",
+      "author": "Gwendolyn Brooks",
+      "genre": "Lyric poetry / character portrait",
+      "purpose": "Analyze compressed imagery, diction, sound, ordinary objects, and implied characterization.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Accessible to moderate.",
+      "teachingPrompt": "Evaluate how ordinary household details and the final accumulation of remembered objects develop an understanding of the couple's lives without an extensive narrative explanation."
+    },
+    {
+      "title": "We Real Cool",
+      "author": "Gwendolyn Brooks",
+      "genre": "Short lyric poetry",
+      "purpose": "Analyze enjambment, repetition, rhythm, rhyme, collective voice, and structural disruption.",
+      "access": "Poetry Foundation or authorized publication",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible vocabulary with complex implications.",
+      "interestHook": "How can the placement of one repeated word change the meaning of an entire poem?",
+      "teachingPrompt": "Evaluate how the placement of the recurring pronoun, the short lines, and the final structural departure shape the reader's understanding of the speakers' identity and vulnerability."
+    },
+    {
+      "title": "Those Winter Sundays",
+      "author": "Robert Hayden",
+      "genre": "Lyric poetry / memory",
+      "purpose": "Analyze auditory and tactile imagery, diction, retrospective perspective, and thematic development.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "teachingPrompt": "Evaluate how the poem's images of cold, labor, and warmth interact with the speaker's retrospective questions to develop an understanding of unrecognized care."
+    },
+    {
+      "title": "The Fish",
+      "author": "Elizabeth Bishop",
+      "genre": "Free-verse lyric narrative",
+      "purpose": "Analyze extended description, imagery, figurative language, tonal shifts, and ethical reflection.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; support unfamiliar descriptive vocabulary.",
+      "teachingPrompt": "Trace the speaker's changing perception of the fish. Evaluate how detailed imagery and the final shift transform a seemingly ordinary encounter into a reflection on endurance and respect."
+    },
+    {
+      "title": "One Art",
+      "author": "Elizabeth Bishop",
+      "genre": "Villanelle",
+      "purpose": "Analyze refrain, fixed form, irony, tonal progression, and structural tension.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate.",
+      "teachingPrompt": "Evaluate how the recurring claim about loss changes as the examples become increasingly personal. Explain how the fixed form both supports and complicates the speaker's attempt at emotional control."
+    },
+    {
+      "title": "Do not go gentle into that good night",
+      "author": "Dylan Thomas",
+      "genre": "Villanelle",
+      "purpose": "Analyze refrain, imperative voice, metaphor, contrasting examples, and emotional escalation.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate.",
+      "teachingPrompt": "Evaluate how the two refrains interact with the examples of different kinds of men. Explain how the final personal address transforms the poem's broader argument about mortality."
+    },
+    {
+      "title": "My Last Duchess",
+      "author": "Robert Browning",
+      "genre": "Dramatic monologue",
+      "purpose": "Analyze constructed speaker, dramatic irony, enjambment, rhymed couplets, characterization, and power.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Challenging; support syntax and historical context.",
+      "interestHook": "What can a speaker reveal about himself while trying to impress someone else?",
+      "teachingPrompt": "Evaluate how the Duke's controlled presentation, conversational syntax, and implied revelations expose attitudes that he does not appear to recognize as troubling."
+    },
+    {
+      "title": "The Love Song of J. Alfred Prufrock",
+      "author": "T. S. Eliot",
+      "genre": "Modernist dramatic lyric",
+      "purpose": "Analyze allusion, fragmented structure, repetition, imagery, irony, and psychological perspective.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "15–20 minutes",
+      "highInterest": false,
+      "accessibility": "Challenging; use selected passages and contextual support.",
+      "teachingPrompt": "Evaluate how repeated questions, fragmented images, and shifts in perspective develop the speaker's hesitation and anxiety about social judgment."
+    },
+    {
+      "title": "The Red Wheelbarrow",
+      "author": "William Carlos Williams",
+      "genre": "Imagist poetry",
+      "purpose": "Analyze lineation, visual imagery, compression, and the significance of ordinary objects.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5 minutes",
+      "highInterest": false,
+      "accessibility": "Accessible vocabulary with substantial interpretive possibilities.",
+      "teachingPrompt": "Evaluate how the poem's unusual line breaks, limited diction, and visual arrangement direct attention toward an ordinary scene."
+    },
+    {
+      "title": "This Is Just To Say",
+      "author": "William Carlos Williams",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze conversational diction, line breaks, ambiguity, tone, and sensory imagery.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate whether the poem functions as an apology, a celebration of sensory pleasure, or both. Explain how lineation and diction contribute to its ambiguous tone."
+    },
+    {
+      "title": "A Noiseless Patient Spider",
+      "author": "Walt Whitman",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze extended metaphor, parallel stanza structure, repetition, and philosophical reflection.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Moderate.",
+      "teachingPrompt": "Evaluate how the spider's physical actions develop into a metaphor for the speaker's search for connection. Explain how the two-stanza structure supports the comparison."
+    },
+    {
+      "title": "I Hear America Singing",
+      "author": "Walt Whitman",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze cataloging, repetition, parallelism, imagery, and collective identity.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Accessible to moderate.",
+      "teachingPrompt": "Evaluate how the catalog of workers and recurring references to singing develop a vision of national identity. Compare the poem's inclusions and omissions with Hughes's I, Too."
+    },
+    {
+      "title": "The New Colossus",
+      "author": "Emma Lazarus",
+      "genre": "Petrarchan sonnet",
+      "purpose": "Analyze allusion, personification, symbolism, apostrophe, and the structural turn.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; explain the Colossus of Rhodes and historical context.",
+      "teachingPrompt": "Evaluate how the poem contrasts traditional monuments of power with a personified figure of welcome. Explain how the structural turn develops the poem's public purpose."
+    },
+    {
+      "title": "Dulce et Decorum Est",
+      "author": "Wilfred Owen",
+      "genre": "War poetry",
+      "purpose": "Analyze imagery, sound, irony, allusion, structural shifts, and persuasive purpose.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate to challenging; includes graphic descriptions of wartime suffering.",
+      "teachingPrompt": "Evaluate how the poem's sensory descriptions, changes in pacing, and final direct address challenge idealized representations of warfare."
+    },
+    {
+      "title": "In Flanders Fields",
+      "author": "John McCrae",
+      "genre": "Rondeau / war poetry",
+      "purpose": "Analyze refrain, symbolism, collective speaker, fixed form, and persuasive purpose.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Accessible to moderate; provide World War I context.",
+      "teachingPrompt": "Evaluate how the poppy imagery, collective voice, and recurring refrain develop the poem's appeal to remembrance and continuing responsibility. Compare its purpose with Owen's war poetry."
+    },
+    {
+      "title": "The Soldier",
+      "author": "Rupert Brooke",
+      "genre": "Sonnet / war poetry",
+      "purpose": "Analyze idealized imagery, symbolism, sonnet structure, and patriotic themes.",
+      "access": "Public-domain editions or Poetry Foundation",
+      "readingTime": "5–10 minutes",
+      "highInterest": false,
+      "accessibility": "Moderate.",
+      "teachingPrompt": "Evaluate how the poem's imagery and sonnet structure idealize sacrifice. Compare its poetic treatment of war with Dulce et Decorum Est."
+    },
+    {
+      "title": "The Latin Deli: An Ars Poetica",
+      "author": "Judith Ortiz Cofer",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze sensory imagery, symbolism, characterization, cultural identity, and metaphor.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; support cultural references and multilingual vocabulary.",
+      "teachingPrompt": "Evaluate how the deli's objects, sensory details, and interactions develop a theme about memory, cultural belonging, and the preservation of identity."
+    },
+    {
+      "title": "Legal Alien",
+      "author": "Pat Mora",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze juxtaposition, repetition, bilingual identity, diction, and structural contrast.",
+      "access": "Chants or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how contrasting descriptions and shifts in language communicate the speaker's experience of belonging to multiple cultural communities."
+    },
+    {
+      "title": "Where I'm From",
+      "author": "George Ella Lyon",
+      "genre": "Free-verse autobiographical lyric",
+      "purpose": "Analyze anaphora, cataloging, concrete imagery, memory, and identity.",
+      "access": "Author's official website or authorized anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible; particularly suitable as a composition mentor text.",
+      "teachingPrompt": "Evaluate how repeated sentence patterns and specific sensory details construct a sense of identity without relying on abstract descriptions."
+    },
+    {
+      "title": "Eating Poetry",
+      "author": "Mark Strand",
+      "genre": "Surrealist lyric",
+      "purpose": "Analyze extended metaphor, absurd imagery, tonal shifts, and the relationship between art and experience.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible language with unconventional imagery.",
+      "interestHook": "What would it mean to experience poetry so intensely that reading becomes a physical act?",
+      "teachingPrompt": "Evaluate how the poem's surreal imagery and changing behavior develop an unconventional metaphor for the experience of reading poetry."
+    },
+    {
+      "title": "Introduction to Poetry",
+      "author": "Billy Collins",
+      "genre": "Free-verse lyric / ars poetica",
+      "purpose": "Analyze extended comparison, imagery, humor, tonal shift, and commentary on interpretation.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how the speaker's imaginative descriptions of reading poetry contrast with the students' approach. Explain how the final images critique reductive interpretation."
+    },
+    {
+      "title": "Forgetfulness",
+      "author": "Billy Collins",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze personification, extended imagery, humor, tonal development, and memory.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how the poem transforms an abstract experience into a sequence of imaginative images. Explain how the tone develops from humor toward a more reflective understanding of loss."
+    },
+    {
+      "title": "The Summer Day",
+      "author": "Mary Oliver",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze sensory imagery, rhetorical questions, shifts in scale, and philosophical reflection.",
+      "access": "House of Light or authorized publication",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how detailed observation of a small natural creature develops into a broader question about attention, purpose, and human life."
+    },
+    {
+      "title": "Wild Geese",
+      "author": "Mary Oliver",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze direct address, natural imagery, repetition, and thematic movement.",
+      "access": "Dream Work or authorized publication",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how the poem moves from addressing individual emotional experience toward images of the natural world and a broader sense of belonging."
+    },
+    {
+      "title": "Perhaps the World Ends Here",
+      "author": "Joy Harjo",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze extended symbolism, repetition, cataloging, ordinary objects, and communal identity.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "teachingPrompt": "Evaluate how the kitchen table becomes a recurring symbolic center for personal, familial, and communal experiences. Explain how repetition expands the poem's thematic scope."
+    },
+    {
+      "title": "Remember",
+      "author": "Joy Harjo",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze anaphora, direct address, natural imagery, cultural identity, and interconnectedness.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible; contextualize Harjo's Muscogee background without generalizing across Indigenous cultures.",
+      "teachingPrompt": "Evaluate how repeated imperatives and increasingly expansive images develop a relationship among individual identity, community, history, and the natural world."
+    },
+    {
+      "title": "A Litany for Survival",
+      "author": "Audre Lorde",
+      "genre": "Free-verse lyric / social commentary",
+      "purpose": "Analyze anaphora, collective voice, juxtaposition, repetition, and thematic development.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; provide historical and cultural context.",
+      "teachingPrompt": "Evaluate how recurring statements about fear and speaking create a structural argument about silence, vulnerability, and collective survival."
+    },
+    {
+      "title": "won't you celebrate with me",
+      "author": "Lucille Clifton",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze compressed diction, direct address, lineation, symbolism, and identity.",
+      "access": "Poetry Foundation or licensed anthology",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible language with significant contextual and interpretive depth.",
+      "teachingPrompt": "Evaluate how the poem's compact form and direct invitation develop an understanding of self-creation and survival. Explain how the ending reframes the act of celebration."
+    },
+    {
+      "title": "Theories of Time and Space",
+      "author": "Natasha Trethewey",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze second-person address, geographical imagery, metaphor, memory, and identity.",
+      "access": "Native Guard or authorized publication",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate.",
+      "teachingPrompt": "Evaluate how the poem's travel instructions and geographical details develop into a reflection on memory, history, and the impossibility of returning unchanged."
+    },
+    {
+      "title": "The Hill We Climb",
+      "author": "Amanda Gorman",
+      "genre": "Occasional poetry / spoken-word performance",
+      "purpose": "Analyze anaphora, alliteration, internal rhyme, metaphor, allusion, and public audience engagement.",
+      "access": "Authorized published edition or official inauguration recording",
+      "readingTime": "10–15 minutes including performance",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate; provide historical context.",
+      "teachingPrompt": "Evaluate how recurring sound patterns, metaphors, collective pronouns, and performance choices contribute to the poem's public purpose. Compare the experience of reading the printed text with viewing its delivery."
+    },
+    {
+      "title": "If I Should Have a Daughter",
+      "author": "Sarah Kay",
+      "genre": "Spoken-word poetry",
+      "purpose": "Analyze extended imagery, metaphor, direct address, pacing, humor, and performance.",
+      "access": "Authorized TED performance or published collection",
+      "readingTime": "10–15 minutes including selected performance",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how shifts between humor, imaginative metaphor, and reflective statements contribute to the poem's treatment of resilience and care. Analyze how vocal delivery supports meaning."
+    },
+    {
+      "title": "To This Day",
+      "author": "Shane Koyczan",
+      "genre": "Spoken-word poetry / multimedia performance",
+      "purpose": "Analyze repetition, autobiographical narrative, metaphor, rhythm, and multimedia presentation.",
+      "access": "Authorized performance or official To This Day project",
+      "readingTime": "10–15 minutes including performance",
+      "highInterest": true,
+      "accessibility": "Accessible; includes bullying, emotional distress, and sensitive personal experiences.",
+      "teachingPrompt": "Evaluate how personal anecdotes, recurring phrases, imagery, vocal emphasis, and animation interact to communicate the lasting effects of bullying."
+    },
+    {
+      "title": "The Rose That Grew from Concrete",
+      "author": "Tupac Shakur",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze extended metaphor, personification, symbolism, and thematic compression.",
+      "access": "The Rose That Grew from Concrete or authorized publication",
+      "readingTime": "5 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how the central metaphor communicates persistence under difficult circumstances. Explain how the poem's compressed form contributes to its impact."
+    },
+    {
+      "title": "A selected haiku about an old pond and a frog",
+      "author": "Matsuo Basho",
+      "genre": "Japanese haiku",
+      "purpose": "Analyze concentrated imagery, juxtaposition, sound, silence, and translation choices.",
+      "access": "Public-domain translations or licensed haiku anthology",
+      "readingTime": "5–10 minutes with translation comparison",
+      "highInterest": false,
+      "accessibility": "Accessible language; provide context for Japanese poetic conventions.",
+      "teachingPrompt": "Compare two translations of the poem. Evaluate how word choice, lineation, and the presentation of sound influence the reader's experience of the scene."
+    },
+    {
+      "title": "Tonight I Can Write",
+      "author": "Pablo Neruda",
+      "genre": "Lyric poetry",
+      "purpose": "Analyze repetition, contrasting imagery, emotional progression, and ambiguity.",
+      "access": "Twenty Love Poems and a Song of Despair or licensed translation",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate depending on translation.",
+      "teachingPrompt": "Evaluate how repeated statements, images of the night, and contradictory expressions of attachment and loss develop the speaker's emotional complexity."
+    },
+    {
+      "title": "Selected odes to ordinary objects",
+      "author": "Pablo Neruda",
+      "genre": "Ode",
+      "purpose": "Analyze apostrophe, personification, extended imagery, and the transformation of ordinary subjects.",
+      "access": "Selected Odes or licensed translation",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "teachingPrompt": "Evaluate how sustained attention to an ordinary object transforms it into a subject of poetic significance. Use the selected ode as a mentor text for an original composition."
+    },
+    {
+      "title": "The Journey",
+      "author": "Mary Oliver",
+      "genre": "Free-verse lyric",
+      "purpose": "Analyze extended metaphor, direct address, imagery, pacing, and personal transformation.",
+      "access": "Dream Work or authorized publication",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible.",
+      "teachingPrompt": "Evaluate how the journey metaphor, competing voices, and changing imagery develop a theme about independence and self-recognition."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "15–20 minutes",
+      "title": "From Device to Meaning",
+      "activity": "Students identify three poetic techniques in a short accessible poem. They complete an organizer explaining the evidence, immediate effect, and contribution to meaning of each technique. Students revise device-identification statements into analytical statements.",
+      "materials": [
+        "Short accessible poem",
+        "Poetic techniques reference chart",
+        "Technique-effect-meaning organizer"
+      ],
+      "scaffolds": [
+        "Provide a limited selection of techniques.",
+        "Model the difference between identifying a metaphor and explaining its effect.",
+        "Use sentence frames connecting evidence to meaning."
+      ],
+      "success": "Students explain the effects of at least three poetic techniques using specific textual evidence.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "15–20 minutes",
+      "title": "Hear the Pattern",
+      "activity": "Students listen to and read short poems containing noticeable sound patterns. They mark repeated consonant sounds, vowel sounds, and rhyming words, then explain how one pattern influences the poem's movement or atmosphere.",
+      "materials": [
+        "Selected short poems",
+        "Authorized audio recordings when available",
+        "Sound-pattern organizer"
+      ],
+      "scaffolds": [
+        "Model sound identification orally.",
+        "Distinguish sounds from letters.",
+        "Use color coding to mark different sound patterns."
+      ],
+      "success": "Students accurately identify sound patterns and explain a plausible effect within the poem's context.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Speaker, Subject, and Situation",
+      "activity": "Students read a short poem and identify who is speaking, what situation is presented, what subject is being explored, and what evidence reveals the speaker's attitude. Students distinguish the poem's speaker from its author.",
+      "materials": [
+        "Short lyric or dramatic poem",
+        "Speaker analysis organizer",
+        "Tone vocabulary bank"
+      ],
+      "scaffolds": [
+        "Provide guiding questions about pronouns and direct address.",
+        "Model distinguishing the speaker's statements from the poet's biography.",
+        "Offer a limited set of tone words with definitions."
+      ],
+      "success": "Students develop an evidence-based description of the speaker, situation, and attitude.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Make the Image Concrete",
+      "activity": "Students revise abstract statements about emotions into short poetic descriptions using sensory details. They compare the effects of direct explanation and concrete imagery.",
+      "materials": [
+        "Abstract statement cards",
+        "Sensory imagery organizer",
+        "Mentor poem excerpts"
+      ],
+      "scaffolds": [
+        "Model transforming an abstract emotion into a concrete image.",
+        "Provide a sensory vocabulary bank.",
+        "Allow oral brainstorming before writing."
+      ],
+      "success": "Students create precise sensory images that communicate an experience without relying entirely on abstract labels.",
+      "alignment": [
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–30 minutes",
+      "title": "Build an Extended Metaphor",
+      "activity": "Students select a familiar object or activity and connect it to an abstract experience. They develop three related comparisons and organize them into a short poem.",
+      "materials": [
+        "Metaphor planning chart",
+        "Selected mentor poems",
+        "Object and abstract concept cards"
+      ],
+      "scaffolds": [
+        "Provide examples of related rather than disconnected comparisons.",
+        "Model developing a single comparison through several concrete details.",
+        "Use a partially completed planning organizer."
+      ],
+      "success": "Students create a coherent extended metaphor that develops meaning across multiple lines.",
+      "alignment": [
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "The Line Break Laboratory",
+      "activity": "Students examine an existing poem's lineation and compare it with a prose version and an alternative line arrangement. They evaluate how the original line breaks influence emphasis, pacing, ambiguity, and meaning. Students then create two line arrangements for an original short text.",
+      "materials": [
+        "We Real Cool, The Red Wheelbarrow, or another suitable poem",
+        "Lineation comparison organizer",
+        "Short original prose passages"
+      ],
+      "scaffolds": [
+        "Model how a line ending can temporarily change the reader's interpretation.",
+        "Require students to explain specific effects rather than simply identify differences.",
+        "Use original teacher-written passages for student rearrangement when permissions are uncertain."
+      ],
+      "success": "Students evaluate the effects of lineation and demonstrate purposeful line breaks in their own writing.",
+      "alignment": [
+        "10.T.T.4.a",
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Form and Meaning in the Sonnet",
+      "activity": "Students compare two sonnets, identifying their structural patterns, rhyme schemes, development of ideas, and significant turns. They evaluate how the poets use or adapt formal conventions to achieve different purposes.",
+      "materials": [
+        "Sonnet 18 and Sonnet 130, or another appropriate pairing",
+        "Sonnet structure organizer",
+        "Annotated editions"
+      ],
+      "scaffolds": [
+        "Provide vocabulary and historical context.",
+        "Model identifying the development of an idea across quatrains.",
+        "Distinguish formal description from interpretation of the form's effects."
+      ],
+      "success": "Students compare sonnet conventions and evaluate how structural choices contribute to meaning and purpose.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "The Sound of Meaning",
+      "activity": "Students analyze how sound devices interact with imagery and thematic development in a poem. They annotate sound patterns, read selected passages aloud, and write an evaluation explaining the relationship between sound and meaning.",
+      "materials": [
+        "The Raven, Dulce et Decorum Est, or another sound-rich poem",
+        "Sound analysis chart",
+        "Authorized recordings when available"
+      ],
+      "scaffolds": [
+        "Model analyzing sound within a specific context.",
+        "Avoid assigning universal emotional meanings to individual sounds.",
+        "Provide a guided oral reading before independent analysis."
+      ],
+      "success": "Students explain how sound patterns contribute to a poem's atmosphere, emphasis, or thematic development.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "A Metaphor That Develops",
+      "activity": "Students trace an extended metaphor through several portions of a poem. They identify the central comparison, explain how related details expand its meaning, and evaluate its contribution to the poem's theme.",
+      "materials": [
+        "Mother to Son, Hope is the thing with feathers, or A Noiseless Patient Spider",
+        "Extended metaphor tracker",
+        "Evidence and reasoning organizer"
+      ],
+      "scaffolds": [
+        "Model distinguishing the literal image from the abstract idea.",
+        "Provide a partially completed metaphor tracker.",
+        "Require students to examine how the comparison develops rather than merely identify it."
+      ],
+      "success": "Students evaluate how an extended metaphor develops meaning across a complete poem.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "The Turning Point",
+      "activity": "Students identify a significant shift in a poem's tone, imagery, perspective, or argument. They analyze the language and structural choices preceding and following the shift, then evaluate its contribution to the poem's overall meaning.",
+      "materials": [
+        "Ozymandias, The Fish, One Art, or another suitable poem",
+        "Before-and-after shift organizer",
+        "Analytical response rubric"
+      ],
+      "scaffolds": [
+        "Model recognizing changes in pronouns, conjunctions, images, and sentence patterns.",
+        "Distinguish a formal stanza break from a meaningful shift in thought.",
+        "Provide examples of defensible alternative locations for a poem's turn."
+      ],
+      "success": "Students support an interpretation of a significant poetic shift and explain its thematic effect.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "50–60 minutes",
+      "title": "Two Poets, One Subject",
+      "activity": "Students compare poems addressing a related subject through different forms, perspectives, or techniques. They develop thematic interpretations and evaluate how each poem's artistic choices contribute to its distinctive meaning.",
+      "materials": [
+        "Sympathy and Caged Bird, or another thematically related pairing",
+        "Comparative poetry matrix",
+        "Evidence-based analysis rubric"
+      ],
+      "scaffolds": [
+        "Provide relevant historical and literary context.",
+        "Require evidence from both poems.",
+        "Model distinguishing a shared subject from identical thematic meaning."
+      ],
+      "success": "Students develop a comparative evaluation that explains meaningful similarities and differences in poetic technique and theme.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Poetry on the Page and in Performance",
+      "activity": "Students read a printed poem and view or listen to an authorized performance. They compare the effects of lineation, punctuation, rhythm, vocal emphasis, tempo, and pauses. Students evaluate how performance choices influence interpretation.",
+      "materials": [
+        "The Hill We Climb or another suitable spoken-word poem",
+        "Authorized text and performance",
+        "Performance analysis organizer"
+      ],
+      "scaffolds": [
+        "Provide transcripts and captions when available.",
+        "Model separating textual techniques from delivery choices.",
+        "Require students to identify specific moments supporting their evaluations."
+      ],
+      "success": "Students evaluate how textual and performance techniques interact to shape audience experience.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "An Ode to the Ordinary",
+      "activity": "Students select an ordinary object and compose an ode that develops its significance through sensory imagery, figurative language, direct address, and purposeful structure. They explain how their choices transform the object into a meaningful poetic subject.",
+      "materials": [
+        "Selected odes by Pablo Neruda",
+        "Object observation organizer",
+        "Poetic composition checklist"
+      ],
+      "scaffolds": [
+        "Begin with detailed observation of the object.",
+        "Model moving from literal description to figurative interpretation.",
+        "Encourage precise imagery rather than unnecessary elevated vocabulary."
+      ],
+      "success": "Students create an original ode in which imagery and figurative language develop a coherent purpose.",
+      "alignment": [
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Identity Through Images",
+      "activity": "Students study a poem that develops identity through recurring language and concrete details. They create an original poem using an organizing pattern, sensory images, and purposeful repetition to explore an aspect of identity or belonging.",
+      "materials": [
+        "Where I'm From, Remember, or another appropriate mentor poem",
+        "Identity and imagery planning organizer",
+        "Peer feedback protocol"
+      ],
+      "scaffolds": [
+        "Allow fictional or observational alternatives to personal disclosure.",
+        "Provide optional structural patterns without requiring imitation of the mentor poem.",
+        "Model connecting concrete details to a larger idea."
+      ],
+      "success": "Students create a coherent poem in which specific images and structural choices develop an intended understanding of identity.",
+      "alignment": [
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "50–60 minutes",
+      "title": "The Refrain That Changes",
+      "activity": "Students analyze how a repeated line develops new significance across a mentor poem. They compose a poem containing a recurring phrase or line whose meaning changes as the surrounding images and ideas develop.",
+      "materials": [
+        "One Art, We Wear the Mask, or another suitable poem",
+        "Refrain development planner",
+        "Composition rubric"
+      ],
+      "scaffolds": [
+        "Model distinguishing meaningful repetition from mechanical repetition.",
+        "Provide examples of repeated lines that change meaning through context.",
+        "Use peer feedback to assess whether the refrain develops across the poem."
+      ],
+      "success": "Students use repetition to create structural coherence and meaningful thematic development.",
+      "alignment": [
+        "10.T.T.4.a",
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "60–90 minutes",
+      "title": "Poetry Revision Workshop",
+      "activity": "Students draft an original poem for a defined purpose and audience. They revise diction, imagery, figurative language, sound, lineation, and structure. Students submit a revised poem with a craft commentary explaining three significant decisions.",
+      "materials": [
+        "Original poetry drafts",
+        "Poetic revision checklist",
+        "Peer feedback organizer",
+        "Craft commentary template"
+      ],
+      "scaffolds": [
+        "Provide revision examples showing changes beyond spelling and punctuation.",
+        "Organize peer feedback around the intended effect of the poem.",
+        "Allow students to focus on one major craft element during each revision pass."
+      ],
+      "success": "Students produce a purposeful revised poem and explain how their artistic choices contribute to meaning and audience experience.",
+      "alignment": [
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Fixed Form as Creative Constraint",
+      "activity": "Students compare poems that use a fixed form to develop different emotional or thematic effects. They evaluate the advantages and limitations of the form, then compose an original poem using or purposefully adapting its conventions.",
+      "materials": [
+        "One Art and Do not go gentle into that good night, or a sonnet pairing",
+        "Form analysis organizer",
+        "Poetic composition rubric"
+      ],
+      "scaffolds": [
+        "Provide an accurate description of the selected form's conventions.",
+        "Require students to distinguish intentional adaptation from accidental inconsistency.",
+        "Encourage students to prioritize meaningful language rather than forced rhyme."
+      ],
+      "success": "Students evaluate the expressive possibilities of a fixed form and apply its conventions purposefully in an original composition.",
+      "alignment": [
+        "10.T.T.4.a",
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Ambiguity and Competing Interpretations",
+      "activity": "Students develop two plausible interpretations of a poem containing ambiguity, irony, or a complex speaker. They gather evidence for each interpretation, evaluate the strengths and limitations of each reading, and participate in a structured literary discussion.",
+      "materials": [
+        "The Road Not Taken, My Last Duchess, or another complex poem",
+        "Competing interpretation organizer",
+        "Discussion protocol"
+      ],
+      "scaffolds": [
+        "Distinguish plausible ambiguity from unsupported speculation.",
+        "Require evidence that complicates each interpretation.",
+        "Model evaluating competing readings without assuming all interpretations are equally supported."
+      ],
+      "success": "Students develop and evaluate multiple evidence-based interpretations of a complex poetic text.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75–90 minutes",
+      "title": "Poetry and the Representation of War",
+      "activity": "Students compare poems that represent war through contrasting imagery, forms, speakers, and purposes. They evaluate how each poem's artistic choices shape its presentation of sacrifice, suffering, remembrance, or national identity.",
+      "materials": [
+        "Dulce et Decorum Est",
+        "The Soldier",
+        "In Flanders Fields",
+        "Credible World War I contextual resources"
+      ],
+      "scaffolds": [
+        "Provide historical context without substituting it for close reading.",
+        "Require students to analyze specific passages from each poem.",
+        "Encourage nuanced distinctions among remembrance, patriotism, persuasion, and criticism."
+      ],
+      "success": "Students develop a comparative critique explaining how different poetic choices contribute to contrasting representations of war.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Poetry in Translation",
+      "activity": "Students compare two or more translations of a short poem. They evaluate differences in diction, lineation, imagery, sound, and cultural associations. Students explain how translation choices influence interpretation while recognizing the limitations of evaluating an original language they do not know.",
+      "materials": [
+        "Multiple authorized translations of a selected haiku or lyric poem",
+        "Translation comparison organizer",
+        "Relevant cultural and linguistic context"
+      ],
+      "scaffolds": [
+        "Provide the original text when appropriate without requiring students to read an unfamiliar language.",
+        "Distinguish translation differences from errors.",
+        "Encourage students to evaluate specific effects rather than declare one translation universally superior."
+      ],
+      "success": "Students evaluate how translation choices influence poetic form, imagery, and meaning.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 minutes",
+      "title": "Dramatic Persona Poetry",
+      "activity": "Students compose a dramatic monologue from the perspective of a fictional character whose language reveals more than the character intends. They use diction, syntax, irony, implied audience, and structural choices to develop a complex poetic speaker.",
+      "materials": [
+        "My Last Duchess or another dramatic monologue",
+        "Persona planning organizer",
+        "Poetic composition rubric"
+      ],
+      "scaffolds": [
+        "Model the distinction between a poet's beliefs and a constructed speaker's perspective.",
+        "Require students to plan the speaker's intended message and unintended revelations.",
+        "Encourage indirect characterization through language rather than explanatory narration."
+      ],
+      "success": "Students create a coherent dramatic monologue in which poetic voice and implied meaning develop a complex speaker.",
+      "alignment": [
+        "10.T.T.4.b"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 minutes",
+      "title": "Curate a Thematic Poetry Collection",
+      "activity": "Students select four to six poems representing different forms, periods, or cultural traditions that address a related concern. They organize the poems into a purposeful sequence and write an introduction explaining how poetic techniques develop contrasting or complementary thematic perspectives.",
+      "materials": [
+        "School library poetry collections",
+        "Credible poetry archives",
+        "Curatorial planning organizer",
+        "Comparative analysis rubric"
+      ],
+      "scaffolds": [
+        "Require teacher approval of selections.",
+        "Provide guidance on attribution and copyright.",
+        "Require specific discussion of poetic techniques rather than thematic summaries alone."
+      ],
+      "success": "Students curate a coherent collection and develop an evidence-based explanation of the relationships among form, technique, and theme.",
+      "alignment": [
+        "10.T.T.4.a"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 minutes",
+      "title": "Write, Perform, and Defend",
+      "activity": "Students create an original spoken-word poem for a defined audience and purpose. They revise the written text, plan vocal delivery, rehearse or record a performance, and submit a commentary explaining how textual and performance choices work together.",
+      "materials": [
+        "Authorized spoken-word mentor performances",
+        "Performance planning organizer",
+        "Poetic composition rubric",
+        "Optional recording equipment"
+      ],
+      "scaffolds": [
+        "Provide alternatives to live public performance.",
+        "Model purposeful use of pauses, tempo, emphasis, and intonation.",
+        "Evaluate poetic craft separately from performance confidence or presentation style."
+      ],
+      "success": "Students produce an original poem and demonstrate purposeful coordination of written techniques and oral delivery.",
+      "alignment": [
+        "10.T.T.4.b"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem describes a person's grief through recurring images of an empty chair, an unopened letter, and a silent telephone. Which interpretation best explains the combined effect of these images?",
+      "options": [
+        "They establish an exact chronological sequence of events.",
+        "They use ordinary objects to communicate absence and loss without directly explaining every emotion.",
+        "They demonstrate that the poem must follow a fixed rhyme scheme.",
+        "They establish that the speaker and poet are necessarily the same person."
+      ],
+      "answer": "They use ordinary objects to communicate absence and loss without directly explaining every emotion.",
+      "rationale": "The recurring concrete images work together to develop an emotional experience through implication and compression."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement most clearly evaluates a poetic technique rather than merely identifying it?",
+      "options": [
+        "The poem contains three stanzas.",
+        "The poem uses an extended metaphor.",
+        "The extended metaphor effectively develops the speaker's growing sense of isolation by transforming familiar household images into signs of absence.",
+        "The poet uses several adjectives."
+      ],
+      "answer": "The extended metaphor effectively develops the speaker's growing sense of isolation by transforming familiar household images into signs of absence.",
+      "rationale": "The response makes a reasoned judgment about how a technique contributes to meaning."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem repeatedly interrupts sentences at unexpected line endings. What should a reader examine to evaluate this technique?",
+      "options": [
+        "Whether every line contains the same number of letters",
+        "How the interruptions influence pacing, emphasis, temporary ambiguity, and interpretation",
+        "Whether the poet followed every convention of prose paragraphs",
+        "How many words appear in the poem's title"
+      ],
+      "answer": "How the interruptions influence pacing, emphasis, temporary ambiguity, and interpretation",
+      "rationale": "Enjambment and lineation influence the way readers encounter and interpret language."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem establishes a regular rhyme scheme but breaks the pattern in its final stanza. Which interpretation is most defensible?",
+      "options": [
+        "The poet necessarily made a mistake.",
+        "The poem can no longer communicate a theme.",
+        "The departure may emphasize a significant change in thought, emotion, or expectation.",
+        "The poem automatically becomes a prose poem."
+      ],
+      "answer": "The departure may emphasize a significant change in thought, emotion, or expectation.",
+      "rationale": "A disruption of an established pattern may be purposeful, although its specific effect must be supported by context."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement accurately distinguishes rhythm from meter?",
+      "options": [
+        "Rhythm occurs only in rhymed poetry.",
+        "Meter is a recurring organizational pattern of rhythmic units, while rhythm refers more broadly to the movement of language.",
+        "Rhythm and meter are identical terms for end rhyme.",
+        "Free verse contains neither rhythm nor sound patterns."
+      ],
+      "answer": "Meter is a recurring organizational pattern of rhythmic units, while rhythm refers more broadly to the movement of language.",
+      "rationale": "Poetry may establish meaningful rhythm without following a regular meter."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poet uses repeated initial consonant sounds in the phrase silver streams slip silently. Which technique is most directly illustrated?",
+      "options": [
+        "Alliteration",
+        "Caesura",
+        "Apostrophe",
+        "Situational irony"
+      ],
+      "answer": "Alliteration",
+      "rationale": "The phrase repeats an initial consonant sound across nearby words."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which analysis best explains how sound devices can contribute to poetic meaning?",
+      "options": [
+        "Alliteration always creates happiness.",
+        "Harsh consonant clusters can reinforce a description of conflict when their effects are supported by the surrounding imagery and context.",
+        "Rhyme always indicates that a poem is humorous.",
+        "Sound patterns are unrelated to thematic development."
+      ],
+      "answer": "Harsh consonant clusters can reinforce a description of conflict when their effects are supported by the surrounding imagery and context.",
+      "rationale": "Sound effects depend on the interaction between language, context, imagery, and purpose."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem repeatedly compares a difficult relationship to a garden that requires attention, pruning, and renewal. Which technique is most clearly developed?",
+      "options": [
+        "Extended metaphor",
+        "End rhyme",
+        "Dramatic irony",
+        "Chronological exposition"
+      ],
+      "answer": "Extended metaphor",
+      "rationale": "The sustained comparison develops through several related images."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A speaker describes a city as a restless machine. What makes this expression a metaphor?",
+      "options": [
+        "It presents the city in terms of another thing to suggest a meaningful relationship.",
+        "It identifies the city's exact population.",
+        "It uses the comparison word like.",
+        "It establishes a regular metrical pattern."
+      ],
+      "answer": "It presents the city in terms of another thing to suggest a meaningful relationship.",
+      "rationale": "The metaphor suggests qualities of the city through comparison with a machine."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem presents an image of a locked door in several different contexts. Which approach provides the strongest symbolic interpretation?",
+      "options": [
+        "Assume that every locked door symbolizes fear.",
+        "Consult a universal symbol dictionary and accept its first definition.",
+        "Examine how the door relates to the poem's speaker, recurring images, conflicts, and changes in meaning.",
+        "Ignore the door because it is an ordinary object."
+      ],
+      "answer": "Examine how the door relates to the poem's speaker, recurring images, conflicts, and changes in meaning.",
+      "rationale": "Symbolic meanings emerge from textual relationships and context rather than fixed universal definitions."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem places an image of a lavish celebration immediately beside an image of a hungry child. Which technique most directly creates the relationship between these images?",
+      "options": [
+        "Juxtaposition",
+        "Scansion",
+        "End rhyme",
+        "Apostrophe"
+      ],
+      "answer": "Juxtaposition",
+      "rationale": "The placement of contrasting images near one another encourages readers to examine their relationship."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem's speaker repeatedly praises a powerful ruler, but the descriptions reveal cruelty and injustice. Which interpretation is most defensible?",
+      "options": [
+        "The poem necessarily endorses the ruler's actions.",
+        "The contrast may create irony that encourages readers to question the speaker's praise.",
+        "The poem contains no meaningful speaker.",
+        "The descriptions eliminate the possibility of a political theme."
+      ],
+      "answer": "The contrast may create irony that encourages readers to question the speaker's praise.",
+      "rationale": "The difference between explicit praise and implied criticism can create ironic meaning."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Why should readers distinguish a poem's speaker from its poet?",
+      "options": [
+        "Poets are never influenced by personal experience.",
+        "A poem may use a constructed voice whose beliefs, experiences, or attitudes differ from those of its author.",
+        "Every poem is written from an omniscient perspective.",
+        "The speaker's identity has no effect on interpretation."
+      ],
+      "answer": "A poem may use a constructed voice whose beliefs, experiences, or attitudes differ from those of its author.",
+      "rationale": "A poetic speaker is a textual voice and should not automatically be equated with the author."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem begins with affectionate descriptions of a childhood home but gradually introduces images of decay and abandonment. Which interpretation best explains the shift?",
+      "options": [
+        "The poem changes from lyric poetry to drama.",
+        "The changing imagery complicates the speaker's initial nostalgia and develops a more complex understanding of memory.",
+        "The poet abandons the poem's subject.",
+        "The poem no longer contains a consistent theme."
+      ],
+      "answer": "The changing imagery complicates the speaker's initial nostalgia and develops a more complex understanding of memory.",
+      "rationale": "Changes in imagery and tone can develop or complicate a poem's central ideas."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement most accurately describes the relationship between tone and mood?",
+      "options": [
+        "Tone describes the speaker's conveyed attitude, while mood describes the emotional atmosphere created for readers or listeners.",
+        "Tone and mood always refer to the poet's personal emotions.",
+        "Mood identifies a poem's rhyme scheme.",
+        "Tone refers exclusively to the volume of an oral performance."
+      ],
+      "answer": "Tone describes the speaker's conveyed attitude, while mood describes the emotional atmosphere created for readers or listeners.",
+      "rationale": "Tone and mood are related but distinct aspects of poetic experience."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A sonnet spends its opening lines describing a problem and then shifts toward an unexpected reconsideration. Which term best describes the significant turn in thought?",
+      "options": [
+        "Volta",
+        "Alliteration",
+        "Consonance",
+        "Enjambment"
+      ],
+      "answer": "Volta",
+      "rationale": "A volta is a significant shift in thought, perspective, argument, or emotional direction."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement best describes free verse?",
+      "options": [
+        "Poetry without any deliberate structure",
+        "Poetry that must avoid every form of rhyme",
+        "Poetry without a fixed metrical or rhyme scheme that can still use purposeful rhythm, lineation, repetition, and other patterns",
+        "Poetry consisting only of complete prose sentences"
+      ],
+      "answer": "Poetry without a fixed metrical or rhyme scheme that can still use purposeful rhythm, lineation, repetition, and other patterns",
+      "rationale": "Free verse permits flexible structural choices rather than eliminating structure."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem repeats the same line after each stanza, but the line becomes increasingly ironic as new details emerge. What is the strongest explanation of the refrain's effect?",
+      "options": [
+        "The refrain prevents thematic development.",
+        "The refrain creates structural continuity while acquiring new meaning through its changing context.",
+        "The refrain proves that the poem has only one interpretation.",
+        "The refrain functions only as a decorative sound device."
+      ],
+      "answer": "The refrain creates structural continuity while acquiring new meaning through its changing context.",
+      "rationale": "Repeated language can develop meaning as surrounding images, ideas, and circumstances change."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement is a defensible thematic interpretation rather than a topic?",
+      "options": [
+        "Memory",
+        "A speaker describes a photograph.",
+        "The poem has four stanzas.",
+        "Memory can preserve emotional connections while also intensifying awareness of loss."
+      ],
+      "answer": "Memory can preserve emotional connections while also intensifying awareness of loss.",
+      "rationale": "The statement expresses a developed insight rather than naming a subject or describing a structural feature."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Two poems address freedom. One uses images of flight, while the other uses images of open roads. Which comparative approach is strongest?",
+      "options": [
+        "Assume the poems communicate identical themes because they share a subject.",
+        "Analyze how each image pattern develops a particular understanding of freedom and compare the resulting thematic meanings.",
+        "Determine which poem contains more lines and declare it more effective.",
+        "Ignore the images because both poems address the same topic."
+      ],
+      "answer": "Analyze how each image pattern develops a particular understanding of freedom and compare the resulting thematic meanings.",
+      "rationale": "Comparative analysis examines how different poetic choices develop related or contrasting meanings."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem's final line can plausibly suggest both reconciliation and resignation. What should a reader do?",
+      "options": [
+        "Assume that ambiguity is always a flaw.",
+        "Select whichever interpretation is more personally appealing without examining the text.",
+        "Evaluate the textual evidence supporting each interpretation and consider whether the ambiguity contributes to the poem's meaning.",
+        "Ignore the final line because it is difficult to interpret."
+      ],
+      "answer": "Evaluate the textual evidence supporting each interpretation and consider whether the ambiguity contributes to the poem's meaning.",
+      "rationale": "Purposeful ambiguity can support multiple defensible interpretations that should be evaluated through evidence."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A performer pauses before a poem's final word and delivers it more quietly than the preceding lines. Which analysis best evaluates this choice?",
+      "options": [
+        "The performer necessarily changes the poem's rhyme scheme.",
+        "The pause and reduced volume may emphasize the final word and create a reflective or intimate effect.",
+        "The performer eliminates the poem's imagery.",
+        "The performance proves that the poet intended only one possible meaning."
+      ],
+      "answer": "The pause and reduced volume may emphasize the final word and create a reflective or intimate effect.",
+      "rationale": "Delivery choices influence emphasis and audience experience without necessarily changing the written text."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision most effectively transforms the statement I felt lonely into concrete poetic imagery?",
+      "options": [
+        "I felt very, very lonely.",
+        "Loneliness is an emotion that people experience.",
+        "Across the table, the second cup cooled untouched.",
+        "The speaker was experiencing loneliness."
+      ],
+      "answer": "Across the table, the second cup cooled untouched.",
+      "rationale": "The concrete image communicates absence through an observable detail rather than directly naming the emotion."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student wants to create a poem that gradually develops a sense of urgency. Which combination of techniques could most directly support that purpose?",
+      "options": [
+        "Increasingly short lines, recurring imperatives, and accelerating rhythmic patterns",
+        "Randomly changing every word to a longer synonym",
+        "Removing every significant image",
+        "Using a fixed number of adjectives in each stanza regardless of meaning"
+      ],
+      "answer": "Increasingly short lines, recurring imperatives, and accelerating rhythmic patterns",
+      "rationale": "Purposeful changes in structure, syntax, and rhythm can intensify urgency."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student writing a sonnet discovers that a required rhyme leads to an awkward phrase that weakens the intended meaning. Which response demonstrates the strongest craft judgment?",
+      "options": [
+        "Keep the awkward phrase because rhyme is always more important than meaning.",
+        "Replace the phrase with unrelated words that happen to rhyme.",
+        "Reconsider the wording or rhyme pattern while preserving the intended meaning and making a purposeful decision about the form.",
+        "Remove every poetic technique from the composition."
+      ],
+      "answer": "Reconsider the wording or rhyme pattern while preserving the intended meaning and making a purposeful decision about the form.",
+      "rationale": "Poetic conventions should support meaning and purpose rather than force ineffective language."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision most directly strengthens thematic development in a poem about belonging?",
+      "options": [
+        "Add the word belonging to the end of every line.",
+        "Develop a recurring image whose meaning changes as the speaker's understanding of community develops.",
+        "Replace all concrete nouns with abstract nouns.",
+        "Add a rhyme to every line without considering meaning."
+      ],
+      "answer": "Develop a recurring image whose meaning changes as the speaker's understanding of community develops.",
+      "rationale": "Thematic development emerges through meaningful relationships and changes across a poem."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which peer feedback comment provides the most useful evidence-based guidance for poetic revision?",
+      "options": [
+        "I liked it.",
+        "Make it rhyme more.",
+        "The recurring window image creates a sense of separation, but the final stanza introduces an unrelated ocean metaphor that weakens the established pattern.",
+        "Poetry should always be longer."
+      ],
+      "answer": "The recurring window image creates a sense of separation, but the final stanza introduces an unrelated ocean metaphor that weakens the established pattern.",
+      "rationale": "The comment identifies a specific craft choice, explains its effect, and identifies a meaningful opportunity for revision."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a poem's form can reinforce or complicate its content. Provide an example.",
+      "answer": "A successful response explains a relationship between structural design and meaning. For example, a villanelle's recurring refrains may reinforce a speaker's determination while also revealing an inability to escape a troubling thought.",
+      "rationale": "The task assesses understanding of the interaction between poetic form and content."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how enjambment can create temporary ambiguity or suspense.",
+      "answer": "A successful response explains that a grammatical unit continues beyond a line ending, allowing readers to encounter an incomplete or temporarily misleading meaning before the next line supplies additional information.",
+      "rationale": "Lineation can influence the timing and interpretation of poetic language."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a poet might use caesura to contribute to meaning.",
+      "answer": "A poet might use an internal pause to emphasize hesitation, interruption, contrast, reflection, or a significant emotional shift. The response should explain the relationship between the pause and the poem's specific context.",
+      "rationale": "Students should evaluate structural techniques according to their effects rather than assign one universal meaning."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe how an extended metaphor differs from an isolated metaphor.",
+      "answer": "An isolated metaphor establishes a figurative comparison at a particular moment. An extended metaphor develops the comparison through multiple related details, allowing its meaning to expand, change, or become more complex across a text.",
+      "rationale": "The task assesses understanding of figurative development across a poem."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain why a poem's speaker may reveal information unintentionally.",
+      "answer": "A constructed speaker may express beliefs, assumptions, or attitudes that readers recognize as revealing aspects of character beyond the speaker's intended message. Contradictions, omissions, irony, and diction can create this effect.",
+      "rationale": "The task assesses understanding of poetic persona and implied meaning."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how the same refrain can acquire different meanings across a poem.",
+      "answer": "A refrain's words may remain unchanged while surrounding images, events, or ideas develop. Each recurrence can therefore reinforce, complicate, or challenge the reader's earlier interpretation of the repeated language.",
+      "rationale": "Repetition can create thematic progression rather than merely repeat information."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a reader can use historical or cultural context without replacing close reading.",
+      "answer": "The reader should use relevant context to clarify references, conventions, circumstances, or possible implications while continuing to ground interpretations in the poem's actual language, structure, imagery, and other textual evidence.",
+      "rationale": "Context should deepen rather than substitute for literary analysis."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe how two poems addressing the same subject can develop contrasting themes.",
+      "answer": "The poems may use different speakers, images, metaphors, forms, tones, or structural developments to communicate different insights about the shared subject. A successful response explains how those choices contribute to contrasting meanings.",
+      "rationale": "Shared subject matter does not establish identical thematic interpretation."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain why a literary critique should involve more than a statement of personal enjoyment.",
+      "answer": "A critique evaluates artistic choices according to meaningful criteria such as coherence, thematic depth, precision, audience engagement, or effectiveness. It supports judgments with specific evidence and reasoning rather than relying only on preference.",
+      "rationale": "The standard requires evidence-based evaluation and critique."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe two ways oral performance can influence the interpretation of a poem.",
+      "answer": "Possible responses include using pauses to emphasize structural shifts, changing tempo to influence urgency, varying volume to create contrast, using intonation to communicate attitude, or stressing particular words to highlight relationships among ideas.",
+      "rationale": "Poetic presentation includes meaningful choices beyond the printed text."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a poet can create a purposeful structure in free verse without using a regular rhyme scheme.",
+      "answer": "A poet can organize free verse through recurring images, stanza patterns, line lengths, syntactic repetition, shifts in perspective, rhythm, white space, or thematic progression. These choices can create coherence and emphasis without fixed rhyme.",
+      "rationale": "Free verse depends on deliberate structural choices rather than an absence of organization."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe how a writer might revise a poem to improve its imagery without making it unnecessarily longer.",
+      "answer": "The writer could replace vague descriptions with precise sensory details, remove redundant adjectives, select stronger verbs, develop a meaningful image pattern, and eliminate details that do not contribute to the poem's intended effect.",
+      "rationale": "Poetic revision emphasizes precision, compression, and purposeful language."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Select a poem and evaluate how at least three poetic techniques work together to develop its meaning or theme. Use specific textual evidence and explain the relationships among the techniques.",
+      "answer": "A successful response establishes a defensible interpretation, identifies significant techniques, incorporates precise textual evidence, explains how the techniques interact, and develops a reasoned evaluation of their contribution to meaning or theme.",
+      "rationale": "The task directly assesses integrated evaluation of poetic techniques."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare two poems addressing a related subject. Evaluate how differences in form, imagery, diction, sound, or perspective contribute to their distinctive thematic meanings.",
+      "answer": "A successful response establishes a meaningful basis for comparison, develops accurate interpretations of both poems, analyzes specific techniques, incorporates evidence from both texts, and evaluates the significance of similarities and differences.",
+      "rationale": "The task assesses comparative poetic interpretation and critique."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Analyze a significant shift in a poem. Evaluate how the poet's structural and linguistic choices before and after the shift contribute to the poem's overall meaning.",
+      "answer": "A successful response identifies a defensible shift, analyzes relevant language and structural patterns on both sides of the shift, and explains how the change develops, complicates, or transforms the poem's meaning.",
+      "rationale": "The task assesses relationships among poetic structure, development, and thematic interpretation."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Evaluate how a poem's fixed form supports or complicates its intended purpose. Consider the effects of rhyme, meter, repetition, stanza organization, or a significant structural turn.",
+      "answer": "A successful response accurately identifies relevant formal conventions, analyzes how the poet uses or adapts them, supports claims with textual evidence, and evaluates their contribution to the poem's intended effect.",
+      "rationale": "The task assesses evaluation of poetic conventions in relation to purpose."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare a printed poem with an authorized oral performance of the same text. Evaluate how performance choices influence interpretation while considering the techniques present in the written poem.",
+      "answer": "A successful response distinguishes textual features from performance choices, analyzes specific examples of emphasis, pacing, pauses, or intonation, and evaluates how those choices influence meaning and audience experience.",
+      "rationale": "The task assesses interpretation of poetry across reading, listening, and viewing."
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Compose an original poem for a defined audience and purpose. Use a purposeful combination of imagery, figurative language, sound, and structural choices to develop an idea, emotional progression, or theme.",
+      "answer": "A successful poem demonstrates coherent development, precise language, purposeful imagery and figurative language, meaningful structural choices, and techniques that work together to support the intended purpose. The poem does not need to use every possible technique or follow a fixed form unless required by the selected task.",
+      "rationale": "The task directly assesses purposeful poetic construction."
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create two poetic versions of the same central idea using contrasting forms or structural approaches. Explain how each version creates a different effect.",
+      "answer": "A successful submission presents two coherent poems or substantial poetic passages, demonstrates purposeful differences in form or structure, and explains how the choices influence emphasis, pacing, voice, meaning, or audience experience.",
+      "rationale": "The task assesses the ability to select and adapt poetic conventions according to purpose."
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Revise an original poem and submit a craft commentary explaining at least three meaningful changes involving diction, imagery, figurative language, sound, lineation, structure, or thematic development.",
+      "answer": "A successful submission demonstrates substantive revisions that strengthen the poem's intended effects and provides specific explanations connecting each revision to meaning, coherence, audience experience, or purpose.",
+      "rationale": "The task assesses reflective poetic decision-making and purposeful revision."
+    }
+  ],
+  "evidence": [
+    "An annotated poem identifying significant poetic techniques and explaining their effects.",
+    "A speaker analysis supported by evidence from diction, perspective, and direct address.",
+    "A comparison of a poem's original lineation with an alternative arrangement.",
+    "A structural analysis explaining the effects of stanza organization and significant shifts.",
+    "An accurate rhyme scheme analysis accompanied by an explanation of its contribution to meaning.",
+    "A metrical or rhythmic analysis that connects sound patterns to poetic effects.",
+    "An analysis of how alliteration, assonance, consonance, rhyme, or repetition interacts with imagery.",
+    "An extended metaphor tracker showing how related comparisons develop across a poem.",
+    "An interpretation of symbolism supported by recurring images and textual context.",
+    "An analysis of how diction and connotation contribute to poetic voice and tone.",
+    "An evidence-based explanation of a significant tonal or structural shift.",
+    "A thematic interpretation supported by evidence from multiple portions of a poem.",
+    "A comparison of two defensible interpretations of an ambiguous poem.",
+    "A literary discussion in which students support and evaluate interpretations using evidence.",
+    "A comparative analysis of poetic techniques across two or more poems.",
+    "A critique evaluating how poetic form contributes to meaning or purpose.",
+    "A comparison of printed poetry and an authorized oral performance.",
+    "A contextualized interpretation connecting poetic choices to relevant historical or cultural circumstances.",
+    "An original poem demonstrating purposeful imagery and precise diction.",
+    "An original poem developing an extended metaphor or meaningful recurring image.",
+    "An original poem using purposeful lineation, stanza organization, rhythm, or repetition.",
+    "An original poem that follows or deliberately adapts a selected poetic form.",
+    "Two versions of a poem demonstrating different structural or stylistic approaches.",
+    "A revised poem demonstrating substantial improvements in craft and thematic coherence.",
+    "A craft commentary explaining how specific poetic decisions support audience and purpose.",
+    "An optional original poetry performance demonstrating purposeful oral delivery.",
+    "A curated thematic poetry collection with an evidence-based introduction explaining relationships among selected poems."
+  ],
+  "instruction": [
+    "Begin with short, accessible poems that allow students to examine complete patterns of imagery, sound, structure, and thematic development.",
+    "Teach poetry as a form of purposeful communication rather than a collection of devices to memorize.",
+    "Model the progression from identifying a technique to analyzing its effect and evaluating its contribution to meaning.",
+    "Use multiple readings of a poem to develop increasingly complex interpretations.",
+    "Provide opportunities to read poetry silently and aloud.",
+    "Model distinguishing a poem's speaker from its poet.",
+    "Teach students to identify the speaker's situation, perspective, audience, and attitude.",
+    "Use dramatic monologues to examine the difference between a speaker's intended message and unintended revelations.",
+    "Teach poetic forms as recognizable artistic conventions rather than rigid requirements for all poetry.",
+    "Compare fixed-form poetry with free verse to demonstrate different approaches to structure.",
+    "Teach sonnet organization through the development of ideas and significant turns rather than rhyme scheme alone.",
+    "Use villanelles to examine how repeated language acquires changing significance.",
+    "Teach haiku with attention to its Japanese origins and concentrated imagery rather than reducing the form to an English syllable-counting exercise.",
+    "Use lineation experiments to demonstrate how line breaks influence pacing, emphasis, and interpretation.",
+    "Model the effects of enjambment, end-stopped lines, caesura, and white space.",
+    "Teach the distinction between rhythm and meter through oral reading and accessible examples.",
+    "Use scansion selectively to support interpretation rather than treating perfect metrical labeling as the primary goal.",
+    "Recognize that pronunciation, dialect, performance, and metrical variation can influence rhythmic analysis.",
+    "Teach sound devices through listening and reading rather than relying exclusively on visual identification.",
+    "Distinguish repeated sounds from repeated letters.",
+    "Model analyzing how sound patterns interact with imagery and meaning.",
+    "Avoid assigning fixed emotional effects to particular consonants, vowels, or sound devices.",
+    "Teach imagery through specific sensory details and their relationships to larger ideas.",
+    "Model interpreting figurative language in context.",
+    "Use extended metaphor trackers to examine how related comparisons develop across a poem.",
+    "Teach symbolism through recurring patterns and contextual evidence rather than universal symbol dictionaries.",
+    "Provide relevant background for literary, mythological, historical, and cultural allusions.",
+    "Teach students to distinguish connotation from denotation.",
+    "Model how diction and syntax contribute to poetic voice, tone, and meaning.",
+    "Use contrasting readings to distinguish tone from mood.",
+    "Teach students to recognize meaningful shifts in perspective, imagery, tone, structure, and argument.",
+    "Model tracing a poem's thematic development through multiple portions of the text.",
+    "Encourage students to distinguish a thematic interpretation from a topic or summary.",
+    "Teach ambiguity as a possible artistic resource while requiring evidence for interpretations.",
+    "Use paired poems that address related concerns through different forms, perspectives, or techniques.",
+    "Include poetry from diverse cultures, historical periods, literary traditions, and contemporary voices.",
+    "Provide historical and cultural context when it meaningfully supports interpretation.",
+    "Avoid treating poets as representatives of a single uniform cultural experience.",
+    "Use evidence-based discussions that allow students to compare and reconsider interpretations.",
+    "Model literary critique using explicit criteria such as precision, coherence, thematic depth, audience engagement, and purposeful technique.",
+    "Teach students to distinguish personal preference from reasoned evaluation.",
+    "Compare printed poems with authorized performances to examine relationships among text, voice, and audience experience.",
+    "Provide captions, transcripts, and alternative access formats when available.",
+    "Use mentor texts to demonstrate how poets develop meaning through precise diction and concrete imagery.",
+    "Begin composition with short craft exercises focused on specific techniques.",
+    "Encourage students to select a purpose and audience before making major structural decisions.",
+    "Teach students to develop a coherent image pattern rather than accumulate unrelated figurative comparisons.",
+    "Model how repetition can develop meaning through changing contexts.",
+    "Provide opportunities to experiment with different line arrangements and forms.",
+    "Teach students to prioritize meaningful language over forced rhyme.",
+    "Encourage purposeful use of poetic conventions while allowing justified adaptation.",
+    "Use peer feedback focused on intended effects and evidence of successful craft choices.",
+    "Model substantial poetic revision through changes in diction, lineation, imagery, sound, and structure.",
+    "Require craft commentaries that connect artistic choices to purpose and audience experience.",
+    "Provide alternatives to personal disclosure and public performance.",
+    "Assess poetic interpretation and poetic construction separately when appropriate.",
+    "Use assessment criteria that reward purposeful technique, coherence, thematic development, and evidence-based reasoning rather than the number of devices included."
+  ],
+  "watchFor": [
+    "Students identifying poetic devices without explaining their effects.",
+    "Students listing techniques independently without analyzing their relationships.",
+    "Students assuming that poetry must rhyme.",
+    "Students assuming that free verse has no structure.",
+    "Students confusing poetic form with genre or subject matter.",
+    "Students treating all sonnets as having identical rhyme schemes and structural patterns.",
+    "Students reducing haiku to a rigid English syllable count without considering imagery, juxtaposition, or cultural context.",
+    "Students identifying stanza breaks without explaining their contribution to meaning.",
+    "Students assuming that every line ending requires the same length of pause.",
+    "Students confusing enjambment with a complete end-stopped line.",
+    "Students identifying caesura without considering its contextual effect.",
+    "Students treating rhythm and meter as interchangeable.",
+    "Students assuming that every line must conform perfectly to an established meter.",
+    "Students treating metrical variation as an automatic error.",
+    "Students confusing alliteration with repetition of letters rather than sounds.",
+    "Students confusing assonance and consonance.",
+    "Students identifying rhyme schemes without evaluating their effects.",
+    "Students assuming that all harsh sounds communicate anger or all smooth sounds communicate happiness.",
+    "Students treating sound devices as unrelated to imagery and meaning.",
+    "Students identifying imagery only as visual description.",
+    "Students confusing simile and metaphor.",
+    "Students identifying an extended metaphor without tracing its development.",
+    "Students treating every image as a symbol.",
+    "Students assigning universal symbolic meanings without contextual evidence.",
+    "Students overlooking the significance of allusions.",
+    "Students assuming that figurative language always has one literal translation.",
+    "Students confusing a poem's speaker with its poet.",
+    "Students assuming that first-person poetry is necessarily autobiographical.",
+    "Students treating a constructed speaker's statements as the poet's personal beliefs.",
+    "Students identifying tone without supporting it through language or structure.",
+    "Students confusing tone with mood.",
+    "Students overlooking changes in tone, perspective, imagery, or argument.",
+    "Students treating a poem's theme as a one-word topic.",
+    "Students substituting paraphrase or summary for thematic interpretation.",
+    "Students assuming that every poem communicates an explicit moral.",
+    "Students selecting isolated quotations without examining patterns across the poem.",
+    "Students assuming that poems addressing the same subject communicate identical themes.",
+    "Students treating ambiguity as a flaw or assuming that all interpretations are equally valid.",
+    "Students using historical context as a substitute for textual analysis.",
+    "Students making unsupported claims about a poet's private intentions.",
+    "Students treating personal enjoyment as sufficient evidence of poetic effectiveness.",
+    "Students assuming that one oral performance establishes the only correct interpretation.",
+    "Students evaluating performance confidence rather than the relationship between delivery and meaning.",
+    "Students writing poems that rely entirely on abstract statements without concrete details.",
+    "Students forcing rhyme at the expense of precise or meaningful language.",
+    "Students adding figurative language that is disconnected from the poem's central idea.",
+    "Students repeating a phrase mechanically without developing its significance.",
+    "Students using line breaks arbitrarily without considering their effects.",
+    "Students assuming that difficult vocabulary automatically improves poetic quality.",
+    "Students imitating a mentor poem so closely that their own composition lacks independent development.",
+    "Students treating poetic conventions as mandatory regardless of purpose.",
+    "Students attempting to include every poetic device rather than selecting techniques purposefully.",
+    "Students ending poems with an explicit moral that is not developed through the preceding language.",
+    "Students treating poetic revision as proofreading only.",
+    "Assessing poetry primarily according to rhyme, length, mechanical correctness, or the number of techniques included."
+  ],
+  "skills": {
+    "10.T.T.4.a": {
+      "focus": "Interpreting, Evaluating, and Critiquing Poetic Techniques",
+      "studentFriendly": "I can read, listen to, discuss, evaluate, and critique different kinds of poetry. I can use evidence to explain how a poet's choices about form, structure, sound, imagery, figurative language, and voice work together to develop meaning and theme.",
+      "know": [
+        "The characteristics of a variety of poetic forms and traditions.",
+        "The meanings of line, stanza, rhyme scheme, rhythm, meter, and poetic form.",
+        "The functions of lineation, enjambment, end-stopped lines, caesura, and white space.",
+        "The meanings and functions of alliteration, assonance, consonance, onomatopoeia, repetition, and refrain.",
+        "The differences among perfect rhyme, slant rhyme, end rhyme, and internal rhyme.",
+        "The relationship between rhythm and meter.",
+        "The functions of imagery, metaphor, extended metaphor, simile, personification, symbolism, allusion, irony, paradox, and juxtaposition.",
+        "The meanings of diction, connotation, denotation, syntax, poetic voice, speaker, and persona.",
+        "The differences among subject, central idea, theme, tone, and mood.",
+        "How a volta or other significant shift can influence a poem's development.",
+        "How ambiguity, implication, and compression contribute to poetic complexity.",
+        "How historical, cultural, and literary contexts can support interpretation.",
+        "How oral performance choices influence audience experience.",
+        "The difference between identifying, analyzing, and evaluating poetic techniques.",
+        "How textual evidence and reasoning support poetic interpretation and critique."
+      ],
+      "understand": [
+        "Poetic techniques interact to develop meaning rather than operating as isolated decorative features.",
+        "Poetic form can reinforce, complicate, or challenge a poem's content.",
+        "Lineation and stanza organization influence how readers encounter ideas and relationships.",
+        "Sound patterns contribute to meaning through their interaction with context, imagery, rhythm, and diction.",
+        "Free verse can contain purposeful structural and rhythmic patterns without fixed meter or rhyme.",
+        "Departures from established patterns may create significant effects.",
+        "Figurative language can develop relationships and experiences that literal language alone may not communicate as effectively.",
+        "An extended metaphor develops through connected details across a poem.",
+        "Symbolic interpretations require evidence from the poem's language and context.",
+        "A poem's speaker is a constructed textual voice and should not automatically be equated with the poet.",
+        "Changes in tone, imagery, perspective, and structure can develop or complicate meaning.",
+        "Themes emerge through patterns and relationships among poetic choices.",
+        "Poetry may support multiple defensible interpretations.",
+        "Ambiguity can contribute to meaning when interpretations are grounded in evidence.",
+        "Context can deepen interpretation without replacing close reading.",
+        "Oral performance can emphasize particular meanings without eliminating other plausible readings.",
+        "A literary critique evaluates artistic choices using evidence and meaningful criteria rather than personal preference alone."
+      ],
+      "do": [
+        "Read, listen to, view, and discuss a variety of poetic texts.",
+        "Identify a poem's speaker, situation, subject, and significant structural features.",
+        "Distinguish the speaker's perspective from the poet's identity.",
+        "Analyze the organization of lines and stanzas.",
+        "Evaluate the effects of enjambment, end-stopped lines, caesura, and white space.",
+        "Identify and analyze patterns of rhyme, rhythm, meter, and sound.",
+        "Explain how sound patterns contribute to emphasis, atmosphere, movement, or meaning.",
+        "Evaluate how changes in established patterns influence interpretation.",
+        "Analyze how imagery contributes to the poem's emotional and thematic development.",
+        "Interpret figurative language and explain its contextual effects.",
+        "Trace an extended metaphor across multiple portions of a poem.",
+        "Analyze symbolism, allusion, irony, paradox, and juxtaposition using textual evidence.",
+        "Evaluate how diction, connotation, and syntax contribute to poetic voice and tone.",
+        "Identify and evaluate significant shifts in thought, imagery, structure, or perspective.",
+        "Develop a defensible interpretation of a poem's meaning or theme.",
+        "Explain how multiple poetic techniques interact to develop that interpretation.",
+        "Compare how different poems develop related subjects or themes.",
+        "Evaluate alternative interpretations using evidence and reasoning.",
+        "Analyze the effects of oral performance choices.",
+        "Participate in evidence-based literary discussions.",
+        "Develop a reasoned critique using explicit evaluation criteria.",
+        "Support evaluative judgments with precise textual evidence.",
+        "Revise interpretations in response to additional evidence or discussion."
+      ],
+      "targets": [
+        "I can identify a poem's speaker, situation, and significant techniques.",
+        "I can explain how poetic form contributes to meaning.",
+        "I can evaluate how line breaks and stanza organization influence interpretation.",
+        "I can analyze how rhyme, rhythm, meter, and sound devices contribute to poetic effects.",
+        "I can interpret imagery and figurative language using evidence.",
+        "I can trace an extended metaphor or recurring image across a poem.",
+        "I can explain how diction and syntax contribute to poetic voice and tone.",
+        "I can evaluate the effects of a significant poetic shift.",
+        "I can develop and support a defensible thematic interpretation.",
+        "I can evaluate how several poetic techniques work together.",
+        "I can compare the techniques and themes of different poems.",
+        "I can consider and evaluate alternative interpretations.",
+        "I can explain how oral performance influences meaning.",
+        "I can critique a poem using textual evidence and clear evaluation criteria."
+      ],
+      "instruction": [
+        "Use a variety of complete poems representing different forms, periods, traditions, and purposes.",
+        "Model multiple readings that progress from initial understanding to detailed analysis and evaluation.",
+        "Teach students to distinguish the poet, speaker, and implied audience.",
+        "Use structural organizers to examine lineation, stanza patterns, and significant turns.",
+        "Model evaluating how line breaks influence emphasis and temporary ambiguity.",
+        "Teach rhythm and meter through oral examples and purposeful scansion.",
+        "Use sound-rich poems to examine relationships among sound, imagery, and meaning.",
+        "Model interpreting figurative language in its specific textual context.",
+        "Use extended metaphor and motif trackers to examine development across a poem.",
+        "Teach students to analyze diction, connotation, syntax, and poetic voice together.",
+        "Provide opportunities to compare contrasting tones and perspectives.",
+        "Model tracing thematic development through recurring images, structural patterns, and shifts.",
+        "Teach students to formulate defensible thematic statements rather than one-word topics.",
+        "Use paired poems to evaluate how different techniques contribute to related or contrasting meanings.",
+        "Provide relevant cultural and historical context without replacing close reading.",
+        "Use structured discussions that require evidence for competing interpretations.",
+        "Model distinguishing personal response from evidence-based critique.",
+        "Provide explicit criteria for evaluating poetic effectiveness.",
+        "Compare written poetry with authorized oral performances.",
+        "Require students to explain the relationships among multiple techniques in analytical responses.",
+        "Use formative assessments that require explanation and evaluation rather than device identification alone."
+      ],
+      "evidence": [
+        "An annotated poem connecting techniques to meaning.",
+        "A speaker and perspective analysis supported by textual evidence.",
+        "An evaluation of poetic form and structural organization.",
+        "A lineation analysis explaining the effects of particular line breaks.",
+        "A sound analysis connecting rhyme, rhythm, meter, or repetition to meaning.",
+        "An extended metaphor analysis tracing development across a poem.",
+        "An interpretation of imagery, symbolism, or allusion supported by context.",
+        "An analysis of diction, syntax, voice, and tone.",
+        "An evaluation of a significant poetic shift.",
+        "A thematic interpretation supported by evidence from multiple portions of a poem.",
+        "A comparison of two poems addressing related subjects.",
+        "An evidence-based discussion evaluating alternative interpretations.",
+        "A critique explaining how multiple poetic techniques work together.",
+        "An analysis comparing a printed poem with an authorized performance.",
+        "A literary evaluation using explicit criteria and precise textual evidence."
+      ],
+      "watchFor": [
+        "Students identifying techniques without explaining their effects.",
+        "Students listing devices rather than analyzing their interactions.",
+        "Students assuming that poetic form determines meaning automatically.",
+        "Students treating free verse as an absence of structure.",
+        "Students identifying rhyme or meter without explaining its contribution to meaning.",
+        "Students assuming every metrical variation is an error.",
+        "Students confusing repeated letters with repeated sounds.",
+        "Students assigning universal meanings to sound patterns.",
+        "Students overlooking the effects of lineation and stanza organization.",
+        "Students confusing a poet with a constructed speaker.",
+        "Students assuming all first-person poetry is autobiographical.",
+        "Students interpreting figurative language without considering context.",
+        "Students assigning symbolic meanings without textual evidence.",
+        "Students confusing tone and mood.",
+        "Students overlooking significant shifts in a poem.",
+        "Students presenting a topic or summary as a theme.",
+        "Students selecting isolated quotations without examining development.",
+        "Students assuming poems sharing a subject communicate identical themes.",
+        "Students treating ambiguity as an error or accepting unsupported interpretations.",
+        "Students substituting historical background for close reading.",
+        "Students evaluating poetry according to personal enjoyment alone.",
+        "Students treating one oral performance as the only correct interpretation."
+      ]
+    },
+    "10.T.T.4.b": {
+      "focus": "Constructing Purposeful Poetic Texts",
+      "studentFriendly": "I can create and revise original poems for a specific purpose and audience. I can choose poetic forms, precise words, imagery, figurative language, sound patterns, line breaks, and other conventions that work together to communicate my intended meaning and create a purposeful experience for readers or listeners.",
+      "know": [
+        "The characteristics of purposeful poetic composition.",
+        "How audience and purpose influence poetic choices.",
+        "The conventions of selected poetic forms, including free verse and fixed forms.",
+        "How poetic speakers and personas can be constructed.",
+        "How diction, connotation, and syntax influence poetic voice.",
+        "How sensory imagery communicates experiences and ideas.",
+        "How metaphor, extended metaphor, simile, personification, symbolism, and other figurative techniques develop meaning.",
+        "How rhythm, rhyme, alliteration, assonance, consonance, and repetition influence sound and emphasis.",
+        "How lineation, stanza organization, punctuation, and white space influence pacing and interpretation.",
+        "How refrains and recurring images can develop meaning across a poem.",
+        "How significant shifts can create thematic or emotional development.",
+        "How poetic conventions may be followed or deliberately adapted.",
+        "How compression and precise language strengthen poetic expression.",
+        "How oral delivery choices can support poetic meaning.",
+        "How revision can improve imagery, sound, structure, coherence, and thematic development."
+      ],
+      "understand": [
+        "Effective poetic composition begins with purposeful decisions about meaning, audience, and intended experience.",
+        "A poem does not need to use every poetic technique to be effective.",
+        "The selection of poetic form should support the writer's purpose.",
+        "A writer may follow or deliberately adapt poetic conventions to achieve an intended effect.",
+        "Free verse requires meaningful structural choices even without fixed rhyme or meter.",
+        "A constructed speaker can communicate a perspective different from the writer's own.",
+        "Precise concrete images can communicate complex emotions and ideas without extensive explanation.",
+        "Figurative language is most effective when its comparisons contribute to the poem's central meaning.",
+        "An extended metaphor should develop through connected details rather than unrelated comparisons.",
+        "Sound patterns can create emphasis, movement, contrast, and emotional effects.",
+        "Rhyme should support rather than distort meaningful language.",
+        "Line breaks and stanza organization can influence emphasis, pacing, and interpretation.",
+        "Repetition can develop new meanings as surrounding images and ideas change.",
+        "Thematic development can emerge through recurring images, contrasts, structural shifts, and relationships among ideas.",
+        "A poem may communicate meaning through implication rather than an explicit explanation or moral.",
+        "Purposeful poetic revision involves reconsidering language, sound, imagery, and structure rather than merely correcting errors.",
+        "Performance choices can strengthen or complicate the effects of a written poem.",
+        "Writers can evaluate their poetic choices by considering whether readers or listeners experience the intended effects."
+      ],
+      "do": [
+        "Identify an intended audience, purpose, subject, and central poetic concern.",
+        "Select a poetic form appropriate to the intended effect.",
+        "Develop a purposeful poetic speaker or persona.",
+        "Choose precise words that contribute to voice, imagery, and meaning.",
+        "Use concrete sensory details to communicate experiences and ideas.",
+        "Develop meaningful figurative comparisons.",
+        "Create an extended metaphor or recurring image when appropriate to the purpose.",
+        "Use symbolism, personification, allusion, or other techniques purposefully.",
+        "Use rhythm and sound patterns to influence emphasis, movement, and atmosphere.",
+        "Apply rhyme or meter when appropriate to the selected form and purpose.",
+        "Use repetition or refrain to create structural and thematic development.",
+        "Arrange poetic lines and stanzas to support meaning.",
+        "Use enjambment, end-stopped lines, caesura, punctuation, or white space purposefully.",
+        "Develop a coherent progression of images, thoughts, emotions, or ideas.",
+        "Use significant shifts to deepen or complicate the poem's meaning when appropriate.",
+        "Follow or deliberately adapt the conventions of a selected poetic form.",
+        "Draft original poems that communicate an intended experience.",
+        "Evaluate the relationship among poetic techniques, meaning, audience, and purpose.",
+        "Revise diction to improve precision and compression.",
+        "Revise imagery and figurative language to strengthen thematic coherence.",
+        "Revise sound, lineation, and structure to improve intended effects.",
+        "Use peer or teacher feedback to reconsider poetic choices.",
+        "Present or perform poetry using purposeful delivery choices when appropriate.",
+        "Explain how specific poetic decisions contribute to the completed poem's meaning and audience experience."
+      ],
+      "targets": [
+        "I can identify an audience and purpose for my poem.",
+        "I can select a poetic form that supports my intended effect.",
+        "I can create a purposeful poetic speaker or voice.",
+        "I can use precise diction and sensory imagery to communicate an experience.",
+        "I can develop figurative comparisons that contribute to meaning.",
+        "I can use sound and rhythm to create emphasis or atmosphere.",
+        "I can use line breaks and stanza organization purposefully.",
+        "I can use repetition or recurring imagery to develop an idea across my poem.",
+        "I can follow or adapt poetic conventions to support my purpose.",
+        "I can create a coherent progression of ideas, images, or emotions.",
+        "I can revise my poem to strengthen precision, structure, sound, and thematic development.",
+        "I can explain how my poetic choices influence readers or listeners."
+      ],
+      "instruction": [
+        "Begin composition by identifying an intended audience, purpose, subject, and desired effect.",
+        "Use mentor poems to demonstrate how different forms support different artistic purposes.",
+        "Provide opportunities to experiment with both free verse and fixed forms.",
+        "Teach students to distinguish the writer's identity from a constructed poetic speaker.",
+        "Model developing poetic voice through diction, syntax, perspective, and rhythm.",
+        "Use sensory observation exercises to develop precise concrete imagery.",
+        "Model transforming abstract statements into images that imply meaning.",
+        "Teach students to develop figurative comparisons through connected details.",
+        "Use extended metaphor planners to strengthen coherence across a poem.",
+        "Encourage purposeful use of symbolism and recurring imagery.",
+        "Model how rhythm and sound can influence the reader's experience.",
+        "Provide opportunities to read drafts aloud and evaluate their sound patterns.",
+        "Teach students to avoid forced rhyme and unnecessary metrical rigidity.",
+        "Use lineation experiments to demonstrate the effects of alternative line arrangements.",
+        "Model organizing stanzas according to developments in thought, imagery, or emotion.",
+        "Teach students to use punctuation and white space purposefully.",
+        "Demonstrate how refrains can acquire new significance as a poem develops.",
+        "Use mentor poems to examine purposeful structural and tonal shifts.",
+        "Encourage thematic development through imagery and relationships rather than explicit moralizing.",
+        "Provide short craft exercises before requiring longer or more complex poetic compositions.",
+        "Allow students to select forms and techniques appropriate to their purposes.",
+        "Provide alternatives to personal disclosure by allowing fictional speakers and observational subjects.",
+        "Use peer feedback protocols focused on intended effects and specific textual evidence.",
+        "Model substantial revision through changes in diction, imagery, sound, lineation, and structure.",
+        "Teach students to evaluate whether a poetic technique contributes meaningfully to the whole poem.",
+        "Provide optional performance opportunities with accessible alternatives.",
+        "Require craft commentaries explaining significant artistic decisions.",
+        "Assess poetic construction through criteria for purpose, precision, coherence, imagery, structure, thematic development, and purposeful technique."
+      ],
+      "evidence": [
+        "A poetic planning document identifying audience, purpose, and intended effect.",
+        "A draft demonstrating a purposeful poetic speaker or persona.",
+        "An original poem using precise sensory imagery.",
+        "An original poem developing an extended metaphor or recurring image.",
+        "A composition demonstrating purposeful sound patterns or rhythm.",
+        "A poem using meaningful repetition or refrain.",
+        "A poem demonstrating purposeful lineation and stanza organization.",
+        "Two versions of a poetic passage using contrasting structural choices.",
+        "An original poem following the conventions of a selected fixed form.",
+        "An original poem deliberately adapting a poetic convention with a reasoned explanation.",
+        "A coherent free-verse poem demonstrating purposeful organization.",
+        "An original poem developing a meaningful idea, emotional progression, or theme.",
+        "A peer feedback response evaluating the effects of specific poetic choices.",
+        "A substantially revised poem demonstrating improved precision, coherence, or thematic development.",
+        "A craft commentary explaining how poetic techniques contribute to purpose and audience experience.",
+        "An optional original poetry performance demonstrating purposeful vocal delivery."
+      ],
+      "watchFor": [
+        "Students beginning compositions without a clear purpose or intended effect.",
+        "Students assuming that poetry must rhyme or follow a fixed meter.",
+        "Students assuming that free verse requires no organization.",
+        "Students selecting a poetic form without considering its expressive possibilities.",
+        "Students forcing rhyme at the expense of precise or meaningful language.",
+        "Students treating poetic conventions as mandatory regardless of purpose.",
+        "Students creating a speaker without a consistent or purposeful perspective.",
+        "Students relying entirely on abstract statements rather than concrete imagery.",
+        "Students adding excessive adjectives instead of selecting precise details.",
+        "Students using figurative comparisons that are disconnected from the poem's central idea.",
+        "Students developing unrelated metaphors that weaken coherence.",
+        "Students repeating words or phrases without developing their significance.",
+        "Students arranging line breaks arbitrarily.",
+        "Students using stanza breaks without considering the progression of ideas.",
+        "Students including sound devices mechanically without considering their effects.",
+        "Students assuming that complex vocabulary automatically improves poetic quality.",
+        "Students attempting to include every available poetic technique.",
+        "Students presenting an explicit moral instead of developing meaning across the poem.",
+        "Students imitating mentor texts without developing an independent composition.",
+        "Students treating revision as spelling and punctuation correction only.",
+        "Students making revisions without considering the poem's intended audience or purpose.",
+        "Students evaluating their poems according to length or device count rather than effectiveness.",
+        "Students assuming public performance is necessary for every successful poetic composition.",
+        "Assessing students primarily according to performance confidence, conventional rhyme, or mechanical correctness rather than purposeful poetic craft."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are independently developed instructional recommendations rather than state-prescribed texts. Reading times are approximate instructional estimates and may include selected excerpts, rereading, or performance viewing. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Verify editions, translations, availability, copyright permissions, age suitability, and local instructional requirements before assigning materials. Public-domain status may vary by edition, translation, and jurisdiction. Some selections address war, death, racial oppression, grief, bullying, or other sensitive experiences and require thoughtful contextual preparation. Poetic forms and traditions should be taught with attention to their cultural and historical contexts. The instructional techniques listed throughout this card are recommended teaching content rather than an exhaustive list of separately mandated Georgia expectations."
+}
+
   ]
 }
 
