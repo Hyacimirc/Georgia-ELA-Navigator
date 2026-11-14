@@ -62,6 +62,127 @@ const gradeFiles = [
     grade: 12,
     file: './unpackings-grade12.json'
   }
+ 
+async function load() {
+  try {
+    const r = await fetch('./standards.json');
+
+    if (!r.ok) {
+      throw Error('standards.json returned HTTP ' + r.status);
+    }
+
+    const d = await r.json();
+    standards = d.standards || [];
+
+    if (!standards.length) {
+      throw Error('No official standards found');
+    }
+
+    const sourceDate =
+      d.source?.lastChangeDateTime?.slice(0, 10) ||
+      'date unavailable';
+
+    unpackings = {};
+
+    const gradeStatus = [];
+    const errors = [];
+
+    const results = await Promise.allSettled(
+      gradeFiles.map(async entry => {
+        const response = await fetch(entry.file, {
+          cache: 'no-store'
+        });
+
+        if (!response.ok) {
+          throw Error('HTTP ' + response.status);
+        }
+
+        const data = await response.json();
+
+        if (!Array.isArray(data.unpackings)) {
+          throw Error('Missing unpackings array');
+        }
+
+        const seen = new Set();
+
+        for (const card of data.unpackings) {
+          if (!card || typeof card.code !== 'string') {
+            throw Error('Missing standard code');
+          }
+
+          if (!card.code.startsWith(entry.grade + '.')) {
+            throw Error('Incorrect grade: ' + card.code);
+          }
+
+          if (seen.has(card.code)) {
+            throw Error('Duplicate card: ' + card.code);
+          }
+
+          seen.add(card.code);
+        }
+
+        return data.unpackings;
+      })
+    );
+
+    results.forEach((result, index) => {
+      const grade = gradeFiles[index].grade;
+
+      if (result.status === 'fulfilled') {
+        result.value.forEach(card => {
+          unpackings[card.code] = card;
+        });
+
+        gradeStatus.push(
+          'Grade ' + grade + ': ' +
+          result.value.length + '/27 cards'
+        );
+
+      } else {
+        errors.push(
+          'Grade ' + grade + ': ' +
+          result.reason.message
+        );
+      }
+    });
+
+    const totalCards =
+      Object.keys(unpackings).length;
+
+    $('status').textContent =
+      'Official data loaded · ' +
+      standards.length.toLocaleString() +
+      ' records · Source updated ' +
+      sourceDate +
+      ' · ' + totalCards +
+      ' instructional cards loaded';
+
+    if (gradeStatus.length) {
+      $('status').textContent +=
+        ' · ' + gradeStatus.join(' · ');
+    }
+
+    if (errors.length) {
+      $('status').textContent +=
+        ' · ERROR: ' + errors.join(' · ');
+
+      console.error(
+        'Instructional loading errors:',
+        errors
+      );
+    }
+
+    render();
+
+  } catch (e) {
+    $('status').textContent =
+      'Could not load the standards database: ' +
+      e.message;
+
+    $('count').textContent = '';
+  }
+}
+
 ];
 
 function submitSearch(){limit=30;render();$('explore').scrollIntoView({behavior:'smooth',block:'start'})}
