@@ -28954,6 +28954,3116 @@
   "readingSelectionNote": "Selections are independently developed instructional recommendations rather than state-prescribed texts. Reading times are approximate and may include excerpts, rereading, comparison, or viewing. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Verify editions, translations, access, copyright permissions, age suitability, and local instructional requirements. Some literary selections address violence, discrimination, psychological distress, colonialism, or other sensitive experiences and require appropriate preparation. Teach formal style as a purposeful, context-dependent register rather than treating language varieties or dialects as inherently deficient. The instructional techniques listed throughout this card are recommended teaching content aligned to the adopted expectations rather than separately mandated state requirements."
 }
 
+,
+{
+  "code": "10.P.EICC.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Comprehension Strategies",
+  "studentFriendly": "I can choose and adjust reading strategies before, during, and after reading to understand challenging texts, build knowledge, recognize deeper meanings, and accomplish my reading goals.",
+  "know": [
+    "Reading comprehension is an active process involving the interaction of the reader, the text, prior knowledge, and the purpose for reading.",
+    "Effective readers select strategies according to the demands of a text rather than applying every strategy to every reading task.",
+    "Reading purposes influence reading rate, attention, annotation, and the amount of detail needed.",
+    "Metacognition involves recognizing and regulating one's own thinking and understanding.",
+    "Comprehension monitoring involves recognizing when meaning breaks down and selecting an appropriate response.",
+    "Fix-up strategies include rereading, slowing down, reading ahead, consulting references, paraphrasing, questioning, and discussing difficult passages.",
+    "Skimming helps readers develop an overview of a text, while scanning helps readers locate specific information.",
+    "Text features such as headings, introductions, abstracts, captions, diagrams, indexes, and section summaries can guide reading.",
+    "Prior knowledge can support comprehension but may also contain inaccuracies or assumptions that need revision.",
+    "Summaries communicate essential ideas and relationships without unnecessary detail or unsupported interpretation.",
+    "Visualization can involve mental imagery, diagrams, timelines, maps, or representations of abstract relationships.",
+    "Predictions are provisional expectations about what may occur or what information may appear next.",
+    "Inferences combine textual evidence with relevant reasoning to develop meanings that are not explicitly stated.",
+    "Texts may communicate literal, figurative, thematic, symbolic, rhetorical, and implied meanings.",
+    "Context clues, morphology, academic vocabulary, and reference materials help readers determine unfamiliar meanings.",
+    "Complexity may arise from vocabulary, syntax, structure, knowledge demands, ambiguity, perspective, or conceptual difficulty.",
+    "Comprehension strategies support both literary interpretation and the acquisition of knowledge from informational texts."
+  ],
+  "understand": [
+    "Comprehension is not simply remembering information; it involves constructing, evaluating, and revising meaning.",
+    "Strong readers recognize confusion as information about their reading process and respond strategically.",
+    "A strategy that is useful for one text or purpose may be inefficient or inappropriate for another.",
+    "Reading closely and reading selectively are complementary practices that serve different purposes.",
+    "Readers develop deeper understanding when they connect new information to existing knowledge while remaining willing to revise misconceptions.",
+    "Summarizing and visualizing can reveal gaps in understanding that passive reading may conceal.",
+    "Predictions support engagement and comprehension when readers evaluate and revise them in response to new evidence.",
+    "Interpretations become more defensible when readers connect inferences to precise textual evidence and consider alternatives.",
+    "Understanding individual words is necessary but not always sufficient for understanding complex concepts or relationships.",
+    "Productive struggle, persistence, curiosity, flexibility, and metacognition contribute to increasingly independent reading.",
+    "Readers should distinguish difficulty caused by unfamiliar language from difficulty caused by missing background knowledge or complex ideas.",
+    "Effective comprehension instruction gradually transfers responsibility from teacher modeling to independent student decision-making."
+  ],
+  "do": [
+    "Establish meaningful purposes and specific goals for reading literary, informational, technical, and multimodal texts.",
+    "Monitor comprehension and identify the specific source of confusion when understanding breaks down.",
+    "Select, apply, and evaluate appropriate strategies for restoring comprehension.",
+    "Preview texts by examining relevant structures, headings, visuals, introductory material, and other features.",
+    "Skim and scan strategically to identify central ideas, relevant sections, and useful information.",
+    "Activate relevant prior knowledge while identifying assumptions and potential misconceptions.",
+    "Compare new information with existing understanding and revise knowledge when warranted by evidence.",
+    "Summarize sections of complex texts using accurate, concise language.",
+    "Construct mental images, diagrams, timelines, or conceptual representations that clarify relationships.",
+    "Make predictions based on textual patterns, genre conventions, structure, and evidence.",
+    "Track and revise predictions as additional information becomes available.",
+    "Develop and support inferences about characterization, motivation, theme, perspective, tone, argument, and implied relationships.",
+    "Distinguish explicit information from inferred meaning and unsupported speculation.",
+    "Use contextual clues, roots, prefixes, suffixes, and academic vocabulary to determine unfamiliar meanings.",
+    "Verify uncertain interpretations or word meanings using appropriate references.",
+    "Explain why a selected comprehension strategy was useful and transfer it to a new reading situation."
+  ],
+  "vocabulary": [
+    {
+      "term": "Comprehension",
+      "definition": "The process of constructing and developing meaning from a text.",
+      "example": "A reader understands both the events of a story and the relationships that make those events significant."
+    },
+    {
+      "term": "Metacognition",
+      "definition": "Awareness and regulation of one's own thinking and learning processes.",
+      "example": "A student recognizes that unfamiliar historical references are preventing understanding and seeks background information."
+    },
+    {
+      "term": "Comprehension monitoring",
+      "definition": "The ongoing process of checking whether a text makes sense.",
+      "example": "A reader pauses after a paragraph to determine whether the author's reasoning is clear."
+    },
+    {
+      "term": "Reading purpose",
+      "definition": "The reason a reader engages with a text.",
+      "example": "A student reads an editorial to evaluate its argument rather than to memorize every supporting detail."
+    },
+    {
+      "term": "Reading goal",
+      "definition": "A specific intended outcome for a reading experience.",
+      "example": "By the end of the chapter, I will be able to explain why the protagonist changes her decision."
+    },
+    {
+      "term": "Fix-up strategy",
+      "definition": "An action used to restore understanding when comprehension breaks down.",
+      "example": "Rereading a sentence and identifying its main clause clarifies a confusing passage."
+    },
+    {
+      "term": "Skimming",
+      "definition": "Reading selectively to obtain an overview of a text or identify its main ideas.",
+      "example": "A student examines headings and introductory sentences before deciding which sections require close reading."
+    },
+    {
+      "term": "Scanning",
+      "definition": "Searching a text for a specific detail, term, name, or piece of information.",
+      "example": "A reader searches a historical article for the date of a particular event."
+    },
+    {
+      "term": "Previewing",
+      "definition": "Examining a text's features and organization before sustained reading.",
+      "example": "A student studies a chapter title, illustrations, headings, and summary before reading the chapter."
+    },
+    {
+      "term": "Close reading",
+      "definition": "Careful examination of textual details, patterns, relationships, and meanings.",
+      "example": "A reader studies repeated images in a poem to develop an interpretation of its central concern."
+    },
+    {
+      "term": "Prior knowledge",
+      "definition": "Information, experiences, and conceptual understanding a reader brings to a text.",
+      "example": "Knowledge of segregation helps a student understand the historical circumstances of a civil rights speech."
+    },
+    {
+      "term": "Schema",
+      "definition": "An organized framework of knowledge that helps a reader interpret new information.",
+      "example": "Knowledge of common courtroom procedures helps a reader follow a trial scene."
+    },
+    {
+      "term": "Misconception",
+      "definition": "An inaccurate or incomplete understanding that may interfere with learning.",
+      "example": "A student initially assumes that all narrators accurately report events but revises this belief after studying unreliable narration."
+    },
+    {
+      "term": "Knowledge gap",
+      "definition": "Missing background information or conceptual understanding needed to interpret a text.",
+      "example": "A reader unfamiliar with colonialism may need historical context before interpreting a postcolonial novel."
+    },
+    {
+      "term": "Knowledge integration",
+      "definition": "Connecting new information with existing understanding to develop a more complete knowledge base.",
+      "example": "A student combines information from a historical document and a novel to refine an understanding of migration."
+    },
+    {
+      "term": "Summary",
+      "definition": "A concise and accurate representation of a text's essential ideas or events.",
+      "example": "A reader explains the central conflict and major developments of a chapter in three sentences."
+    },
+    {
+      "term": "Paraphrase",
+      "definition": "A restatement of information or ideas in new language while preserving meaning.",
+      "example": "A student restates a difficult philosophical sentence in clearer contemporary language."
+    },
+    {
+      "term": "Central idea",
+      "definition": "The principal idea developed in an informational text.",
+      "example": "An article explains how urban design influences transportation choices."
+    },
+    {
+      "term": "Theme",
+      "definition": "A developed insight about human experience, society, or another significant concern.",
+      "example": "A novel suggests that belonging can require difficult negotiations between personal identity and community expectations."
+    },
+    {
+      "term": "Visualization",
+      "definition": "Creating a mental or external representation of information to clarify understanding.",
+      "example": "A reader diagrams the relationships among several characters in a complex novel."
+    },
+    {
+      "term": "Concept map",
+      "definition": "A visual representation showing relationships among ideas or concepts.",
+      "example": "A student connects economic conditions, political decisions, and migration patterns in a historical text."
+    },
+    {
+      "term": "Prediction",
+      "definition": "A provisional expectation about what may happen or what information may appear next.",
+      "example": "A reader predicts that an author will address a limitation after introducing a proposed solution."
+    },
+    {
+      "term": "Foreshadowing",
+      "definition": "A narrative technique that provides indications of later developments.",
+      "example": "A repeated warning about an unstable bridge prepares readers for a later crisis."
+    },
+    {
+      "term": "Inference",
+      "definition": "A conclusion developed by combining textual evidence with relevant reasoning.",
+      "example": "A reader infers that a character feels excluded because she repeatedly avoids group conversations."
+    },
+    {
+      "term": "Explicit meaning",
+      "definition": "Information or meaning directly stated in a text.",
+      "example": "The narrator states that the meeting begins at noon."
+    },
+    {
+      "term": "Implicit meaning",
+      "definition": "Meaning suggested rather than directly stated.",
+      "example": "A character's repeated hesitation suggests uncertainty about a decision."
+    },
+    {
+      "term": "Textual evidence",
+      "definition": "Specific language, details, or features from a text used to support an interpretation.",
+      "example": "A student cites repeated references to locked doors when interpreting a story's treatment of isolation."
+    },
+    {
+      "term": "Reasoning",
+      "definition": "The explanation connecting evidence to a conclusion.",
+      "example": "A reader explains why a pattern of interrupted dialogue supports an inference about unequal power."
+    },
+    {
+      "term": "Ambiguity",
+      "definition": "The presence of multiple plausible meanings or interpretations.",
+      "example": "A story's final image may suggest either liberation or loss."
+    },
+    {
+      "term": "Subtext",
+      "definition": "Meaning communicated beneath the surface of spoken or written language.",
+      "example": "A character's polite response conceals resentment."
+    },
+    {
+      "term": "Context clue",
+      "definition": "Information surrounding an unfamiliar word that helps establish its meaning.",
+      "example": "A description of a deserted, silent street helps a reader interpret the word desolate."
+    },
+    {
+      "term": "Morphology",
+      "definition": "The study of meaningful units within words and how they combine.",
+      "example": "A reader uses knowledge of the prefix inter- and the root dependent to interpret interdependent."
+    },
+    {
+      "term": "Morpheme",
+      "definition": "The smallest meaningful unit of language.",
+      "example": "The word rereading contains the units re-, read, and -ing."
+    },
+    {
+      "term": "Root",
+      "definition": "A central word element carrying meaning.",
+      "example": "The root spect relates to looking or seeing in words such as inspect and perspective."
+    },
+    {
+      "term": "Academic vocabulary",
+      "definition": "Words commonly used in academic reading, writing, and discussion across disciplines.",
+      "example": "Evaluate, interpret, establish, and synthesize appear in many academic contexts."
+    },
+    {
+      "term": "Disciplinary literacy",
+      "definition": "Reading and interpreting texts according to the purposes, conventions, and knowledge practices of a particular field.",
+      "example": "A historian evaluates a document's origin and context, while a scientist examines methods and evidence."
+    },
+    {
+      "term": "Transfer",
+      "definition": "Applying knowledge or a strategy learned in one situation to another situation.",
+      "example": "A student uses a relationship diagram learned in literature class to understand a complex historical article."
+    },
+    {
+      "term": "Productive struggle",
+      "definition": "Sustained engagement with a manageable challenge that develops understanding or skill.",
+      "example": "A reader works through an unfamiliar passage by rereading, questioning, and consulting relevant background information."
+    }
+  ],
+  "targets": [
+    "I can establish a specific reading purpose and select a strategy that helps me accomplish it.",
+    "I can recognize when I am confused and explain what is causing the confusion.",
+    "I can use an appropriate fix-up strategy to restore understanding.",
+    "I can preview a complex text and identify sections most relevant to my reading purpose.",
+    "I can distinguish between skimming for an overview and scanning for specific information.",
+    "I can connect new information to prior knowledge and revise inaccurate assumptions.",
+    "I can summarize important ideas or events without including unnecessary details.",
+    "I can visualize relationships among characters, events, concepts, and ideas.",
+    "I can make predictions based on evidence and revise them as I read.",
+    "I can develop and support inferences about explicit and implicit meanings.",
+    "I can distinguish evidence-based interpretations from unsupported guesses.",
+    "I can determine unfamiliar word meanings using context, word parts, and reference materials.",
+    "I can explain which comprehension strategies helped me understand a difficult text and why.",
+    "I can independently transfer effective reading strategies to unfamiliar texts."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "genre": "Literary novella",
+      "purpose": "Practice monitoring comprehension, distinguishing literal events from symbolic interpretations, tracking changing character relationships, and developing evidence-based inferences.",
+      "access": "Public-domain original; use a legally available English translation or licensed classroom edition.",
+      "readingTime": "20–30 minutes for an opening excerpt",
+      "highInterest": true,
+      "accessibility": "Moderate to challenging; unusual premise supports engagement while symbolism and social context require close reading.",
+      "interestHook": "A traveling salesman awakens to discover that he has undergone an inexplicable physical transformation.",
+      "teachingPrompt": "What details suggest that Gregor's greatest concerns are not initially about his transformation itself, and what can readers infer about his life before the opening scene?",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.e",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "genre": "Literary novel",
+      "purpose": "Build cultural and historical knowledge, track character relationships, examine unfamiliar concepts, and revise initial interpretations as the narrative develops.",
+      "access": "Licensed classroom edition.",
+      "readingTime": "20–30 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Moderate to challenging; provide historical and cultural context while preserving opportunities for independent interpretation.",
+      "interestHook": "A respected warrior struggles with personal expectations and profound changes in his community.",
+      "teachingPrompt": "How does additional information about Okonkwo's family and community complicate an initial interpretation of his behavior?",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic novel",
+      "purpose": "Track nested narrative perspectives, summarize complex sections, visualize narrative relationships, and develop interpretations of responsibility and isolation.",
+      "access": "Public domain in the United States; identify whether the assigned edition uses the 1818 or 1831 text.",
+      "readingTime": "25–35 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging; provide support for historical syntax and narrative framing.",
+      "interestHook": "A scientist creates life and must confront the consequences of abandoning his creation.",
+      "teachingPrompt": "How does the novel's layered narration affect what readers know, what they infer, and whose interpretation they trust?",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "genre": "Gothic short fiction",
+      "purpose": "Track recurring images, monitor changing interpretations, examine unreliable or limited narration, and distinguish literal events from implied meanings.",
+      "access": "Public domain in the United States.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate to challenging; preview themes involving mental health and restrictive treatment.",
+      "interestHook": "A woman confined to a room becomes increasingly fascinated by its unsettling wallpaper.",
+      "teachingPrompt": "How do changes in the narrator's descriptions of the wallpaper support competing interpretations of her experience?",
+      "alignment": [
+        "10.P.EICC.3.e",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "A Raisin in the Sun",
+      "author": "Lorraine Hansberry",
+      "genre": "Drama",
+      "purpose": "Infer motivation and subtext from dialogue, stage directions, conflict, and historical context.",
+      "access": "Licensed classroom edition or authorized performance.",
+      "readingTime": "20–30 minutes for selected scenes",
+      "highInterest": true,
+      "accessibility": "Moderate; historical context supports interpretation of housing discrimination and family conflict.",
+      "interestHook": "A family must decide how to use an inheritance while confronting competing dreams and social barriers.",
+      "teachingPrompt": "What do characters communicate indirectly through interruptions, pauses, and responses to one another?",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "The Paper Menagerie",
+      "author": "Ken Liu",
+      "genre": "Speculative short fiction",
+      "purpose": "Track predictions, interpret recurring symbols, connect new revelations to earlier events, and revise thematic interpretations.",
+      "access": "Authorized publication or licensed anthology.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; accessible narrative with emotionally complex themes.",
+      "interestHook": "A boy's mother's magical paper animals become part of a story about family, language, and belonging.",
+      "teachingPrompt": "How does information revealed near the end change the significance of earlier details?",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.e",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "genre": "Philosophical speculative fiction",
+      "purpose": "Monitor assumptions, examine narrator-reader relationships, revise predictions, and interpret ethical implications.",
+      "access": "Licensed anthology or authorized collection.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Challenging; preview disturbing descriptions and ethical subject matter.",
+      "interestHook": "An apparently ideal society depends on a disturbing hidden condition.",
+      "teachingPrompt": "How does the narrator encourage readers to construct an initial understanding of Omelas before requiring them to reconsider it?",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.e",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "Literary short fiction",
+      "purpose": "Distinguish literal events from implied meanings, track expectations, and evaluate how the ending changes interpretation.",
+      "access": "Public domain in the United States.",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; brief length supports repeated close reading.",
+      "interestHook": "Unexpected news produces a reaction that challenges conventional expectations.",
+      "teachingPrompt": "What assumptions might readers make at the beginning, and which details require those assumptions to be revised?",
+      "alignment": [
+        "10.P.EICC.3.e",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "We Wear the Mask",
+      "author": "Paul Laurence Dunbar",
+      "genre": "Poetry",
+      "purpose": "Examine figurative meaning, historical context, recurring images, and distinctions between speaker and audience.",
+      "access": "Public domain in the United States.",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate; historical context deepens interpretation.",
+      "interestHook": "The poem explores the distance between public appearances and private experience.",
+      "teachingPrompt": "What evidence supports an interpretation of the mask as more than a physical object?",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "The Love Song of J. Alfred Prufrock",
+      "author": "T. S. Eliot",
+      "genre": "Modernist poetry",
+      "purpose": "Develop strategies for interpreting fragmented structure, unfamiliar references, complex imagery, and ambiguous speaker perspectives.",
+      "access": "Public domain in the United States.",
+      "readingTime": "15–25 minutes",
+      "highInterest": false,
+      "accessibility": "Challenging; appropriate for supported Pre-AP enrichment.",
+      "interestHook": "A speaker's anxious reflections reveal the difficulty of making decisions and connecting with others.",
+      "teachingPrompt": "Which recurring images and questions help readers develop coherence within a poem that initially appears fragmented?",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and personal narrative",
+      "purpose": "Activate and revise prior knowledge, summarize central ideas, identify examples supporting claims, and examine assumptions about cultures and communities.",
+      "access": "Official TED talk and transcript.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "interestHook": "Personal stories reveal how incomplete narratives can shape perceptions of other people.",
+      "teachingPrompt": "How does each anecdote add to or complicate the speaker's central argument?",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "Narrative of the Life of Frederick Douglass",
+      "author": "Frederick Douglass",
+      "genre": "Autobiography and historical nonfiction",
+      "purpose": "Build historical knowledge, paraphrase complex passages, examine unfamiliar vocabulary, and infer relationships between personal experience and broader arguments.",
+      "access": "Public domain in the United States.",
+      "readingTime": "20–30 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Challenging; provide historical context and support for nineteenth-century language.",
+      "interestHook": "Douglass recounts his pursuit of literacy and freedom under slavery.",
+      "teachingPrompt": "How does knowledge of the historical context deepen understanding of Douglass's descriptions of learning to read?",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Literary nonfiction and science journalism",
+      "purpose": "Preview complex informational sections, integrate scientific and historical knowledge, clarify technical concepts, and summarize relationships among events.",
+      "access": "Licensed classroom edition; preview medical and ethical subject matter.",
+      "readingTime": "20–30 minutes for selected excerpts",
+      "highInterest": true,
+      "accessibility": "Moderate to challenging; provide support for scientific terminology.",
+      "interestHook": "A family's history intersects with one of the most consequential developments in modern medical research.",
+      "teachingPrompt": "Which scientific and historical concepts must readers understand to explain the ethical questions raised by the text?",
+      "alignment": [
+        "10.P.EICC.3.b",
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "The Boy Who Harnessed the Wind",
+      "author": "William Kamkwamba and Bryan Mealer",
+      "genre": "Memoir and informational nonfiction",
+      "purpose": "Visualize processes, connect scientific knowledge to narrative events, track predictions, and summarize technical explanations.",
+      "access": "Licensed classroom edition; young readers edition may be used for additional accessibility.",
+      "readingTime": "20–30 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "interestHook": "A young inventor uses available materials and independent learning to build a windmill.",
+      "teachingPrompt": "How does diagramming the scientific process help readers understand the narrative significance of the invention?",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.e",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "The Federalist No. 10",
+      "author": "James Madison",
+      "genre": "Political argument",
+      "purpose": "Develop strategies for navigating complex syntax, historical vocabulary, abstract reasoning, and relationships among claims.",
+      "access": "Public domain in the United States.",
+      "readingTime": "20–30 minutes for selected sections",
+      "highInterest": false,
+      "accessibility": "Challenging; use historical context, paraphrase, and argument mapping.",
+      "interestHook": "Madison considers how political communities can manage competing interests and protect representative government.",
+      "teachingPrompt": "How can readers represent Madison's reasoning visually without oversimplifying his argument?",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "Selected Scientific Research Abstracts and Public-Facing Explanations",
+      "author": "Various researchers and science communicators",
+      "genre": "Scientific and informational texts",
+      "purpose": "Compare reading purposes, preview disciplinary structures, locate relevant information, and determine technical word meanings.",
+      "access": "Use open-access publications, reputable scientific organizations, or licensed academic databases.",
+      "readingTime": "15–25 minutes for paired selections",
+      "highInterest": true,
+      "accessibility": "Variable; select topics relevant to students and provide appropriate vocabulary support.",
+      "interestHook": "Students investigate scientific questions connected to technology, health, the environment, or everyday life.",
+      "teachingPrompt": "Which sections and vocabulary are most useful when reading to understand the study's findings rather than reproduce its methods?",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.b",
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.g"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "15–20 minutes",
+      "title": "Recognize the Breakdown",
+      "activity": "The teacher models reading a short passage containing a difficult sentence, an unfamiliar word, and an unclear reference. Students identify where understanding breaks down and select an appropriate fix-up strategy for each problem.",
+      "materials": [
+        "Teacher-selected short passage",
+        "Comprehension monitoring checklist",
+        "Fix-up strategy reference card"
+      ],
+      "scaffolds": [
+        "Model thinking aloud without pretending that every difficult passage has an immediate solution.",
+        "Provide sentence frames for identifying the source of confusion.",
+        "Allow paired discussion before independent application."
+      ],
+      "success": "Students identify a specific comprehension problem, select a relevant strategy, and demonstrate improved understanding.",
+      "alignment": [
+        "10.P.EICC.3.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "15–20 minutes",
+      "title": "Skim or Scan?",
+      "activity": "Students receive a short informational article and several reading purposes. They decide whether to skim, scan, or read closely for each purpose, then locate or explain the required information.",
+      "materials": [
+        "Structured informational article",
+        "Reading purpose cards",
+        "Strategy selection organizer"
+      ],
+      "scaffolds": [
+        "Model examining headings and captions before sustained reading.",
+        "Provide clearly distinguishable reading purposes.",
+        "Gradually remove highlighted section cues."
+      ],
+      "success": "Students select efficient reading approaches and explain how each approach serves its purpose.",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "What I Thought and What I Know Now",
+      "activity": "Students record initial knowledge about a topic, read a short explanatory text, and identify which ideas were confirmed, expanded, or corrected.",
+      "materials": [
+        "Accessible informational passage",
+        "Before-and-after knowledge chart"
+      ],
+      "scaffolds": [
+        "Distinguish personal experience from established factual knowledge.",
+        "Provide a model showing how evidence can correct a misconception.",
+        "Allow students to explain revisions orally."
+      ],
+      "success": "Students revise or extend prior knowledge using specific information from the text.",
+      "alignment": [
+        "10.P.EICC.3.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–30 minutes",
+      "title": "Summarize the Essential",
+      "activity": "Students divide a passage into manageable sections, identify the central idea or event in each section, and combine the ideas into a concise summary.",
+      "materials": [
+        "Chunked literary or informational passage",
+        "Summary organizer"
+      ],
+      "scaffolds": [
+        "Provide a partially completed first example.",
+        "Model removing minor details and unsupported opinions.",
+        "Use oral rehearsal before written summarization."
+      ],
+      "success": "Students produce an accurate summary preserving essential ideas and relationships.",
+      "alignment": [
+        "10.P.EICC.3.d"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Evidence Plus Reasoning",
+      "activity": "Students examine short passages containing implied character motivations or relationships. They identify relevant evidence, explain what it suggests, and distinguish supported inferences from guesses.",
+      "materials": [
+        "Teacher-created inference passages",
+        "Evidence and reasoning organizer"
+      ],
+      "scaffolds": [
+        "Provide examples of explicit and implicit meanings.",
+        "Model considering more than one plausible interpretation.",
+        "Offer sentence frames that connect evidence to reasoning."
+      ],
+      "success": "Students develop a plausible inference and explain how specific evidence supports it.",
+      "alignment": [
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Solve the Unfamiliar Word",
+      "activity": "Students examine unfamiliar words in authentic sentences, identify useful contextual and morphological clues, propose meanings, and verify uncertain interpretations.",
+      "materials": [
+        "Selected mentor sentences",
+        "Root and affix reference",
+        "Dictionary or approved reference tool"
+      ],
+      "scaffolds": [
+        "Begin with transparent word structures.",
+        "Model situations in which context alone is insufficient.",
+        "Provide a sequence for testing and verifying a proposed meaning."
+      ],
+      "success": "Students determine contextually appropriate meanings and explain the clues or references used.",
+      "alignment": [
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "The Strategic Reading Lab",
+      "activity": "Students read a challenging literary passage and document three moments when they made a deliberate comprehension decision. They explain the difficulty, selected strategy, resulting understanding, and any remaining question.",
+      "materials": [
+        "Complex literary passage",
+        "Strategic reading log",
+        "Reflection prompts"
+      ],
+      "scaffolds": [
+        "Model one authentic comprehension decision.",
+        "Avoid requiring a predetermined number of annotations per paragraph.",
+        "Encourage students to select strategies according to actual reading needs."
+      ],
+      "success": "Students demonstrate purposeful strategy selection and evaluate its effect on understanding.",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "One Text, Three Reading Purposes",
+      "activity": "Students approach the same informational text to obtain an overview, locate a specific answer, and evaluate a central claim. They compare the reading approaches required for each task.",
+      "materials": [
+        "Multi-section informational text",
+        "Three reading task cards",
+        "Strategy comparison organizer"
+      ],
+      "scaffolds": [
+        "Model adjusting reading rate and attention.",
+        "Require students to identify the sections most useful for each task.",
+        "Distinguish efficient selective reading from careless reading."
+      ],
+      "success": "Students select and justify different reading strategies for different purposes.",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Build the Missing Background",
+      "activity": "Before reading a historically or culturally complex passage, students identify what they know and what they need to investigate. They consult brief credible contextual sources, read the passage, and explain how the new knowledge changes their interpretation.",
+      "materials": [
+        "Literary or historical passage",
+        "Curated contextual sources",
+        "Knowledge gap organizer"
+      ],
+      "scaffolds": [
+        "Provide focused contextual materials rather than unrestricted searching.",
+        "Require students to distinguish contextual knowledge from textual evidence.",
+        "Avoid treating one text as representative of an entire culture."
+      ],
+      "success": "Students integrate relevant background knowledge and demonstrate improved textual understanding.",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Visualize the Narrative",
+      "activity": "Students create a visual representation of relationships among characters, narrators, settings, or events in a complex literary work. They annotate the representation with textual evidence and revise it when new information emerges.",
+      "materials": [
+        "Selected chapters from Frankenstein or another layered narrative",
+        "Diagramming materials",
+        "Textual evidence organizer"
+      ],
+      "scaffolds": [
+        "Model representing relationships rather than merely listing characters.",
+        "Provide an optional diagram template.",
+        "Allow accessible nonvisual alternatives such as structured outlines."
+      ],
+      "success": "Students accurately represent narrative relationships and use the representation to explain meaning.",
+      "alignment": [
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "Prediction and Revision",
+      "activity": "Students read a short story in sections, record evidence-based predictions at meaningful points, and revise their predictions as new details appear. After reading, they explain how the author managed expectations.",
+      "materials": [
+        "Selected short story",
+        "Prediction and revision tracker"
+      ],
+      "scaffolds": [
+        "Choose natural stopping points rather than interrupting every paragraph.",
+        "Model distinguishing a plausible prediction from an unsupported guess.",
+        "Reward thoughtful revision rather than prediction accuracy alone."
+      ],
+      "success": "Students make, track, and revise predictions using textual evidence and explain how their understanding develops.",
+      "alignment": [
+        "10.P.EICC.3.e",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Reading Between the Lines",
+      "activity": "Students analyze a dramatic scene from A Raisin in the Sun or another appropriate play. They examine dialogue, stage directions, pauses, and responses to develop an interpretation of a character's unstated motivation.",
+      "materials": [
+        "Selected dramatic scene",
+        "Dialogue and subtext organizer"
+      ],
+      "scaffolds": [
+        "Model identifying differences between spoken language and implied meaning.",
+        "Provide historical context when necessary.",
+        "Encourage students to compare alternative interpretations."
+      ],
+      "success": "Students support an inference about subtext using multiple relevant details and clear reasoning.",
+      "alignment": [
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Map a Complex Argument",
+      "activity": "Students read a challenging argumentative passage and construct a map showing its central claim, supporting reasons, evidence, qualifications, and relationships. They use the map to write an accurate summary.",
+      "materials": [
+        "Complex argumentative passage",
+        "Argument mapping organizer"
+      ],
+      "scaffolds": [
+        "Model identifying relationships among claims rather than copying sentences.",
+        "Provide support for unfamiliar terminology.",
+        "Distinguish summary from evaluation."
+      ],
+      "success": "Students accurately represent the author's reasoning and summarize the argument without distortion.",
+      "alignment": [
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "Vocabulary in a Knowledge Network",
+      "activity": "Students select several important unfamiliar terms from a scientific or historical passage, investigate their contextual meanings and word structures, and create a concept map showing relationships among the terms.",
+      "materials": [
+        "Disciplinary text",
+        "Academic vocabulary reference",
+        "Concept mapping materials"
+      ],
+      "scaffolds": [
+        "Prioritize words essential to understanding the text.",
+        "Model the limitations of relying on roots alone.",
+        "Require verification of specialized definitions."
+      ],
+      "success": "Students determine accurate meanings and explain how understanding the terms improves comprehension of the larger concept.",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Read Like a Historian and a Scientist",
+      "activity": "Students compare a historical document with a scientific explanation. They identify the purposes, structures, evidence, and vocabulary of each text and explain how their reading strategies should differ.",
+      "materials": [
+        "Historical primary source",
+        "Scientific explanatory text",
+        "Disciplinary reading comparison chart"
+      ],
+      "scaffolds": [
+        "Model how source context matters in historical reading.",
+        "Model how processes and evidence matter in scientific reading.",
+        "Provide background knowledge and vocabulary support as needed."
+      ],
+      "success": "Students adapt comprehension strategies to the demands of different disciplinary texts.",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.b",
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Competing Interpretations Seminar",
+      "activity": "Students read an ambiguous literary text and develop two plausible interpretations. They collect evidence supporting each interpretation, identify limitations, and participate in a seminar evaluating the relative strengths of each reading.",
+      "materials": [
+        "Complex short story or poem",
+        "Interpretation and evidence matrix",
+        "Seminar preparation guide"
+      ],
+      "scaffolds": [
+        "Require students to distinguish ambiguity from lack of evidence.",
+        "Encourage respectful intellectual disagreement.",
+        "Require consideration of evidence that complicates a preferred interpretation."
+      ],
+      "success": "Students develop, support, evaluate, and revise sophisticated interpretations of a complex text.",
+      "alignment": [
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "The Modernist Reading Challenge",
+      "activity": "Students read selected passages from The Love Song of J. Alfred Prufrock or another complex modernist work. They identify comprehension obstacles, investigate essential references, track recurring images, and construct an evidence-based interpretation.",
+      "materials": [
+        "Complex modernist poem",
+        "Selected contextual references",
+        "Pattern tracking organizer"
+      ],
+      "scaffolds": [
+        "Model tolerating temporary uncertainty.",
+        "Provide limited background support without explaining every ambiguity.",
+        "Encourage students to test interpretations against the whole text."
+      ],
+      "success": "Students demonstrate flexible strategy use and develop a coherent interpretation supported by textual patterns.",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75–90 minutes",
+      "title": "The Knowledge Revision Investigation",
+      "activity": "Students investigate a complex historical, scientific, or social question using several credible texts. They maintain a record of how their understanding changes, identify conflicting information, and explain which evidence required them to revise their initial conclusions.",
+      "materials": [
+        "Curated source set",
+        "Knowledge revision journal",
+        "Source comparison matrix"
+      ],
+      "scaffolds": [
+        "Require distinction between established findings and unresolved questions.",
+        "Model revising a conclusion without treating all sources as equally credible.",
+        "Encourage explicit acknowledgment of remaining uncertainty."
+      ],
+      "success": "Students integrate new knowledge, evaluate inconsistencies, and explain evidence-based changes in understanding.",
+      "alignment": [
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.f"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 minutes",
+      "title": "Independent Reading Strategy Portfolio",
+      "activity": "Students select three challenging texts from different genres or disciplines. For each text, they establish a reading purpose, identify comprehension challenges, select and evaluate strategies, and produce an interpretation or explanation demonstrating understanding. They conclude with a reflection on strategy transfer.",
+      "materials": [
+        "Student-selected complex texts",
+        "Reading strategy portfolio template",
+        "Reflection and assessment rubric"
+      ],
+      "scaffolds": [
+        "Require teacher approval of text complexity and suitability.",
+        "Allow students to choose strategies rather than complete identical tasks for every text.",
+        "Use conferences to support increasing independence."
+      ],
+      "success": "Students demonstrate independent, flexible, and transferable comprehension strategies across multiple challenging texts.",
+      "alignment": [
+        "10.P.EICC.3.a",
+        "10.P.EICC.3.b",
+        "10.P.EICC.3.c",
+        "10.P.EICC.3.d",
+        "10.P.EICC.3.e",
+        "10.P.EICC.3.f",
+        "10.P.EICC.3.g"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student realizes that she has read three paragraphs without understanding how the author's ideas connect. Which response best demonstrates comprehension monitoring?",
+      "options": [
+        "Continue reading at the same pace until the article ends.",
+        "Return to the paragraphs, identify the central ideas, and examine how they relate.",
+        "Highlight every sentence without rereading.",
+        "Assume the author has not organized the article effectively."
+      ],
+      "answer": "Return to the paragraphs, identify the central ideas, and examine how they relate.",
+      "rationale": "The student recognizes a specific comprehension problem and selects a strategy that addresses relationships among ideas."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which reading purpose most clearly calls for scanning?",
+      "options": [
+        "Developing an interpretation of a poem's recurring imagery.",
+        "Evaluating the reasoning in a complex argument.",
+        "Locating the date of a specific event in a historical article.",
+        "Explaining how a character changes throughout a novel."
+      ],
+      "answer": "Locating the date of a specific event in a historical article.",
+      "rationale": "Scanning is useful when locating a particular piece of information."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student wants to determine whether a lengthy article contains information relevant to her research question. Which initial strategy is most efficient?",
+      "options": [
+        "Memorize the first paragraph.",
+        "Examine the title, headings, abstract, and relevant section introductions.",
+        "Read every footnote before examining the article.",
+        "Copy all unfamiliar vocabulary into a notebook."
+      ],
+      "answer": "Examine the title, headings, abstract, and relevant section introductions.",
+      "rationale": "Previewing and skimming help identify potentially useful sections before sustained reading."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement best describes the role of prior knowledge in comprehension?",
+      "options": [
+        "Prior knowledge should always be accepted as accurate.",
+        "Readers should ignore prior knowledge when interpreting unfamiliar texts.",
+        "Prior knowledge supports understanding but may need to be expanded or revised.",
+        "Prior knowledge eliminates the need to examine textual evidence."
+      ],
+      "answer": "Prior knowledge supports understanding but may need to be expanded or revised.",
+      "rationale": "Effective readers integrate new information while remaining willing to correct misconceptions."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student initially believes that a historical event had one primary cause. After reading several credible sources, she identifies several interacting causes. Which practice does this demonstrate?",
+      "options": [
+        "Memorizing isolated facts.",
+        "Revising and integrating prior knowledge.",
+        "Ignoring conflicting information.",
+        "Predicting a narrative ending."
+      ],
+      "answer": "Revising and integrating prior knowledge.",
+      "rationale": "The student develops a more complex understanding in response to new information."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which characteristic is most important in an effective summary?",
+      "options": [
+        "It includes every detail in the original text.",
+        "It replaces the author's central ideas with the reader's opinion.",
+        "It preserves essential ideas and relationships in concise, accurate language.",
+        "It uses the longest and most sophisticated vocabulary possible."
+      ],
+      "answer": "It preserves essential ideas and relationships in concise, accurate language.",
+      "rationale": "A summary reduces detail while maintaining the text's essential meaning."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which visualization would best support understanding of a narrative containing several narrators and events occurring at different times?",
+      "options": [
+        "An alphabetical list of unfamiliar words.",
+        "A timeline showing events and the narrators who recount them.",
+        "A decorative illustration of the book cover.",
+        "A list of every adjective in the opening chapter."
+      ],
+      "answer": "A timeline showing events and the narrators who recount them.",
+      "rationale": "The visualization clarifies relationships among time, events, and narrative perspective."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student makes a prediction that is later contradicted by the text. What is the most effective response?",
+      "options": [
+        "Ignore the new information to preserve the original prediction.",
+        "Revise the prediction and explain which evidence changed the expectation.",
+        "Conclude that making predictions is not useful.",
+        "Change the prediction without examining the text."
+      ],
+      "answer": "Revise the prediction and explain which evidence changed the expectation.",
+      "rationale": "Predictions are provisional and should develop in response to evidence."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A character repeatedly checks the clock, avoids conversation, and gathers her belongings before a meeting ends. Which inference is best supported?",
+      "options": [
+        "The character is eager or concerned about leaving.",
+        "The character has never attended a meeting before.",
+        "The character dislikes every person in the room.",
+        "The character has committed a serious crime."
+      ],
+      "answer": "The character is eager or concerned about leaving.",
+      "rationale": "The inference follows from the observed behavior without introducing unsupported explanations."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which response best distinguishes an inference from an unsupported guess?",
+      "options": [
+        "An inference is always explicitly stated.",
+        "An inference combines relevant evidence with reasoning.",
+        "A guess is more reliable when it is expressed confidently.",
+        "An inference cannot be revised."
+      ],
+      "answer": "An inference combines relevant evidence with reasoning.",
+      "rationale": "An inference must be grounded in evidence and a defensible explanation."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A poem repeatedly describes closed windows, locked doors, and inaccessible rooms. Which interpretation is most defensible as an initial inference?",
+      "options": [
+        "The poem may explore confinement or exclusion.",
+        "The poem must describe a particular historical prison.",
+        "The poet dislikes architecture.",
+        "Every object in the poem has the same fixed symbolic meaning."
+      ],
+      "answer": "The poem may explore confinement or exclusion.",
+      "rationale": "The recurring images support a provisional interpretation that should be tested against the rest of the poem."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "In the sentence, The once abundant river became increasingly depleted as water was diverted, which meaning of depleted is best supported by context?",
+      "options": [
+        "More polluted.",
+        "Reduced in quantity.",
+        "More unpredictable.",
+        "Recently discovered."
+      ],
+      "answer": "Reduced in quantity.",
+      "rationale": "The contrast with abundant and the reference to diverted water indicate a reduction."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which strategy is most appropriate when an unfamiliar scientific term has several possible meanings and context does not resolve the uncertainty?",
+      "options": [
+        "Choose the meaning that sounds most familiar.",
+        "Ignore the term even if it is essential to the argument.",
+        "Consult a reliable disciplinary reference and test the meaning in context.",
+        "Assume the term has the same meaning as its root."
+      ],
+      "answer": "Consult a reliable disciplinary reference and test the meaning in context.",
+      "rationale": "Specialized meanings may require verification beyond contextual and morphological clues."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which student demonstrates the strongest independent comprehension strategy use?",
+      "options": [
+        "A student who uses the same annotation system for every text regardless of purpose.",
+        "A student who selects strategies according to the text, evaluates their usefulness, and adjusts when necessary.",
+        "A student who waits for the teacher to explain every unfamiliar passage.",
+        "A student who measures comprehension only by the number of pages completed."
+      ],
+      "answer": "A student who selects strategies according to the text, evaluates their usefulness, and adjusts when necessary.",
+      "rationale": "Independent readers make flexible and purposeful comprehension decisions."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain the difference between skimming, scanning, and close reading. Give a realistic reading purpose for each approach.",
+      "answer": "A successful response explains that skimming develops an overview, scanning locates specific information, and close reading examines details and relationships. Examples should demonstrate appropriate purposes for each strategy.",
+      "rationale": "Students must connect strategy selection to reading goals."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe a moment when understanding might break down while reading a complex literary text. Identify an appropriate fix-up strategy and explain why it would help.",
+      "answer": "Accept a specific comprehension obstacle and a relevant strategy. For example, a confusing shift in narrator could be addressed by rereading the transition and mapping who is speaking and when.",
+      "rationale": "The response demonstrates metacognition and purposeful strategy selection."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how prior knowledge can both support and interfere with comprehension.",
+      "answer": "Prior knowledge helps readers connect new information to existing understanding, but inaccurate assumptions or misconceptions can lead to misinterpretation. Readers should evaluate and revise prior knowledge using evidence.",
+      "rationale": "Students should recognize the benefits and limitations of existing knowledge."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain why an incorrect prediction can still be useful during reading.",
+      "answer": "An incorrect prediction can reveal how an author creates expectations, introduce new evidence, and prompt readers to revise their understanding. Its usefulness depends on evidence-based reflection rather than accuracy alone.",
+      "rationale": "Prediction supports active comprehension and revision of meaning."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a visual representation can improve understanding of an informational text containing several interacting causes.",
+      "answer": "A diagram or concept map can represent causal relationships, distinguish major and contributing factors, and reveal connections or gaps that may be difficult to recognize in continuous prose.",
+      "rationale": "Visualization should clarify conceptual relationships rather than serve as decoration."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "A reader encounters an unfamiliar word containing a recognizable prefix and root. Explain why the reader should still examine the surrounding sentence.",
+      "answer": "Word parts provide clues, but context determines which meaning is appropriate. Some words have specialized or historically developed meanings that cannot be determined accurately from morphology alone.",
+      "rationale": "Effective vocabulary strategies combine multiple sources of information."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Read a selected literary passage containing an ambiguous character motivation. Develop two plausible interpretations, identify evidence supporting each, and explain which interpretation is better supported or why uncertainty remains.",
+      "answer": "A successful response presents two defensible interpretations, cites precise evidence, explains the reasoning connecting evidence to each interpretation, and evaluates the relative strength or limitations of the readings.",
+      "rationale": "The task assesses inference, evidence-based reasoning, and tolerance for ambiguity."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Using a challenging informational text, identify your reading purpose, select two useful comprehension strategies, and explain how each strategy improved your understanding of the text's central ideas.",
+      "answer": "A successful response establishes a specific purpose, identifies appropriate strategies, demonstrates accurate understanding of the text, and explains the relationship between strategy use and comprehension.",
+      "rationale": "The assessment measures strategic reading rather than simple recall of strategy names."
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Read a complex text that initially challenges your understanding. Maintain a brief record of comprehension obstacles, strategies selected, evidence discovered, and revisions to your interpretation. Submit a final explanation of the text and a reflection evaluating your reading process.",
+      "answer": "Evaluate accuracy of comprehension, appropriateness and flexibility of strategy selection, quality of evidence-based interpretation, and specificity of metacognitive reflection.",
+      "rationale": "The task measures independent transfer of comprehension strategies in an authentic reading experience."
+    }
+  ],
+  "evidence": [
+    "Reading goals that identify a meaningful purpose and an appropriate intended outcome.",
+    "Comprehension monitoring records documenting specific difficulties and purposeful responses.",
+    "Before-and-after explanations demonstrating improved understanding after strategy use.",
+    "Text previews identifying sections relevant to a specific reading purpose.",
+    "Knowledge revision charts showing how new information confirms, extends, or corrects prior understanding.",
+    "Accurate summaries preserving essential ideas and relationships.",
+    "Timelines, diagrams, concept maps, or structured outlines clarifying complex information.",
+    "Prediction trackers demonstrating evidence-based revision.",
+    "Analytical responses distinguishing explicit information from implied meanings.",
+    "Interpretations supported by precise textual evidence and defensible reasoning.",
+    "Vocabulary investigations demonstrating contextual analysis, morphology, and verification.",
+    "Reading conferences in which students explain their strategic decisions.",
+    "Independent transfer tasks using unfamiliar literary and informational texts.",
+    "Portfolio reflections evaluating the effectiveness of selected comprehension strategies."
+  ],
+  "instruction": [
+    "Establish comprehension strategies as flexible tools rather than mandatory steps for every reading assignment.",
+    "Model authentic thinking aloud, including uncertainty, confusion, rereading, and revision of interpretation.",
+    "Begin reading experiences with a meaningful purpose rather than a generic direction to annotate.",
+    "Teach students to identify whether difficulty arises from vocabulary, syntax, structure, background knowledge, or conceptual complexity.",
+    "Demonstrate how different reading purposes require different levels of attention and different reading rates.",
+    "Use short mentor passages to model strategies before transferring responsibility to longer independent readings.",
+    "Provide background knowledge strategically while preserving opportunities for students to identify and investigate knowledge gaps.",
+    "Teach summarization as the preservation of essential meaning and relationships rather than arbitrary reduction of word count.",
+    "Use visualization to clarify narrative, causal, conceptual, and organizational relationships.",
+    "Pause at meaningful points in narratives and informational texts to examine predictions and expectations.",
+    "Teach students to distinguish textual evidence, inference, assumption, and speculation.",
+    "Encourage students to develop and evaluate competing interpretations when texts contain ambiguity.",
+    "Integrate vocabulary instruction into authentic reading rather than relying exclusively on isolated word lists.",
+    "Teach students to verify specialized or uncertain word meanings using appropriate references.",
+    "Use reading conferences to identify individual strategy needs and gradually reduce scaffolding.",
+    "Include challenging literary, historical, scientific, technical, and multimodal texts.",
+    "Provide accessible supports such as audio, chunking, glossaries, and diagrams without reducing the intellectual demands of interpretation.",
+    "Assess comprehension outcomes and strategy effectiveness rather than the quantity of annotations produced.",
+    "Develop curiosity, persistence, flexibility, and metacognition through recurring opportunities for independent reading.",
+    "Require transfer of strategies to unfamiliar texts and new disciplinary contexts."
+  ],
+  "watchFor": [
+    "Treating comprehension strategies as a rigid sequence that every reader must follow.",
+    "Requiring extensive annotation that interrupts reading without improving understanding.",
+    "Equating the number of highlighted passages with depth of comprehension.",
+    "Students continuing to read despite recognizing that meaning has broken down.",
+    "Students relying on teacher explanations instead of developing independent strategies.",
+    "Reading goals that are limited to completing a certain number of pages.",
+    "Students confusing skimming with careless reading.",
+    "Students using scanning when sustained interpretation is necessary.",
+    "Activating prior knowledge without examining its accuracy.",
+    "Treating cultural assumptions or stereotypes as reliable background knowledge.",
+    "Summaries that include minor details while omitting essential relationships.",
+    "Summaries that introduce unsupported opinions or distort the author's position.",
+    "Visual representations that are decorative rather than explanatory.",
+    "Assessing predictions solely according to whether they prove correct.",
+    "Students making predictions without evidence or refusing to revise them.",
+    "Inferences based on personal assumptions rather than textual evidence.",
+    "Treating every ambiguous passage as having one predetermined interpretation.",
+    "Accepting any interpretation without requiring evidence and reasoning.",
+    "Students relying exclusively on context clues when meanings remain uncertain.",
+    "Assuming that recognizable roots always determine a word's precise meaning.",
+    "Using simplified texts exclusively instead of providing access to complex grade-appropriate texts.",
+    "Assessing students' ability to name strategies without examining their actual comprehension.",
+    "Confusing productive struggle with unsupported frustration."
+  ],
+  "skills": {
+    "10.P.EICC.3.a": {
+      "focus": "Establish reading purposes, monitor comprehension, and adjust strategies",
+      "studentFriendly": "I can set a goal for reading, recognize when I am confused, and choose strategies that help me understand the text.",
+      "know": [
+        "Reading purposes influence attention, pace, and strategy selection.",
+        "Comprehension monitoring requires readers to notice and identify misunderstandings.",
+        "Different comprehension problems require different responses.",
+        "Metacognitive reflection helps readers develop independence."
+      ],
+      "understand": [
+        "Effective readers actively regulate their understanding.",
+        "Confusion can identify an opportunity for strategic learning.",
+        "A useful reading strategy is one that helps accomplish the reading purpose."
+      ],
+      "do": [
+        "Establish specific reading purposes and goals.",
+        "Identify moments when comprehension breaks down.",
+        "Determine likely causes of misunderstanding.",
+        "Select and apply appropriate fix-up strategies.",
+        "Evaluate whether the selected strategy improves understanding.",
+        "Adjust reading approaches when necessary."
+      ],
+      "targets": [
+        "I can explain what I want to understand before reading.",
+        "I can recognize and identify a comprehension problem.",
+        "I can choose and evaluate a strategy that restores understanding."
+      ],
+      "instruction": [
+        "Model reading a complex passage while verbalizing authentic comprehension decisions.",
+        "Teach students to distinguish vocabulary, syntax, knowledge, and structural difficulties.",
+        "Use reading conferences to develop individual strategy repertoires.",
+        "Gradually transfer responsibility for strategy selection to students."
+      ],
+      "evidence": [
+        "A specific reading goal connected to an assigned task.",
+        "A comprehension monitoring log showing purposeful adjustments.",
+        "An explanation demonstrating improved understanding after strategy use.",
+        "Independent application of strategies to an unfamiliar text."
+      ],
+      "watchFor": [
+        "Reading goals that focus only on completion.",
+        "Students identifying confusion without selecting a response.",
+        "Applying strategies mechanically rather than according to need.",
+        "Students depending on the teacher to resolve every difficulty."
+      ]
+    },
+    "10.P.EICC.3.b": {
+      "focus": "Scan, skim, and identify useful text structures and sections",
+      "studentFriendly": "I can preview a text, locate important sections, and decide which parts need closer reading based on my purpose.",
+      "know": [
+        "Skimming develops an overview of a text.",
+        "Scanning locates specific information.",
+        "Text structures and features can help readers identify relevant information.",
+        "Different genres and disciplines organize information in different ways."
+      ],
+      "understand": [
+        "Strategic previewing helps readers allocate attention efficiently.",
+        "Selective reading is appropriate for some purposes but cannot replace close reading when detailed interpretation is necessary.",
+        "Knowledge of organizational conventions supports comprehension."
+      ],
+      "do": [
+        "Examine titles, headings, abstracts, captions, diagrams, introductions, and summaries.",
+        "Skim texts to identify central ideas and organizational patterns.",
+        "Scan texts to locate relevant details.",
+        "Identify sections most useful for a specific reading purpose.",
+        "Determine when sustained close reading is necessary."
+      ],
+      "targets": [
+        "I can preview a complex text and identify its useful features.",
+        "I can distinguish skimming from scanning.",
+        "I can select sections that deserve closer reading."
+      ],
+      "instruction": [
+        "Compare reading approaches for locating information, obtaining an overview, and evaluating an argument.",
+        "Use authentic informational texts with meaningful organizational features.",
+        "Teach disciplinary structures such as abstracts, methods sections, timelines, and reference entries.",
+        "Require students to explain why selected sections are relevant."
+      ],
+      "evidence": [
+        "A text preview identifying relevant structures and sections.",
+        "Accurate location of information using scanning.",
+        "An overview developed through strategic skimming.",
+        "A justified decision about which sections require close reading."
+      ],
+      "watchFor": [
+        "Confusing skimming with reading randomly.",
+        "Using scanning when complex interpretation is required.",
+        "Assuming headings always reveal all important information.",
+        "Ignoring visual or structural features that support comprehension."
+      ]
+    },
+    "10.P.EICC.3.c": {
+      "focus": "Integrate, expand, and revise prior knowledge",
+      "studentFriendly": "I can connect what I already know to new information, recognize gaps or misconceptions, and revise my understanding when I encounter stronger evidence.",
+      "know": [
+        "Prior knowledge influences interpretation.",
+        "Background knowledge may include factual information, experiences, concepts, and cultural understanding.",
+        "Existing knowledge can be incomplete or inaccurate.",
+        "New information may confirm, extend, complicate, or contradict previous understanding."
+      ],
+      "understand": [
+        "Comprehension develops through interaction between existing knowledge and new information.",
+        "Effective readers remain open to revising their assumptions.",
+        "Knowledge gaps can limit comprehension even when individual words are familiar.",
+        "Relevant contextual knowledge strengthens interpretation without replacing textual evidence."
+      ],
+      "do": [
+        "Activate relevant prior knowledge before and during reading.",
+        "Identify assumptions and missing contextual information.",
+        "Investigate knowledge gaps using appropriate sources.",
+        "Compare new information with existing understanding.",
+        "Revise misconceptions using credible evidence.",
+        "Explain how integrated knowledge improves comprehension."
+      ],
+      "targets": [
+        "I can identify knowledge that helps me understand a text.",
+        "I can recognize information I need to investigate.",
+        "I can explain how new evidence changes my understanding."
+      ],
+      "instruction": [
+        "Use before-and-after knowledge charts focused on meaningful concepts.",
+        "Model revising a misconception in response to evidence.",
+        "Provide concise contextual source sets for challenging texts.",
+        "Teach students to distinguish relevant background knowledge from unsupported assumptions."
+      ],
+      "evidence": [
+        "A knowledge chart documenting confirmed, expanded, and revised ideas.",
+        "An explanation connecting contextual information to textual meaning.",
+        "A revised interpretation supported by new evidence.",
+        "A reflection identifying unresolved knowledge gaps."
+      ],
+      "watchFor": [
+        "Activating inaccurate prior knowledge without correction.",
+        "Treating stereotypes as factual contextual knowledge.",
+        "Providing so much background information that students no longer need to interpret the text.",
+        "Using personal experience as a substitute for textual evidence."
+      ]
+    },
+    "10.P.EICC.3.d": {
+      "focus": "Summarize and visualize to maintain understanding",
+      "studentFriendly": "I can summarize important ideas and create mental or external representations that help me understand relationships in a text.",
+      "know": [
+        "Summaries preserve essential ideas and relationships.",
+        "Summarization requires distinguishing central information from supporting or minor details.",
+        "Visualization can represent concrete scenes and abstract relationships.",
+        "Different texts may require different visual representations."
+      ],
+      "understand": [
+        "Summarizing and visualizing help readers construct and monitor meaning.",
+        "An effective representation clarifies relationships rather than merely reproducing information.",
+        "A summary should preserve the author's meaning without adding unsupported judgments.",
+        "Readers may discover comprehension gaps when attempting to summarize or represent a text."
+      ],
+      "do": [
+        "Identify central ideas, events, and relationships.",
+        "Summarize sections accurately and concisely.",
+        "Paraphrase difficult passages while preserving meaning.",
+        "Construct mental images, diagrams, timelines, or concept maps.",
+        "Use representations to clarify narrative, causal, and conceptual relationships.",
+        "Revise summaries and representations as understanding develops."
+      ],
+      "targets": [
+        "I can summarize a complex section without distorting its meaning.",
+        "I can select a representation that clarifies important relationships.",
+        "I can use summarization or visualization to identify gaps in my understanding."
+      ],
+      "instruction": [
+        "Model reducing a passage to its essential ideas and relationships.",
+        "Compare summaries with different levels of accuracy and relevance.",
+        "Use diagrams for complex narrative structures, arguments, and scientific processes.",
+        "Provide accessible alternatives to visual representations when needed."
+      ],
+      "evidence": [
+        "Accurate section summaries.",
+        "A timeline or diagram representing important relationships.",
+        "An explanation showing how a representation improves comprehension.",
+        "A revised summary demonstrating deeper understanding."
+      ],
+      "watchFor": [
+        "Summaries that reproduce large portions of the original text.",
+        "Summaries that omit the central idea.",
+        "Adding unsupported interpretation to an objective summary.",
+        "Decorative visualizations that do not clarify relationships."
+      ]
+    },
+    "10.P.EICC.3.e": {
+      "focus": "Make, track, and revise predictions",
+      "studentFriendly": "I can use clues and patterns to predict what may happen or what information may come next, and I can revise my predictions as I read.",
+      "know": [
+        "Predictions are provisional expectations.",
+        "Predictions may be based on genre, structure, patterns, evidence, and prior knowledge.",
+        "Authors may confirm, complicate, or deliberately disrupt reader expectations.",
+        "Prediction can support comprehension of both literary and informational texts."
+      ],
+      "understand": [
+        "Predictions help readers remain actively engaged with developing meaning.",
+        "A prediction does not need to prove correct to be useful.",
+        "New evidence should guide revision of expectations.",
+        "Examining disrupted expectations can reveal authorial choices and deeper meanings."
+      ],
+      "do": [
+        "Make plausible predictions based on textual evidence.",
+        "Identify the clues or patterns supporting predictions.",
+        "Track predictions at meaningful points during reading.",
+        "Evaluate predictions against new information.",
+        "Revise expectations when evidence changes.",
+        "Explain how prediction and revision contribute to comprehension."
+      ],
+      "targets": [
+        "I can make a prediction supported by specific evidence.",
+        "I can track how new information affects my expectations.",
+        "I can explain why a revised prediction improves understanding."
+      ],
+      "instruction": [
+        "Use natural stopping points in narratives and informational texts.",
+        "Model distinguishing plausible predictions from unsupported guesses.",
+        "Examine how authors use foreshadowing, structure, and withheld information.",
+        "Assess the reasoning behind predictions rather than accuracy alone."
+      ],
+      "evidence": [
+        "A prediction tracker containing evidence and revisions.",
+        "An explanation of how new information changes expectations.",
+        "An analysis of how an author confirms or disrupts reader predictions.",
+        "Independent prediction and revision during unfamiliar reading."
+      ],
+      "watchFor": [
+        "Making predictions without evidence.",
+        "Treating predictions as permanent conclusions.",
+        "Assessing only whether a prediction is correct.",
+        "Interrupting reading so frequently that prediction activities reduce comprehension."
+      ]
+    },
+    "10.P.EICC.3.f": {
+      "focus": "Develop and support inferences about multiple levels of meaning",
+      "studentFriendly": "I can use textual evidence and reasoning to understand meanings that are suggested rather than directly stated, and I can evaluate different possible interpretations.",
+      "know": [
+        "Inferences combine textual evidence with relevant reasoning.",
+        "Texts may communicate literal, figurative, symbolic, thematic, rhetorical, and implied meanings.",
+        "Subtext can reveal unstated attitudes, motivations, or relationships.",
+        "Ambiguous texts may support multiple defensible interpretations."
+      ],
+      "understand": [
+        "Interpretation requires more than identifying explicitly stated information.",
+        "Strong inferences are grounded in precise evidence and clear reasoning.",
+        "An interpretation should remain open to revision when new evidence emerges.",
+        "Multiple interpretations are possible, but they are not equally defensible without supporting evidence."
+      ],
+      "do": [
+        "Distinguish explicit information from implied meaning.",
+        "Identify patterns, details, contradictions, and omissions that support inferences.",
+        "Develop interpretations of motivation, theme, tone, symbolism, and perspective.",
+        "Explain the reasoning connecting evidence to an inference.",
+        "Track and revise interpretations as additional evidence becomes available.",
+        "Evaluate competing interpretations and acknowledge uncertainty when warranted."
+      ],
+      "targets": [
+        "I can distinguish what a text states from what it suggests.",
+        "I can develop an inference supported by precise evidence.",
+        "I can explain and evaluate competing interpretations."
+      ],
+      "instruction": [
+        "Model evidence-plus-reasoning analysis using short literary passages.",
+        "Use drama to examine dialogue, stage directions, and subtext.",
+        "Use poetry and complex fiction to investigate figurative and thematic meanings.",
+        "Encourage students to test interpretations against evidence from the complete text.",
+        "Use discussion to evaluate competing interpretations rather than search for predetermined answers."
+      ],
+      "evidence": [
+        "An inference supported by relevant textual details and reasoning.",
+        "An analysis of explicit and implicit meanings.",
+        "A comparison of two defensible interpretations.",
+        "A revised interpretation responding to additional evidence."
+      ],
+      "watchFor": [
+        "Unsupported speculation presented as inference.",
+        "Retelling events instead of interpreting their significance.",
+        "Treating symbols as having universal fixed meanings.",
+        "Accepting interpretations without textual support.",
+        "Ignoring evidence that complicates a preferred interpretation."
+      ]
+    },
+    "10.P.EICC.3.g": {
+      "focus": "Determine unfamiliar word and concept meanings",
+      "studentFriendly": "I can use context, academic vocabulary, word parts, and reliable references to understand unfamiliar words and concepts in challenging texts.",
+      "know": [
+        "Context clues can include definitions, examples, contrasts, explanations, and relationships.",
+        "Roots, prefixes, and suffixes provide information about word meanings.",
+        "Academic and disciplinary vocabulary supports understanding of complex concepts.",
+        "Words may have multiple meanings depending on context.",
+        "Reference materials can verify uncertain or specialized meanings."
+      ],
+      "understand": [
+        "Word meaning depends on the interaction of morphology, context, and established usage.",
+        "Recognizing a word's parts does not always establish its precise meaning.",
+        "Understanding essential vocabulary can reveal relationships among larger concepts.",
+        "Effective readers verify uncertain meanings rather than rely on unsupported assumptions."
+      ],
+      "do": [
+        "Identify unfamiliar words and concepts that interfere with comprehension.",
+        "Examine contextual clues and surrounding relationships.",
+        "Analyze relevant roots, prefixes, and suffixes.",
+        "Apply knowledge of academic and disciplinary vocabulary.",
+        "Propose and test contextually appropriate meanings.",
+        "Consult reliable references when necessary.",
+        "Explain how clarified meanings improve understanding of the text."
+      ],
+      "targets": [
+        "I can use context and word parts to propose a word's meaning.",
+        "I can verify uncertain or specialized meanings.",
+        "I can explain how understanding important vocabulary improves comprehension."
+      ],
+      "instruction": [
+        "Teach vocabulary through authentic literary and disciplinary passages.",
+        "Model combining contextual and morphological clues.",
+        "Examine examples where word parts provide incomplete or misleading clues.",
+        "Use concept maps to connect related academic and disciplinary terms.",
+        "Teach students to prioritize vocabulary essential to comprehension."
+      ],
+      "evidence": [
+        "A vocabulary investigation explaining contextual and morphological clues.",
+        "Accurate interpretation of a word with multiple possible meanings.",
+        "A verified explanation of a specialized concept.",
+        "A revised explanation of a passage demonstrating improved vocabulary understanding."
+      ],
+      "watchFor": [
+        "Assuming that context always provides sufficient information.",
+        "Treating roots and affixes as infallible definitions.",
+        "Memorizing vocabulary without applying it in reading.",
+        "Ignoring unfamiliar terms essential to understanding a central concept.",
+        "Using a dictionary definition that does not fit the context."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are independently developed instructional recommendations rather than state-prescribed texts. Several challenging literary works are included to support Pre-AP preparation; their inclusion does not imply a required College Board reading list. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Verify editions, translation rights, availability, permissions, age suitability, and local instructional materials requirements. Comprehension strategies should be taught flexibly and assessed through meaningful reading outcomes rather than mandatory strategy checklists."
+},
+{
+  "code": "10.T.SS.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Organization",
+  "studentFriendly": "I can evaluate how writers organize texts for different audiences and purposes, and I can create coherent texts with purposeful structures, effective transitions, developed supporting ideas, engaging introductions, and meaningful conclusions.",
+  "know": [
+    "Text organization refers to the arrangement and relationships of ideas, information, events, and sections.",
+    "Organizational choices should respond to mode, genre, purpose, audience, and content.",
+    "Common organizational patterns include chronology, cause and effect, comparison and contrast, problem and solution, classification, description, and claim-based reasoning.",
+    "Complex texts may combine multiple organizational patterns.",
+    "Narrative structures may include linear chronology, flashbacks, frame narratives, parallel plots, and nonlinear sequences.",
+    "Argumentative structures may organize claims, reasons, evidence, counterarguments, qualifications, and responses in different ways.",
+    "Informational texts may organize content according to processes, conceptual relationships, questions, categories, or levels of importance.",
+    "Text features such as headings, subheadings, captions, diagrams, sidebars, and navigation elements can support organization.",
+    "Coherence refers to the logical and meaningful relationships among ideas in a complete text.",
+    "Cohesion refers to the linguistic and structural connections that help readers follow relationships among ideas.",
+    "Transitions can signal addition, contrast, cause, consequence, sequence, qualification, example, comparison, or conclusion.",
+    "Cohesion can also be created through pronoun reference, repeated key terms, parallel structure, and thematic progression.",
+    "Introductions establish focus, orient readers, and create a reason to continue reading.",
+    "Effective introductions differ according to genre, audience, and purpose.",
+    "Supporting sections should develop relevant ideas through appropriate facts, reasons, explanations, descriptions, details, or events.",
+    "Conclusions may synthesize, resolve, reflect, qualify, extend, or invite action depending on the text's purpose.",
+    "A memorable conclusion contributes to the text's meaning rather than relying on an unrelated dramatic statement.",
+    "Reverse outlining can help writers evaluate the function and sequence of existing paragraphs or sections.",
+    "Organizational revision may require moving, combining, dividing, expanding, or removing sections.",
+    "Effective organization in digital and multimodal texts may involve navigation, visual hierarchy, sequencing, and relationships among modes."
+  ],
+  "understand": [
+    "Organization is a meaning-making choice rather than a neutral container for information.",
+    "The same content may require different structures when communicated to different audiences or for different purposes.",
+    "Effective structures help readers anticipate, interpret, and connect ideas.",
+    "A text can contain accurate information and still be ineffective if its organization obscures important relationships.",
+    "Coherence depends on the development and logical progression of ideas, not merely the presence of transition words.",
+    "Cohesion supports coherence by making relationships among ideas visible to readers.",
+    "Transitions should communicate actual relationships rather than decorate paragraphs.",
+    "Introductions and conclusions perform different functions across genres.",
+    "An effective introduction creates focus and audience investment without necessarily using a question, quotation, or dramatic hook.",
+    "Strong supporting sections develop ideas rather than simply list evidence or repeat a thesis.",
+    "A conclusion should emerge from the text's development and contribute to its overall purpose.",
+    "Complex texts may use organizational shifts or disruptions deliberately to shape interpretation.",
+    "Organizational choices in multimodal texts should coordinate written, visual, spatial, and other communicative elements.",
+    "Effective writers evaluate organization from the perspective of the intended audience and revise when relationships are unclear.",
+    "The five-paragraph essay is one possible instructional structure, not a universal requirement for effective writing."
+  ],
+  "do": [
+    "Identify organizational patterns and structural features in literary, informational, argumentative, and multimodal texts.",
+    "Analyze how organizational choices shape meaning, emphasis, comprehension, and audience experience.",
+    "Evaluate whether a text's structure effectively serves its intended purpose and audience.",
+    "Compare alternative structures for communicating similar content.",
+    "Select organizational patterns and features appropriate to mode, genre, purpose, and audience.",
+    "Plan coherent texts using outlines, storyboards, diagrams, or other organizational tools.",
+    "Organize ideas, information, and events into meaningful sequences.",
+    "Develop introductions that establish focus and engage the intended audience.",
+    "Develop supporting sections using relevant facts, reasons, explanations, descriptions, details, and events.",
+    "Use transitions that accurately communicate relationships within and between paragraphs or sections.",
+    "Use additional cohesive devices such as reference, repetition, and parallelism.",
+    "Create conclusions that synthesize, resolve, reflect, qualify, extend, or otherwise complete a text's purpose.",
+    "Evaluate the coherence of complete texts rather than isolated paragraphs.",
+    "Use reverse outlining and audience feedback to identify organizational problems.",
+    "Revise texts by rearranging, combining, dividing, expanding, or removing material.",
+    "Adapt organizational choices for written, oral, visual, digital, and multimodal communication.",
+    "Explain and justify organizational decisions using evidence from the text and its rhetorical situation."
+  ],
+  "vocabulary": [
+    {
+      "term": "Organization",
+      "definition": "The arrangement and relationships of ideas, information, events, and sections in a text.",
+      "example": "A writer introduces a problem, examines its causes, and evaluates possible solutions."
+    },
+    {
+      "term": "Text structure",
+      "definition": "The underlying pattern used to arrange and connect a text's content.",
+      "example": "A historical article uses cause and effect to explain a political change."
+    },
+    {
+      "term": "Coherence",
+      "definition": "The logical unity and meaningful progression of ideas throughout a text.",
+      "example": "Each section of an argument develops the central claim and prepares readers for the next section."
+    },
+    {
+      "term": "Cohesion",
+      "definition": "The linguistic and structural connections that help readers follow relationships among ideas.",
+      "example": "Repeated key terms and purposeful transitions connect successive paragraphs."
+    },
+    {
+      "term": "Chronological structure",
+      "definition": "Organization according to the order in which events occur.",
+      "example": "A memoir recounts events from childhood through adulthood."
+    },
+    {
+      "term": "Nonlinear structure",
+      "definition": "Organization that does not follow a straightforward chronological sequence.",
+      "example": "A novel begins with a later event and gradually reveals earlier circumstances."
+    },
+    {
+      "term": "Flashback",
+      "definition": "A narrative shift to events occurring before the current narrative moment.",
+      "example": "A character's memory reveals the origin of a present conflict."
+    },
+    {
+      "term": "Frame narrative",
+      "definition": "An organizational structure in which one narrative contains or introduces another narrative.",
+      "example": "Letters introduce a character's account of earlier events."
+    },
+    {
+      "term": "Parallel structure",
+      "definition": "The arrangement of corresponding grammatical or organizational elements to establish relationships.",
+      "example": "An essay organizes two case studies using matching categories of evidence."
+    },
+    {
+      "term": "Cause and effect",
+      "definition": "An organizational pattern explaining relationships between contributing conditions and consequences.",
+      "example": "An article examines how changes in rainfall affect agricultural production."
+    },
+    {
+      "term": "Comparison and contrast",
+      "definition": "An organizational pattern examining similarities and differences.",
+      "example": "An essay compares how two authors develop related themes through different narrative techniques."
+    },
+    {
+      "term": "Problem and solution",
+      "definition": "An organizational pattern identifying a problem and examining possible responses.",
+      "example": "A proposal explains transportation difficulties and evaluates alternative bus routes."
+    },
+    {
+      "term": "Classification",
+      "definition": "Organization according to categories or shared characteristics.",
+      "example": "A guide organizes renewable energy technologies into several categories."
+    },
+    {
+      "term": "Spatial organization",
+      "definition": "Arrangement according to physical location or spatial relationships.",
+      "example": "A museum guide describes an exhibition from its entrance to its final gallery."
+    },
+    {
+      "term": "Order of importance",
+      "definition": "Arrangement according to the relative significance of ideas or evidence.",
+      "example": "A recommendation begins with the most consequential reason for a proposed change."
+    },
+    {
+      "term": "Inverted pyramid",
+      "definition": "A journalistic structure that presents the most essential information first and adds supporting details afterward.",
+      "example": "A news report begins with the central event before providing background and additional quotations."
+    },
+    {
+      "term": "Claim",
+      "definition": "A position or interpretation that a writer develops and supports.",
+      "example": "An essay argues that a novel's fragmented structure reflects its protagonist's uncertainty."
+    },
+    {
+      "term": "Counterargument",
+      "definition": "An opposing or alternative position that a writer considers.",
+      "example": "A proposal acknowledges concerns about the cost of a recommended policy."
+    },
+    {
+      "term": "Qualification",
+      "definition": "A limitation or condition that makes a claim more precise.",
+      "example": "A writer explains that a proposed solution may work under certain conditions but not universally."
+    },
+    {
+      "term": "Thesis",
+      "definition": "A central claim or controlling interpretation that guides a text.",
+      "example": "A literary essay establishes an interpretation of how setting shapes a character's choices."
+    },
+    {
+      "term": "Controlling idea",
+      "definition": "The principal idea guiding the development of a text or section.",
+      "example": "An explanatory article develops the idea that urban trees provide several interconnected benefits."
+    },
+    {
+      "term": "Topic sentence",
+      "definition": "A sentence establishing or clarifying the central focus of a paragraph.",
+      "example": "A paragraph begins by identifying how a narrator's perspective limits the reader's knowledge."
+    },
+    {
+      "term": "Paragraph unity",
+      "definition": "The relationship of a paragraph's details and development to its central purpose.",
+      "example": "Every sentence in a paragraph contributes to explaining a particular cause of an event."
+    },
+    {
+      "term": "Development",
+      "definition": "The elaboration of ideas through relevant explanation, evidence, details, examples, or reasoning.",
+      "example": "A writer explains how two pieces of evidence support a claim rather than merely listing them."
+    },
+    {
+      "term": "Transition",
+      "definition": "Language or a structural feature that communicates a relationship between ideas or sections.",
+      "example": "A writer introduces a limitation after explaining the benefits of a proposal."
+    },
+    {
+      "term": "Signposting",
+      "definition": "Language or features that guide readers through a text's organization.",
+      "example": "A report announces that the next section evaluates implementation costs."
+    },
+    {
+      "term": "Reference",
+      "definition": "The use of language that points readers to an already established person, idea, object, or statement.",
+      "example": "The phrase this limitation refers to a problem explained in the preceding sentence."
+    },
+    {
+      "term": "Lexical cohesion",
+      "definition": "Connections created through repeated, related, or semantically associated words.",
+      "example": "A paragraph maintains focus through related references to migration, relocation, and movement."
+    },
+    {
+      "term": "Thematic progression",
+      "definition": "The development of ideas as information introduced in one sentence or section becomes the basis for further development.",
+      "example": "A paragraph introduces a scientific discovery, and the next paragraph examines its implications."
+    },
+    {
+      "term": "Introduction",
+      "definition": "An opening section that establishes focus, provides orientation, and engages the audience.",
+      "example": "An analytical essay introduces a central tension in a literary work before establishing its interpretation."
+    },
+    {
+      "term": "Lead",
+      "definition": "The opening of a journalistic or other text designed to orient or engage readers.",
+      "example": "A news article begins by communicating the most important information about an event."
+    },
+    {
+      "term": "Contextualization",
+      "definition": "Providing relevant background that helps readers understand the significance of a topic or claim.",
+      "example": "A writer explains the historical circumstances necessary to understand a political speech."
+    },
+    {
+      "term": "Conclusion",
+      "definition": "A closing section that completes or extends the text's purpose.",
+      "example": "A research essay explains the implications of its findings and identifies a remaining limitation."
+    },
+    {
+      "term": "Synthesis",
+      "definition": "Combining ideas or evidence to develop a connected understanding.",
+      "example": "A conclusion explains how several findings collectively support a broader interpretation."
+    },
+    {
+      "term": "Resolution",
+      "definition": "The development that addresses or concludes a narrative conflict.",
+      "example": "A story ends with a character making a decision that changes an important relationship."
+    },
+    {
+      "term": "Call to action",
+      "definition": "A statement encouraging an audience to take a particular action.",
+      "example": "A community proposal concludes by requesting participation in a public meeting."
+    },
+    {
+      "term": "Reverse outline",
+      "definition": "An outline created from an existing draft to identify the purpose and sequence of its sections.",
+      "example": "A writer summarizes each paragraph's function to locate repetition and missing connections."
+    },
+    {
+      "term": "Visual hierarchy",
+      "definition": "The arrangement of visual elements to communicate relative importance and guide attention.",
+      "example": "A digital report uses headings, spacing, and typography to distinguish major findings from supporting details."
+    },
+    {
+      "term": "Storyboard",
+      "definition": "A visual or sequential plan for organizing a narrative, presentation, video, or multimodal text.",
+      "example": "A student plans the sequence of narration, images, and evidence in a documentary."
+    },
+    {
+      "term": "Mode",
+      "definition": "A means of communicating meaning, such as written language, speech, images, sound, or spatial arrangement.",
+      "example": "An infographic combines written and visual modes."
+    },
+    {
+      "term": "Genre",
+      "definition": "A recognizable category of texts associated with particular purposes and conventions.",
+      "example": "A research report and a personal narrative use different organizational conventions."
+    },
+    {
+      "term": "Rhetorical situation",
+      "definition": "The circumstances surrounding communication, including audience, purpose, context, and speaker or writer.",
+      "example": "A student organizes a recommendation differently for classmates than for a school administrator."
+    }
+  ],
+  "targets": [
+    "I can identify how a text organizes its ideas, information, or events.",
+    "I can explain how organizational choices influence meaning and audience understanding.",
+    "I can evaluate whether a structure effectively serves a particular purpose and audience.",
+    "I can compare different ways of organizing the same content.",
+    "I can select a structure appropriate to my genre, mode, purpose, and audience.",
+    "I can plan and develop a coherent sequence of ideas or events.",
+    "I can create an introduction that establishes focus and engages readers.",
+    "I can develop supporting sections with relevant evidence, explanations, details, or events.",
+    "I can use varied transitions to clarify relationships within and between paragraphs.",
+    "I can create cohesion through reference, repetition, parallelism, and logical progression.",
+    "I can write a conclusion that completes or extends my text's purpose.",
+    "I can use a reverse outline to evaluate and revise my organization.",
+    "I can organize written, oral, digital, and multimodal texts effectively.",
+    "I can explain how my organizational choices improve communication for my intended audience."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic novel",
+      "purpose": "Evaluate frame narration, nested narratives, chronology, and the effects of organizing a story through multiple narrators.",
+      "access": "Public domain in the United States; identify the assigned edition.",
+      "readingTime": "25–35 minutes for selected opening and framing passages",
+      "highInterest": true,
+      "accessibility": "Challenging; appropriate for supported Pre-AP instruction.",
+      "interestHook": "A scientist's account of creating life is embedded within another explorer's narrative.",
+      "teachingPrompt": "How does Shelley's decision to begin with Walton's letters rather than Victor's childhood influence readers' expectations and interpretations?",
+      "alignment": [
+        "10.T.SS.1.a"
+      ]
+    },
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "genre": "Literary novel",
+      "purpose": "Analyze the organization of the novel into major sections and evaluate how the progression from personal and communal life to social disruption shapes meaning.",
+      "access": "Licensed classroom edition.",
+      "readingTime": "20–30 minutes for selected passages from different sections",
+      "highInterest": true,
+      "accessibility": "Moderate to challenging; provide cultural and historical context.",
+      "interestHook": "A community's established relationships and traditions are challenged by profound historical changes.",
+      "teachingPrompt": "How does the extensive development of community life before the novel's later conflicts influence readers' understanding of those conflicts?",
+      "alignment": [
+        "10.T.SS.1.a"
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic poetry",
+      "purpose": "Evaluate nonlinear chronology, embedded storytelling, narrative framing, and the organization of episodes.",
+      "access": "Use a legally available or licensed translation.",
+      "readingTime": "25–35 minutes for selected episodes",
+      "highInterest": true,
+      "accessibility": "Challenging; accessibility varies by translation.",
+      "interestHook": "A hero's long journey home is revealed through episodes, memories, and encounters.",
+      "teachingPrompt": "What does the epic gain by beginning after many of Odysseus's adventures have already occurred?",
+      "alignment": [
+        "10.T.SS.1.a"
+      ]
+    },
+    {
+      "title": "A Raisin in the Sun",
+      "author": "Lorraine Hansberry",
+      "genre": "Drama",
+      "purpose": "Analyze the progression of acts and scenes, development of competing conflicts, and the relationship between dramatic opening and resolution.",
+      "access": "Licensed classroom edition or authorized performance.",
+      "readingTime": "20–30 minutes for selected scenes",
+      "highInterest": true,
+      "accessibility": "Moderate.",
+      "interestHook": "Family members' competing dreams develop toward a consequential collective decision.",
+      "teachingPrompt": "How does the sequence of conflicts prepare the audience for the family's final decision?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Vignette-based novel",
+      "purpose": "Evaluate episodic organization, recurring motifs, thematic progression, and the relationships among opening and closing vignettes.",
+      "access": "Licensed classroom edition.",
+      "readingTime": "15–25 minutes for selected vignettes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "interestHook": "Brief interconnected episodes build a larger portrait of identity, place, and belonging.",
+      "teachingPrompt": "How do recurring images and concerns create coherence across vignettes that do not form a conventional continuous plot?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "A Rose for Emily",
+      "author": "William Faulkner",
+      "genre": "Literary short fiction",
+      "purpose": "Evaluate nonlinear sequencing, delayed revelation, and the relationship between narrative organization and interpretation.",
+      "access": "Use a legally available or licensed edition; verify applicable rights.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Challenging; preview disturbing subject matter.",
+      "interestHook": "A community recounts the mysterious life of a woman whose story is revealed out of chronological order.",
+      "teachingPrompt": "How would a strictly chronological version change the reader's experience of the story's final revelation?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b"
+      ]
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "Literary short fiction",
+      "purpose": "Examine compact narrative organization, the progression of emotional revelations, and the relationship between opening and conclusion.",
+      "access": "Public domain in the United States.",
+      "readingTime": "5–10 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate.",
+      "interestHook": "A brief sequence of events overturns both social expectations and readers' initial assumptions.",
+      "teachingPrompt": "How does the arrangement of information create the story's final irony?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "The Paper Menagerie",
+      "author": "Ken Liu",
+      "genre": "Speculative short fiction",
+      "purpose": "Analyze chronological development, retrospective revelation, recurring motifs, and the relationship between earlier details and the conclusion.",
+      "access": "Authorized publication or licensed anthology.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Moderate.",
+      "interestHook": "A childhood experience acquires new significance when previously inaccessible information becomes available.",
+      "teachingPrompt": "Why does the author delay particular information until late in the story, and how does that choice affect the ending?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O'Brien",
+      "genre": "Interconnected literary fiction",
+      "purpose": "Evaluate episodic organization, repetition, lists, nonlinear narration, and relationships between physical details and emotional significance.",
+      "access": "Licensed classroom edition; preview language, violence, and mature themes.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging.",
+      "interestHook": "The objects carried by soldiers reveal increasingly complex emotional and psychological burdens.",
+      "teachingPrompt": "How does the organization of lists and recurring narrative details create connections among physical objects, memory, and responsibility?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.c"
+      ]
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter and argument",
+      "purpose": "Analyze how the writer organizes responses to criticism, develops claims, addresses counterarguments, and connects sections through purposeful transitions.",
+      "access": "Authorized publication or archival edition.",
+      "readingTime": "25–35 minutes for selected sections",
+      "highInterest": true,
+      "accessibility": "Challenging; provide historical and rhetorical context.",
+      "interestHook": "A writer responds to criticism while developing a broader argument about justice and moral responsibility.",
+      "teachingPrompt": "How does the sequence of responses to criticism strengthen the letter's larger argument?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "The Federalist No. 10",
+      "author": "James Madison",
+      "genre": "Political argument",
+      "purpose": "Evaluate problem-and-solution organization, classification of possible responses, and the progression of abstract reasoning.",
+      "access": "Public domain in the United States.",
+      "readingTime": "20–30 minutes for selected sections",
+      "highInterest": false,
+      "accessibility": "Challenging; provide historical and vocabulary support.",
+      "interestHook": "The essay considers how a political system can manage competing interests.",
+      "teachingPrompt": "How does Madison's examination and rejection of alternative responses prepare readers for his preferred solution?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.c"
+      ]
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical essay",
+      "purpose": "Evaluate how conventional proposal organization and delayed recognition of satire contribute to rhetorical effect.",
+      "access": "Public domain in the United States; preview disturbing satirical subject matter.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Challenging; historical context and explicit discussion of satire are essential.",
+      "interestHook": "An apparently formal policy proposal exposes the cruelty of treating human suffering as an economic calculation.",
+      "teachingPrompt": "How does the organization of the proposal imitate conventional reasoning while exposing the moral failures of its apparent position?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech and personal narrative",
+      "purpose": "Analyze the organization of anecdotes, recurring central ideas, transitions, and movement from personal experience toward a broader conclusion.",
+      "access": "Official TED talk and transcript.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "interestHook": "Personal experiences build toward an argument about the dangers of incomplete narratives.",
+      "teachingPrompt": "How does each anecdote contribute a new dimension to the central idea rather than merely repeat it?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Literary nonfiction and science journalism",
+      "purpose": "Analyze the interweaving of scientific explanation, family history, investigative reporting, and ethical questions.",
+      "access": "Licensed classroom edition.",
+      "readingTime": "25–35 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Moderate to challenging.",
+      "interestHook": "Scientific discoveries and a family's experiences develop through interconnected narrative strands.",
+      "teachingPrompt": "How does alternating between scientific developments and personal experiences shape readers' understanding of the ethical issues?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b",
+        "10.T.SS.1.c"
+      ]
+    },
+    {
+      "title": "The 57 Bus",
+      "author": "Dashka Slater",
+      "genre": "Literary nonfiction",
+      "purpose": "Evaluate short-section organization, multiple perspectives, contextual explanation, and the sequencing of narrative and informational material.",
+      "access": "Licensed classroom edition; preview sensitive subject matter.",
+      "readingTime": "20–30 minutes for selected chapters",
+      "highInterest": true,
+      "accessibility": "Accessible to moderate.",
+      "interestHook": "An incident on a public bus becomes the center of an investigation into identity, justice, and community.",
+      "teachingPrompt": "How does the author organize information about different individuals before and after the central event, and what does that structure accomplish?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b"
+      ]
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "genre": "Environmental nonfiction",
+      "purpose": "Analyze the relationship between narrative opening, scientific explanation, examples, causal reasoning, and public argument.",
+      "access": "Licensed classroom edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging; support scientific and historical context.",
+      "interestHook": "A vivid imagined environmental crisis introduces a larger investigation of human effects on ecosystems.",
+      "teachingPrompt": "Why might Carson begin with an imagined community before presenting scientific information and evidence?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "Selected News Reports and Feature Articles",
+      "author": "Various professional journalists",
+      "genre": "Journalistic nonfiction",
+      "purpose": "Compare inverted-pyramid reporting with narrative feature organization and evaluate different introductions, supporting sections, and conclusions.",
+      "access": "Use reputable publications or licensed academic databases.",
+      "readingTime": "15–25 minutes for paired articles",
+      "highInterest": true,
+      "accessibility": "Variable; select age-appropriate topics.",
+      "interestHook": "Students compare different ways journalists communicate the same event or issue.",
+      "teachingPrompt": "How do the opening, sequence of information, and conclusion differ when a writer aims to report essential facts quickly rather than develop a narrative experience?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "Selected Museum Digital Exhibitions",
+      "author": "Various museum curators and institutions",
+      "genre": "Multimodal informational texts",
+      "purpose": "Evaluate visual hierarchy, navigation, thematic grouping, captions, and relationships among written and visual sections.",
+      "access": "Use official museum websites and accessible exhibition materials.",
+      "readingTime": "15–25 minutes",
+      "highInterest": true,
+      "accessibility": "Variable; provide accessible alternatives when necessary.",
+      "interestHook": "Students explore how curators organize objects, images, stories, and historical information into meaningful experiences.",
+      "teachingPrompt": "How do the exhibition's navigation and visual organization guide visitors toward a coherent understanding of its central subject?",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b",
+        "10.T.SS.1.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Find the Organizational Pattern",
+      "activity": "Students examine short authentic passages organized through chronology, comparison, cause and effect, and problem and solution. They identify relationships among ideas and explain why each pattern suits its content.",
+      "materials": [
+        "Short mentor passages",
+        "Organizational pattern reference",
+        "Relationship organizer"
+      ],
+      "scaffolds": [
+        "Provide visual representations of common structures.",
+        "Model identifying relationships rather than relying only on signal words.",
+        "Begin with clearly organized examples before introducing mixed structures."
+      ],
+      "success": "Students identify organizational relationships and explain how a structure supports comprehension.",
+      "alignment": [
+        "10.T.SS.1.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–30 minutes",
+      "title": "Rebuild the Paragraph",
+      "activity": "Students arrange a set of related sentences into a coherent paragraph. They identify the central idea, supporting details, and logical relationships, then explain their sequence.",
+      "materials": [
+        "Sentence strips",
+        "Paragraph organization organizer"
+      ],
+      "scaffolds": [
+        "Provide an initial example with clearly distinguishable sentence functions.",
+        "Model using reference words and logical relationships as clues.",
+        "Allow more than one defensible sequence when appropriate."
+      ],
+      "success": "Students create a coherent paragraph and justify the relationships among its sentences.",
+      "alignment": [
+        "10.T.SS.1.b",
+        "10.T.SS.1.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Choose the Relationship",
+      "activity": "Students examine pairs of sentences and determine whether their relationship involves addition, contrast, cause, consequence, sequence, or qualification. They select or construct transitions that communicate the relationship accurately.",
+      "materials": [
+        "Sentence pairs",
+        "Transition relationship chart"
+      ],
+      "scaffolds": [
+        "Group transitions according to function.",
+        "Model how changing a transition can change meaning.",
+        "Require students to explain relationships before selecting words."
+      ],
+      "success": "Students use transitions that accurately communicate relationships rather than merely fill spaces.",
+      "alignment": [
+        "10.T.SS.1.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–30 minutes",
+      "title": "Repair the Introduction",
+      "activity": "Students compare several introductions to the same topic, identify which establish focus and provide useful orientation, and revise an ineffective introduction.",
+      "materials": [
+        "Sample introductions",
+        "Audience and purpose cards",
+        "Introduction revision checklist"
+      ],
+      "scaffolds": [
+        "Model identifying the intended audience and purpose.",
+        "Provide examples that do not rely on generic questions or quotations.",
+        "Offer optional sentence frames for establishing context and focus."
+      ],
+      "success": "Students create an introduction that establishes a meaningful focus and prepares the intended audience for the text.",
+      "alignment": [
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "25–30 minutes",
+      "title": "From Evidence to Development",
+      "activity": "Students revise a paragraph that contains a claim and several unexplained facts. They select relevant evidence, arrange it logically, and add explanations showing how it supports the central idea.",
+      "materials": [
+        "Undeveloped sample paragraph",
+        "Evidence and explanation organizer"
+      ],
+      "scaffolds": [
+        "Model the difference between presenting evidence and developing an idea.",
+        "Provide guiding questions about significance and relationships.",
+        "Allow oral rehearsal before written revision."
+      ],
+      "success": "Students produce a coherent supporting paragraph with relevant evidence and meaningful explanation.",
+      "alignment": [
+        "10.T.SS.1.b",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Conclude with Purpose",
+      "activity": "Students compare endings that merely repeat earlier ideas with endings that synthesize, reflect, resolve, or explain implications. They revise a weak conclusion to serve the text's purpose.",
+      "materials": [
+        "Sample conclusions",
+        "Conclusion purpose chart"
+      ],
+      "scaffolds": [
+        "Provide genre-specific examples.",
+        "Model distinguishing synthesis from repetition.",
+        "Encourage conclusions grounded in the text's existing development."
+      ],
+      "success": "Students create a conclusion that contributes meaningfully to the text rather than repeating its introduction.",
+      "alignment": [
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "The Structure Autopsy",
+      "activity": "Students create a reverse outline of a published literary nonfiction or argumentative text. They identify the function of each section, examine the sequence of ideas, and evaluate how the organization serves its intended audience and purpose.",
+      "materials": [
+        "Published mentor text",
+        "Reverse outline organizer",
+        "Audience and purpose analysis prompts"
+      ],
+      "scaffolds": [
+        "Model distinguishing a section's topic from its rhetorical function.",
+        "Require evidence from several sections.",
+        "Encourage evaluation rather than simple identification of structure."
+      ],
+      "success": "Students explain and evaluate how the arrangement of sections contributes to the text's effectiveness.",
+      "alignment": [
+        "10.T.SS.1.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "One Topic, Three Structures",
+      "activity": "Students receive a shared set of information about a school or community issue. They develop three organizational plans using different structures, then select the most effective plan for a specified audience and purpose.",
+      "materials": [
+        "Shared information packet",
+        "Audience and purpose scenarios",
+        "Planning templates"
+      ],
+      "scaffolds": [
+        "Model comparing the advantages and limitations of organizational patterns.",
+        "Require preservation of factual accuracy across plans.",
+        "Avoid requiring identical paragraph counts."
+      ],
+      "success": "Students select and justify an organizational structure that responds to content, audience, and purpose.",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Rearrange the Narrative",
+      "activity": "Students examine a nonlinear narrative such as A Rose for Emily or a selected passage from Frankenstein. They construct a chronological outline and compare it with the author's arrangement, then plan an original narrative using a purposeful structural choice.",
+      "materials": [
+        "Selected literary text",
+        "Chronology organizer",
+        "Narrative planning template"
+      ],
+      "scaffolds": [
+        "Distinguish the order of events from the order in which they are presented.",
+        "Model evaluating effects on suspense, perspective, and interpretation.",
+        "Require students to explain why a nonlinear structure is appropriate rather than assume it is inherently superior."
+      ],
+      "success": "Students evaluate narrative organization and apply a purposeful structural choice in original planning.",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Beyond Furthermore",
+      "activity": "Students examine an essay containing repetitive or misleading transitions. They revise relationships within and between paragraphs using precise transitional language, reference, repetition, and thematic progression.",
+      "materials": [
+        "Sample essay",
+        "Cohesion reference guide",
+        "Revision annotation organizer"
+      ],
+      "scaffolds": [
+        "Model transitions that connect ideas rather than simply announce another paragraph.",
+        "Provide examples of cohesion without explicit transition words.",
+        "Require students to identify the relationship before revising."
+      ],
+      "success": "Students improve cohesion through varied and meaningful connections among ideas and sections.",
+      "alignment": [
+        "10.T.SS.1.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Introductions for Different Audiences",
+      "activity": "Students write three introductions about the same topic for a literary analysis, a public-facing feature article, and a formal recommendation. They compare how each opening establishes focus and engages its intended audience.",
+      "materials": [
+        "Shared topic and information",
+        "Genre-specific mentor introductions",
+        "Audience analysis organizer"
+      ],
+      "scaffolds": [
+        "Model how different genres establish relevance.",
+        "Distinguish meaningful engagement from formulaic hooks.",
+        "Require students to explain their organizational choices."
+      ],
+      "success": "Students construct distinct introductions appropriate to different genres, purposes, and audiences.",
+      "alignment": [
+        "10.T.SS.1.b",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "50–60 minutes",
+      "title": "Build an Argument That Develops",
+      "activity": "Students organize a set of claims, reasons, evidence, counterarguments, and qualifications into a coherent argument. They draft transitions and explain why the sequence supports their intended audience.",
+      "materials": [
+        "Argument evidence packet",
+        "Organizational planning organizer",
+        "Audience profile"
+      ],
+      "scaffolds": [
+        "Model alternative placements of counterarguments.",
+        "Require explanation of relationships among reasons.",
+        "Encourage development beyond a fixed three-reason structure."
+      ],
+      "success": "Students create a logically developed argumentative structure with meaningful transitions and audience-aware organization.",
+      "alignment": [
+        "10.T.SS.1.b",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "The Explanatory Architecture",
+      "activity": "Students organize a complex topic into an explanatory text using categories, processes, causal relationships, or another appropriate structure. They develop headings and transitions that help readers understand how the sections connect.",
+      "materials": [
+        "Credible source set",
+        "Explanatory text mentor",
+        "Planning and drafting organizer"
+      ],
+      "scaffolds": [
+        "Model choosing a structure based on conceptual relationships.",
+        "Provide examples of meaningful headings.",
+        "Require explanation rather than disconnected lists of facts."
+      ],
+      "success": "Students develop a coherent explanatory text whose organization supports understanding of a complex topic.",
+      "alignment": [
+        "10.T.SS.1.b",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45–60 minutes",
+      "title": "Endings That Matter",
+      "activity": "Students examine conclusions from literary, argumentative, and informational texts. They identify how each ending completes or extends its purpose and revise the conclusion of an original composition.",
+      "materials": [
+        "Mentor conclusions from multiple genres",
+        "Student drafts",
+        "Conclusion revision guide"
+      ],
+      "scaffolds": [
+        "Model synthesis, reflection, implication, resolution, and appropriate calls to action.",
+        "Distinguish a meaningful conclusion from a dramatic but unrelated statement.",
+        "Require the revised ending to emerge from the text's development."
+      ],
+      "success": "Students create a purposeful and memorable conclusion appropriate to genre, audience, and content.",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "60–90 minutes",
+      "title": "Reverse Outline and Rebuild",
+      "activity": "Students create reverse outlines of their own drafts, identifying each paragraph's central idea and function. They locate repetition, missing development, misplaced information, and weak connections, then reorganize and revise the complete text.",
+      "materials": [
+        "Student draft",
+        "Reverse outline template",
+        "Revision reflection organizer"
+      ],
+      "scaffolds": [
+        "Model substantial organizational revision.",
+        "Provide peer feedback focused on audience comprehension.",
+        "Require students to explain major changes rather than simply submit a cleaner draft."
+      ],
+      "success": "Students demonstrate improved coherence through meaningful organizational revision.",
+      "alignment": [
+        "10.T.SS.1.b",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "60–90 minutes",
+      "title": "Design the Digital Exhibit",
+      "activity": "Students create a small digital exhibit about a researched topic. They organize written explanations, images, captions, headings, and navigation around a central idea, then conduct a peer usability test.",
+      "materials": [
+        "Credible research sources",
+        "School-approved digital creation tools",
+        "Storyboard template",
+        "Audience testing checklist"
+      ],
+      "scaffolds": [
+        "Model visual hierarchy and meaningful section labels.",
+        "Provide accessible alternatives and captioning guidance.",
+        "Require each section and visual element to contribute to the central purpose."
+      ],
+      "success": "Students organize a coherent multimodal text and revise its structure in response to audience feedback.",
+      "alignment": [
+        "10.T.SS.1.b",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Comparative Literary Architecture",
+      "activity": "Students compare organizational choices in two complex literary works, such as Frankenstein and Things Fall Apart. They develop an analytical argument explaining how structural differences influence readers' understanding of perspective, conflict, or theme.",
+      "materials": [
+        "Selected passages from two literary works",
+        "Comparative structure matrix",
+        "Analytical writing rubric"
+      ],
+      "scaffolds": [
+        "Require analysis of structural effects rather than plot summary.",
+        "Provide historical or genre context when necessary.",
+        "Encourage students to consider alternative organizational choices."
+      ],
+      "success": "Students develop a sophisticated comparative interpretation connecting literary structure to meaning and audience experience.",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75–90 minutes",
+      "title": "The Braided Essay",
+      "activity": "Students compose an essay that interweaves personal observation, researched information, and reflection around a central question. They use recurring ideas and purposeful transitions to create coherence among the strands.",
+      "materials": [
+        "Selected literary nonfiction mentor texts",
+        "Credible research sources",
+        "Braided essay planning organizer"
+      ],
+      "scaffolds": [
+        "Model how recurring motifs and conceptual relationships connect narrative strands.",
+        "Allow fictional or observational alternatives to personal disclosure.",
+        "Require each strand to contribute meaningfully to the central question."
+      ],
+      "success": "Students create a coherent essay using a complex organizational structure and explain how the strands develop a unified purpose.",
+      "alignment": [
+        "10.T.SS.1.b",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75–90 minutes",
+      "title": "The Editorial Architecture Challenge",
+      "activity": "Students examine two arguments addressing a similar issue through different organizational approaches. They evaluate the placement of evidence, counterarguments, qualifications, and conclusions, then redesign one argument for a different audience.",
+      "materials": [
+        "Paired argumentative texts",
+        "Audience profiles",
+        "Comparative argument organizer"
+      ],
+      "scaffolds": [
+        "Require accurate representation of each author's reasoning.",
+        "Distinguish organizational effectiveness from agreement with the author's position.",
+        "Encourage nuanced evaluation of alternative structures."
+      ],
+      "success": "Students evaluate complex argumentative structures and create a justified organizational adaptation.",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "90–120 minutes",
+      "title": "The Structural Transformation Portfolio",
+      "activity": "Students communicate the same researched central concern through a literary narrative, an explanatory article, and a persuasive or multimodal text. They provide a commentary explaining how each structure responds to mode, genre, purpose, and audience.",
+      "materials": [
+        "Credible research source set",
+        "Genre-specific mentor texts",
+        "Portfolio planning and assessment rubric"
+      ],
+      "scaffolds": [
+        "Require substantive organizational differences rather than superficial formatting changes.",
+        "Use conferences to evaluate coherence within each composition.",
+        "Require students to explain how introductions, supporting sections, transitions, and conclusions serve distinct purposes."
+      ],
+      "success": "Students demonstrate independent transfer of organizational knowledge across genres and evaluate the effectiveness of their structural decisions.",
+      "alignment": [
+        "10.T.SS.1.a",
+        "10.T.SS.1.b",
+        "10.T.SS.1.c",
+        "10.T.SS.1.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement best explains why a writer should select an organizational structure?",
+      "options": [
+        "To ensure every text contains the same number of paragraphs.",
+        "To arrange ideas in a way that serves the text's content, audience, and purpose.",
+        "To include as many headings as possible.",
+        "To avoid developing relationships among ideas."
+      ],
+      "answer": "To arrange ideas in a way that serves the text's content, audience, and purpose.",
+      "rationale": "Effective organization responds to communicative needs rather than a universal formula."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "An article introduces a community's flooding problem, examines contributing conditions, and evaluates several possible responses. Which description best identifies its organization?",
+      "options": [
+        "A strictly chronological narrative.",
+        "A combination of cause-and-effect and problem-and-solution structures.",
+        "An alphabetical classification.",
+        "A sequence of unrelated descriptions."
+      ],
+      "answer": "A combination of cause-and-effect and problem-and-solution structures.",
+      "rationale": "The article explains causes and then evaluates responses to the identified problem."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A novel begins with a character's trial and later reveals the events leading to it. What is a likely effect of this organizational choice?",
+      "options": [
+        "It prevents readers from developing any understanding of the conflict.",
+        "It creates questions about earlier events and influences how readers interpret later revelations.",
+        "It guarantees that every reader will interpret the novel identically.",
+        "It removes the need for character development."
+      ],
+      "answer": "It creates questions about earlier events and influences how readers interpret later revelations.",
+      "rationale": "Nonlinear organization can shape suspense, expectation, and interpretation."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A journalist needs to communicate essential information about an unexpected school closure quickly. Which structure is most appropriate?",
+      "options": [
+        "Begin with several pages of historical background.",
+        "Present the essential facts first, followed by explanations and additional details.",
+        "Delay the central information until the final paragraph.",
+        "Organize the report according to unrelated personal memories."
+      ],
+      "answer": "Present the essential facts first, followed by explanations and additional details.",
+      "rationale": "An inverted-pyramid structure supports an audience seeking immediate essential information."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which organizational approach is most appropriate for explaining how a complex scientific process occurs?",
+      "options": [
+        "Arrange the steps or stages in a logical sequence and explain their relationships.",
+        "Organize every detail alphabetically.",
+        "Present the conclusion before identifying the process and omit its stages.",
+        "List facts without showing how they connect."
+      ],
+      "answer": "Arrange the steps or stages in a logical sequence and explain their relationships.",
+      "rationale": "A process structure helps readers understand sequence and causal relationships."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement best distinguishes coherence from cohesion?",
+      "options": [
+        "Coherence concerns logical unity, while cohesion concerns connections that help readers follow relationships.",
+        "Coherence refers only to spelling, while cohesion refers only to punctuation.",
+        "Coherence requires five paragraphs, while cohesion requires three.",
+        "Coherence and cohesion both refer exclusively to transition words."
+      ],
+      "answer": "Coherence concerns logical unity, while cohesion concerns connections that help readers follow relationships.",
+      "rationale": "Coherence concerns meaningful organization, while cohesion concerns the devices and relationships that connect ideas."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which transition best communicates the relationship in these sentences? The proposed program would expand access to tutoring. Its implementation would require additional staffing.",
+      "options": [
+        "For example,",
+        "Similarly,",
+        "However,",
+        "Therefore,"
+      ],
+      "answer": "However,",
+      "rationale": "The second sentence introduces a limitation or complication contrasting with the benefit described first."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision most effectively creates cohesion between two paragraphs when the first explains a problem and the second evaluates possible solutions?",
+      "options": [
+        "Begin the second paragraph with an unrelated quotation.",
+        "Repeat the first paragraph without changes.",
+        "Introduce the proposed solutions by referring directly to the problem and its identified causes.",
+        "Insert furthermore regardless of the relationship between the paragraphs."
+      ],
+      "answer": "Introduce the proposed solutions by referring directly to the problem and its identified causes.",
+      "rationale": "The revision connects the new section to the preceding discussion and clarifies the logical progression."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A paragraph begins by discussing the benefits of public transportation but ends with unrelated information about a local sports team. Which organizational problem is most evident?",
+      "options": [
+        "Lack of paragraph unity.",
+        "Excessive chronological detail.",
+        "Use of a frame narrative.",
+        "Appropriate thematic progression."
+      ],
+      "answer": "Lack of paragraph unity.",
+      "rationale": "The unrelated information does not contribute to the paragraph's central purpose."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which introduction would most effectively begin an analytical essay about a novel's treatment of isolation?",
+      "options": [
+        "Have you ever read a book?",
+        "This essay will have three body paragraphs.",
+        "An introduction that establishes a significant tension in the novel and develops a defensible interpretation of isolation.",
+        "An unrelated quotation about the importance of education."
+      ],
+      "answer": "An introduction that establishes a significant tension in the novel and develops a defensible interpretation of isolation.",
+      "rationale": "The introduction establishes focus and engages readers through a meaningful interpretive problem."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which approach best develops a supporting paragraph in a literary analysis?",
+      "options": [
+        "List several quotations without explaining them.",
+        "Repeat the thesis using different adjectives.",
+        "Present a relevant claim, integrate precise evidence, and explain how the evidence develops the interpretation.",
+        "Summarize the entire plot regardless of the paragraph's focus."
+      ],
+      "answer": "Present a relevant claim, integrate precise evidence, and explain how the evidence develops the interpretation.",
+      "rationale": "Effective development connects evidence and reasoning to the paragraph's purpose."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which conclusion most effectively completes a research-based explanatory text?",
+      "options": [
+        "A conclusion that introduces an unrelated controversy.",
+        "A conclusion that synthesizes the findings and explains their significance or limitations.",
+        "A conclusion that copies the introduction word for word.",
+        "A conclusion that makes a dramatic claim unsupported by the research."
+      ],
+      "answer": "A conclusion that synthesizes the findings and explains their significance or limitations.",
+      "rationale": "An effective explanatory conclusion develops a connected understanding and clarifies implications."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "What is the primary purpose of a reverse outline?",
+      "options": [
+        "To list unfamiliar vocabulary in alphabetical order.",
+        "To identify the functions and sequence of existing sections in order to evaluate organization.",
+        "To replace every transition with a longer phrase.",
+        "To count the sentences in a draft without examining meaning."
+      ],
+      "answer": "To identify the functions and sequence of existing sections in order to evaluate organization.",
+      "rationale": "Reverse outlining helps writers diagnose and revise structural problems in existing drafts."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A writer discovers that two paragraphs repeat the same supporting idea while an important counterargument is missing. Which revision would most improve coherence?",
+      "options": [
+        "Add more transition words to both repetitive paragraphs.",
+        "Combine or revise the repetitive material and develop the missing counterargument in a logical location.",
+        "Increase the font size of the repeated paragraphs.",
+        "Remove the introduction without examining the rest of the text."
+      ],
+      "answer": "Combine or revise the repetitive material and develop the missing counterargument in a logical location.",
+      "rationale": "The revision addresses the underlying development and arrangement of ideas."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which feature most directly supports the organization of a digital exhibition?",
+      "options": [
+        "Randomly changing typefaces throughout the exhibition.",
+        "Navigation and section headings that guide visitors through related ideas.",
+        "Including as many images as possible regardless of relevance.",
+        "Placing all information on one screen without distinctions among sections."
+      ],
+      "answer": "Navigation and section headings that guide visitors through related ideas.",
+      "rationale": "Meaningful navigation and visual hierarchy support coherence and audience comprehension."
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "An argument acknowledges a reasonable objection before presenting evidence supporting its central claim. What should determine whether this placement is effective?",
+      "options": [
+        "Whether all arguments must begin with counterarguments.",
+        "Whether the arrangement addresses audience concerns and supports the progression of reasoning.",
+        "Whether the counterargument contains the longest paragraph.",
+        "Whether the writer uses a predetermined essay formula."
+      ],
+      "answer": "Whether the arrangement addresses audience concerns and supports the progression of reasoning.",
+      "rationale": "The effectiveness of counterargument placement depends on rhetorical purpose and logical development."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how two texts addressing the same topic might use different organizational structures because they serve different audiences.",
+      "answer": "A successful response identifies two distinct audiences or purposes and explains how organizational differences support their needs. For example, a public news report may prioritize essential findings, while a research report may organize information around methods, results, and interpretation.",
+      "rationale": "Students must connect structural choices to audience and purpose."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain why adding transition words does not necessarily make an incoherent essay coherent.",
+      "answer": "Transitions can clarify existing relationships, but they cannot create logical development when ideas are unrelated, repetitive, or insufficiently developed. Writers may need to reorganize or revise the content itself.",
+      "rationale": "Students should distinguish surface cohesion from meaningful organization."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a nonlinear narrative structure can influence a reader's interpretation of a character.",
+      "answer": "A nonlinear structure can delay important information, reveal earlier experiences after later events, or create contrasts among different moments. These choices may change readers' understanding of motivation, responsibility, or development.",
+      "rationale": "The response connects structural choices to literary meaning."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe how a writer can create cohesion without using an explicit transition word at the beginning of every paragraph.",
+      "answer": "A writer can use repeated key terms, clear references, parallel structures, thematic progression, and opening sentences that connect new ideas to preceding material.",
+      "rationale": "Cohesion involves a range of linguistic and structural devices."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain why an effective introduction to a news report may differ from an effective introduction to a personal narrative.",
+      "answer": "A news report may prioritize essential facts and immediate orientation, while a personal narrative may establish a scene, voice, conflict, or significant experience. Each opening responds to different audience expectations and purposes.",
+      "rationale": "Introductions should be evaluated according to genre and communicative purpose."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain the difference between a conclusion that repeats information and a conclusion that synthesizes information.",
+      "answer": "A repetitive conclusion restates earlier material without developing its significance. A synthesizing conclusion connects earlier ideas to establish a larger understanding, implication, or resolution.",
+      "rationale": "Effective conclusions contribute to the text's overall meaning."
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a reverse outline can reveal organizational problems that sentence-level editing might not identify.",
+      "answer": "A reverse outline identifies the central function of each section and shows relationships across the complete text. It can reveal repetition, misplaced evidence, missing development, and illogical progression that sentence-level editing may overlook.",
+      "rationale": "Organizational revision operates at a broader level than mechanical editing."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Analyze the organization of a selected literary or informational text. Explain how the sequence of at least three sections contributes to the text's meaning, purpose, or audience experience, and evaluate the effectiveness of that sequence.",
+      "answer": "A successful response identifies the functions of at least three sections, explains their relationships, supports the analysis with precise textual evidence, and evaluates how the arrangement serves meaning, purpose, or audience.",
+      "rationale": "The task assesses analysis and evaluation of organizational effectiveness."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Develop two organizational plans for communicating the same researched topic to different audiences. Explain how each plan uses appropriate structures, supporting sections, transitions, and conclusions.",
+      "answer": "A successful response presents two coherent and meaningfully different plans, identifies their audiences and purposes, and justifies the organizational choices in relation to those communicative needs.",
+      "rationale": "The task measures purposeful selection and adaptation of organizational structures."
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Revise an existing draft that contains weak transitions, repetitive supporting paragraphs, and an underdeveloped conclusion. Explain how your revisions improve both coherence and cohesion.",
+      "answer": "A successful response demonstrates substantial organizational revision, meaningful connections among sections, developed supporting ideas, and a purposeful conclusion. The explanation distinguishes improvements to logical development from improvements to linguistic connections.",
+      "rationale": "The task assesses authentic application of organizational knowledge."
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a complete literary, informational, argumentative, or multimodal text for a clearly identified audience and purpose. Select an appropriate organizational structure, develop an engaging and focused introduction, organize and elaborate supporting material, use meaningful transitions, and create a purposeful conclusion. Submit an organizational plan, final composition, and reflection explaining your structural decisions.",
+      "answer": "Evaluate appropriateness of structure, coherence of development, cohesion within and between sections, effectiveness of introduction and conclusion, relevance and development of supporting material, and the quality of the student's explanation of organizational choices.",
+      "rationale": "The task integrates all four expectations through authentic composition and reflection."
+    }
+  ],
+  "evidence": [
+    "Analyses identifying and evaluating organizational choices in complex mentor texts.",
+    "Comparative evaluations of different structures used to communicate similar content.",
+    "Organizational plans that respond to specific modes, genres, audiences, and purposes.",
+    "Outlines, storyboards, or diagrams demonstrating logical progression.",
+    "Original compositions using structures appropriate to communicative goals.",
+    "Introductions establishing focus, orientation, and audience engagement.",
+    "Supporting paragraphs and sections demonstrating purposeful development.",
+    "Transitions accurately communicating relationships within and between sections.",
+    "Evidence of cohesion through reference, repetition, parallelism, and thematic progression.",
+    "Conclusions that synthesize, resolve, reflect, qualify, or extend the text's purpose.",
+    "Reverse outlines identifying organizational strengths and problems.",
+    "Before-and-after drafts demonstrating meaningful structural revision.",
+    "Multimodal compositions with coherent navigation and visual hierarchy.",
+    "Audience feedback demonstrating whether organizational choices support comprehension.",
+    "Reflections explaining and evaluating organizational decisions.",
+    "Independent transfer of organizational knowledge across multiple genres."
+  ],
+  "instruction": [
+    "Teach organization as a rhetorical and meaning-making choice rather than a universal formula.",
+    "Use mentor texts from literary, informational, argumentative, technical, and multimodal genres.",
+    "Model identifying the function of a section rather than merely naming its topic.",
+    "Compare multiple organizational structures used to communicate similar content.",
+    "Teach students to evaluate structural effectiveness according to audience, purpose, and content.",
+    "Examine complex texts that combine organizational patterns.",
+    "Distinguish chronological event order from narrative presentation order.",
+    "Teach planning strategies such as outlines, concept maps, storyboards, and flexible section plans.",
+    "Model selecting structures based on the relationships among ideas.",
+    "Teach introductions through genre-specific mentor texts rather than a mandatory hook formula.",
+    "Require supporting sections to develop ideas through relevant evidence, explanation, description, or narrative detail.",
+    "Teach transitions according to logical relationships rather than memorized lists.",
+    "Model cohesion through reference, repeated key terms, parallelism, and thematic progression.",
+    "Distinguish paragraph unity from whole-text coherence.",
+    "Teach conclusions as opportunities for synthesis, reflection, resolution, implication, qualification, or appropriate action.",
+    "Use reverse outlining to evaluate existing drafts and identify structural problems.",
+    "Model substantial revision that moves, combines, divides, expands, or removes sections.",
+    "Use peer feedback focused on whether readers can follow the development of ideas.",
+    "Teach organizational choices in oral, digital, visual, and multimodal texts.",
+    "Include visual hierarchy, navigation, headings, captions, and relationships among modes when evaluating digital texts.",
+    "Encourage students to justify structural decisions rather than reproduce a predetermined essay template.",
+    "Assess complete texts for coherence and purpose rather than counting paragraphs or transition words."
+  ],
+  "watchFor": [
+    "Treating the five-paragraph essay as the only acceptable organizational structure.",
+    "Identifying a structure without explaining its effect on meaning or audience.",
+    "Assuming one organizational pattern is inherently superior to another.",
+    "Students selecting structures without considering purpose, genre, mode, or audience.",
+    "Confusing chronological event order with the order of narrative presentation.",
+    "Assuming complex texts must use only one organizational pattern.",
+    "Introductions that rely on unrelated quotations, generic questions, or unsupported dramatic claims.",
+    "Introductions that provide extensive background without establishing focus.",
+    "Paragraphs containing several unrelated central ideas.",
+    "Supporting sections that list facts or quotations without development.",
+    "Repetition of the same supporting idea across multiple paragraphs.",
+    "Transitions selected without examining the actual relationship between ideas.",
+    "Excessive reliance on furthermore, moreover, and in conclusion.",
+    "Transitions that conceal rather than resolve organizational problems.",
+    "Confusing cohesion with coherence.",
+    "Conclusions that merely repeat the introduction.",
+    "Conclusions introducing major unsupported claims.",
+    "Assessing organization according to paragraph count rather than meaningful development.",
+    "Treating revision as sentence-level editing only.",
+    "Digital texts with decorative features that do not support navigation or understanding.",
+    "Multimodal projects containing disconnected written and visual elements.",
+    "Evaluating organizational effectiveness according to agreement with the author's position rather than the structure's communicative function."
+  ],
+  "skills": {
+    "10.T.SS.1.a": {
+      "focus": "Analyze and evaluate organizational effectiveness",
+      "studentFriendly": "I can explain how a writer organizes a text and evaluate whether that structure helps achieve its purpose and meet the needs of its audience.",
+      "know": [
+        "Texts may use chronological, causal, comparative, problem-and-solution, thematic, argumentative, and other organizational patterns.",
+        "Complex texts may combine structures or deliberately disrupt expected patterns.",
+        "Audience, purpose, genre, and mode influence organizational effectiveness.",
+        "Structural features can guide attention, establish emphasis, and shape interpretation."
+      ],
+      "understand": [
+        "Organization influences how readers encounter and interpret information.",
+        "The effectiveness of a structure depends on the text's communicative situation.",
+        "Structural evaluation requires explanation of effects rather than identification alone.",
+        "Alternative arrangements may produce different meanings or audience experiences."
+      ],
+      "do": [
+        "Identify organizational patterns and significant structural features.",
+        "Analyze the function and relationships of sections.",
+        "Explain how organizational choices influence meaning and audience understanding.",
+        "Evaluate the suitability of a structure for its intended purpose.",
+        "Compare alternative structures and their potential effects.",
+        "Support evaluations with precise textual evidence."
+      ],
+      "targets": [
+        "I can identify and explain a text's organizational structure.",
+        "I can evaluate how the structure serves its audience and purpose.",
+        "I can explain how a different arrangement might change meaning or audience experience."
+      ],
+      "instruction": [
+        "Use reverse outlines of published mentor texts.",
+        "Compare texts addressing similar content through different structures.",
+        "Examine nonlinear literary narratives and complex argumentative structures.",
+        "Require students to connect structural choices to specific effects and audience needs."
+      ],
+      "evidence": [
+        "An analysis explaining the functions and relationships of text sections.",
+        "An evaluation of organizational effectiveness supported by textual evidence.",
+        "A comparison of alternative structural choices.",
+        "An explanation of how organizational changes might affect interpretation."
+      ],
+      "watchFor": [
+        "Naming a structure without evaluating its effectiveness.",
+        "Assuming one structure is universally best.",
+        "Evaluating organization according to personal preference alone.",
+        "Confusing agreement with an author's claim with evaluation of the text's structure."
+      ]
+    },
+    "10.T.SS.1.b": {
+      "focus": "Craft texts using appropriate structures and features",
+      "studentFriendly": "I can choose and use an organizational structure and text features that fit my genre, mode, purpose, and audience.",
+      "know": [
+        "Different genres and modes have different organizational conventions.",
+        "Organizational patterns should reflect relationships among ideas or events.",
+        "Planning tools include outlines, storyboards, concept maps, and section plans.",
+        "Text features such as headings, captions, and navigation can support organization."
+      ],
+      "understand": [
+        "Effective writers select structures intentionally rather than rely on a single formula.",
+        "Organization should respond to the needs of the audience and the demands of the content.",
+        "A coherent structure may combine multiple patterns.",
+        "Organizational choices may need revision as a text develops."
+      ],
+      "do": [
+        "Identify the mode, genre, purpose, and audience of a composition.",
+        "Select an appropriate organizational structure.",
+        "Plan meaningful relationships among sections, ideas, or events.",
+        "Use structural and textual features to support communication.",
+        "Adapt organization for different genres and modes.",
+        "Revise structural choices when they do not support the intended purpose."
+      ],
+      "targets": [
+        "I can select a structure appropriate to my writing situation.",
+        "I can organize ideas or events into a meaningful sequence.",
+        "I can use features that help my audience navigate and understand the text."
+      ],
+      "instruction": [
+        "Compare multiple organizational plans for the same content.",
+        "Model selecting structures according to relationships among ideas.",
+        "Use mentor texts to examine genre-specific conventions.",
+        "Provide opportunities to organize written, oral, and multimodal compositions.",
+        "Use audience feedback to evaluate structural choices."
+      ],
+      "evidence": [
+        "An organizational plan justified by audience and purpose.",
+        "A coherent original composition using an appropriate structure.",
+        "A multimodal text with meaningful structural features.",
+        "A reflection explaining revisions to organization."
+      ],
+      "watchFor": [
+        "Using identical structures for all writing tasks.",
+        "Selecting a structure without considering audience or purpose.",
+        "Adding headings or visual features without meaningful relationships.",
+        "Treating an initial outline as unchangeable."
+      ]
+    },
+    "10.T.SS.1.c": {
+      "focus": "Use varied transitions and cohesive connections",
+      "studentFriendly": "I can use transitions and other language choices to show how ideas connect within paragraphs and across the sections of a complete text.",
+      "know": [
+        "Transitions communicate relationships such as addition, contrast, cause, consequence, sequence, qualification, and comparison.",
+        "Cohesion can be created through reference, repetition, parallelism, and thematic progression.",
+        "Connections between paragraphs and sections are essential to whole-text cohesion.",
+        "Transitions must accurately represent the relationships among ideas."
+      ],
+      "understand": [
+        "Effective transitions guide readers through meaningful relationships.",
+        "Variety involves choosing appropriate connections rather than replacing words mechanically.",
+        "Cohesion supports but cannot substitute for logical organization.",
+        "A text may be cohesive without beginning every paragraph with an explicit transitional phrase."
+      ],
+      "do": [
+        "Identify logical relationships among ideas and sections.",
+        "Select transitions appropriate to those relationships.",
+        "Create meaningful connections within and between paragraphs.",
+        "Use reference, repetition, parallelism, and thematic progression to strengthen cohesion.",
+        "Revise repetitive, misleading, or unnecessary transitions.",
+        "Evaluate whether readers can follow the development of ideas throughout a complete text."
+      ],
+      "targets": [
+        "I can identify the relationship between two ideas.",
+        "I can use varied transitions that communicate relationships accurately.",
+        "I can revise connections between paragraphs and sections to improve cohesion."
+      ],
+      "instruction": [
+        "Teach transitions according to their communicative functions.",
+        "Compare passages with accurate and misleading transitions.",
+        "Model connecting paragraphs through thematic progression and reference.",
+        "Use authentic student drafts to revise whole-text cohesion.",
+        "Require students to explain the relationship communicated by a transition."
+      ],
+      "evidence": [
+        "Revised paragraphs containing accurate and varied cohesive connections.",
+        "Transitions connecting major sections of a complete text.",
+        "An annotated draft explaining relationships among ideas.",
+        "Audience feedback demonstrating improved readability and cohesion."
+      ],
+      "watchFor": [
+        "Memorizing transition lists without understanding relationships.",
+        "Beginning every paragraph with the same transitional phrase.",
+        "Using contrast or causal transitions when the relationship is inaccurate.",
+        "Adding transitions to unrelated ideas instead of revising organization.",
+        "Assessing cohesion solely by counting transition words."
+      ]
+    },
+    "10.T.SS.1.d": {
+      "focus": "Develop coherent complete texts with effective introductions, supporting sections, and conclusions",
+      "studentFriendly": "I can create a complete text with an engaging and focused introduction, logically organized and developed supporting ideas, and a conclusion that meaningfully completes my purpose.",
+      "know": [
+        "Introductions establish focus, orient readers, and create audience engagement.",
+        "Supporting sections develop ideas through relevant facts, reasons, explanations, descriptions, details, or events.",
+        "Conclusions may synthesize, resolve, reflect, qualify, extend, or invite action.",
+        "The functions of introductions and conclusions vary across genres.",
+        "Whole-text coherence depends on meaningful development and relationships among sections."
+      ],
+      "understand": [
+        "Effective introductions establish a reason for readers to engage with the text.",
+        "Supporting material must develop rather than merely repeat central ideas.",
+        "A conclusion should emerge from the text's development and contribute to its purpose.",
+        "Coherence requires attention to the complete text rather than isolated paragraphs.",
+        "Memorable writing depends on meaningful development rather than formulaic dramatic techniques."
+      ],
+      "do": [
+        "Create introductions appropriate to genre, audience, and purpose.",
+        "Establish a clear focus or controlling idea.",
+        "Organize supporting ideas and events into a meaningful progression.",
+        "Develop supporting sections using relevant evidence, reasoning, explanation, description, or narrative detail.",
+        "Create cohesive relationships across the complete text.",
+        "Develop conclusions that complete or extend the text's purpose.",
+        "Evaluate and revise the organization and development of complete compositions."
+      ],
+      "targets": [
+        "I can write an introduction that establishes focus and engages my audience.",
+        "I can organize and develop supporting material logically.",
+        "I can create a conclusion that contributes meaningfully to my text.",
+        "I can revise a complete composition to improve coherence and cohesion."
+      ],
+      "instruction": [
+        "Analyze introductions and conclusions from multiple genres.",
+        "Model developing supporting ideas through explanation and reasoning.",
+        "Use mentor texts to examine progression across complete compositions.",
+        "Teach reverse outlining as a tool for identifying repetition, gaps, and misplaced material.",
+        "Provide peer and teacher feedback focused on whole-text coherence.",
+        "Require students to explain how introductions, supporting sections, and conclusions work together."
+      ],
+      "evidence": [
+        "A focused introduction appropriate to the intended audience.",
+        "Developed supporting sections with relevant and logically arranged material.",
+        "A conclusion that synthesizes, resolves, reflects, or otherwise completes the purpose.",
+        "A coherent complete composition.",
+        "Before-and-after drafts demonstrating substantial organizational revision.",
+        "A reflection evaluating how the text's sections work together."
+      ],
+      "watchFor": [
+        "Generic hooks unrelated to the central purpose.",
+        "Introductions that fail to establish a meaningful focus.",
+        "Supporting paragraphs that list evidence without explanation.",
+        "Repetitive sections that do not advance the text.",
+        "Conclusions that merely restate the thesis.",
+        "Conclusions containing major unsupported claims.",
+        "Evaluating complete texts according to paragraph count rather than coherence."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are independently developed instructional recommendations rather than state-prescribed texts. Several complex literary works are included for Pre-AP preparation and literary analysis; their inclusion does not imply a required College Board reading list. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Verify editions, translation rights, permissions, availability, age suitability, and local instructional materials requirements. Organizational structures should be taught as flexible rhetorical choices rather than mandatory essay formulas."
+}
+
   ]
 }
 
