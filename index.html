@@ -44,19 +44,26 @@ function guide(x,unpack,related){
  return h;
 }
 function openItem(id){const x=standards.find(v=>v.id===id);if(!x)return;const related=standards.filter(v=>v.code.startsWith(x.code+'.')&&v.grade.some(g=>x.grade.includes(g)));const parent=parents(x.code).map(c=>unpackings[c]).find(Boolean);const unpack=unpackings[x.code]||parent;$('detailcontent').innerHTML=guide(x,unpack,related);$('detail').classList.remove('hidden');$('detail').scrollIntoView({behavior:'smooth',block:'start'});const g=(unpack?.skills&&unpack.skills[x.code])||unpack;const acts=g?.differentiation||unpack?.differentiation||[];document.querySelectorAll('[data-copy-activity]').forEach(btn=>btn.addEventListener('click',async()=>{const a=acts[Number(btn.dataset.copyActivity)];if(!a)return;const copy=`${a.level}: ${a.title}\nTime: ${a.time}\nActivity: ${a.activity}\nScaffolds: ${a.scaffolds}\nSuccess check: ${a.success}`;try{await navigator.clipboard.writeText(copy);btn.textContent='Copied!'}catch(e){btn.textContent='Clipboard unavailable';}setTimeout(()=>{btn.textContent='Copy activity'},2000)}))}
-async function load(){try{const r=await fetch('./standards.json');if(!r.ok)throw Error('standards.json returned HTTP '+r.status);const d=await r.json();standards=d.standards||[];if(!standards.length)throw Error('standards.json contains no records');$('status').textContent=`Official data loaded · ${standards.length.toLocaleString()} records · Source updated ${d.source?.lastChangeDateTime?.slice(0,10)||'date unavailable'}`;try{
-  const u=await fetch('./unpackings.json?v=20261111-2',{cache:'no-store'});
-  if(!u.ok)throw Error('unpackings.json returned HTTP '+u.status);
-  const j=await u.json();
-  const entries=j.unpackings;
-  if(!entries || (Array.isArray(entries)&&!entries.length))throw Error('No unpacking cards found in JSON');
-  unpackings=Array.isArray(entries)?Object.fromEntries(entries.filter(x=>x&&typeof x.code==='string').map(x=>[x.code.trim(),x])):entries;
-  const n=Object.keys(unpackings).length;
-  if(!n)throw Error('No valid standard codes found in unpacking cards');
-  $('status').textContent+=` · ${n} instructional cards loaded`;
-  if(!unpackings['9.L.GC.1'])$('status').textContent+=' · WARNING: 9.L.GC.1 missing from loaded file';
-}catch(e){console.error('Instructional guides failed to load:',e);$('status').textContent+=' · ERROR loading instructional cards: '+e.message;}
-render()}catch(e){$('status').textContent='Could not load the standards database: '+e.message+'. Confirm standards.json is in the same repository folder as index.html.';$('count').textContent=''}}
+
+const gradeFiles = [
+  {
+    grade: 9,
+    file: './unpackings-grade9.json'
+  },
+  {
+    grade: 10,
+    file: './unpackings-grade10.json'
+  },
+  {
+    grade: 11,
+    file: './unpackings-grade11.json'
+  },
+  {
+    grade: 12,
+    file: './unpackings-grade12.json'
+  }
+];
+
 function submitSearch(){limit=30;render();$('explore').scrollIntoView({behavior:'smooth',block:'start'})}
 $('find').addEventListener('click',submitSearch);$('query').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();submitSearch()}});
 ['query','grade','domain','type'].forEach(id=>$(id).addEventListener('input',()=>{limit=30;render()}));$('more').onclick=()=>{limit+=30;render()};load();
