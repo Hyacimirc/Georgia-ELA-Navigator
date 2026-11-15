@@ -15,7 +15,85 @@
 <script>
 let standards=[],unpackings={};let limit=30;const $=id=>document.getElementById(id);const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const plain=s=>String(s||'').replace(/[*_`]/g,'');
 function parents(code){let parts=code.split('.'),a=[];while(parts.length>2){parts.pop();a.push(parts.join('.'))}return a}
-function render(){const q=$('query').value.trim().toLowerCase(),g=$('grade').value,d=$('domain').value,t=$('type').value;const found=standards.filter(x=>(!g||x.grade.includes(g))&&(!d||x.domain===d)&&(!t||x.type===t)&&(!q||[x.code,x.text,x.notes].join(' ').toLowerCase().includes(q)));$('count').textContent=`${found.length.toLocaleString()} matching records · ${standards.length.toLocaleString()} high-school framework records available`;const label=q?` for “${$('query').value.trim()}”`:'';$('searchFeedback').textContent=found.length?`${found.length.toLocaleString()} ${found.length===1?'result':'results'}${label}. Select View details to open a standard.`:`No results${label}. Try a different keyword or change your filters.`;let html=found.slice(0,limit).map(x=>`<article class="card item"><span class="tag">${esc(x.domain)}</span><span class="tag">${esc(x.type)}</span><span class="subtle">Grade ${esc(x.grade.join('–'))}</span><h3><span class="code">${esc(x.code)}</span></h3><p>${esc(plain(x.text))}</p><div class="actions"><button data-open="${esc(x.id)}">View details</button><a href="${esc(x.url)}" target="_blank" rel="noopener">Official source</a></div></article>`).join('');$('results').innerHTML=html||'<p>No matches. Try another keyword or filter.</p>';$('more').classList.toggle('hidden',found.length<=limit);$('more').textContent=`Show more (${Math.min(found.length-limit,30)} next)`;document.querySelectorAll('[data-open]').forEach(b=>b.addEventListener('click',()=>openItem(b.dataset.open)))}
+
+function render() {
+  const q = $('query').value.trim().toLowerCase();
+  const g = $('grade').value;
+  const d = $('domain').value;
+  const t = $('type').value;
+
+  const found = standards.filter(x =>
+    (!g || x.grade.includes(g)) &&
+    (!d || x.domain === d) &&
+    (!t || x.type === t) &&
+    (!q || [x.code, x.text, x.notes]
+      .join(' ')
+      .toLowerCase()
+      .includes(q))
+  );
+
+  $('count').textContent =
+    found.length.toLocaleString() +
+    ' matching records · ' +
+    standards.length.toLocaleString() +
+    ' high-school framework records available';
+
+  const label = q
+    ? ` for “${$('query').value.trim()}”`
+    : '';
+
+  $('searchFeedback').textContent = found.length
+    ? `${found.length.toLocaleString()} ${found.length === 1 ? 'result' : 'results'}${label}. Select View details to open a standard.`
+    : `No results${label}. Try a different keyword or change your filters.`;
+
+  const html = found.slice(0, limit).map(x => `
+    <article class="card item">
+      <span class="tag">${esc(x.domain)}</span>
+      <span class="tag">${esc(x.type)}</span>
+      <span class="subtle">
+        Grade ${esc(x.grade.join('–'))}
+      </span>
+
+      <h3>
+        <span class="code">${esc(x.code)}</span>
+      </h3>
+
+      <p>${esc(plain(x.text))}</p>
+
+      <div class="actions">
+        <button data-open="${esc(x.id)}">
+          View details
+        </button>
+
+        <a href="${esc(x.url)}"
+           target="_blank"
+           rel="noopener">
+          Official source
+        </a>
+      </div>
+    </article>
+  `).join('');
+
+  $('results').innerHTML =
+    html || '<p>No matches. Try another keyword or filter.</p>';
+
+  $('more').classList.toggle(
+    'hidden',
+    found.length <= limit
+  );
+
+  $('more').textContent =
+    `Show more (${Math.min(found.length - limit, 30)} next)`;
+
+  document.querySelectorAll('[data-open]')
+    .forEach(b => {
+      b.addEventListener('click', () => {
+        openItem(b.dataset.open);
+      });
+    });
+}
+
+
 function asList(arr){return Array.isArray(arr)&&arr.length?`<ul>${arr.map(v=>`<li>${esc(v)}</li>`).join('')}</ul>`:'<p class="guide-muted">Not yet available.</p>'}
 function fold(title,body){return `<details class="guide-fold"><summary>${esc(title)}</summary><div class="fold-body">${body}</div></details>`}
 function guide(x,unpack,related){
