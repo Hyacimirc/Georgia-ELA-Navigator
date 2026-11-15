@@ -45,24 +45,15 @@ function guide(x,unpack,related){
 }
 function openItem(id){const x=standards.find(v=>v.id===id);if(!x)return;const related=standards.filter(v=>v.code.startsWith(x.code+'.')&&v.grade.some(g=>x.grade.includes(g)));const parent=parents(x.code).map(c=>unpackings[c]).find(Boolean);const unpack=unpackings[x.code]||parent;$('detailcontent').innerHTML=guide(x,unpack,related);$('detail').classList.remove('hidden');$('detail').scrollIntoView({behavior:'smooth',block:'start'});const g=(unpack?.skills&&unpack.skills[x.code])||unpack;const acts=g?.differentiation||unpack?.differentiation||[];document.querySelectorAll('[data-copy-activity]').forEach(btn=>btn.addEventListener('click',async()=>{const a=acts[Number(btn.dataset.copyActivity)];if(!a)return;const copy=`${a.level}: ${a.title}\nTime: ${a.time}\nActivity: ${a.activity}\nScaffolds: ${a.scaffolds}\nSuccess check: ${a.success}`;try{await navigator.clipboard.writeText(copy);btn.textContent='Copied!'}catch(e){btn.textContent='Clipboard unavailable';}setTimeout(()=>{btn.textContent='Copy activity'},2000)}))}
 
+
 const gradeFiles = [
-  {
-    grade: 9,
-    file: './unpackings-grade9.json'
-  },
-  {
-    grade: 10,
-    file: './unpackings-grade10.json'
-  },
-  {
-    grade: 11,
-    file: './unpackings-grade11.json'
-  },
-  {
-    grade: 12,
-    file: './unpackings-grade12.json'
-  }
- ],
+  { grade: 9, file: './unpackings-grade9.json' },
+  { grade: 10, file: './unpackings-grade10.json' },
+  { grade: 11, file: './unpackings-grade11.json' },
+  { grade: 12, file: './unpackings-grade12.json' }
+];
+
+
 async function load() {
   try {
     const r = await fetch('./standards.json');
