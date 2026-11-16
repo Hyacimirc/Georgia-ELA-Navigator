@@ -1,5 +1,8 @@
 {
-  "code": "10.L.GC.1",
+  "about": "Georgia ELA Navigator — Grade 10",
+  "unpackings": [
+    {
+      "code": "10.L.GC.1",
   "status": "draft — independently developed instructional guidance; educator review recommended",
   "focus": "Grammar, Usage, & Mechanics",
   "studentFriendly": "I can use grammar, usage, and punctuation to communicate clearly and effectively. I can use dashes deliberately to create meaning and emphasis, and I can consult an appropriate style guide when I encounter complicated writing or editing decisions.",
