@@ -4389,5 +4389,889 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
 }
+    ,
+{
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability.",
+  "code": "11.T.SS.1",
+  "focus": "Organization",
+  "studentFriendly": "I can evaluate how a text is organized, combine structures to strengthen my own message, guide readers with transitions, and arrange an introduction, evidence, and conclusion to influence an audience.",
+  "know": [
+    "Common structures include chronology, comparison/contrast, cause/effect, problem/solution, classification, and argument with counterargument.",
+    "A text can combine structures; section placement, paragraph sequence, and transitions guide reader interpretation.",
+    "Introductions establish focus and position; conclusions synthesize significance rather than merely repeat."
+  ],
+  "understand": [
+    "Effective organization is a rhetorical choice tied to audience, purpose, genre, and medium.",
+    "The order of evidence affects credibility, emphasis, pacing, and how an audience receives a claim.",
+    "Transitions express relationships between ideas; they cannot repair gaps in reasoning."
+  ],
+  "do": [
+    "Annotate the structural moves in a mentor text and evaluate their effects on a target audience.",
+    "Outline and blend two or more structures for a chosen communicative purpose.",
+    "Revise transitions within and between sections to make relationships explicit.",
+    "Compose a focused introduction, strategically ordered support, and compelling conclusion."
+  ],
+  "vocabulary": [
+    {
+      "term": "organizational structure",
+      "definition": "The pattern used to arrange ideas or events.",
+      "example": "A feature moves from a problem to its causes and proposed solutions."
+    },
+    {
+      "term": "rhetorical situation",
+      "definition": "The relationship among writer, audience, purpose, context, and medium.",
+      "example": "A school-board testimony needs a different sequence from a personal essay."
+    },
+    {
+      "term": "cohesion",
+      "definition": "Connections that make a text read as a unified whole.",
+      "example": "A bridge sentence links evidence to the next reason."
+    },
+    {
+      "term": "transition",
+      "definition": "A word, phrase, or sentence signaling a relationship between ideas.",
+      "example": "Nevertheless introduces a qualification."
+    },
+    {
+      "term": "counterargument",
+      "definition": "An alternative or opposing position considered by a writer.",
+      "example": "A proposal acknowledges a cost concern before responding."
+    },
+    {
+      "term": "signposting",
+      "definition": "Language that shows readers where an argument is going.",
+      "example": "The next section examines the financial impact."
+    },
+    {
+      "term": "framing",
+      "definition": "The choices that direct how an issue is understood.",
+      "example": "Opening with a student account foregrounds lived experience."
+    },
+    {
+      "term": "synthesis",
+      "definition": "Combining points into a larger conclusion.",
+      "example": "The ending connects policy effects with a broader ethical question."
+    }
+  ],
+  "targets": [
+    "11.T.SS.1.a: Evaluate whether a text’s structure meets its audience’s needs and purpose.",
+    "11.T.SS.1.b: Blend at least two structures without losing the central message.",
+    "11.T.SS.1.c: Use varied transitions to connect paragraphs and sections cohesively.",
+    "11.T.SS.1.d: Design an influential introduction, sequence of support, and conclusion."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail (selected excerpts)",
+      "author": "Martin Luther King Jr.",
+      "genre": "argumentative letter",
+      "purpose": "Trace how response to critics, explanation, and moral appeal build persuasive force.",
+      "access": "Widely anthologized; check licensed excerpt.",
+      "readingTime": "20–30 min",
+      "highInterest": true,
+      "accessibility": "Provide context, short excerpts, and a move-by-move outline.",
+      "interestHook": "Why answer objections before stating the larger moral stakes?",
+      "teachingPrompt": "Color-code response, evidence, transitions, and concluding appeal.",
+      "alignment": [
+        "11.T.SS.1.a",
+        "11.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "A Modest Proposal (selected excerpts)",
+      "author": "Jonathan Swift",
+      "genre": "satirical essay",
+      "purpose": "Evaluate how an apparently orderly proposal creates irony and challenges audience expectations.",
+      "access": "Public-domain text; contextualize satire and colonial Ireland.",
+      "readingTime": "20–25 min",
+      "highInterest": true,
+      "accessibility": "Preteach irony and identify speaker versus author.",
+      "interestHook": "How does the proposal format change the shock of the argument?",
+      "teachingPrompt": "Compare the opening problem statement with the later proposed solution.",
+      "alignment": [
+        "11.T.SS.1.a",
+        "11.T.SS.1.b"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story (transcript)",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "TED talk/transcript",
+      "purpose": "Study how anecdotes, counterexamples, and recurring ideas guide audience understanding.",
+      "access": "Official TED transcript/video; verify classroom permissions.",
+      "readingTime": "18 min video",
+      "highInterest": true,
+      "accessibility": "Provide transcript chunks and a story-map organizer.",
+      "interestHook": "Why do the stories appear in this order?",
+      "teachingPrompt": "Mark the transitions from personal narrative to general claim.",
+      "alignment": [
+        "11.T.SS.1.b",
+        "11.T.SS.1.c"
+      ]
+    },
+    {
+      "title": "The Case for Reparations (selected sections)",
+      "author": "Ta-Nehisi Coates",
+      "genre": "investigative argument",
+      "purpose": "Examine how historical narrative and documentary evidence support a complex argument.",
+      "access": "The Atlantic; use permitted excerpts or school database.",
+      "readingTime": "25–35 min excerpts",
+      "highInterest": true,
+      "accessibility": "Offer a timeline and source/evidence organizer.",
+      "interestHook": "What does the opening narrative make readers care about?",
+      "teachingPrompt": "Map where history, example, and analysis intersect.",
+      "alignment": [
+        "11.T.SS.1.a",
+        "11.T.SS.1.b",
+        "11.T.SS.1.d"
+      ]
+    },
+    {
+      "title": "On Being Brought from Africa to America",
+      "author": "Phillis Wheatley",
+      "genre": "poem",
+      "purpose": "Discuss how short-form arrangement and turn shape a reader’s response.",
+      "access": "Public domain; provide historical context.",
+      "readingTime": "10–15 min",
+      "highInterest": false,
+      "accessibility": "Read aloud and annotate shifts in address and tone.",
+      "interestHook": "Where does the poem turn toward its audience?",
+      "teachingPrompt": "Compare effects of changing the line order in a prose paraphrase.",
+      "alignment": [
+        "11.T.SS.1.a"
+      ]
+    },
+    {
+      "title": "Student-created school improvement proposal",
+      "author": "Original classroom model",
+      "genre": "proposal",
+      "purpose": "Practice sequencing a claim, reasons, evidence, counterargument, and call to action.",
+      "access": "Teacher-created; no external permissions.",
+      "readingTime": "10–15 min",
+      "highInterest": true,
+      "accessibility": "Provide labeled model paragraphs and a revision checklist.",
+      "interestHook": "Which opening would convince students versus administrators?",
+      "teachingPrompt": "Reorder the evidence for two distinct audiences.",
+      "alignment": [
+        "11.T.SS.1.b",
+        "11.T.SS.1.c",
+        "11.T.SS.1.d"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 min",
+      "title": "Color-code a text map",
+      "activity": "Give students six short paragraphs from a model proposal. Students label function, arrange the paragraphs, and justify two placements.",
+      "materials": [
+        "Paragraph strips",
+        "Structure key"
+      ],
+      "scaffolds": [
+        "Provide a sample opening and a visual list of structure signals."
+      ],
+      "success": "Sequence is defensible and two placement explanations connect to audience needs.",
+      "alignment": [
+        "11.T.SS.1.a",
+        "11.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "20 min",
+      "title": "Transition repair clinic",
+      "activity": "Students revise a paragraph pair with misleading transitions and add one bridging sentence that explains the logical relationship.",
+      "materials": [
+        "Before/after paragraph pair",
+        "Transition function chart"
+      ],
+      "scaffolds": [
+        "Offer relationship prompts: contrast, cause, concession, example."
+      ],
+      "success": "Each transition accurately represents the relationship between ideas.",
+      "alignment": [
+        "11.T.SS.1.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 min",
+      "title": "Hybrid-structure op-ed",
+      "activity": "Write an op-ed using problem/solution plus cause/effect or comparison. Annotate the pivot and explain why the order serves the chosen audience.",
+      "materials": [
+        "Planning template",
+        "Mentor op-ed"
+      ],
+      "scaffolds": [
+        "Use a paragraph-purpose outline before drafting."
+      ],
+      "success": "Two structures work together and the central message remains clear.",
+      "alignment": [
+        "11.T.SS.1.b",
+        "11.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "30 min",
+      "title": "Audience-specific revision",
+      "activity": "Rewrite the introduction and conclusion of the same proposal for a student audience and a district committee.",
+      "materials": [
+        "Audience profiles",
+        "Draft proposal"
+      ],
+      "scaffolds": [
+        "Provide audience-needs questions and sample openings."
+      ],
+      "success": "Each version uses distinct framing and a fitting call to action.",
+      "alignment": [
+        "11.T.SS.1.a",
+        "11.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "45 min",
+      "title": "Structure as influence audit",
+      "activity": "Compare how two credible authors organize coverage of the same issue. Create an annotated alternative outline that changes the reader’s emphasis without altering facts.",
+      "materials": [
+        "Two articles",
+        "Comparison matrix"
+      ],
+      "scaffolds": [
+        "Require evidence-based claims rather than labeling a source biased without support."
+      ],
+      "success": "Analysis explains at least three structural effects and proposes a purposeful redesign.",
+      "alignment": [
+        "11.T.SS.1.a",
+        "11.T.SS.1.b",
+        "11.T.SS.1.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student proposal opens with a vivid example, explains the causes of the problem, evaluates two solutions, then ends with a specific request. Which description best captures its organization?",
+      "options": [
+        "Only chronological",
+        "Narrative framing combined with cause/effect and problem/solution",
+        "Only comparison/contrast",
+        "Unstructured collection of anecdotes"
+      ],
+      "answer": "B",
+      "rationale": "The writer blends multiple patterns to advance a single purpose.",
+      "alignment": [
+        "11.T.SS.1.b"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Identify one structural decision in a studied argument and explain how it helps or hinders the intended audience.",
+      "options": null,
+      "answer": "Name a specific structural move, cite a relevant passage, and explain its effect on the target audience.",
+      "rationale": "The response must evaluate effectiveness, not merely identify the pattern.",
+      "alignment": [
+        "11.T.SS.1.a"
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which transition most clearly signals a concession before a rebuttal?",
+      "options": [
+        "For example",
+        "Similarly",
+        "Although this concern is reasonable",
+        "As a result"
+      ],
+      "answer": "C",
+      "rationale": "Although signals acknowledgment of an opposing concern before the writer responds.",
+      "alignment": [
+        "11.T.SS.1.c"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Draft a 500–700-word proposal for a real school audience using two organizational structures. Include an introduction, strategically placed evidence, transitions, and a conclusion.",
+      "options": null,
+      "answer": "Score for audience-purpose fit, purposeful blend of structures, accurate logical transitions, and a conclusion that advances the argument.",
+      "rationale": "Evidence must be sequenced for rhetorical effect rather than merely accumulated.",
+      "alignment": [
+        "11.T.SS.1.b",
+        "11.T.SS.1.c",
+        "11.T.SS.1.d"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "A writer puts the strongest evidence at the end rather than the beginning. Under what circumstances could that choice improve persuasion?",
+      "options": null,
+      "answer": "Explain an audience/purpose context, describe how earlier material prepares readers, and justify the climactic placement.",
+      "rationale": "There is no universal best order; reasoning should be audience-sensitive.",
+      "alignment": [
+        "11.T.SS.1.a",
+        "11.T.SS.1.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "An annotated structural map links text moves to intended audience effects.",
+    "A revised draft integrates two structures and accurate paragraph/section transitions.",
+    "A written rationale defends introduction, evidence placement, and conclusion choices."
+  ],
+  "instruction": [
+    "Teach structures as flexible rhetorical resources rather than rigid five-paragraph templates.",
+    "Use reverse outlining: write a one-sentence purpose beside each paragraph and evaluate the sequence.",
+    "Compare versions of the same passage reordered for different audiences.",
+    "Conference on the connection between transition wording and actual logical relationship."
+  ],
+  "watchFor": [
+    "Students name a pattern but do not evaluate its effect on readers.",
+    "Students combine structures mechanically without a coherent central message.",
+    "Transitions are decorative or signal a relationship the evidence does not support.",
+    "Conclusions merely restate the thesis rather than creating significance or action."
+  ],
+  "skills": {
+    "11.T.SS.1.a": {
+      "focus": "Evaluate organizational effectiveness",
+      "studentFriendly": "I can explain why an author’s arrangement works—or fails—for a particular audience.",
+      "know": [
+        "Structures",
+        "Audience expectations"
+      ],
+      "understand": [
+        "Effectiveness depends on rhetorical situation."
+      ],
+      "do": [
+        "Annotate text moves",
+        "Judge effects with evidence"
+      ],
+      "targets": [
+        "Explain two choices and their effects."
+      ],
+      "instruction": [
+        "Use reverse outlines and audience profiles."
+      ],
+      "evidence": [
+        "An evidence-based structural evaluation."
+      ],
+      "watchFor": [
+        "Naming a structure without explaining its impact."
+      ]
+    },
+    "11.T.SS.1.b": {
+      "focus": "Blend organizational structures",
+      "studentFriendly": "I can combine structures to strengthen one central message.",
+      "know": [
+        "Common organizational patterns",
+        "Central message"
+      ],
+      "understand": [
+        "Different structures can serve complementary purposes."
+      ],
+      "do": [
+        "Plan two patterns",
+        "Draft a purposeful pivot"
+      ],
+      "targets": [
+        "Create a hybrid outline and explain the blend."
+      ],
+      "instruction": [
+        "Model narrative opening plus problem/solution development."
+      ],
+      "evidence": [
+        "A cohesive multi-structure draft."
+      ],
+      "watchFor": [
+        "A sequence that feels like unrelated mini-essays."
+      ]
+    },
+    "11.T.SS.1.c": {
+      "focus": "Transitions and cohesion",
+      "studentFriendly": "I can guide readers across paragraphs and sections with precise transitions.",
+      "know": [
+        "Logical relationships",
+        "Paragraph-level signposting"
+      ],
+      "understand": [
+        "Transitions should express real relationships."
+      ],
+      "do": [
+        "Revise bridging sentences",
+        "Check reference chains"
+      ],
+      "targets": [
+        "Use varied, accurate transitions."
+      ],
+      "instruction": [
+        "Compare misleading and accurate transitions in the same passage."
+      ],
+      "evidence": [
+        "A clear chain of relationships across sections."
+      ],
+      "watchFor": [
+        "Overusing furthermore or however without a true logical link."
+      ]
+    },
+    "11.T.SS.1.d": {
+      "focus": "Create influential text structure",
+      "studentFriendly": "I can design an opening, strategically sequenced support, and a compelling ending for my audience.",
+      "know": [
+        "Opening moves",
+        "Evidence sequence",
+        "Concluding moves"
+      ],
+      "understand": [
+        "Arrangement shapes reception and influence."
+      ],
+      "do": [
+        "Frame the issue",
+        "Position evidence",
+        "Craft a purposeful ending"
+      ],
+      "targets": [
+        "Produce a justified rhetorical outline and full draft."
+      ],
+      "instruction": [
+        "Study alternate openings and endings for different audiences."
+      ],
+      "evidence": [
+        "An effective proposal with rationale for its sequence."
+      ],
+      "watchFor": [
+        "Formulaic thesis and conclusion that ignore audience needs."
+      ]
+    }
+  }
+},
+{
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability.",
+  "code": "11.T.T.2",
+  "focus": "Expository Techniques",
+  "studentFriendly": "I can evaluate how informational texts explain ideas, identify factual or interpretive disagreements between sources, and write a clear, cohesive explanation that combines structures and adjusts tone for different audiences.",
+  "know": [
+    "Expository writing explains and informs through definition, classification, examples, comparison, cause/effect, and process analysis.",
+    "Conflicting texts may disagree about verifiable facts, interpretation of shared evidence, or the scope of a claim.",
+    "Tone, organization, evidence type, and transitions must fit audience and purpose.",
+    "The official 11.T.T.2.c entry says this progression ends in fifth grade; it is not an active eleventh-grade expectation."
+  ],
+  "understand": [
+    "Clear exposition requires accurate information and a visible relationship among ideas.",
+    "Two sources can disagree because of evidence quality, framing, terminology, or interpretation; these differences must be specified.",
+    "Combining structures can make complex explanations more accessible without oversimplifying them."
+  ],
+  "do": [
+    "Critique a model’s expository choices for clarity, sequence, and effect.",
+    "Compare two sources and distinguish factual contradictions from interpretive differences.",
+    "Compose an explanatory text using varied information and at least two complementary structures.",
+    "Revise diction, level of explanation, and tone for distinct audiences."
+  ],
+  "vocabulary": [
+    {
+      "term": "exposition",
+      "definition": "Writing or speaking that explains a subject.",
+      "example": "A feature explains how a city water system works."
+    },
+    {
+      "term": "classification",
+      "definition": "Grouping information by meaningful categories.",
+      "example": "A report groups sources of pollution by origin."
+    },
+    {
+      "term": "process analysis",
+      "definition": "Explaining how a process works or unfolds.",
+      "example": "An article explains the steps of peer review."
+    },
+    {
+      "term": "factual disagreement",
+      "definition": "A conflict about a claim that can be checked against evidence.",
+      "example": "Two reports give different dates for an event."
+    },
+    {
+      "term": "interpretive disagreement",
+      "definition": "Different conclusions drawn from evidence or events.",
+      "example": "Historians disagree about which cause was most important."
+    },
+    {
+      "term": "qualification",
+      "definition": "Language that limits a claim to what evidence supports.",
+      "example": "The pattern appears in this sample, not necessarily everywhere."
+    },
+    {
+      "term": "cohesion",
+      "definition": "Clear relationships among parts of a text.",
+      "example": "Each section builds on the definition established earlier."
+    },
+    {
+      "term": "register",
+      "definition": "A level or style of language suited to context and audience.",
+      "example": "A public guide explains jargon used in a technical report."
+    },
+    {
+      "term": "synthesis",
+      "definition": "A reasoned account that connects information from multiple sources.",
+      "example": "The explanation reconciles what two studies measure differently."
+    }
+  ],
+  "targets": [
+    "11.T.T.2.a: Critique expository techniques, patterns, effects, and clarity.",
+    "11.T.T.2.b: Pinpoint where conflicting texts differ on facts or interpretations.",
+    "11.T.T.2.d: Write a cohesive, multi-structure explanation with varied evidence and audience-appropriate tone.",
+    "11.T.T.2.c: Recognize that the source marks this progression as ending in Grade 5, not as an active Grade 11 skill."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks (selected excerpts)",
+      "author": "Rebecca Skloot",
+      "genre": "narrative nonfiction/science writing",
+      "purpose": "Evaluate how personal narrative, scientific explanation, and ethical context are organized.",
+      "access": "School/library edition; obtain permitted excerpts.",
+      "readingTime": "25–35 min",
+      "highInterest": true,
+      "accessibility": "Provide a cell-biology glossary and timeline.",
+      "interestHook": "How does a human story change the way we understand the science?",
+      "teachingPrompt": "Trace switches among biography, science, and ethical explanation.",
+      "alignment": [
+        "11.T.T.2.a",
+        "11.T.T.2.d"
+      ]
+    },
+    {
+      "title": "Silent Spring (selected excerpts)",
+      "author": "Rachel Carson",
+      "genre": "environmental science exposition",
+      "purpose": "Study cause/effect chains, evidence, and language for a public audience.",
+      "access": "Library edition; verify excerpt rights.",
+      "readingTime": "20–30 min",
+      "highInterest": true,
+      "accessibility": "Use an illustrated food-chain diagram and glossary.",
+      "interestHook": "How can scientific evidence become understandable without losing rigor?",
+      "teachingPrompt": "Diagram an explanatory chain and evaluate its clarity.",
+      "alignment": [
+        "11.T.T.2.a",
+        "11.T.T.2.d"
+      ]
+    },
+    {
+      "title": "A Brief History of Time (selected excerpts)",
+      "author": "Stephen Hawking",
+      "genre": "popular science",
+      "purpose": "Assess analogy, definition, and sequencing for nonspecialists.",
+      "access": "Library copy; choose short accessible excerpt.",
+      "readingTime": "20–25 min",
+      "highInterest": false,
+      "accessibility": "Preteach concepts; provide concept sketches.",
+      "interestHook": "Which analogy clarifies an idea—and what might it distort?",
+      "teachingPrompt": "Compare an analogy with a more technical definition.",
+      "alignment": [
+        "11.T.T.2.a"
+      ]
+    },
+    {
+      "title": "NASA climate evidence and NOAA climate indicators (selected pages)",
+      "author": "NASA and NOAA",
+      "genre": "public scientific information",
+      "purpose": "Compare complementary data presentations and clarify differences in metrics and timescales.",
+      "access": "Official agency sites; select current pages and capture access dates.",
+      "readingTime": "25–35 min",
+      "highInterest": true,
+      "accessibility": "Offer graphs with labeled units and a comparison chart.",
+      "interestHook": "Can two accurate graphs look different because they measure different things?",
+      "teachingPrompt": "Identify claims, measures, dates, and interpretations before judging agreement.",
+      "alignment": [
+        "11.T.T.2.b"
+      ]
+    },
+    {
+      "title": "The 1619 Project and a scholarly historical response (selected excerpts)",
+      "author": "Nikole Hannah-Jones and a historian",
+      "genre": "historical argument/exposition",
+      "purpose": "Distinguish disputed factual claims from interpretive differences and analyze source evidence.",
+      "access": "Use legally accessible excerpts and vetted scholarly response; contextualize contested claims.",
+      "readingTime": "30–40 min",
+      "highInterest": true,
+      "accessibility": "Provide a neutral claim/evidence matrix and historical timeline.",
+      "interestHook": "What exactly is the disagreement—and how would we verify it?",
+      "teachingPrompt": "Classify each disputed point as factual, interpretive, or mixed.",
+      "alignment": [
+        "11.T.T.2.b"
+      ]
+    },
+    {
+      "title": "Student guide to local watershed health",
+      "author": "Original classroom model",
+      "genre": "public-information guide",
+      "purpose": "Model clear explanation using definition, cause/effect, and process sections for community readers.",
+      "access": "Teacher-created model; use public agency data for facts.",
+      "readingTime": "15–20 min",
+      "highInterest": true,
+      "accessibility": "Include headings, maps, and plain-language definitions.",
+      "interestHook": "How would you explain this to a fifth grader versus an environmental scientist?",
+      "teachingPrompt": "Revise one technical paragraph for two audiences.",
+      "alignment": [
+        "11.T.T.2.d"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 min",
+      "title": "Sort the explanatory moves",
+      "activity": "Students sort model paragraphs into definition, example, cause/effect, process, and comparison; then rebuild a coherent explanation.",
+      "materials": [
+        "Paragraph cards",
+        "Structure labels"
+      ],
+      "scaffolds": [
+        "Provide signal words and a model outline."
+      ],
+      "success": "Correctly label four moves and explain the sequence.",
+      "alignment": [
+        "11.T.T.2.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 min",
+      "title": "Fact or interpretation?",
+      "activity": "Compare paired short articles with highlighted claims; mark which disagreements could be checked and which involve interpretations.",
+      "materials": [
+        "Two short articles",
+        "Claim sorting grid"
+      ],
+      "scaffolds": [
+        "Supply sentence frames: Source A states..., whereas Source B interprets..."
+      ],
+      "success": "Identify at least two disagreements and explain the classification.",
+      "alignment": [
+        "11.T.T.2.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 min",
+      "title": "Two-source disagreement audit",
+      "activity": "Use credible sources on a shared issue to build a table of claims, evidence, measures, and points of agreement/disagreement.",
+      "materials": [
+        "Two credible texts",
+        "Evidence matrix"
+      ],
+      "scaffolds": [
+        "Require precise quotations or paraphrases with attribution."
+      ],
+      "success": "Report separates factual conflict from interpretive conflict with support.",
+      "alignment": [
+        "11.T.T.2.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 min",
+      "title": "Explain a complex process",
+      "activity": "Write a 600-word explainer that uses definition plus process or cause/effect, varied evidence, and clear transitions.",
+      "materials": [
+        "Research notes",
+        "Expository planning grid"
+      ],
+      "scaffolds": [
+        "Reverse-outline the draft to check relationships."
+      ],
+      "success": "Explanation is accurate, cohesive, and readable for its target audience.",
+      "alignment": [
+        "11.T.T.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "50 min",
+      "title": "Two audiences, one evidence base",
+      "activity": "Produce a technical briefing and a public-facing explainer from the same verified evidence; annotate organizational and tonal changes.",
+      "materials": [
+        "Reliable source packet",
+        "Audience profiles"
+      ],
+      "scaffolds": [
+        "Require identical factual claims across both versions."
+      ],
+      "success": "Two products maintain accuracy while changing register, structure, and examples appropriately.",
+      "alignment": [
+        "11.T.T.2.a",
+        "11.T.T.2.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "An article defines a term, describes how a system works, and then compares two outcomes. Which assessment best fits its technique?",
+      "options": [
+        "It lacks any organizational pattern.",
+        "It combines definition, process analysis, and comparison.",
+        "It is solely a chronological narrative.",
+        "It is automatically unclear because it uses multiple structures."
+      ],
+      "answer": "B",
+      "rationale": "Expository texts can combine complementary patterns to clarify a subject.",
+      "alignment": [
+        "11.T.T.2.a"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Two articles report different percentages for the same issue. List three details you would check before calling the claims contradictory.",
+      "options": null,
+      "answer": "Check measurement definition, time period, population/sample, source, or method; explain why each matters.",
+      "rationale": "Different measures or timeframes can produce apparently conflicting but accurate results.",
+      "alignment": [
+        "11.T.T.2.b"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare two sources that disagree about an event. Identify one disagreement about fact and one about interpretation, or explain why only one category is supported.",
+      "options": null,
+      "answer": "Quote or paraphrase precise claims, classify carefully, and cite the evidence for each classification.",
+      "rationale": "Do not force a factual conflict if the sources disagree only about meaning.",
+      "alignment": [
+        "11.T.T.2.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Write a 600–800-word explainer for a specified public audience using at least two structures, multiple information types, and accurate transitions. Add a 150-word rationale.",
+      "options": null,
+      "answer": "Score factual accuracy, clarity, coherent structure, evidence variety, tone fit, and explanation of choices.",
+      "rationale": "The task directly measures the writing expectation without requiring an argumentative stance.",
+      "alignment": [
+        "11.T.T.2.d"
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision best adapts a technical report for a general audience without sacrificing accuracy?",
+      "options": [
+        "Remove all evidence.",
+        "Replace every term with a vague synonym.",
+        "Define essential terms, use a concrete example, and preserve qualifications.",
+        "Make every claim absolute to sound confident."
+      ],
+      "answer": "C",
+      "rationale": "Audience adaptation should improve access while retaining precision.",
+      "alignment": [
+        "11.T.T.2.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "A written critique identifies techniques and judges their effect on clarity.",
+    "A source comparison distinguishes factual disagreement from interpretation with citations.",
+    "A cohesive explanatory draft blends structures, uses varied evidence, and fits an identified audience.",
+    "A revision memo explains choices of register, examples, and transitions."
+  ],
+  "instruction": [
+    "Teach students to distinguish contradiction in data from difference in metric, population, date, or interpretation.",
+    "Model a claim/evidence/measure matrix before students compare controversial accounts.",
+    "Use reverse outlines to test whether each paragraph advances the explanation.",
+    "Teach register shifts by rewriting the same accurate explanation for specialist and nonspecialist readers."
+  ],
+  "watchFor": [
+    "Students treat every disagreement as evidence that one source is lying.",
+    "Students summarize sources separately instead of identifying the exact disputed claim.",
+    "Students use multiple structures without explaining how the parts connect.",
+    "Simplifying language erases important scientific or historical qualifications.",
+    "Students mistakenly treat 11.T.T.2.c as an active eleventh-grade requirement."
+  ],
+  "skills": {
+    "11.T.T.2.a": {
+      "focus": "Critique expository techniques and clarity",
+      "studentFriendly": "I can judge how well an informational text explains its ideas.",
+      "know": [
+        "Expository techniques",
+        "Organizational patterns"
+      ],
+      "understand": [
+        "Clarity depends on audience, evidence, and sequence."
+      ],
+      "do": [
+        "Annotate techniques",
+        "Evaluate effects and clarity"
+      ],
+      "targets": [
+        "Explain two choices with cited evidence."
+      ],
+      "instruction": [
+        "Compare a confusing and a revised model paragraph."
+      ],
+      "evidence": [
+        "An evidence-based clarity critique."
+      ],
+      "watchFor": [
+        "Naming a technique without evaluating its effect."
+      ]
+    },
+    "11.T.T.2.b": {
+      "focus": "Evaluate conflicting texts",
+      "studentFriendly": "I can pinpoint where sources disagree about facts or interpretations.",
+      "know": [
+        "Fact versus interpretation",
+        "Evidence and measures"
+      ],
+      "understand": [
+        "Disagreement may stem from different claims, methods, or readings."
+      ],
+      "do": [
+        "Compare precise claims",
+        "Classify disagreements",
+        "Verify where possible"
+      ],
+      "targets": [
+        "Produce a claim/evidence disagreement matrix."
+      ],
+      "instruction": [
+        "Use side-by-side source excerpts and source-context checks."
+      ],
+      "evidence": [
+        "A precise, supported account of agreement and disagreement."
+      ],
+      "watchFor": [
+        "Calling two texts contradictory without comparing exact claims."
+      ]
+    },
+    "11.T.T.2.d": {
+      "focus": "Compose cohesive exposition",
+      "studentFriendly": "I can write a clear explanation using multiple structures and an appropriate tone.",
+      "know": [
+        "Text structures",
+        "Evidence types",
+        "Audience register"
+      ],
+      "understand": [
+        "Explanatory choices should reveal relationships among ideas."
+      ],
+      "do": [
+        "Plan",
+        "Draft",
+        "Integrate evidence",
+        "Revise tone and cohesion"
+      ],
+      "targets": [
+        "Write a multi-structure explainer and rationale."
+      ],
+      "instruction": [
+        "Model definition-plus-process and cause/effect-plus-comparison."
+      ],
+      "evidence": [
+        "A coherent, audience-aware explanatory text."
+      ],
+      "watchFor": [
+        "Overloading with facts or using unexplained jargon."
+      ]
+    }
+  }
+}
   ]
 }
