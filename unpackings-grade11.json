@@ -3425,5 +3425,969 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source access, and age suitability."
 }
+    ,
+{
+  "code": "11.T.SS.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Craft: figurative and rhetorical language, intended effects, and authoritative tone",
+  "studentFriendly": "I can explain how writers’ language choices shape meaning, tone, and mood; choose language strategically for my own audience; and build credibility through a consistent, knowledgeable voice.",
+  "know": [
+    "Distinguish denotation, connotation, figurative language, literary devices, rhetorical language, rhetorical appeals, tone, and mood.",
+    "Recognize that credibility depends on precision, accurate evidence, appropriate register, and a consistent authoritative tone.",
+    "Identify how purpose, audience, genre, and context shape effective language choices."
+  ],
+  "understand": [
+    "Naming a device is not the same as explaining how it creates a particular effect.",
+    "A single passage can convey different effects to different audiences; interpretations require textual support.",
+    "Authoritative does not mean inflated vocabulary or unsupported certainty; expert voice is accurate, measured, and evidence-based."
+  ],
+  "do": [
+    "Annotate short passages for consequential diction, imagery, rhetorical choices, and shifts in tone.",
+    "Explain the relationship among language choice, purpose, audience, and reader effect using quoted evidence.",
+    "Rewrite a passage for two distinct audiences and justify the craft changes.",
+    "Revise a research-based explanation for a consistent, credible expert tone."
+  ],
+  "vocabulary": [
+    {
+      "term": "Connotation",
+      "definition": "Emotional or cultural associations of a word beyond its literal definition.",
+      "example": "“Home” suggests belonging; “residence” is more neutral."
+    },
+    {
+      "term": "Rhetorical appeal",
+      "definition": "An approach that persuades through reasoning, credibility, or emotion.",
+      "example": "A public-health article uses statistics and a qualified expert."
+    },
+    {
+      "term": "Tone",
+      "definition": "The writer’s attitude as conveyed by language and structure.",
+      "example": "Measured, skeptical, urgent, or celebratory."
+    },
+    {
+      "term": "Mood",
+      "definition": "The atmosphere or feeling a text evokes for readers.",
+      "example": "Uneasy imagery can create dread."
+    },
+    {
+      "term": "Register",
+      "definition": "Level and style of language appropriate to an audience or situation.",
+      "example": "A research brief uses more formal register than a personal post."
+    },
+    {
+      "term": "Credibility",
+      "definition": "The trustworthiness of a speaker or writer, supported by accuracy, evidence, and transparency.",
+      "example": "An author qualifies a claim and cites a reputable study."
+    },
+    {
+      "term": "Figurative language",
+      "definition": "Language that creates meaning beyond the literal.",
+      "example": "A metaphor likens memory to an archive."
+    },
+    {
+      "term": "Rhetorical device",
+      "definition": "A deliberate language pattern used to influence an audience.",
+      "example": "Parallel structure emphasizes related claims."
+    }
+  ],
+  "targets": [
+    "I can explain how two specific language choices develop tone or mood and support the writer’s purpose.",
+    "I can compose and revise a paragraph using purposeful figurative or rhetorical language for a named audience.",
+    "I can revise a formal explanatory paragraph to sound knowledgeable without exaggeration or unsupported claims."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Ain’t I a Woman? (historical versions)",
+      "author": "Sojourner Truth (reported by different editors)",
+      "genre": "speech / historical source",
+      "purpose": "Compare reported language, rhetorical choices, and questions of transcription and attribution.",
+      "access": "Use historically contextualized, credited versions; discuss differences between transcriptions.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "How can versions of the same speech shape a reader’s impression?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.T.SS.2.a",
+        "11.T.SS.2.b"
+      ]
+    },
+    {
+      "title": "Letter from Birmingham Jail (excerpt)",
+      "author": "Martin Luther King Jr.",
+      "genre": "argumentative letter",
+      "purpose": "Examine parallelism, allusion, appeals, and the relationship between moral urgency and reasoned authority.",
+      "access": "Select a short excerpt with historical context.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "How does a writer combine moral urgency with credibility?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.T.SS.2.a",
+        "11.T.SS.2.b",
+        "11.T.SS.2.c"
+      ]
+    },
+    {
+      "title": "The House on Mango Street (selected vignettes)",
+      "author": "Sandra Cisneros",
+      "genre": "literary vignettes",
+      "purpose": "Explore imagery, connotation, and the effects of compressed figurative language.",
+      "access": "Use a short vignette; discuss community representation.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "How can a few words change the emotional atmosphere?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.T.SS.2.a",
+        "11.T.SS.2.b"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story (transcript/excerpt)",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "public talk",
+      "purpose": "Examine anecdote, repetition, tone, and credibility in a public address.",
+      "access": "Official transcript or authorized excerpt; provide video if available.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "How does a speaker earn trust while challenging assumptions?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.T.SS.2.a",
+        "11.T.SS.2.b",
+        "11.T.SS.2.c"
+      ]
+    },
+    {
+      "title": "Silent Spring (opening excerpt)",
+      "author": "Rachel Carson",
+      "genre": "literary nonfiction / science writing",
+      "purpose": "Analyze vivid imagery in a science-oriented argument and compare it with a neutral summary.",
+      "access": "Short excerpt with background on historical environmental debate.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "When does vivid language strengthen a scientific argument?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.T.SS.2.a",
+        "11.T.SS.2.c"
+      ]
+    },
+    {
+      "title": "An accessible research-based public-health explainer",
+      "author": "CDC or NIH",
+      "genre": "technical explanation",
+      "purpose": "Compare formal, authoritative explanations with oversimplified or sensational claims.",
+      "access": "Use a current, dated, attributable public document.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": false,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "What makes a writer sound genuinely knowledgeable?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.T.SS.2.b",
+        "11.T.SS.2.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "35–45 minutes",
+      "title": "Diction-to-effect annotation",
+      "activity": "Provide two 100-word passages on the same topic. Highlight 4 words with different connotations; students select tone words, cite two choices, and explain one effect.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Word bank for tone and mood",
+        "Sentence frame: The word ___ suggests ___, making the reader ___"
+      ],
+      "success": "An explanation connects two exact words to a plausible effect and purpose.",
+      "alignment": [
+        "11.T.SS.2.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "35–45 minutes",
+      "title": "Two-audience revision studio",
+      "activity": "Students rewrite one evidence-based paragraph for a school-board briefing and a youth-facing newsletter, keeping factual claims stable while changing register, rhetorical devices, and explanation.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Audience-purpose chart",
+        "Peer feedback on tone and clarity"
+      ],
+      "success": "Both versions are accurate; a brief annotation explains at least three intentional changes.",
+      "alignment": [
+        "11.T.SS.2.b",
+        "11.T.SS.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "35–45 minutes",
+      "title": "Ethos under scrutiny",
+      "activity": "Compare a persuasive excerpt with a technical report on a related issue. Evaluate whether vivid rhetoric clarifies or distorts evidence, then draft a hybrid explanation that is engaging and rigorously qualified.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Criteria for expertise and evidence",
+        "Source-verification checklist"
+      ],
+      "success": "The final text balances effect with credible, verifiable claims.",
+      "alignment": [
+        "11.T.SS.2.a",
+        "11.T.SS.2.b",
+        "11.T.SS.2.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "35–45 minutes",
+      "title": "Craft move micro-analysis",
+      "activity": "Students annotate a mentor excerpt for a figurative choice, a connotative choice, and a rhetorical pattern, then write a claim-evidence-reasoning paragraph about their combined effects.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Color-coded annotation key"
+      ],
+      "success": "Analysis explains effects rather than merely identifying devices.",
+      "alignment": [
+        "11.T.SS.2.a"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "35–45 minutes",
+      "title": "Voice and authority editorial conference",
+      "activity": "Students edit a deliberately overconfident paragraph: replace absolute claims, add accurate qualifications, specify evidence, and explain how each revision improves trust.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Credibility checklist"
+      ],
+      "success": "Revision shows consistent formal voice without false certainty.",
+      "alignment": [
+        "11.T.SS.2.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A writer replaces “the policy devastated families” with “the policy affected families” in a technical report. What is the most likely effect?",
+      "answer": "The revision reduces emotional intensity and creates a more restrained tone.",
+      "rationale": "“Devastated” has stronger connotations; the best choice depends on evidence and purpose.",
+      "alignment": [
+        "11.T.SS.2.a"
+      ],
+      "options": [
+        "It makes the claim automatically more accurate.",
+        "It reduces emotional intensity and creates a more restrained tone.",
+        "It introduces a metaphor.",
+        "It removes the need for evidence."
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Choose two language choices from a mentor passage. Explain how each develops tone or mood in relation to the writer’s purpose.",
+      "answer": "Scoring: identify precise language, describe an effect, connect to purpose, and support with accurate context.",
+      "rationale": "Device naming alone does not establish analysis.",
+      "alignment": [
+        "11.T.SS.2.a"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Write two 120–150 word versions of the same message for different audiences; annotate three deliberate language choices.",
+      "answer": "Scoring: purpose and audience are explicit, claims remain accurate, and annotations justify effects.",
+      "rationale": "Audience adaptation requires craft choices, not simply shorter sentences.",
+      "alignment": [
+        "11.T.SS.2.b"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Why can a paragraph sound confident yet fail to establish an authoritative tone?",
+      "answer": "Unsupported generalizations, exaggerated certainty, inconsistent register, and vague evidence undermine credibility.",
+      "rationale": "Confidence is not a substitute for expertise.",
+      "alignment": [
+        "11.T.SS.2.c"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Revise a paragraph with unsupported absolute claims into a formal, credible explanation; provide a brief editorial note.",
+      "answer": "Scoring: qualified accurate claims, specific evidence placeholders or citations, consistent tone, and reasoned editorial note.",
+      "rationale": "A writer should acknowledge limits of knowledge rather than invent evidence.",
+      "alignment": [
+        "11.T.SS.2.c"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated mentor text with claim-evidence-effect explanations.",
+    "Two audience-specific revisions with a craft-choice rationale.",
+    "A revised formal explanation that demonstrates accurate, measured authority."
+  ],
+  "instruction": [
+    "Model a think-aloud that moves from exact word or structure to connotation, effect, purpose, and audience.",
+    "Contrast effective rhetorical intensity with language that overstates evidence.",
+    "Use a brief peer-review protocol: intended effect, actual effect, and evidence of reader response."
+  ],
+  "watchFor": [
+    "Students identify a metaphor or appeal but do not explain its effect.",
+    "Students conflate tone (writer attitude) with mood (reader atmosphere).",
+    "Students equate “formal” with unnecessarily complex or inflated language.",
+    "Students treat rhetorical persuasion as permission to distort facts."
+  ],
+  "skills": {
+    "11.T.SS.2.a": {
+      "focus": "Evaluate figurative, connotative, and rhetorical effects",
+      "studentFriendly": "I can explain how specific language choices develop meaning, tone, or mood for a purpose.",
+      "know": [
+        "Connotation, figurative devices, and rhetorical choices may overlap."
+      ],
+      "understand": [
+        "Interpretations should explain a causal link between a choice and its effect."
+      ],
+      "do": [
+        "Annotate two choices and explain each effect with context."
+      ],
+      "targets": [
+        "I can make a claim about effect and support it with precise quoted evidence."
+      ],
+      "instruction": [
+        "Use side-by-side rewrites to make tonal effects visible."
+      ],
+      "evidence": [
+        "Evidence-based passage analysis."
+      ],
+      "watchFor": [
+        "Listing techniques without discussing meaning or purpose."
+      ]
+    },
+    "11.T.SS.2.b": {
+      "focus": "Compose deliberate effects for an audience",
+      "studentFriendly": "I can select literary and rhetorical techniques to achieve a specific effect on readers.",
+      "know": [
+        "Technique effectiveness depends on audience, genre, and purpose."
+      ],
+      "understand": [
+        "A strong technique is justified by its effect, not by how decorative it seems."
+      ],
+      "do": [
+        "Draft, test, and revise language for a named audience."
+      ],
+      "targets": [
+        "I can justify three intentional craft decisions."
+      ],
+      "instruction": [
+        "Use audience-specific mentor texts and peer response."
+      ],
+      "evidence": [
+        "Annotated before-and-after draft."
+      ],
+      "watchFor": [
+        "Overloading writing with devices unrelated to purpose."
+      ]
+    },
+    "11.T.SS.2.c": {
+      "focus": "Establish a consistent expert voice",
+      "studentFriendly": "I can write in a formal, authoritative tone grounded in accurate evidence.",
+      "know": [
+        "Formal register, evidence attribution, precise terminology, and calibrated claims build credibility."
+      ],
+      "understand": [
+        "Knowledgeable writers can acknowledge uncertainty without sounding weak."
+      ],
+      "do": [
+        "Revise vague or exaggerated assertions for precision and consistency."
+      ],
+      "targets": [
+        "I can explain how wording and evidence support credibility."
+      ],
+      "instruction": [
+        "Compare a sensational paragraph with a measured expert explanation."
+      ],
+      "evidence": [
+        "Credible revised explanation with rationale."
+      ],
+      "watchFor": [
+        "Equating authority with unsupported certainty or jargon."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.P.EICC.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Comprehension Strategies: purposeful, strategic reading of complex texts",
+  "studentFriendly": "I can set a reading purpose, select and adjust strategies while reading complex texts, integrate prior knowledge, summarize, predict, infer, and solve unfamiliar vocabulary.",
+  "know": [
+    "Distinguish skimming for gist from scanning for a specific detail; identify headings, sections, visuals, and other text features.",
+    "Recognize the difference between a prediction, an inference, a summary, and a personal connection.",
+    "Use context clues, morphology, and domain knowledge to determine unfamiliar terms.",
+    "Understand that comprehension monitoring means noticing and repairing confusion."
+  ],
+  "understand": [
+    "Skilled readers choose strategies based on task and text rather than applying every strategy mechanically.",
+    "Prior knowledge supports understanding but may also introduce inaccurate assumptions that need revision.",
+    "Strong inferences and predictions remain provisional and are checked against new evidence.",
+    "Summaries preserve central ideas and relationships without copying every detail."
+  ],
+  "do": [
+    "Write a specific reading goal and track confusion or progress.",
+    "Preview text features and decide which sections merit closer reading.",
+    "Connect, question, and revise background knowledge in light of textual evidence.",
+    "Summarize and diagram complex sections.",
+    "Track and revise predictions and evidence-based inferences.",
+    "Infer unfamiliar vocabulary using context and meaningful word parts, then verify."
+  ],
+  "vocabulary": [
+    {
+      "term": "Metacognition",
+      "definition": "Awareness and regulation of one’s thinking while reading.",
+      "example": "I reread this paragraph because my explanation no longer fits."
+    },
+    {
+      "term": "Skimming",
+      "definition": "Reading quickly to understand overall structure and gist.",
+      "example": "Reading headings and opening sentences before close reading."
+    },
+    {
+      "term": "Scanning",
+      "definition": "Searching for a specific detail or term.",
+      "example": "Locating a methodology section or a date."
+    },
+    {
+      "term": "Schema",
+      "definition": "Organized prior knowledge used to interpret new information.",
+      "example": "A reader brings knowledge of climate systems to an article."
+    },
+    {
+      "term": "Summary",
+      "definition": "Concise restatement of central ideas and important relationships.",
+      "example": "A three-sentence explanation of an argument and its support."
+    },
+    {
+      "term": "Inference",
+      "definition": "A conclusion supported by textual clues and reasoning.",
+      "example": "Inferring a speaker’s hesitation from word choice and pauses."
+    },
+    {
+      "term": "Prediction",
+      "definition": "A tentative forecast based on patterns and evidence.",
+      "example": "Predicting how a conflict may develop, then revising after new events."
+    },
+    {
+      "term": "Morphology",
+      "definition": "Study of meaningful word parts such as roots and affixes.",
+      "example": "Using “bio-” and “-logy” to infer “biology.”"
+    },
+    {
+      "term": "Comprehension repair",
+      "definition": "A strategy for restoring understanding after confusion.",
+      "example": "Reread, annotate, consult a reliable reference, or ask a question."
+    }
+  ],
+  "targets": [
+    "I can set a purpose, monitor my understanding, and name a repair strategy when comprehension breaks down.",
+    "I can use skimming and scanning to find relevant sections efficiently.",
+    "I can distinguish prior assumptions from what a text actually supports.",
+    "I can summarize a dense passage and represent its key relationships visually.",
+    "I can track and revise predictions and inferences with evidence.",
+    "I can infer and verify the meanings of unfamiliar academic terms."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks (excerpt)",
+      "author": "Rebecca Skloot",
+      "genre": "narrative nonfiction",
+      "purpose": "Practice comprehension monitoring, contextual knowledge, and inference in a complex ethical/scientific narrative.",
+      "access": "Select a short, age-appropriate excerpt with background on consent and medical history.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "What must readers understand about science and ethics to interpret this scene?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.P.EICC.3.a",
+        "11.P.EICC.3.c",
+        "11.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "genre": "short fiction",
+      "purpose": "Track predictions, infer unstated values, and revise initial assumptions.",
+      "access": "Discuss moral complexity and age suitability; provide a structured reading guide.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "How does the story change your expectations of a seemingly perfect city?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.P.EICC.3.c",
+        "11.P.EICC.3.e",
+        "11.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "A current NASA climate science explainer",
+      "author": "NASA",
+      "genre": "science informational text",
+      "purpose": "Use headings and figures to skim, scan, summarize, and decode technical vocabulary.",
+      "access": "Use a dated NASA page and accessible figure descriptions.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": false,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "Can you locate the answer to a research question without reading every line?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.P.EICC.3.b",
+        "11.P.EICC.3.d",
+        "11.P.EICC.3.g"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "historical speech",
+      "purpose": "Use repeated close reading, historical context, and concise summarization of dense syntax.",
+      "access": "Public-domain text; provide historical context and audio.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "How much meaning can be packed into a short speech?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.P.EICC.3.a",
+        "11.P.EICC.3.c",
+        "11.P.EICC.3.d"
+      ]
+    },
+    {
+      "title": "The Paper Menagerie",
+      "author": "Ken Liu",
+      "genre": "short story",
+      "purpose": "Track changes in predictions and infer emotional and cultural tensions.",
+      "access": "Review emotional content; offer an excerpt or alternative.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "How does later information change the meaning of an earlier scene?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.P.EICC.3.e",
+        "11.P.EICC.3.f"
+      ]
+    },
+    {
+      "title": "A peer-reviewed research abstract in a student-interest field",
+      "author": "Open-access journal or ERIC",
+      "genre": "academic research abstract",
+      "purpose": "Preview structure, infer academic vocabulary, and distinguish findings from interpretations.",
+      "access": "Choose a legitimate accessible abstract; define domain terms as needed.",
+      "readingTime": "One class excerpt or 15–30 minutes",
+      "highInterest": false,
+      "accessibility": "Offer audio, a short excerpt, and contextual notes as appropriate.",
+      "interestHook": "Can you identify the research question and finding before reading the full article?",
+      "teachingPrompt": "Identify a precise passage; explain the writer’s choice and its effect, then compare an alternative choice.",
+      "alignment": [
+        "11.P.EICC.3.b",
+        "11.P.EICC.3.d",
+        "11.P.EICC.3.g"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "35–45 minutes",
+      "title": "Stop–notice–repair reading log",
+      "activity": "Read a chunked complex text. At two preselected pauses, students record what they understand, one confusion, and a repair action, then update their understanding.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Teacher think-aloud",
+        "Chunked passages",
+        "Menu of repair strategies"
+      ],
+      "success": "Log shows a specific confusion and an appropriate repair, not just “I reread.”",
+      "alignment": [
+        "11.P.EICC.3.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "35–45 minutes",
+      "title": "Strategic preview challenge",
+      "activity": "Given a research question and a structured article, students skim for organization, scan for relevant evidence, then justify which two sections deserve close reading.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Text-feature checklist"
+      ],
+      "success": "Student locates relevant sections and explains why they fit the goal.",
+      "alignment": [
+        "11.P.EICC.3.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "35–45 minutes",
+      "title": "Knowledge audit",
+      "activity": "Before reading, students list prior beliefs about a topic; during reading they label statements confirmed, complicated, or contradicted, citing evidence.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Three-column organizer"
+      ],
+      "success": "Student revises at least one initial assumption based on the text.",
+      "alignment": [
+        "11.P.EICC.3.c"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "35–45 minutes",
+      "title": "Gist plus visual map",
+      "activity": "Students summarize each paragraph in 8–12 words and connect the three most important ideas in a cause-effect or comparison diagram.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Central-idea sentence frames",
+        "Model visual organizer"
+      ],
+      "success": "Summary and diagram accurately capture relationships without excessive detail.",
+      "alignment": [
+        "11.P.EICC.3.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "35–45 minutes",
+      "title": "Prediction and inference evidence trail",
+      "activity": "Students keep a time-stamped reading journal of predictions and deeper inferences, citing support and revising after contradictory evidence appears.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Evidence-strength rubric"
+      ],
+      "success": "Students explicitly distinguish inference from speculation and update at least one claim.",
+      "alignment": [
+        "11.P.EICC.3.e",
+        "11.P.EICC.3.f"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "35–45 minutes",
+      "title": "Context-and-morpheme lab",
+      "activity": "Students infer six domain-specific words from nearby clues and word parts, then confirm with an authoritative dictionary or glossary.",
+      "materials": [
+        "Mentor text excerpt",
+        "Annotation or planning organizer"
+      ],
+      "scaffolds": [
+        "Root/affix reference sheet",
+        "Context clue prompts"
+      ],
+      "success": "At least five meanings are accurate, with a defensible explanation of the inference process.",
+      "alignment": [
+        "11.P.EICC.3.g"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A reader notices that an article’s conclusion conflicts with their notes. Which response best demonstrates comprehension monitoring?",
+      "answer": "Return to the relevant evidence, check whether the notes or interpretation were mistaken, and revise understanding.",
+      "rationale": "Monitoring involves diagnosing and repairing confusion, not merely reading faster.",
+      "alignment": [
+        "11.P.EICC.3.a"
+      ],
+      "options": [
+        "Ignore the inconsistency.",
+        "Read only the conclusion again without checking evidence.",
+        "Return to the relevant evidence, check the notes, and revise understanding.",
+        "Replace the conclusion with the reader’s original opinion."
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "A research article includes an abstract, methods, results, and discussion. Explain how you would skim and scan it to answer “How large was the study sample?”",
+      "answer": "Skim the article structure, then scan methods or participant information for the sample size; verify context.",
+      "rationale": "The strategy should be matched to the information need.",
+      "alignment": [
+        "11.P.EICC.3.b"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Describe an initial assumption you brought to a text and explain how a specific passage confirmed, complicated, or changed it.",
+      "answer": "Scoring: explicit prior assumption, precise textual evidence, and reasoned update.",
+      "rationale": "Connections should be revised when evidence conflicts.",
+      "alignment": [
+        "11.P.EICC.3.c"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Summarize a dense paragraph in three sentences and create a labeled diagram of its central relationship.",
+      "answer": "Scoring: central idea, important supporting relationship, accurate paraphrase, coherent visual structure.",
+      "rationale": "A summary is selective rather than a list of all details.",
+      "alignment": [
+        "11.P.EICC.3.d"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Record one prediction and one inference from a story, citing a clue for each; explain how later information could change either.",
+      "answer": "Scoring: distinguishes future-oriented prediction from evidence-based inference, with textual support and openness to revision.",
+      "rationale": "Predictions and inferences must be checked against subsequent evidence.",
+      "alignment": [
+        "11.P.EICC.3.e",
+        "11.P.EICC.3.f"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain the likely meaning of “interdisciplinary” using its parts and sentence context; identify how you would verify it.",
+      "answer": "Inter- means between or among, and disciplinary refers to fields of study; verify with a credible dictionary or academic glossary.",
+      "rationale": "Morphology plus context gives a hypothesis, not automatic certainty.",
+      "alignment": [
+        "11.P.EICC.3.g"
+      ]
+    }
+  ],
+  "evidence": [
+    "Purpose-driven annotation log showing comprehension checks and repair actions.",
+    "Efficient text-feature navigation tied to a concrete research question.",
+    "Prior-knowledge audit with evidence-based revisions.",
+    "Accurate summaries, visual representations, and inference/prediction logs.",
+    "Vocabulary inference chart with verified meanings."
+  ],
+  "instruction": [
+    "Model why a particular reading strategy fits a specific task and when to switch strategies.",
+    "Teach readers to mark uncertainty explicitly and distinguish it from lack of effort.",
+    "Use multiple genres, including complex literary and disciplinary texts, so strategies transfer.",
+    "Have students justify revisions to predictions and background knowledge using exact evidence."
+  ],
+  "watchFor": [
+    "Students treat skimming as careless reading rather than a strategic preview.",
+    "Students confuse unsupported guesses with inferences.",
+    "Students summarize by copying rather than selecting central ideas.",
+    "Students use background knowledge to override contrary textual evidence.",
+    "Students infer vocabulary from a root alone without checking context."
+  ],
+  "skills": {
+    "11.P.EICC.3.a": {
+      "focus": "Purpose, goals, monitoring, and repair",
+      "studentFriendly": "I can set a reading goal and adjust when I am confused.",
+      "know": [
+        "A reading goal and a repair-strategy repertoire."
+      ],
+      "understand": [
+        "Readers actively monitor and change course when needed."
+      ],
+      "do": [
+        "Set a goal, mark confusion, choose a repair, and evaluate whether it worked."
+      ],
+      "targets": [
+        "I can explain one effective comprehension repair."
+      ],
+      "instruction": [
+        "Think aloud through a deliberate misunderstanding."
+      ],
+      "evidence": [
+        "Goal-and-repair log."
+      ],
+      "watchFor": [
+        "Writing “I don’t get it” without identifying the point of confusion."
+      ]
+    },
+    "11.P.EICC.3.b": {
+      "focus": "Skim, scan, and select useful sections",
+      "studentFriendly": "I can preview structure and locate the sections that answer my question.",
+      "know": [
+        "Headings, abstracts, topic sentences, captions, and indexes support navigation."
+      ],
+      "understand": [
+        "Different information needs require different reading speeds and paths."
+      ],
+      "do": [
+        "Preview structure and locate targeted information efficiently."
+      ],
+      "targets": [
+        "I can justify which sections need close reading."
+      ],
+      "instruction": [
+        "Model a timed search using article sections."
+      ],
+      "evidence": [
+        "Annotated navigation plan."
+      ],
+      "watchFor": [
+        "Reading everything linearly when the task is targeted."
+      ]
+    },
+    "11.P.EICC.3.c": {
+      "focus": "Integrate and revise prior knowledge",
+      "studentFriendly": "I can compare what I thought I knew with what the text shows.",
+      "know": [
+        "Prior knowledge can help or bias interpretation."
+      ],
+      "understand": [
+        "Evidence may confirm, complicate, or contradict a prior belief."
+      ],
+      "do": [
+        "List assumptions, compare evidence, and revise claims."
+      ],
+      "targets": [
+        "I can explain one evidence-based change in understanding."
+      ],
+      "instruction": [
+        "Use a confirm-complicate-contradict chart."
+      ],
+      "evidence": [
+        "Knowledge audit with citations."
+      ],
+      "watchFor": [
+        "Treating familiarity as proof."
+      ]
+    },
+    "11.P.EICC.3.d": {
+      "focus": "Summarize and visualize complex sections",
+      "studentFriendly": "I can summarize the central idea and show how key concepts relate.",
+      "know": [
+        "Summaries select essential ideas; diagrams show relationships."
+      ],
+      "understand": [
+        "A visual model should preserve the logic of the text."
+      ],
+      "do": [
+        "Paraphrase a section and build a labeled relationship diagram."
+      ],
+      "targets": [
+        "I can capture a section’s gist without copying it."
+      ],
+      "instruction": [
+        "Model a cause-effect or comparison map."
+      ],
+      "evidence": [
+        "Concise summary and accurate diagram."
+      ],
+      "watchFor": [
+        "Including every detail or inventing a relationship."
+      ]
+    },
+    "11.P.EICC.3.e": {
+      "focus": "Track and revise predictions",
+      "studentFriendly": "I can predict what comes next and update my thinking as I read.",
+      "know": [
+        "Predictions are provisional claims about later content."
+      ],
+      "understand": [
+        "Good readers revise expectations when evidence changes."
+      ],
+      "do": [
+        "Predict, cite clues, revisit, and revise."
+      ],
+      "targets": [
+        "I can explain why a prediction changed."
+      ],
+      "instruction": [
+        "Pause before a turning point and revisit afterward."
+      ],
+      "evidence": [
+        "Prediction-evidence-revision log."
+      ],
+      "watchFor": [
+        "Treating an early prediction as permanently correct."
+      ]
+    },
+    "11.P.EICC.3.f": {
+      "focus": "Make and support layered inferences",
+      "studentFriendly": "I can infer deeper meaning from textual clues and explain my reasoning.",
+      "know": [
+        "Inference combines textual clues and plausible reasoning."
+      ],
+      "understand": [
+        "Interpretations vary, but credible ones are evidence-grounded."
+      ],
+      "do": [
+        "Infer character motives, implications, or unstated assumptions and cite support."
+      ],
+      "targets": [
+        "I can distinguish an inference from an unsupported guess."
+      ],
+      "instruction": [
+        "Model clue-plus-reasoning chains."
+      ],
+      "evidence": [
+        "Inference paragraph with exact evidence."
+      ],
+      "watchFor": [
+        "Confusing personal opinion with textual implication."
+      ]
+    },
+    "11.P.EICC.3.g": {
+      "focus": "Determine unfamiliar word meanings",
+      "studentFriendly": "I can infer and verify unfamiliar words using context and word parts.",
+      "know": [
+        "Context clues, roots, affixes, and disciplinary conventions."
+      ],
+      "understand": [
+        "A plausible inferred meaning should be checked against usage."
+      ],
+      "do": [
+        "Use context and morphology to hypothesize, then verify."
+      ],
+      "targets": [
+        "I can justify and confirm a technical term’s meaning."
+      ],
+      "instruction": [
+        "Teach morphology alongside authentic sentence context."
+      ],
+      "evidence": [
+        "Verified vocabulary inference chart."
+      ],
+      "watchFor": [
+        "Using a single word part to force an incorrect meaning."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
   ]
 }
