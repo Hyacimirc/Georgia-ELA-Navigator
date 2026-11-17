@@ -1,5 +1,5 @@
-
-[
+{
+  "unpackings": [
   {
     "code": "11.L.GC.1",
     "status": "draft — independently developed instructional guidance; educator review recommended",
@@ -716,4 +716,5 @@
     },
     "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, permissions, reading level, source currency, and age suitability."
   }
-]
+  ]
+}
