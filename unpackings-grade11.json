@@ -2508,5 +2508,922 @@
     "I can explain and revise my narrative choices for audience and purpose."
   ]
 }
+    ,
+{
+  "code": "11.T.T.4",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Poetic Techniques",
+  "studentFriendly": "I can analyze and evaluate how poets use sound, imagery, form, figurative language, and other poetic techniques to develop meaning and themes; I can use these techniques deliberately to write poetry for a specific purpose and audience.",
+  "know": [
+    "Poetry uses deliberate choices in sound, lineation, form, imagery, figurative language, and diction.",
+    "A poem’s speaker is not automatically the poet; voice and perspective must be inferred from the text.",
+    "Line breaks, enjambment, and end-stopping affect pace, emphasis, and ambiguity.",
+    "Rhythm, meter, repetition, alliteration, and assonance can reinforce meaning or mood.",
+    "Imagery and figurative language create associations that develop themes rather than merely decorate a poem.",
+    "Fixed forms and free verse offer different opportunities and constraints.",
+    "A poem’s visual arrangement can influence reading and interpretation.",
+    "Poetic techniques should be evaluated in relation to audience, purpose, and theme.",
+    "Poets can adapt or subvert conventions to produce intentional effects."
+  ],
+  "understand": [
+    "A technique matters because of what it accomplishes in a particular poem, not simply because it can be named.",
+    "Sound and form can reinforce, complicate, or contradict literal meaning.",
+    "Interpretations require specific textual evidence and attention to alternative readings.",
+    "Poetic choices are shaped by purpose and intended audience.",
+    "Writers can borrow techniques from mentor poems without copying their language or ideas.",
+    "Revision of poetry includes testing sound aloud, line breaks, word choice, and imagery."
+  ],
+  "do": [
+    "Read, discuss, evaluate, and critique poems representing varied traditions and forms.",
+    "Annotate imagery, figurative language, diction, sound, lineation, and structure.",
+    "Explain how particular techniques develop meaning or theme.",
+    "Compare how different poets use similar techniques to achieve different effects.",
+    "Evaluate whether a poetic choice serves its purpose and audience.",
+    "Create original poems using intentionally selected techniques and conventions.",
+    "Revise poems for precision, rhythm, emphasis, and coherence.",
+    "Annotate original craft decisions and explain intended effects."
+  ],
+  "vocabulary": [
+    {
+      "term": "Enjambment",
+      "definition": "A poetic line that continues syntactically into the next line without a terminal pause.",
+      "example": "A line ends before the sentence completes, inviting two readings."
+    },
+    {
+      "term": "End-stopped line",
+      "definition": "A poetic line ending at a natural syntactic pause.",
+      "example": "A period at the end of a line creates closure."
+    },
+    {
+      "term": "Imagery",
+      "definition": "Language that evokes sensory experience.",
+      "example": "The smell of rain on hot pavement."
+    },
+    {
+      "term": "Metaphor",
+      "definition": "A comparison that presents one thing as another.",
+      "example": "The city is a restless engine."
+    },
+    {
+      "term": "Simile",
+      "definition": "A comparison using like or as.",
+      "example": "The streetlights flickered like fireflies."
+    },
+    {
+      "term": "Alliteration",
+      "definition": "Repetition of initial consonant sounds.",
+      "example": "Wild winds worried the windows."
+    },
+    {
+      "term": "Assonance",
+      "definition": "Repetition of vowel sounds in nearby words.",
+      "example": "The low road home."
+    },
+    {
+      "term": "Consonance",
+      "definition": "Repetition of consonant sounds within or at the ends of nearby words.",
+      "example": "The dark rock cracked."
+    },
+    {
+      "term": "Rhythm",
+      "definition": "A patterned movement of stressed and unstressed syllables or pauses.",
+      "example": "A repeated beat that accelerates a poem."
+    },
+    {
+      "term": "Meter",
+      "definition": "A recurring pattern of stressed and unstressed syllables.",
+      "example": "An iambic pattern of unstressed then stressed syllables."
+    },
+    {
+      "term": "Free verse",
+      "definition": "Poetry not organized by a fixed metrical or rhyme scheme.",
+      "example": "A poem using irregular lines for deliberate pacing."
+    },
+    {
+      "term": "Refrain",
+      "definition": "A repeated word, phrase, or line.",
+      "example": "A recurring line that changes significance by the ending."
+    },
+    {
+      "term": "Volta",
+      "definition": "A turn in a poem’s thought, argument, or feeling.",
+      "example": "A sonnet shifts from problem to insight."
+    },
+    {
+      "term": "Speaker",
+      "definition": "The voice presented as speaking within a poem.",
+      "example": "A fictional narrator addresses an absent friend."
+    }
+  ],
+  "targets": [
+    "I can explain how poetic techniques shape meaning and theme.",
+    "I can analyze the effects of line breaks, sound, and form.",
+    "I can compare techniques across poems.",
+    "I can support interpretations with precise textual evidence.",
+    "I can create poetry suited to a purpose and audience.",
+    "I can revise and justify my poetic craft choices."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "We Real Cool",
+      "author": "Gwendolyn Brooks",
+      "genre": "Poem",
+      "purpose": "Examine lineation, rhythm, voice, and compressed characterization.",
+      "access": "Licensed anthology or authorized publisher source.",
+      "readingTime": "10 minutes",
+      "highInterest": true,
+      "accessibility": "Read aloud twice and discuss the poem’s historical context.",
+      "interestHook": "Tiny shifts in line breaks radically change the poem’s rhythm.",
+      "teachingPrompt": "How do the repeated line endings affect the speakers’ identities and the ending?",
+      "alignment": [
+        "11.T.T.4.a"
+      ]
+    },
+    {
+      "title": "The Fish",
+      "author": "Elizabeth Bishop",
+      "genre": "Poem",
+      "purpose": "Study detailed imagery, shifts in perception, and the relationship between description and theme.",
+      "access": "Authorized anthology or publisher source.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide visual references for fishing terminology.",
+      "interestHook": "A close look at an ordinary catch becomes a moment of recognition.",
+      "teachingPrompt": "Which details prepare the poem’s final change in perspective?",
+      "alignment": [
+        "11.T.T.4.a"
+      ]
+    },
+    {
+      "title": "Harlem",
+      "author": "Langston Hughes",
+      "genre": "Poem",
+      "purpose": "Evaluate imagery, simile, rhetorical questions, and social context.",
+      "access": "Licensed anthology or authorized archive.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Introduce the Harlem Renaissance and discuss historical context.",
+      "interestHook": "A series of everyday images asks an urgent question about deferred dreams.",
+      "teachingPrompt": "How do the different images build toward the final line?",
+      "alignment": [
+        "11.T.T.4.a"
+      ]
+    },
+    {
+      "title": "Because I could not stop for Death",
+      "author": "Emily Dickinson",
+      "genre": "Poem",
+      "purpose": "Analyze personification, slant rhyme, punctuation, and shifts in time.",
+      "access": "Public-domain text from a scholarly archive.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Clarify historical punctuation and offer a reading aloud.",
+      "interestHook": "A carriage ride turns into a meditation on mortality.",
+      "teachingPrompt": "How do the poem’s formal choices complicate its calm tone?",
+      "alignment": [
+        "11.T.T.4.a"
+      ]
+    },
+    {
+      "title": "The Hill We Climb",
+      "author": "Amanda Gorman",
+      "genre": "Occasional poem",
+      "purpose": "Explore sound, parallelism, audience, and the relationship between occasion and poetic purpose.",
+      "access": "Authorized transcript, video, or published edition.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Use captions and introduce the public occasion.",
+      "interestHook": "Poetry becomes a public performance intended to unite and challenge listeners.",
+      "teachingPrompt": "Which sound and structural techniques are especially effective when heard aloud?",
+      "alignment": [
+        "11.T.T.4.a",
+        "11.T.T.4.b"
+      ]
+    },
+    {
+      "title": "Original Community Portrait Poem",
+      "author": "Student author",
+      "genre": "Original poetry",
+      "purpose": "Apply poetic conventions and deliberate technique to create an audience-centered poem.",
+      "access": "Student-created text.",
+      "readingTime": "30–45 minutes",
+      "highInterest": true,
+      "accessibility": "Provide optional mentor structures and an oral-performance alternative.",
+      "interestHook": "A familiar place can become newly visible through poetic craft.",
+      "teachingPrompt": "Which techniques best convey the place’s meaning to your chosen audience?",
+      "alignment": [
+        "11.T.T.4.b"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Sound and Image Sort",
+      "activity": "Students match short poetic excerpts to techniques, then explain a likely effect in one complete sentence.",
+      "materials": [
+        "Brief excerpts",
+        "Technique reference sheet"
+      ],
+      "scaffolds": [
+        "Model the difference between identifying and interpreting a technique."
+      ],
+      "success": "Students accurately explain the effect of three choices.",
+      "alignment": [
+        "11.T.T.4.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Line Break Laboratory",
+      "activity": "Students compare one sentence arranged as prose, end-stopped verse, and enjambed verse, reading each aloud and discussing changes.",
+      "materials": [
+        "Teacher-created lines",
+        "Annotation guide"
+      ],
+      "scaffolds": [
+        "Use color coding for syntactic pauses."
+      ],
+      "success": "Students explain two effects of lineation with evidence.",
+      "alignment": [
+        "11.T.T.4.a",
+        "11.T.T.4.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Two Poems, One Technique",
+      "activity": "Students compare imagery or repetition in two poems and write an evidence-based explanation of different thematic effects.",
+      "materials": [
+        "Two short poems",
+        "Comparison organizer"
+      ],
+      "scaffolds": [
+        "Provide a model comparative claim."
+      ],
+      "success": "Students support a nuanced comparison with specific lines.",
+      "alignment": [
+        "11.T.T.4.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Poem and Poet’s Note",
+      "activity": "Students compose an original poem for a stated audience, revise its sound and imagery, and write a craft note connecting choices to purpose.",
+      "materials": [
+        "Mentor poems",
+        "Drafting notebook",
+        "Feedback checklist"
+      ],
+      "scaffolds": [
+        "Offer a choice of free verse, refrain, or fixed form."
+      ],
+      "success": "The poem demonstrates intentional technique and the note explains its effect.",
+      "alignment": [
+        "11.T.T.4.b"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "Reimagine the Form",
+      "activity": "Students recast a poem’s subject in a different form, compare how form changes meaning, and compose a new poem with annotated formal decisions.",
+      "materials": [
+        "Poetry collection",
+        "Comparative analysis guide"
+      ],
+      "scaffolds": [
+        "Require independent interpretation before transformation."
+      ],
+      "success": "Students show sophisticated control of form and defend its implications.",
+      "alignment": [
+        "11.T.T.4.a",
+        "11.T.T.4.b"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "What is the most useful question when evaluating enjambment?",
+      "answer": "How does the line break influence pacing, emphasis, or meaning?",
+      "rationale": "Poetic technique analysis should connect form to effect.",
+      "alignment": [
+        "11.T.T.4.a"
+      ],
+      "options": [
+        "Does every line contain exactly ten syllables?",
+        "How does the line break influence pacing, emphasis, or meaning?",
+        "Does the poem have the same number of words in every stanza?",
+        "Can the poet be identified from the title?"
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision most directly creates an auditory effect in a poem?",
+      "answer": "Replacing neutral diction with purposeful alliteration and assonance.",
+      "rationale": "Repeated sound patterns can influence rhythm and mood.",
+      "alignment": [
+        "11.T.T.4.b"
+      ],
+      "options": [
+        "Changing the page margin",
+        "Replacing neutral diction with purposeful alliteration and assonance.",
+        "Adding an unrelated fact",
+        "Removing the title without revising the poem"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Analyze how two techniques in a selected poem work together to develop a theme.",
+      "answer": "A strong response cites specific language and explains the combined effect rather than listing devices.",
+      "rationale": "This evaluates the relationship among craft, meaning, and theme.",
+      "alignment": [
+        "11.T.T.4.a"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain why a poet might choose free verse rather than a fixed rhyme scheme for a particular audience and purpose.",
+      "answer": "A strong response identifies meaningful possibilities and tradeoffs rather than claiming one form is inherently better.",
+      "rationale": "Form should be evaluated relative to intended effects.",
+      "alignment": [
+        "11.T.T.4.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a poem for a specific audience and purpose. Use at least three purposeful poetic techniques; revise after reading it aloud and submit a craft commentary.",
+      "answer": "Evaluate the poem’s effectiveness, deliberate craft choices, and commentary grounded in actual lines.",
+      "rationale": "Assesses interpretation-informed construction.",
+      "alignment": [
+        "11.T.T.4.a",
+        "11.T.T.4.b"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated poem with technique-to-meaning explanations.",
+    "Comparative analysis of two poets’ craft decisions.",
+    "Original poem with a stated purpose and audience.",
+    "Revision notes showing changes in lineation, diction, and sound.",
+    "Craft commentary explaining the effects of selected techniques."
+  ],
+  "instruction": [
+    "Model close reading with short, diverse poems and multiple readings aloud.",
+    "Require explanations of effects rather than technique identification alone.",
+    "Discuss speaker, context, and theme without assuming the speaker is the author.",
+    "Compare fixed forms and free verse without privileging one as more sophisticated.",
+    "Provide poetry-writing opportunities with authentic purposes.",
+    "Use performance and revision to test sound and pacing."
+  ],
+  "watchFor": [
+    "Treating the identification of devices as complete analysis.",
+    "Equating speaker and author.",
+    "Claiming that every image has one fixed symbolic meaning.",
+    "Forcing rhyme at the expense of purpose.",
+    "Overlooking how line breaks change interpretation.",
+    "Judging original poems only by mechanical correctness."
+  ],
+  "skills": {
+    "11.T.T.4.a": {
+      "focus": "Evaluate poetic techniques",
+      "studentFriendly": "I can critique how poets use techniques to shape content, meaning, and themes.",
+      "know": [
+        "Poetic techniques include form, sound, imagery, figurative language, and lineation."
+      ],
+      "understand": [
+        "A technique’s significance depends on its contribution to a poem’s meaning."
+      ],
+      "do": [
+        "Read and discuss varied poems.",
+        "Annotate specific techniques.",
+        "Evaluate effects on theme."
+      ],
+      "targets": [
+        "I can defend an interpretation using precise poetic evidence."
+      ],
+      "instruction": [
+        "Model close reading and comparative discussion."
+      ],
+      "evidence": [
+        "An evidence-based poetry analysis."
+      ],
+      "watchFor": [
+        "Naming devices without explaining effects."
+      ]
+    },
+    "11.T.T.4.b": {
+      "focus": "Construct poetry for an intended purpose",
+      "studentFriendly": "I can use poetic conventions and techniques to create an effective original poem.",
+      "know": [
+        "Poetic choices include form, imagery, sound, line breaks, and diction."
+      ],
+      "understand": [
+        "Poetic craft can be selected and revised for audience and purpose."
+      ],
+      "do": [
+        "Identify audience and purpose.",
+        "Compose a poem.",
+        "Revise techniques.",
+        "Explain decisions."
+      ],
+      "targets": [
+        "I can justify how my choices help my poem achieve its purpose."
+      ],
+      "instruction": [
+        "Use mentor texts, drafting workshops, and oral revision."
+      ],
+      "evidence": [
+        "An original revised poem and craft reflection."
+      ],
+      "watchFor": [
+        "Copying a mentor poem rather than developing an original voice."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source access, and age suitability."
+},
+{
+  "code": "11.T.C.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Purposes & Audiences",
+  "studentFriendly": "I can use a text’s disciplinary, personal, or technical purpose to deepen my understanding; assess how voice and tone affect an audience; and create and evaluate multimodal texts that serve multiple purposes for a specific audience.",
+  "know": [
+    "Texts can have distinct disciplinary, personal, and technical purposes.",
+    "Purpose influences a text’s evidence, vocabulary, structure, and level of explanation.",
+    "A disciplinary text follows expectations associated with a field of study.",
+    "A technical text may prioritize accuracy, procedures, and usability.",
+    "Personal texts can express identity, reflection, experience, or relationships.",
+    "Voice is the recognizable persona or manner conveyed by language and presentation.",
+    "Tone is the attitude communicated toward subject or audience.",
+    "A text’s reception depends partly on the relationship among tone, voice, audience, and context.",
+    "Multimodal texts combine two or more modes, such as written language, visuals, audio, or spatial design.",
+    "A multimodal text may simultaneously inform, persuade, entertain, or inspire action.",
+    "Effective creators can evaluate whether each mode contributes to the intended purposes."
+  ],
+  "understand": [
+    "Recognizing purpose helps readers decide what information matters and how to interpret it.",
+    "Voice and tone can build or damage credibility, trust, and engagement.",
+    "The same message may be received differently by different audiences.",
+    "Multiple modes should contribute identifiable functions rather than merely decorate a text.",
+    "Texts can serve multiple purposes without losing coherence.",
+    "Creators should evaluate the accessibility, accuracy, and effectiveness of multimodal communication."
+  ],
+  "do": [
+    "Identify disciplinary, personal, and technical purposes in varied texts.",
+    "Use knowledge of purpose to interpret organization, evidence, and language.",
+    "Analyze how voice and tone influence audience reception.",
+    "Compare how tone changes across contexts or audiences.",
+    "Plan a multimodal text for a clearly defined audience and multiple purposes.",
+    "Select and combine written, visual, audio, or other modes intentionally.",
+    "Explain the function of each mode and its features.",
+    "Evaluate the completed multimodal text against its purposes and audience needs.",
+    "Revise for accessibility, coherence, and effectiveness."
+  ],
+  "vocabulary": [
+    {
+      "term": "Purpose",
+      "definition": "The intended function or outcome of a text.",
+      "example": "A guide aims to instruct while also reassuring new users."
+    },
+    {
+      "term": "Audience",
+      "definition": "The people a text seeks to reach.",
+      "example": "Families new to a school system."
+    },
+    {
+      "term": "Disciplinary purpose",
+      "definition": "A purpose shaped by the conventions of a field.",
+      "example": "A scientific report communicates methods and findings."
+    },
+    {
+      "term": "Technical purpose",
+      "definition": "A purpose focused on procedures, systems, or practical information.",
+      "example": "An equipment guide explains safe operation."
+    },
+    {
+      "term": "Personal purpose",
+      "definition": "A purpose related to experience, identity, reflection, or relationships.",
+      "example": "A memoir reflects on a formative event."
+    },
+    {
+      "term": "Voice",
+      "definition": "The distinctive persona or manner conveyed by a text.",
+      "example": "A knowledgeable but approachable narrator."
+    },
+    {
+      "term": "Tone",
+      "definition": "The attitude conveyed toward a subject or audience.",
+      "example": "An urgent warning versus a reassuring explanation."
+    },
+    {
+      "term": "Reception",
+      "definition": "How an audience perceives or responds to a text.",
+      "example": "Readers distrust a message that sounds dismissive."
+    },
+    {
+      "term": "Multimodal text",
+      "definition": "Communication using multiple modes of meaning-making.",
+      "example": "An article combining written explanation, graphics, and audio."
+    },
+    {
+      "term": "Visual mode",
+      "definition": "Communication through images, color, diagrams, or other visual features.",
+      "example": "A chart illustrating a trend."
+    },
+    {
+      "term": "Aural mode",
+      "definition": "Communication through sound, speech, or music.",
+      "example": "A narrated explanation in a short video."
+    },
+    {
+      "term": "Spatial mode",
+      "definition": "Meaning conveyed through arrangement, proximity, and layout.",
+      "example": "Related information grouped on a webpage."
+    },
+    {
+      "term": "Accessibility",
+      "definition": "Design that enables diverse audiences to understand and use a text.",
+      "example": "Captions, alternative text, and clear headings."
+    },
+    {
+      "term": "Self-evaluation",
+      "definition": "Judging one’s own work against goals and criteria.",
+      "example": "Testing whether a guide is understandable to a new user."
+    }
+  ],
+  "targets": [
+    "I can use a text’s purpose to guide comprehension.",
+    "I can distinguish disciplinary, personal, and technical purposes.",
+    "I can evaluate the effects of voice and tone on different audiences.",
+    "I can plan a multimodal text for a defined audience.",
+    "I can combine modes to serve more than one purpose.",
+    "I can explain what each mode contributes.",
+    "I can evaluate and revise my multimodal work."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "NASA Climate Change: Evidence",
+      "author": "NASA",
+      "genre": "Scientific public information webpage",
+      "purpose": "Examine how disciplinary evidence is communicated to a broad audience.",
+      "access": "NASA official website.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Define scientific vocabulary and provide chart-reading support.",
+      "interestHook": "Scientific information must be both accurate and understandable.",
+      "teachingPrompt": "How does scientific purpose influence organization, tone, and visual choices?",
+      "alignment": [
+        "11.T.C.1.a",
+        "11.T.C.1.b"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Personal and persuasive speech",
+      "purpose": "Assess how personal narrative and conversational voice engage an audience while advancing a broader argument.",
+      "access": "Authorized TED transcript and video.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide captions and historical/cultural context.",
+      "interestHook": "A personal story can inform and challenge listeners simultaneously.",
+      "teachingPrompt": "How do shifts in tone affect the audience’s willingness to reconsider assumptions?",
+      "alignment": [
+        "11.T.C.1.a",
+        "11.T.C.1.b"
+      ]
+    },
+    {
+      "title": "A User Guide for a Familiar Device",
+      "author": "Manufacturer or public-service organization",
+      "genre": "Technical instructions",
+      "purpose": "Analyze precision, sequence, visual aids, and audience assumptions in technical communication.",
+      "access": "Official product support pages or teacher-created guide.",
+      "readingTime": "15 minutes",
+      "highInterest": true,
+      "accessibility": "Choose a familiar device and offer a simplified excerpt.",
+      "interestHook": "A confusing instruction can cause a real-world failure.",
+      "teachingPrompt": "Which features make the instructions usable for a novice?",
+      "alignment": [
+        "11.T.C.1.a",
+        "11.T.C.1.c"
+      ]
+    },
+    {
+      "title": "The Hill We Climb",
+      "author": "Amanda Gorman",
+      "genre": "Public poetry performance",
+      "purpose": "Explore how written, spoken, and visual presentation can inform, inspire, and unite an audience.",
+      "access": "Authorized video and transcript.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide captions and contextualize the occasion.",
+      "interestHook": "A poem’s delivery changes how an audience experiences its message.",
+      "teachingPrompt": "How do vocal delivery and language work together to serve multiple purposes?",
+      "alignment": [
+        "11.T.C.1.b",
+        "11.T.C.1.c"
+      ]
+    },
+    {
+      "title": "A Public Health Campaign",
+      "author": "Credible public health agency",
+      "genre": "Multimodal public information",
+      "purpose": "Evaluate how text, images, charts, and accessibility features jointly inform and persuade.",
+      "access": "Current official public health campaign materials.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Choose a non-graphic age-appropriate campaign.",
+      "interestHook": "A campaign may need to teach facts and encourage behavior change at once.",
+      "teachingPrompt": "What does each mode contribute, and what could be improved for the target audience?",
+      "alignment": [
+        "11.T.C.1.a",
+        "11.T.C.1.b",
+        "11.T.C.1.c"
+      ]
+    },
+    {
+      "title": "A Student-Designed Orientation Guide",
+      "author": "Student author",
+      "genre": "Multimodal informational and persuasive guide",
+      "purpose": "Construct and self-evaluate a resource that informs new students and encourages participation.",
+      "access": "Student-created text.",
+      "readingTime": "Two class periods",
+      "highInterest": true,
+      "accessibility": "Offer templates, accessibility checklist, and alternative modes.",
+      "interestHook": "An effective guide must answer questions while making newcomers feel welcome.",
+      "teachingPrompt": "How does each selected mode support both information and engagement?",
+      "alignment": [
+        "11.T.C.1.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "What Is This Text For?",
+      "activity": "Students sort short texts by disciplinary, personal, or technical purpose and identify evidence supporting each choice.",
+      "materials": [
+        "Three short excerpts",
+        "Purpose organizer"
+      ],
+      "scaffolds": [
+        "Provide guiding questions and modeled examples."
+      ],
+      "success": "Students justify classifications with textual features.",
+      "alignment": [
+        "11.T.C.1.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Tone Switch",
+      "activity": "Students revise the same announcement for two audiences and compare the resulting tone and likely reception.",
+      "materials": [
+        "Announcement template",
+        "Tone word bank"
+      ],
+      "scaffolds": [
+        "Model how diction and sentence structure signal attitude."
+      ],
+      "success": "Students explain two audience-specific changes.",
+      "alignment": [
+        "11.T.C.1.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Audience Reception Study",
+      "activity": "Students compare two public messages on the same issue and assess how voice and tone may influence different audiences.",
+      "materials": [
+        "Paired messages",
+        "Reception analysis rubric"
+      ],
+      "scaffolds": [
+        "Require evidence and distinguish likely effects from proven responses."
+      ],
+      "success": "Students write a supported evaluation of tone and reception.",
+      "alignment": [
+        "11.T.C.1.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Two Purposes, Three Modes",
+      "activity": "Students create a short orientation resource that informs an audience and encourages a specific action, using written, visual, and one additional mode.",
+      "materials": [
+        "Design tools",
+        "Accessibility checklist",
+        "Audience profile"
+      ],
+      "scaffolds": [
+        "Provide a planning grid identifying the function of each mode."
+      ],
+      "success": "Students produce and self-evaluate a coherent multimodal text.",
+      "alignment": [
+        "11.T.C.1.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "Multimodal Communication Audit",
+      "activity": "Students evaluate a public-facing campaign for disciplinary accuracy, tone, accessibility, and dual purposes; they redesign one component and defend their decisions.",
+      "materials": [
+        "Campaign materials",
+        "Research sources",
+        "Design tools"
+      ],
+      "scaffolds": [
+        "Require an evidence-based audience analysis and usability test."
+      ],
+      "success": "Students demonstrate sophisticated alignment among audience, purposes, and modes.",
+      "alignment": [
+        "11.T.C.1.a",
+        "11.T.C.1.b",
+        "11.T.C.1.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which feature is most likely to support comprehension of a technical instruction manual?",
+      "answer": "A clearly sequenced procedure with labeled diagrams.",
+      "rationale": "Technical purpose favors accuracy, usability, and sequence.",
+      "alignment": [
+        "11.T.C.1.a"
+      ],
+      "options": [
+        "An unrelated personal anecdote",
+        "A clearly sequenced procedure with labeled diagrams.",
+        "An intentionally ambiguous conclusion",
+        "An unexplained shift in terminology"
+      ]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A school announcement says, “Obviously, anyone paying attention already knows the rule.” What is the most likely concern about its reception?",
+      "answer": "Its dismissive tone may alienate the intended audience.",
+      "rationale": "Tone can affect trust and willingness to engage.",
+      "alignment": [
+        "11.T.C.1.b"
+      ],
+      "options": [
+        "Its dismissive tone may alienate the intended audience.",
+        "It includes too many data tables.",
+        "It lacks a rhyme scheme.",
+        "It uses a technical diagram."
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare the purpose and audience expectations of a scientific explanation and a personal reflection on the same topic.",
+      "answer": "A strong response explains differences in evidence, diction, organization, and intended reader experience.",
+      "rationale": "Purpose knowledge supports comprehension.",
+      "alignment": [
+        "11.T.C.1.a"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how changing a public message from reassuring to urgent might affect audience reception.",
+      "answer": "A strong response identifies language choices, plausible effects, and relevant context.",
+      "rationale": "Voice and tone influence reception but effects should not be assumed universal.",
+      "alignment": [
+        "11.T.C.1.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a multimodal resource for a specific audience that both informs and persuades. Include at least two clearly identifiable modes and explain how their features serve both purposes. Conduct a self-evaluation and revise.",
+      "answer": "Evaluate audience fit, clarity of dual purposes, meaningful use of modes, accessibility, and reflective revision.",
+      "rationale": "Assesses multimodal construction and self-evaluation.",
+      "alignment": [
+        "11.T.C.1.c"
+      ]
+    }
+  ],
+  "evidence": [
+    "Purpose analysis of disciplinary, personal, and technical texts.",
+    "Comparative analysis of voice, tone, and likely reception.",
+    "Multimodal planning document naming audience and two purposes.",
+    "Completed multimodal text with identifiable mode-specific features.",
+    "Self-evaluation and documented revision."
+  ],
+  "instruction": [
+    "Use authentic texts from varied disciplines and contexts.",
+    "Model how recognizing purpose supports comprehension.",
+    "Analyze tone through specific word choices and delivery features.",
+    "Distinguish predicted reception from documented audience response.",
+    "Require each mode in student work to have a clear communicative function.",
+    "Teach captions, contrast, readable layout, and alternative text as accessibility considerations.",
+    "Use criteria-based self-evaluation and audience testing."
+  ],
+  "watchFor": [
+    "Assuming texts have only one purpose.",
+    "Confusing voice with tone.",
+    "Claiming all audience members respond identically.",
+    "Adding visuals without a communicative purpose.",
+    "Counting multiple modes without analyzing their features.",
+    "Ignoring accessibility when evaluating multimodal work.",
+    "Omitting self-evaluation after creating a presentation."
+  ],
+  "skills": {
+    "11.T.C.1.a": {
+      "focus": "Use knowledge of distinct purposes to comprehend texts",
+      "studentFriendly": "I can recognize disciplinary, personal, and technical purposes and use that knowledge to interpret a text.",
+      "know": [
+        "Different purposes create different expectations for evidence, structure, and language."
+      ],
+      "understand": [
+        "Identifying purpose helps readers make sense of a text."
+      ],
+      "do": [
+        "Identify purpose.",
+        "Examine text features.",
+        "Explain comprehension choices."
+      ],
+      "targets": [
+        "I can show how purpose shapes what I expect and understand."
+      ],
+      "instruction": [
+        "Compare texts serving distinct purposes."
+      ],
+      "evidence": [
+        "An annotated purpose-based comprehension analysis."
+      ],
+      "watchFor": [
+        "Assuming all informational texts have identical purposes."
+      ]
+    },
+    "11.T.C.1.b": {
+      "focus": "Assess voice, tone, and audience reception",
+      "studentFriendly": "I can evaluate how voice and tone affect the way an audience receives a message.",
+      "know": [
+        "Voice conveys a persona; tone conveys attitude."
+      ],
+      "understand": [
+        "Reception depends on the interaction of language, audience, and context."
+      ],
+      "do": [
+        "Identify voice and tone.",
+        "Cite specific choices.",
+        "Evaluate likely reception."
+      ],
+      "targets": [
+        "I can support a judgment about tone and audience response."
+      ],
+      "instruction": [
+        "Compare versions of a message for different audiences."
+      ],
+      "evidence": [
+        "A tone and reception analysis."
+      ],
+      "watchFor": [
+        "Predicting a universal audience reaction without evidence."
+      ]
+    },
+    "11.T.C.1.c": {
+      "focus": "Construct and self-evaluate multipurpose multimodal texts",
+      "studentFriendly": "I can create and evaluate a multimodal text that serves multiple purposes for a specific audience.",
+      "know": [
+        "Multimodal texts combine identifiable modes with distinct features."
+      ],
+      "understand": [
+        "Each mode should contribute meaningfully to audience needs and purposes."
+      ],
+      "do": [
+        "Define audience and two purposes.",
+        "Choose modes.",
+        "Construct text.",
+        "Self-evaluate and revise."
+      ],
+      "targets": [
+        "I can explain how each mode helps my text achieve its purposes."
+      ],
+      "instruction": [
+        "Use mode-purpose planning matrices and usability feedback."
+      ],
+      "evidence": [
+        "A multimodal product, self-evaluation, and revision."
+      ],
+      "watchFor": [
+        "Using decorative modes without clear communicative functions."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source access, and age suitability."
+}
   ]
 }
