@@ -23217,5 +23217,806 @@
   "readingSelectionNote": "These are independently developed instructional recommendations, not Georgia-prescribed texts. Verify editions, availability, permissions, reading level, and local instructional requirements."
 }
 
+,
+{
+  "code": "10.L.V.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Meaning & Purpose",
+  "studentFriendly": "I can analyze subtle differences in word meanings, verify unfamiliar language, and choose words that communicate exactly what I intend.",
+  "know": [
+    "Denotation is a word's direct or conventional meaning.",
+    "Connotation includes the emotional, social, or cultural associations a word suggests.",
+    "Words with similar denotations can communicate different attitudes or levels of intensity.",
+    "Word relationships include synonymy, antonymy, and differences in degree or register.",
+    "A word's meaning depends on its context and grammatical use.",
+    "Print and digital dictionaries, usage guides, style guides, and other reference tools can clarify meanings.",
+    "Effective speakers and writers verify nuanced word meanings before using unfamiliar or closely related expressions."
+  ],
+  "understand": [
+    "Words communicate attitudes and associations as well as information.",
+    "Small differences in connotation can substantially affect tone and audience response.",
+    "Synonyms are not always interchangeable.",
+    "Context helps establish which meaning or shade of meaning is intended.",
+    "Reliable reference tools help readers interpret unfamiliar language and writers make strategic choices.",
+    "Precision requires attention to denotation, connotation, audience, and purpose."
+  ],
+  "do": [
+    "Analyze relationships among words to determine denotative and connotative meanings.",
+    "Compare words with similar denotations but different associations.",
+    "Explain how a word's connotation shapes tone or audience response.",
+    "Use context and reliable references to resolve unfamiliar or multiple meanings.",
+    "Consult dictionaries, usage references, and style guides when evaluating word choices.",
+    "Select precise words for a specific rhetorical purpose.",
+    "Revise language to adjust tone, intensity, and nuance.",
+    "Justify word choices with evidence about meaning and context."
+  ],
+  "vocabulary": [
+    {
+      "term": "Denotation",
+      "definition": "A word's direct or conventional meaning.",
+      "example": "Residence and home can both refer to a place where someone lives."
+    },
+    {
+      "term": "Connotation",
+      "definition": "An association or feeling suggested by a word beyond its direct meaning.",
+      "example": "Home may suggest warmth and belonging, while residence sounds more formal."
+    },
+    {
+      "term": "Nuance",
+      "definition": "A subtle difference in meaning, tone, or implication.",
+      "example": "Concerned, worried, and alarmed suggest different degrees of anxiety."
+    },
+    {
+      "term": "Synonym",
+      "definition": "A word with a similar meaning to another word.",
+      "example": "Persistent and stubborn overlap in meaning but differ in connotation."
+    },
+    {
+      "term": "Antonym",
+      "definition": "A word expressing an opposite or contrasting meaning.",
+      "example": "Optimistic and pessimistic."
+    },
+    {
+      "term": "Semantic relationship",
+      "definition": "A relationship between words based on meaning.",
+      "example": "The difference in intensity between annoyed and furious."
+    },
+    {
+      "term": "Register",
+      "definition": "A level or style of language appropriate to a situation.",
+      "example": "Commence is generally more formal than start."
+    },
+    {
+      "term": "Tone",
+      "definition": "An attitude communicated through language and stylistic choices.",
+      "example": "Calling a proposal ambitious rather than reckless changes the implied judgment."
+    },
+    {
+      "term": "Multiple-meaning word",
+      "definition": "A word with more than one established meaning.",
+      "example": "Novel can mean a fictional book or something new and unusual."
+    },
+    {
+      "term": "Usage guide",
+      "definition": "A reference explaining accepted or context-dependent language conventions.",
+      "example": "A guide comparing commonly confused expressions."
+    },
+    {
+      "term": "Style guide",
+      "definition": "A reference establishing conventions for language and presentation.",
+      "example": "A publication's guidance for terminology and capitalization."
+    },
+    {
+      "term": "Diction",
+      "definition": "A writer's or speaker's selection of words.",
+      "example": "Choosing precise scientific terms instead of vague descriptions."
+    }
+  ],
+  "targets": [
+    "I can distinguish denotation from connotation.",
+    "I can explain relationships among words in context.",
+    "I can compare subtle differences among words with similar definitions.",
+    "I can explain how word choice shapes tone and audience response.",
+    "I can use reliable references to verify unfamiliar or multiple meanings.",
+    "I can revise language to achieve a precise rhetorical effect.",
+    "I can explain why my chosen wording is more effective than an alternative."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Analyze the connotations of labels, descriptions, and repeated expressions.",
+      "access": "Authorized TED talk or transcript.",
+      "readingTime": "15–20 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Provide context for cultural references.",
+      "interestHook": "The words used to describe people influence how others perceive them.",
+      "teachingPrompt": "How do the speaker's word choices challenge assumptions about identity?",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c"]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Study emotional associations, figurative diction, and subtle differences in tone.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Short passages with accessible language and complex implications.",
+      "interestHook": "Ordinary words take on powerful emotional meanings.",
+      "teachingPrompt": "Which word could be replaced with a synonym, and what would be lost?",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c"]
+    },
+    {
+      "title": "Ozymandias",
+      "author": "Percy Bysshe Shelley",
+      "genre": "Poetry",
+      "purpose": "Analyze connotation, irony, and the effects of carefully selected descriptive words.",
+      "access": "Public-domain poem.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide support for older vocabulary and irony.",
+      "interestHook": "A ruler's proud words become ironic when placed beside a ruined statue.",
+      "teachingPrompt": "How do the connotations of the statue's description shape our judgment of the ruler?",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c", "10.L.V.3.d"]
+    },
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "genre": "Psychological short fiction",
+      "purpose": "Evaluate how loaded and repeated words reveal a narrator's attitude.",
+      "access": "Public-domain story.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Review unsettling content and support older vocabulary.",
+      "interestHook": "The narrator's words communicate more than the narrator intends.",
+      "teachingPrompt": "Which words suggest an emotional state that contradicts the narrator's claims?",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c"]
+    },
+    {
+      "title": "A Pair of News Headlines",
+      "author": "Two identified professional news organizations",
+      "genre": "Journalism",
+      "purpose": "Compare denotation, connotation, and framing in reports about the same event.",
+      "access": "Teacher-curated, verified headline pair.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Select an age-appropriate issue and provide sufficient context.",
+      "interestHook": "Two headlines can describe the same event while creating different impressions.",
+      "teachingPrompt": "Which word choices are factual descriptions, and which suggest an evaluation?",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c", "10.L.V.3.e"]
+    },
+    {
+      "title": "An Editorial Revision Workshop",
+      "author": "Teacher-created examples",
+      "genre": "Argumentative and professional writing",
+      "purpose": "Practice verifying shades of meaning and choosing precise words for an intended audience.",
+      "access": "Teacher-created passages and reference tools.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Use familiar school or community issues.",
+      "interestHook": "One word can make a recommendation sound reasonable, urgent, dismissive, or hostile.",
+      "teachingPrompt": "Which word best communicates the writer's intended position without overstating the evidence?",
+      "alignment": ["10.L.V.3.d", "10.L.V.3.e"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Same Definition, Different Feeling",
+      "activity": "Students sort related words such as confident, assertive, and arrogant by denotation, connotation, and intensity, then explain their choices in context.",
+      "materials": ["Word cards", "Context sentences", "Comparison organizer"],
+      "scaffolds": ["Model one comparison.", "Provide definitions and authentic example sentences."],
+      "success": "Students accurately distinguish denotation and connotation for at least three word sets.",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Verify Before You Use",
+      "activity": "Students investigate unfamiliar or multiple-meaning words using context and a reliable dictionary, selecting the meaning that fits each passage.",
+      "materials": ["Short passages", "Dictionary", "Verification organizer"],
+      "scaffolds": ["Model choosing among numbered dictionary senses."],
+      "success": "Students verify four contextual meanings and explain their reasoning.",
+      "alignment": ["10.L.V.3.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "Headline Language Laboratory",
+      "activity": "Students compare headlines about the same documented event, identify loaded or neutral diction, and rewrite each headline for a different rhetorical effect without changing the facts.",
+      "materials": ["Verified headlines", "Dictionary", "Analysis guide"],
+      "scaffolds": ["Require students to separate verifiable information from implied judgment."],
+      "success": "Students explain how at least three word choices influence audience interpretation.",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c", "10.L.V.3.e"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "The Precision Revision",
+      "activity": "Students revise an argumentative paragraph, using references to compare closely related words and select wording that accurately reflects the strength of the evidence.",
+      "materials": ["Draft paragraph", "Reference tools", "Revision commentary template"],
+      "scaffolds": ["Model the difference between suggests, demonstrates, and proves."],
+      "success": "The revision improves accuracy and tone, with justified word choices.",
+      "alignment": ["10.L.V.3.d", "10.L.V.3.e"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "A Study in Semantic Framing",
+      "activity": "Students analyze how different texts frame the same issue through connotative language, distinguishing legitimate interpretation from potentially misleading word choice.",
+      "materials": ["Three credible texts", "Connotation analysis matrix"],
+      "scaffolds": ["Require context-sensitive interpretation and evidence."],
+      "success": "Students develop a nuanced analysis without treating every connotative choice as manipulation.",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "The Editorial Word-Choice Audit",
+      "activity": "Students edit an original speech or editorial for nuanced diction, documenting at least eight choices using dictionaries, usage guides, or style references.",
+      "materials": ["Original draft", "Reference tools", "Editorial rationale template"],
+      "scaffolds": ["Require each change to connect to purpose and audience."],
+      "success": "Students produce a purposeful revision and defend their choices using verified meanings.",
+      "alignment": ["10.L.V.3.d", "10.L.V.3.e"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which word generally carries the most negative connotation?",
+      "options": ["Confident", "Self-assured", "Arrogant", "Certain"],
+      "answer": "Arrogant",
+      "rationale": "Arrogant suggests excessive self-importance, unlike the more neutral or positive alternatives.",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Compare the connotations of determined and stubborn. Explain a context in which one would be more appropriate.",
+      "answer": "Determined often suggests admirable persistence, while stubborn may imply unreasonable resistance to change. Context determines which judgment fits.",
+      "rationale": "Students analyze nuanced differences between related words.",
+      "alignment": ["10.L.V.3.c"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student encounters an unfamiliar meaning of the word novel in a science article. What is the best next step?",
+      "options": [
+        "Assume it means a fictional book",
+        "Check context and a reliable reference for the relevant meaning",
+        "Replace it with a random synonym",
+        "Ignore the sentence"
+      ],
+      "answer": "Check context and a reliable reference for the relevant meaning",
+      "rationale": "Multiple-meaning words require contextual interpretation and verification.",
+      "alignment": ["10.L.V.3.d"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "A report states that a small study proves a new strategy improves learning. Explain whether proves is the most accurate choice and how you would verify a better alternative.",
+      "answer": "The writer should examine the study's methods and limitations, then consult reliable usage references to choose a term such as suggests or indicates if the evidence does not establish proof.",
+      "rationale": "Students apply reference-supported precision to a rhetorical choice.",
+      "alignment": ["10.L.V.3.d", "10.L.V.3.e"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Analyze five significant word choices in a speech or article, explain their denotations and connotations, and revise a paragraph for a different audience using verified meanings.",
+      "answer": "Evaluate contextual interpretation, nuanced comparison, reference use, and purposeful revision.",
+      "rationale": "The task integrates all four active expectations.",
+      "alignment": ["10.L.V.3.b", "10.L.V.3.c", "10.L.V.3.d", "10.L.V.3.e"]
+    }
+  ],
+  "evidence": [
+    "A contextual comparison of denotative and connotative meanings.",
+    "An analysis of shades of meaning among related words.",
+    "A reference-supported explanation of an unfamiliar or multiple-meaning word.",
+    "An annotated revision demonstrating strategic language choices.",
+    "A written rationale connecting diction to audience and purpose."
+  ],
+  "instruction": [
+    "Teach denotation and connotation through authentic texts.",
+    "Compare closely related words within meaningful contexts.",
+    "Model how to verify meanings using print and digital references.",
+    "Discuss the effects of diction without assuming every word has one universal emotional association.",
+    "Use writing revision to connect analysis with purposeful composition.",
+    "Encourage students to justify vocabulary decisions with evidence."
+  ],
+  "watchFor": [
+    "Assuming synonyms are always interchangeable.",
+    "Treating connotations as identical across audiences and contexts.",
+    "Selecting a dictionary definition without checking the passage.",
+    "Using stronger words than the evidence warrants.",
+    "Confusing a word's direct meaning with its implied judgment.",
+    "Replacing precise language with impressive but inaccurate vocabulary."
+  ],
+  "skills": {
+    "10.L.V.3.b": {
+      "focus": "Analyze word relationships, denotation, and connotation",
+      "studentFriendly": "I can examine relationships among words and determine what they mean and suggest in context.",
+      "know": ["Words have denotative meanings and connotative associations.", "Context affects interpretation."],
+      "understand": ["Word relationships help reveal subtle differences in meaning."],
+      "do": ["Analyze word relationships.", "Distinguish denotation and connotation.", "Use contextual evidence."],
+      "targets": ["I can explain a word's direct and suggested meanings."],
+      "instruction": ["Use authentic passages and word comparisons."],
+      "evidence": ["A supported analysis of word meanings in context."],
+      "watchFor": ["Assuming one connotation applies in every context."]
+    },
+    "10.L.V.3.c": {
+      "focus": "Analyze nuances among words with similar denotations",
+      "studentFriendly": "I can explain how similar words create different impressions.",
+      "know": ["Words with similar definitions may differ in intensity, attitude, or register."],
+      "understand": ["Small differences in connotation influence interpretation."],
+      "do": ["Compare related words.", "Analyze shades of meaning.", "Explain rhetorical effects."],
+      "targets": ["I can distinguish the nuances of related words."],
+      "instruction": ["Use synonym continua and contextual comparisons."],
+      "evidence": ["A comparison of nuanced word choices."],
+      "watchFor": ["Treating similar definitions as identical meanings."]
+    },
+    "10.L.V.3.d": {
+      "focus": "Use references to determine and verify meanings",
+      "studentFriendly": "I can use reliable print and digital tools to check unfamiliar or multiple-meaning words.",
+      "know": ["Dictionaries, style guides, and usage references serve different purposes."],
+      "understand": ["Reference tools support accurate contextual interpretation."],
+      "do": ["Consult reliable references.", "Compare possible meanings.", "Verify the meaning appropriate to a passage."],
+      "targets": ["I can verify an unfamiliar meaning using context and a reference."],
+      "instruction": ["Model reference searches and interpretation of dictionary entries."],
+      "evidence": ["A documented meaning verification."],
+      "watchFor": ["Selecting the first listed definition automatically."]
+    },
+    "10.L.V.3.e": {
+      "focus": "Make strategic, reference-supported language decisions",
+      "studentFriendly": "I can verify closely related words and choose the one that best communicates my meaning.",
+      "know": ["Word choice affects accuracy, tone, and audience response."],
+      "understand": ["Effective diction is deliberate and context-sensitive."],
+      "do": ["Compare possible expressions.", "Verify nuanced meanings.", "Select language for a rhetorical purpose.", "Revise and justify word choices."],
+      "targets": ["I can defend a precise word choice."],
+      "instruction": ["Use editorial revision and word-choice conferences."],
+      "evidence": ["A revised passage with a reference-supported rationale."],
+      "watchFor": ["Using connotative language that overstates the evidence."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not state-prescribed. Verify editions, access, permissions, and age suitability."
+},
+{
+  "code": "10.P.AC.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Reading like a Writer",
+  "studentFriendly": "I can read with a writer's eye, noticing how authors use literary and rhetorical techniques, language, sentences, and text design to influence audiences and achieve purposes.",
+  "know": [
+    "Reading like a writer means examining how a text was constructed, not only what it says.",
+    "Literary and rhetorical elements can shape interpretation, emotion, credibility, and persuasion.",
+    "Word choice influences tone, characterization, clarity, and audience response.",
+    "Syntax affects pacing, emphasis, rhythm, and relationships among ideas.",
+    "Text design includes organization, formatting, visual features, and other choices affecting accessibility.",
+    "Authors make craft decisions in relation to audience and purpose.",
+    "The effectiveness of a craft technique depends on its context and intended effect."
+  ],
+  "understand": [
+    "Readers can learn writing techniques by investigating the decisions behind a text.",
+    "An effective craft analysis explains the impact of a technique rather than merely identifying it.",
+    "Language, syntax, rhetorical elements, and design work together.",
+    "The same technique can produce different effects in different contexts.",
+    "Text organization and design affect who can access information and how easily.",
+    "Close attention to craft gives writers a wider range of choices for their own compositions."
+  ],
+  "do": [
+    "Identify literary, expository, and rhetorical elements in authentic texts.",
+    "Explain how specific techniques affect a target audience and support purpose.",
+    "Analyze significant word choices and their rhetorical effects.",
+    "Evaluate how sentence structures influence meaning, tone, or emphasis.",
+    "Analyze text formats, organizational patterns, and design features.",
+    "Evaluate how design decisions affect accessibility and audience experience.",
+    "Annotate a mentor text from a writer's perspective.",
+    "Imitate and adapt effective craft techniques in original writing.",
+    "Support craft evaluations with precise textual evidence."
+  ],
+  "vocabulary": [
+    {
+      "term": "Author's craft",
+      "definition": "The techniques and choices used to construct a text.",
+      "example": "Using a brief opening scene to establish a problem."
+    },
+    {
+      "term": "Rhetorical element",
+      "definition": "A feature of communication that helps shape audience response.",
+      "example": "A concession acknowledging a reasonable opposing concern."
+    },
+    {
+      "term": "Literary element",
+      "definition": "A feature contributing to a literary work's construction or meaning.",
+      "example": "Point of view, characterization, conflict, or imagery."
+    },
+    {
+      "term": "Expository technique",
+      "definition": "A method of clarifying or explaining information.",
+      "example": "Using a comparison to explain an unfamiliar concept."
+    },
+    {
+      "term": "Diction",
+      "definition": "A writer's selection of words.",
+      "example": "Choosing unsettling descriptions to create tension."
+    },
+    {
+      "term": "Syntax",
+      "definition": "The arrangement of words, phrases, and clauses.",
+      "example": "Placing a short sentence after a long description for emphasis."
+    },
+    {
+      "term": "Pacing",
+      "definition": "The speed at which information or events unfold for readers.",
+      "example": "Short sentences accelerating a suspenseful scene."
+    },
+    {
+      "term": "Text design",
+      "definition": "The arrangement and presentation of a text's verbal and visual elements.",
+      "example": "Headings, captions, images, spacing, and navigation."
+    },
+    {
+      "term": "Accessibility",
+      "definition": "The degree to which a text can be understood and used by its intended audiences.",
+      "example": "Descriptive headings and readable text structure."
+    },
+    {
+      "term": "Mentor text",
+      "definition": "A text studied as a model of writing techniques.",
+      "example": "An essay analyzed for its opening and organizational choices."
+    },
+    {
+      "term": "Rhetorical effect",
+      "definition": "The impact of a communication choice on an audience.",
+      "example": "A personal anecdote creating an emotional connection."
+    },
+    {
+      "term": "Reverse outline",
+      "definition": "An outline created after reading or drafting to identify the function of each section.",
+      "example": "Labeling paragraphs as background, evidence, complication, and conclusion."
+    }
+  ],
+  "targets": [
+    "I can identify literary, expository, and rhetorical techniques.",
+    "I can explain how a technique supports an author's purpose.",
+    "I can analyze the effects of significant word choices.",
+    "I can evaluate how syntax shapes audience response.",
+    "I can explain how organization and design affect accessibility.",
+    "I can support craft analysis with textual evidence.",
+    "I can adapt an effective mentor-text technique in my own writing."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "genre": "Psychological short fiction",
+      "purpose": "Analyze narrative voice, repetition, sentence structure, and suspense.",
+      "access": "Public-domain story.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Support older vocabulary and review unsettling content.",
+      "interestHook": "A narrator's language reveals what the narrator tries to conceal.",
+      "teachingPrompt": "Which craft decisions make the narrator's account disturbing and unreliable?",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.c"]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Study concise language, imagery, syntax, and the structure of short literary pieces.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Short selections support close reading.",
+      "interestHook": "A few sentences can communicate a complex experience.",
+      "teachingPrompt": "How does the vignette's brevity influence what readers notice and infer?",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.c", "10.P.AC.1.d"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Analyze anecdote, repetition, word choice, and rhetorical organization.",
+      "access": "Authorized TED talk or transcript.",
+      "readingTime": "15–20 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Provide context for cultural references.",
+      "interestHook": "Personal stories build toward a larger argument about assumptions.",
+      "teachingPrompt": "Why does the speaker begin with personal experience rather than a formal definition?",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.d"]
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Study rhetorical appeals, diction, syntax, and purposeful organization.",
+      "access": "Authorized excerpts or school anthology.",
+      "readingTime": "20–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Provide historical context and support complex syntax.",
+      "interestHook": "An argument builds its force through carefully chosen examples and sentence patterns.",
+      "teachingPrompt": "How do audience awareness and sentence structure shape the argument?",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.c", "10.P.AC.1.d"]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Examine how an author combines narrative scenes, explanation, and research.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide scientific and historical context; review sensitive material.",
+      "interestHook": "The writer makes a complex scientific issue personal and understandable.",
+      "teachingPrompt": "Why does the author alternate between storytelling and explanation?",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.d"]
+    },
+    {
+      "title": "NASA Earth Observatory",
+      "author": "NASA Earth Observatory contributors",
+      "genre": "Multimodal scientific explanation",
+      "purpose": "Analyze the relationships among prose, imagery, headings, captions, and navigation.",
+      "access": "NASA Earth Observatory website; select a specific article.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Choose an appropriate article and evaluate accessibility features.",
+      "interestHook": "The visual design determines how readers encounter complex scientific information.",
+      "teachingPrompt": "What information becomes easier or harder to understand because of the page's design?",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.d"]
+    },
+    {
+      "title": "The 57 Bus",
+      "author": "Dashka Slater",
+      "genre": "Investigative narrative nonfiction",
+      "purpose": "Examine structural choices, alternating perspectives, and the arrangement of context.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Review sensitive content and provide context.",
+      "interestHook": "The order in which information is revealed shapes readers' judgments.",
+      "teachingPrompt": "How would the reader's experience change if the author rearranged the chapters?",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.d"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Notice, Name, Explain",
+      "activity": "Students annotate a short passage, identify two craft techniques, and explain how each might affect a reader.",
+      "materials": ["Short mentor passage", "Three-column annotation guide"],
+      "scaffolds": ["Model the difference between naming a technique and explaining its effect.", "Provide sentence stems."],
+      "success": "Students accurately explain the effects of two techniques.",
+      "alignment": ["10.P.AC.1.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Swap the Word, Change the Tone",
+      "activity": "Students compare significant word choices in a passage and predict how replacing them would change tone or characterization.",
+      "materials": ["Annotated passage", "Word-choice comparison chart"],
+      "scaffolds": ["Provide two plausible replacements for each target word."],
+      "success": "Students explain how two substitutions change audience response.",
+      "alignment": ["10.P.AC.1.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Sentence Rhythm Detective",
+      "activity": "Students compare versions of a passage with different sentence lengths and arrangements, then discuss pacing and emphasis.",
+      "materials": ["Paired passage versions", "Rhythm annotation guide"],
+      "scaffolds": ["Read both versions aloud.", "Use an effect word bank."],
+      "success": "Students identify one syntactic choice and explain its effect.",
+      "alignment": ["10.P.AC.1.c"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Find Your Way Through the Text",
+      "activity": "Students compare two versions of an informational page with different headings, spacing, and organization, evaluating which better supports readers.",
+      "materials": ["Two page layouts", "Accessibility checklist"],
+      "scaffolds": ["Use a familiar topic and specific reader tasks."],
+      "success": "Students explain how two design features affect accessibility.",
+      "alignment": ["10.P.AC.1.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "The Writer's-Eye Annotation",
+      "activity": "Students annotate a mentor text for rhetorical elements, diction, syntax, and organization, connecting at least four craft choices to purpose and audience.",
+      "materials": ["Mentor text", "Craft annotation key", "Analysis organizer"],
+      "scaffolds": ["Model a complete craft analysis before independent work."],
+      "success": "Students support four explanations of craft effects with precise evidence.",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.c", "10.P.AC.1.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Reverse-Engineer the Opening",
+      "activity": "Students compare the openings of three texts written for different audiences, identify the writers' craft decisions, and design an original opening for a specified purpose.",
+      "materials": ["Three mentor openings", "Comparison chart", "Writing prompt"],
+      "scaffolds": ["Analyze audience and purpose before technique."],
+      "success": "Students justify their original opening using evidence from mentor texts.",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Design Is Meaning",
+      "activity": "Students evaluate a digital article's layout, headings, visuals, and navigation, then propose revisions for a defined audience.",
+      "materials": ["Digital article", "Accessibility evaluation guide", "Redesign template"],
+      "scaffolds": ["Assign a realistic reader goal, such as finding an explanation or locating a key fact."],
+      "success": "Students explain how proposed changes improve access and support purpose.",
+      "alignment": ["10.P.AC.1.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "The Craft Transfer Experiment",
+      "activity": "Students identify three effective techniques in a mentor text, adapt them in an original piece for a different audience, and write a commentary explaining the transfer.",
+      "materials": ["Mentor text", "Original draft", "Craft rationale template"],
+      "scaffolds": ["Require adaptation rather than copying the mentor's language."],
+      "success": "The original piece uses deliberate techniques and the commentary explains their intended effects.",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.c"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "The Multimodal Craft Audit",
+      "activity": "Students evaluate how an article, website, or digital publication combines rhetoric, language, syntax, structure, and visual design. They produce an evidence-based critique and redesign.",
+      "materials": ["Multimodal text", "Evaluation rubric", "Design tool"],
+      "scaffolds": ["Require attention to both rhetorical impact and accessibility."],
+      "success": "Students demonstrate how multiple craft choices work together to influence an audience.",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.c", "10.P.AC.1.d"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A writer begins an argument with a personal story before introducing research findings. What is a likely purpose of this choice?",
+      "options": [
+        "To eliminate the need for evidence",
+        "To establish a human connection before presenting analysis",
+        "To prevent readers from identifying the topic",
+        "To replace all factual claims with emotion"
+      ],
+      "answer": "To establish a human connection before presenting analysis",
+      "rationale": "Anecdotes can help audiences connect with a topic before considering broader evidence.",
+      "alignment": ["10.P.AC.1.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Identify one literary or rhetorical technique in a passage and explain how it supports the author's purpose.",
+      "answer": "A strong response names a specific technique, cites evidence, and analyzes its effect on the intended audience.",
+      "rationale": "The task assesses explanation and evaluation of craft.",
+      "alignment": ["10.P.AC.1.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "An author describes a character as calculating rather than thoughtful. Which effect is most likely?",
+      "options": [
+        "The character appears more trustworthy",
+        "The character may appear cold or manipulative",
+        "The description becomes completely neutral",
+        "The character's actions are no longer relevant"
+      ],
+      "answer": "The character may appear cold or manipulative",
+      "rationale": "Calculating can suggest deliberate self-interest, changing the audience's impression.",
+      "alignment": ["10.P.AC.1.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A writer places a brief sentence after several long, complex sentences. What should a craft analysis investigate?",
+      "options": [
+        "Whether every sentence has the same length",
+        "How the contrast affects pacing and emphasis",
+        "Whether the brief sentence contains a metaphor",
+        "How many nouns appear in the paragraph"
+      ],
+      "answer": "How the contrast affects pacing and emphasis",
+      "rationale": "The question connects syntax to a possible rhetorical effect.",
+      "alignment": ["10.P.AC.1.c"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how a writer's use of sentence structure changes the reader's experience at a significant moment in a text.",
+      "answer": "A strong response identifies a specific syntactic pattern, cites the passage, and explains its contribution to pacing, tone, or emphasis.",
+      "rationale": "The task requires evidence-based analysis of syntax.",
+      "alignment": ["10.P.AC.1.c"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A complex instructional website has long paragraphs, no headings, and unclear navigation. Which revision would most directly improve accessibility?",
+      "options": [
+        "Remove the instructions",
+        "Add descriptive headings and logical navigation",
+        "Use more technical jargon",
+        "Place all information in one uninterrupted paragraph"
+      ],
+      "answer": "Add descriptive headings and logical navigation",
+      "rationale": "Clear structure helps readers locate and understand information.",
+      "alignment": ["10.P.AC.1.d"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Select an authentic mentor text and create a writer's-eye analysis of four craft decisions: one rhetorical or literary element, one word choice, one syntactic choice, and one organizational or design feature. Explain the effect of each on the intended audience.",
+      "answer": "Evaluate accurate identification, textual evidence, explanation of audience effects, connection to purpose, and overall analytical depth.",
+      "rationale": "The task integrates all four Reading like a Writer expectations.",
+      "alignment": ["10.P.AC.1.a", "10.P.AC.1.b", "10.P.AC.1.c", "10.P.AC.1.d"]
+    }
+  ],
+  "evidence": [
+    "An annotated mentor text identifying and evaluating craft decisions.",
+    "A supported analysis of rhetorical or literary elements.",
+    "An explanation of significant diction choices.",
+    "An analysis of syntactic effects.",
+    "A text-design evaluation addressing accessibility and purpose.",
+    "An original composition adapting a mentor-text technique."
+  ],
+  "instruction": [
+    "Model reading like a writer through think-alouds.",
+    "Begin with the author's purpose and intended audience.",
+    "Teach students to move from noticing a technique to evaluating its effect.",
+    "Use fiction, nonfiction, speeches, journalism, and multimodal texts.",
+    "Compare alternative word choices and sentence arrangements.",
+    "Use reverse outlines to analyze organization.",
+    "Include accessibility when examining text design.",
+    "Connect craft analysis to original composition."
+  ],
+  "watchFor": [
+    "Summarizing content instead of analyzing construction.",
+    "Listing devices without explaining their effects.",
+    "Assuming a technique always has the same impact.",
+    "Ignoring audience and purpose.",
+    "Treating word choice and syntax as unrelated.",
+    "Evaluating digital design only by appearance.",
+    "Copying a mentor text's language rather than adapting its technique."
+  ],
+  "skills": {
+    "10.P.AC.1.a": {
+      "focus": "Analyze literary, expository, and rhetorical elements",
+      "studentFriendly": "I can explain how a writer uses literary and rhetorical techniques to influence readers.",
+      "know": ["Literary and rhetorical elements shape meaning and audience response."],
+      "understand": ["A technique's effectiveness depends on audience and purpose."],
+      "do": ["Identify techniques.", "Analyze their effects.", "Support interpretations with evidence."],
+      "targets": ["I can explain how a technique supports purpose."],
+      "instruction": ["Use mentor-text annotation and comparison."],
+      "evidence": ["An evidence-based craft analysis."],
+      "watchFor": ["Naming devices without explaining effects."]
+    },
+    "10.P.AC.1.b": {
+      "focus": "Analyze important and effective uses of language",
+      "studentFriendly": "I can explain how specific word choices affect readers and support the writer's purpose.",
+      "know": ["Diction influences tone, meaning, and audience response."],
+      "understand": ["Significant language choices are purposeful and context-dependent."],
+      "do": ["Identify important words and phrases.", "Analyze their effects.", "Evaluate alternatives."],
+      "targets": ["I can analyze a meaningful diction choice."],
+      "instruction": ["Use word substitution and close reading."],
+      "evidence": ["A supported explanation of diction."],
+      "watchFor": ["Assuming a synonym would have an identical effect."]
+    },
+    "10.P.AC.1.c": {
+      "focus": "Analyze sentence structure and syntax",
+      "studentFriendly": "I can explain how sentence structures affect an audience and support a writer's purpose.",
+      "know": ["Syntax influences pacing, emphasis, rhythm, and clarity."],
+      "understand": ["Sentence patterns create rhetorical effects."],
+      "do": ["Identify syntactic patterns.", "Analyze their effects.", "Evaluate purposeful variations."],
+      "targets": ["I can connect syntax to audience response."],
+      "instruction": ["Compare and read aloud alternative sentence structures."],
+      "evidence": ["A syntactic analysis supported by textual evidence."],
+      "watchFor": ["Describing sentence length without explaining its effect."]
+    },
+    "10.P.AC.1.d": {
+      "focus": "Analyze design, organization, and accessibility",
+      "studentFriendly": "I can evaluate how a text's format, structure, and design affect readers and support its purpose.",
+      "know": ["Text design includes organization, visual features, and accessibility decisions."],
+      "understand": ["Design affects how audiences locate and interpret information."],
+      "do": ["Analyze formats and structures.", "Evaluate accessibility.", "Explain how design supports purpose."],
+      "targets": ["I can evaluate a design decision and its effect on readers."],
+      "instruction": ["Use reverse outlines and multimodal design comparisons."],
+      "evidence": ["A supported evaluation of text design and accessibility."],
+      "watchFor": ["Equating attractive design with effective communication."]
+    }
+  },
+  "readingSelectionNote": "These texts are independently recommended rather than prescribed by Georgia. Verify editions, access, permissions, reading level, and local instructional requirements."
+}
+
   ]
 }
