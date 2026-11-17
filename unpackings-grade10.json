@@ -24018,5 +24018,708 @@
   "readingSelectionNote": "These texts are independently recommended rather than prescribed by Georgia. Verify editions, access, permissions, reading level, and local instructional requirements."
 }
 
+,
+{
+  "code": "10.P.AC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Writing like a Reader",
+  "studentFriendly": "I can make purposeful writing choices by considering how my audience will experience my words, sentences, rhetorical techniques, and organization.",
+  "know": [
+    "Writers make craft decisions based on audience, context, and purpose.",
+    "Literary, expository, and rhetorical elements influence how audiences understand and respond to texts.",
+    "Diction shapes tone, meaning, credibility, and emotional response.",
+    "Syntax affects pacing, emphasis, clarity, and relationships among ideas.",
+    "Organization, format, structure, and text features help audiences navigate and understand information.",
+    "Effective writing anticipates readers' knowledge, expectations, questions, and needs.",
+    "Revision includes evaluating how writing choices affect an intended audience."
+  ],
+  "understand": [
+    "Writers can deliberately influence readers through their craft choices.",
+    "An effective technique must serve a specific audience and purpose.",
+    "Word choice and syntax influence how an audience interprets a message.",
+    "Organizational choices determine what readers encounter first and what they remember.",
+    "Accessibility is an essential consideration in text construction.",
+    "Reading like a writer and writing like a reader are complementary practices."
+  ],
+  "do": [
+    "Identify the audience and purpose before composing.",
+    "Integrate appropriate literary, expository, or rhetorical elements.",
+    "Choose words and phrases to shape audience response.",
+    "Construct and revise sentences for clarity and rhetorical effect.",
+    "Organize ideas using formats and structures suited to the intended audience.",
+    "Incorporate text features that improve accessibility.",
+    "Evaluate a draft from the reader's perspective.",
+    "Explain and justify significant craft decisions."
+  ],
+  "vocabulary": [
+    {
+      "term": "Rhetorical situation",
+      "definition": "The interaction of writer, audience, purpose, context, and message.",
+      "example": "A student addresses a school board about a proposed policy."
+    },
+    {
+      "term": "Audience awareness",
+      "definition": "Considering readers' knowledge, interests, expectations, and needs.",
+      "example": "Defining technical terms for readers unfamiliar with a subject."
+    },
+    {
+      "term": "Rhetorical appeal",
+      "definition": "A persuasive approach involving credibility, reasoning, or emotion.",
+      "example": "Supporting a proposal with relevant evidence and an authentic personal example."
+    },
+    {
+      "term": "Diction",
+      "definition": "A writer's choice of words.",
+      "example": "Using urgent rather than interesting to describe a public problem."
+    },
+    {
+      "term": "Syntax",
+      "definition": "The arrangement of words, phrases, and clauses.",
+      "example": "Placing a short sentence after a detailed explanation for emphasis."
+    },
+    {
+      "term": "Concession",
+      "definition": "Acknowledgment of a reasonable concern or opposing position.",
+      "example": "Although the proposal has costs, its benefits justify consideration."
+    },
+    {
+      "term": "Text structure",
+      "definition": "The overall arrangement of information or ideas.",
+      "example": "Problem-solution or chronological organization."
+    },
+    {
+      "term": "Text feature",
+      "definition": "A feature that helps present, organize, or navigate content.",
+      "example": "A heading, caption, table, or glossary."
+    },
+    {
+      "term": "Accessibility",
+      "definition": "The extent to which a text can be understood and used by its intended readers.",
+      "example": "Descriptive headings and clearly labeled diagrams."
+    },
+    {
+      "term": "Revision",
+      "definition": "Reconsidering and changing a text to improve its effectiveness.",
+      "example": "Reorganizing an explanation after discovering readers need background information first."
+    }
+  ],
+  "targets": [
+    "I can select rhetorical or literary techniques appropriate to my audience.",
+    "I can use language to influence readers' understanding and responses.",
+    "I can construct sentences that support my purpose.",
+    "I can organize information for clarity, accessibility, and impact.",
+    "I can revise a draft by considering the reader's experience.",
+    "I can justify my writing decisions."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Examine audience awareness, rhetorical appeals, sentence structure, and purposeful organization.",
+      "access": "Authorized excerpts or school anthology.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical context and support complex syntax.",
+      "interestHook": "A writer responds directly to critics while building a broader argument.",
+      "teachingPrompt": "How does the writer anticipate readers' objections and questions?",
+      "alignment": ["10.P.AC.2.a", "10.P.AC.2.b", "10.P.AC.2.c", "10.P.AC.2.d"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Study how personal anecdotes, repetition, and organization engage an audience.",
+      "access": "Authorized TED talk or transcript.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide context for cultural references.",
+      "interestHook": "Personal experiences develop into a broader argument about assumptions.",
+      "teachingPrompt": "Which techniques would you adapt when writing for an unfamiliar audience?",
+      "alignment": ["10.P.AC.2.a", "10.P.AC.2.b", "10.P.AC.2.d"]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Model purposeful diction, sentence rhythm, imagery, and concise organization.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Brief passages support close analysis.",
+      "interestHook": "Small details and carefully constructed sentences communicate powerful experiences.",
+      "teachingPrompt": "How could you adapt the writer's techniques without copying the writer's words?",
+      "alignment": ["10.P.AC.2.a", "10.P.AC.2.b", "10.P.AC.2.c"]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Study how storytelling and scientific explanation can serve readers with different levels of background knowledge.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide scientific and historical context; review sensitive material.",
+      "interestHook": "Complex science becomes understandable through human stories.",
+      "teachingPrompt": "How does the writer decide when readers need explanation and when they need a scene?",
+      "alignment": ["10.P.AC.2.a", "10.P.AC.2.d"]
+    },
+    {
+      "title": "NASA Earth Observatory",
+      "author": "NASA Earth Observatory contributors",
+      "genre": "Multimodal science communication",
+      "purpose": "Examine how writers organize complex information for general readers.",
+      "access": "NASA Earth Observatory website; select a specific article.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide support for scientific terminology and graphs.",
+      "interestHook": "A clear explanation makes scientific evidence accessible beyond the laboratory.",
+      "teachingPrompt": "How do headings, captions, and explanations anticipate readers' needs?",
+      "alignment": ["10.P.AC.2.b", "10.P.AC.2.d"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Who Is My Reader?",
+      "activity": "Students rewrite a short explanation for two different audiences, adjusting background information, vocabulary, and rhetorical techniques.",
+      "materials": ["Original paragraph", "Audience profiles", "Revision organizer"],
+      "scaffolds": ["Provide an audience checklist.", "Model one audience-specific revision."],
+      "success": "Students make three purposeful changes and explain their effects.",
+      "alignment": ["10.P.AC.2.a", "10.P.AC.2.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Sentence Choices Matter",
+      "activity": "Students revise a paragraph by changing sentence lengths and arrangements to emphasize its central idea.",
+      "materials": ["Draft paragraph", "Mentor sentence examples"],
+      "scaffolds": ["Model one revision and its effect."],
+      "success": "Students make two purposeful syntactic changes and explain them.",
+      "alignment": ["10.P.AC.2.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Write for Two Audiences",
+      "activity": "Students explain the same issue in a professional email and a student-facing announcement, adapting rhetoric, diction, syntax, and organization.",
+      "materials": ["Scenario", "Audience profiles", "Writing rubric"],
+      "scaffolds": ["Analyze examples of both genres."],
+      "success": "Both texts communicate accurate information through audience-appropriate choices.",
+      "alignment": ["10.P.AC.2.a", "10.P.AC.2.b", "10.P.AC.2.c", "10.P.AC.2.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Reader Experience Audit",
+      "activity": "Students exchange drafts, identify confusing or ineffective choices, and revise organization, language, and sentence structure based on reader feedback.",
+      "materials": ["Student drafts", "Reader response guide"],
+      "scaffolds": ["Require feedback tied to a specific reader need."],
+      "success": "Students make and justify at least four meaningful revisions.",
+      "alignment": ["10.P.AC.2.b", "10.P.AC.2.c", "10.P.AC.2.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "A Campaign for Change",
+      "activity": "Students design a persuasive communication addressing a genuine school or community issue, selecting rhetorical techniques, diction, syntax, and structure for a defined audience.",
+      "materials": ["Research sources", "Campaign planning template", "Peer feedback rubric"],
+      "scaffolds": ["Require an audience analysis and explanation of craft choices."],
+      "success": "The final communication demonstrates deliberate, evidence-supported rhetorical decisions.",
+      "alignment": ["10.P.AC.2.a", "10.P.AC.2.b", "10.P.AC.2.c", "10.P.AC.2.d"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student is writing a proposal to the principal. Which approach best demonstrates audience awareness?",
+      "options": [
+        "Using unexplained slang",
+        "Explaining the problem, providing evidence, and addressing practical concerns",
+        "Writing only about personal feelings",
+        "Avoiding a clear request"
+      ],
+      "answer": "Explaining the problem, providing evidence, and addressing practical concerns",
+      "rationale": "The writer anticipates the audience's informational and decision-making needs.",
+      "alignment": ["10.P.AC.2.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how two different word choices could change an audience's response to the same proposal.",
+      "answer": "A strong response compares specific words and explains how their meanings or connotations affect interpretation.",
+      "rationale": "The task assesses purposeful diction.",
+      "alignment": ["10.P.AC.2.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Revise a paragraph's sentence structure to create greater urgency. Explain two syntactic choices.",
+      "answer": "A strong response makes purposeful changes to sentence length, arrangement, or emphasis and explains their effects.",
+      "rationale": "Students use syntax to achieve a rhetorical purpose.",
+      "alignment": ["10.P.AC.2.c"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which organizational choice would most help readers use a complicated school registration guide?",
+      "options": [
+        "One uninterrupted paragraph",
+        "Descriptive headings and numbered steps",
+        "Unexplained abbreviations",
+        "Information arranged randomly"
+      ],
+      "answer": "Descriptive headings and numbered steps",
+      "rationale": "Clear organization improves accessibility and usability.",
+      "alignment": ["10.P.AC.2.d"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create two versions of a message for different audiences. Annotate four craft choices involving rhetorical elements, diction, syntax, and organization.",
+      "answer": "Evaluate audience awareness, effectiveness, accessibility, and explanations of deliberate craft choices.",
+      "rationale": "The task integrates all four expectations.",
+      "alignment": ["10.P.AC.2.a", "10.P.AC.2.b", "10.P.AC.2.c", "10.P.AC.2.d"]
+    }
+  ],
+  "evidence": [
+    "An audience analysis and writing plan.",
+    "Two audience-specific versions of the same communication.",
+    "An annotated draft explaining rhetorical, lexical, syntactic, and organizational decisions.",
+    "A revised composition incorporating reader feedback."
+  ],
+  "instruction": [
+    "Begin with a clearly defined rhetorical situation.",
+    "Analyze mentor texts for audience-aware decisions.",
+    "Connect rhetorical techniques to actual reader needs.",
+    "Teach word choice and syntax through purposeful revision.",
+    "Use authentic genres and communication scenarios.",
+    "Include organization and accessibility in writing conferences.",
+    "Require students to explain the effects of their craft choices."
+  ],
+  "watchFor": [
+    "Writing without identifying an intended audience.",
+    "Using rhetorical devices merely to satisfy a checklist.",
+    "Choosing sophisticated words at the expense of clarity.",
+    "Varying syntax without a purpose.",
+    "Treating organization as separate from meaning.",
+    "Assuming all audiences need identical background information."
+  ],
+  "skills": {
+    "10.P.AC.2.a": {
+      "focus": "Integrate literary, expository, and rhetorical elements",
+      "studentFriendly": "I can choose techniques that appeal to my audience and support my purpose.",
+      "know": ["Literary, expository, and rhetorical techniques influence readers."],
+      "understand": ["Craft choices should match audience and purpose."],
+      "do": ["Select appropriate techniques.", "Integrate them into original writing.", "Evaluate their effects."],
+      "targets": ["I can use a technique to achieve a specific purpose."],
+      "instruction": ["Study mentor texts and practice purposeful imitation."],
+      "evidence": ["An original passage with a craft rationale."],
+      "watchFor": ["Adding techniques without considering their effects."]
+    },
+    "10.P.AC.2.b": {
+      "focus": "Craft words and phrases to influence audiences",
+      "studentFriendly": "I can choose language that shapes how readers think and respond.",
+      "know": ["Diction influences tone, meaning, and audience response."],
+      "understand": ["Precise language can strengthen communication."],
+      "do": ["Select purposeful diction.", "Revise word choices.", "Explain rhetorical effects."],
+      "targets": ["I can justify a significant word choice."],
+      "instruction": ["Compare alternative word choices in authentic writing."],
+      "evidence": ["An annotated revision of diction."],
+      "watchFor": ["Confusing complexity with precision."]
+    },
+    "10.P.AC.2.c": {
+      "focus": "Make purposeful syntax decisions",
+      "studentFriendly": "I can shape sentences to help readers understand and respond to my message.",
+      "know": ["Sentence structure affects emphasis, pacing, and clarity."],
+      "understand": ["Syntax can accommodate and influence an audience."],
+      "do": ["Construct purposeful sentences.", "Revise syntactic patterns.", "Explain effects."],
+      "targets": ["I can use syntax to support a specific purpose."],
+      "instruction": ["Use mentor-sentence analysis and revision."],
+      "evidence": ["A syntactically revised paragraph with commentary."],
+      "watchFor": ["Changing sentence length without improving meaning."]
+    },
+    "10.P.AC.2.d": {
+      "focus": "Organize texts for purpose and accessibility",
+      "studentFriendly": "I can choose formats, structures, and features that make my writing effective and accessible.",
+      "know": ["Organization and text features affect reader navigation and understanding."],
+      "understand": ["Accessible structure supports the text's purpose."],
+      "do": ["Choose an appropriate format.", "Organize ideas logically.", "Use effective text features.", "Evaluate accessibility."],
+      "targets": ["I can organize a text for a specific audience."],
+      "instruction": ["Compare organizational models and redesign difficult texts."],
+      "evidence": ["A well-organized composition and an explanation of its design."],
+      "watchFor": ["Using formatting decoratively rather than functionally."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed and not prescribed by Georgia. Verify permissions, editions, and age suitability."
+},
+{
+  "code": "10.P.AC.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Text Design",
+  "studentFriendly": "I can explain how different types of texts use words, images, audio, structure, and design to communicate, and I can create effective multimodal texts for specific audiences.",
+  "know": [
+    "Mode refers to a form of communication such as written, visual, audio, or multimodal expression.",
+    "Genre describes a recognizable type of text with characteristic purposes and conventions.",
+    "A text's mode and genre influence which ideas and information are included.",
+    "Mode and genre also influence how information is structured and arranged.",
+    "Multimodal texts combine two or more modes of communication.",
+    "Features such as headings, captions, images, audio, charts, and navigation affect meaning and accessibility.",
+    "Text design can influence tone, style, audience response, and purpose.",
+    "Design choices should be evaluated for usefulness and clarity, not appearance alone."
+  ],
+  "understand": [
+    "A text's form shapes the message it can communicate.",
+    "Different genres establish different expectations for content and structure.",
+    "Changing the mode of a text often requires rethinking its information and organization.",
+    "Multimodal features should work together rather than merely repeat or decorate.",
+    "Design influences how readers, viewers, and listeners navigate information.",
+    "Effective communication balances purpose, audience, genre, and accessibility."
+  ],
+  "do": [
+    "Explore texts across written, visual, audio, and multimodal modes.",
+    "Analyze how specific features influence meaning, tone, style, purpose, and audience.",
+    "Identify how mode and genre determine appropriate content.",
+    "Explain how genre conventions shape the organization of ideas.",
+    "Compare how the same information changes across modes and genres.",
+    "Create texts that combine appropriate genres, features, and craft techniques.",
+    "Design multimodal communication for a defined audience.",
+    "Evaluate the accessibility and effectiveness of design choices.",
+    "Revise text design based on feedback and intended use."
+  ],
+  "vocabulary": [
+    {
+      "term": "Mode",
+      "definition": "A form through which meaning is communicated.",
+      "example": "Written language, visual imagery, or audio."
+    },
+    {
+      "term": "Genre",
+      "definition": "A recognizable type of text with characteristic purposes and conventions.",
+      "example": "A news report, podcast interview, or personal essay."
+    },
+    {
+      "term": "Multimodal text",
+      "definition": "A text combining multiple modes of communication.",
+      "example": "An interactive article combining prose, charts, and video."
+    },
+    {
+      "term": "Text feature",
+      "definition": "An element helping present or navigate information.",
+      "example": "A caption, heading, table, or glossary."
+    },
+    {
+      "term": "Visual hierarchy",
+      "definition": "The arrangement of elements to signal relative importance.",
+      "example": "A clear title followed by headings and supporting details."
+    },
+    {
+      "term": "Layout",
+      "definition": "The spatial arrangement of text and other elements.",
+      "example": "Placing a graph beside the paragraph explaining it."
+    },
+    {
+      "term": "Navigation",
+      "definition": "Features helping an audience locate and move among information.",
+      "example": "A table of contents or descriptive menu."
+    },
+    {
+      "term": "Caption",
+      "definition": "Text explaining or contextualizing an image, figure, or other element.",
+      "example": "A sentence identifying what a graph measures."
+    },
+    {
+      "term": "Infographic",
+      "definition": "A visual presentation combining information, graphics, and concise language.",
+      "example": "A diagram showing stages of a scientific process."
+    },
+    {
+      "term": "Accessibility",
+      "definition": "The extent to which people with varied needs can perceive and use a text.",
+      "example": "Providing captions, alternative text, and readable headings."
+    },
+    {
+      "term": "Adaptation",
+      "definition": "Reshaping content for a different mode, genre, audience, or purpose.",
+      "example": "Turning a research article into an accessible short video."
+    },
+    {
+      "term": "Craft technique",
+      "definition": "A deliberate method used to shape meaning and audience response.",
+      "example": "Juxtaposing an image with a contrasting statement."
+    }
+  ],
+  "targets": [
+    "I can explain how features of different modes and genres shape meaning.",
+    "I can identify which information belongs in a particular genre.",
+    "I can explain how mode and genre influence organization.",
+    "I can compare different presentations of the same information.",
+    "I can create a multimodal text for a specific audience and purpose.",
+    "I can combine features and craft techniques effectively.",
+    "I can evaluate the accessibility of my design."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "NASA Earth Observatory",
+      "author": "NASA Earth Observatory contributors",
+      "genre": "Multimodal science journalism",
+      "purpose": "Analyze how images, captions, explanations, and page structure work together.",
+      "access": "NASA Earth Observatory website; select a specific article.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide graph-reading support as needed.",
+      "interestHook": "Satellite images communicate patterns that prose alone may not reveal.",
+      "teachingPrompt": "What would be lost if this article contained only words?",
+      "alignment": ["10.P.AC.3.a", "10.P.AC.3.b", "10.P.AC.3.c", "10.P.AC.3.d"]
+    },
+    {
+      "title": "Our World in Data",
+      "author": "Our World in Data contributors",
+      "genre": "Data-driven explanatory publication",
+      "purpose": "Study the relationship among charts, explanatory writing, and navigation.",
+      "access": "Our World in Data website; select a verified article.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Support quantitative reasoning and chart interpretation.",
+      "interestHook": "Different chart designs can make the same data easier or harder to interpret.",
+      "teachingPrompt": "How does the visual presentation affect what readers notice first?",
+      "alignment": ["10.P.AC.3.a", "10.P.AC.3.c"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Recorded speech and transcript",
+      "purpose": "Compare the effects of spoken delivery and written transcription.",
+      "access": "Authorized TED talk and transcript.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Use captions and transcript together.",
+      "interestHook": "The same words can have different effects when heard and read.",
+      "teachingPrompt": "What does vocal delivery contribute that the transcript cannot fully reproduce?",
+      "alignment": ["10.P.AC.3.a", "10.P.AC.3.b"]
+    },
+    {
+      "title": "The 57 Bus",
+      "author": "Dashka Slater",
+      "genre": "Narrative nonfiction",
+      "purpose": "Compare literary nonfiction structure with news-reporting conventions.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Review sensitive content.",
+      "interestHook": "The same event can be presented through different narrative structures.",
+      "teachingPrompt": "How would this information be reorganized in a conventional news report?",
+      "alignment": ["10.P.AC.3.b", "10.P.AC.3.c"]
+    },
+    {
+      "title": "A Public Information Website",
+      "author": "Teacher-selected government, museum, or educational organization",
+      "genre": "Interactive informational website",
+      "purpose": "Evaluate navigation, headings, accessibility, and multimodal features.",
+      "access": "Verified public website.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Select a site with meaningful design features.",
+      "interestHook": "A website's structure determines whether visitors can find the information they need.",
+      "teachingPrompt": "How does the site anticipate the needs of different visitors?",
+      "alignment": ["10.P.AC.3.a", "10.P.AC.3.c", "10.P.AC.3.d"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "One Topic, Three Formats",
+      "activity": "Students compare a short article, infographic, and audio explanation on the same topic, identifying how each format communicates meaning.",
+      "materials": ["Three short texts", "Comparison organizer"],
+      "scaffolds": ["Provide a feature checklist.", "Model one comparison."],
+      "success": "Students identify two meaningful differences among the modes.",
+      "alignment": ["10.P.AC.3.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Choose What Belongs",
+      "activity": "Students sort information appropriate to a news report, infographic, or personal narrative and explain why certain details fit each genre.",
+      "materials": ["Information cards", "Genre chart"],
+      "scaffolds": ["Provide examples of each genre."],
+      "success": "Students correctly select and justify relevant information for two genres.",
+      "alignment": ["10.P.AC.3.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Redesign the Information",
+      "activity": "Students transform an explanatory article into an infographic, deciding what information to retain, condense, visualize, or reorganize.",
+      "materials": ["Source article", "Design template", "Accessibility checklist"],
+      "scaffolds": ["Require students to preserve factual accuracy and identify the audience."],
+      "success": "The infographic communicates accurate information through purposeful selection and arrangement.",
+      "alignment": ["10.P.AC.3.b", "10.P.AC.3.c", "10.P.AC.3.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Build a Multimodal Explanation",
+      "activity": "Students create a digital explanation combining original prose with appropriate visuals, captions, and another communication mode.",
+      "materials": ["Research sources", "Digital creation tool", "Design rubric"],
+      "scaffolds": ["Require attribution and accessible presentation."],
+      "success": "The modes work together to clarify a topic for a defined audience.",
+      "alignment": ["10.P.AC.3.a", "10.P.AC.3.b", "10.P.AC.3.c", "10.P.AC.3.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "The Genre Transformation Studio",
+      "activity": "Students adapt one researched topic into a podcast segment and an interactive or visual publication, explaining how each genre changes content selection, organization, and rhetorical technique.",
+      "materials": ["Research notes", "Audio tool", "Digital design tool"],
+      "scaffolds": ["Require a comparative design rationale."],
+      "success": "Both products demonstrate effective genre conventions and purposeful differences.",
+      "alignment": ["10.P.AC.3.a", "10.P.AC.3.b", "10.P.AC.3.c", "10.P.AC.3.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "Accessibility by Design",
+      "activity": "Students audit a public-facing digital text for navigation, readability, captions, alternative text, and information hierarchy, then develop an improved prototype.",
+      "materials": ["Selected digital text", "Accessibility checklist", "Prototype tool"],
+      "scaffolds": ["Base recommendations on specific audience needs and usability evidence."],
+      "success": "Students justify design changes that improve comprehension and access.",
+      "alignment": ["10.P.AC.3.a", "10.P.AC.3.c", "10.P.AC.3.d"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which feature is most likely to distinguish a podcast interview from a written news report?",
+      "options": [
+        "Spoken interaction and vocal delivery",
+        "The need for accurate information",
+        "The presence of an intended audience",
+        "The possibility of organizing ideas"
+      ],
+      "answer": "Spoken interaction and vocal delivery",
+      "rationale": "Audio mode and interview genre introduce features not typically present in written reporting.",
+      "alignment": ["10.P.AC.3.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain why a public-health infographic might include fewer details than a research article about the same subject.",
+      "answer": "The infographic typically prioritizes concise, visually accessible information, while the research article can include extensive methods, analysis, and qualifications.",
+      "rationale": "Mode and genre influence which information is included.",
+      "alignment": ["10.P.AC.3.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student transforms a chronological personal narrative into a problem-solution report. Which change is most appropriate?",
+      "options": [
+        "Keep every event in its original order regardless of relevance",
+        "Reorganize information around the problem, evidence, and possible solutions",
+        "Remove all supporting evidence",
+        "Use only dialogue"
+      ],
+      "answer": "Reorganize information around the problem, evidence, and possible solutions",
+      "rationale": "The new genre requires a structure suited to explanation and analysis.",
+      "alignment": ["10.P.AC.3.c"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare how a written article and a short video might organize information about the same environmental issue.",
+      "answer": "A strong response explains meaningful differences in sequencing, visual or verbal presentation, and audience needs.",
+      "rationale": "Students analyze how mode and genre shape organization.",
+      "alignment": ["10.P.AC.3.b", "10.P.AC.3.c"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which design choice most effectively integrates multimodal features for an educational website?",
+      "options": [
+        "Decorative images unrelated to the topic",
+        "A clearly labeled diagram accompanied by explanatory text and accessible alternatives",
+        "An automatically playing video without captions",
+        "A chart without labels or explanation"
+      ],
+      "answer": "A clearly labeled diagram accompanied by explanatory text and accessible alternatives",
+      "rationale": "The features work together to support meaning and accessibility.",
+      "alignment": ["10.P.AC.3.d"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Transform a researched article into a multimodal product for a defined audience. Include at least three purposeful text or media features and explain how mode and genre influenced content, structure, and design.",
+      "answer": "Evaluate accuracy, audience awareness, effective multimodal integration, organization, accessibility, and design rationale.",
+      "rationale": "The task integrates all four Text Design expectations.",
+      "alignment": ["10.P.AC.3.a", "10.P.AC.3.b", "10.P.AC.3.c", "10.P.AC.3.d"]
+    }
+  ],
+  "evidence": [
+    "A comparison of the same information presented in different modes.",
+    "An explanation of how genre affects content selection.",
+    "A comparative analysis of organizational structures.",
+    "An original multimodal product with accessible features.",
+    "A design rationale explaining audience and purpose."
+  ],
+  "instruction": [
+    "Use authentic examples of written, visual, audio, and multimodal texts.",
+    "Teach mode and genre as related but distinct concepts.",
+    "Compare how different formats select and organize information.",
+    "Analyze how design affects meaning and audience experience.",
+    "Teach students to evaluate features for function rather than decoration.",
+    "Integrate accessibility into the design process.",
+    "Require source attribution and factual accuracy.",
+    "Use iterative design and audience feedback."
+  ],
+  "watchFor": [
+    "Treating mode and genre as interchangeable terms.",
+    "Assuming every genre includes the same information.",
+    "Transferring content to a new format without reorganizing it.",
+    "Adding images that do not contribute meaning.",
+    "Using inaccessible media without captions or alternatives.",
+    "Evaluating design only by visual attractiveness.",
+    "Overlooking the audience's information needs."
+  ],
+  "skills": {
+    "10.P.AC.3.a": {
+      "focus": "Explore and create texts across modes and genres",
+      "studentFriendly": "I can explain how features of different kinds of texts influence meaning and audience response.",
+      "know": ["Modes and genres have distinctive features and conventions."],
+      "understand": ["Text features shape meaning, tone, style, purpose, and audience experience."],
+      "do": ["Analyze features across modes.", "Create texts using appropriate conventions."],
+      "targets": ["I can explain and apply a mode- or genre-specific feature."],
+      "instruction": ["Compare authentic texts in multiple modes."],
+      "evidence": ["A feature analysis and an original text."],
+      "watchFor": ["Naming a feature without explaining its effect."]
+    },
+    "10.P.AC.3.b": {
+      "focus": "Select information appropriate to mode and genre",
+      "studentFriendly": "I can decide what information belongs in a text based on its form and purpose.",
+      "know": ["Different genres prioritize different kinds and amounts of information."],
+      "understand": ["Content selection is influenced by mode and genre."],
+      "do": ["Compare content conventions.", "Select relevant information.", "Justify inclusion and omission."],
+      "targets": ["I can select appropriate content for a genre."],
+      "instruction": ["Transform one topic into multiple genres."],
+      "evidence": ["A content-selection plan and rationale."],
+      "watchFor": ["Including information without considering its usefulness."]
+    },
+    "10.P.AC.3.c": {
+      "focus": "Structure information according to mode and genre",
+      "studentFriendly": "I can organize ideas in ways that suit the kind of text I am creating.",
+      "know": ["Genres and modes influence sequencing and arrangement."],
+      "understand": ["Organization shapes how audiences encounter information."],
+      "do": ["Analyze structures.", "Organize information appropriately.", "Revise arrangements for clarity."],
+      "targets": ["I can choose and justify an effective structure."],
+      "instruction": ["Use reverse outlines and genre transformations."],
+      "evidence": ["An organized text with a structural rationale."],
+      "watchFor": ["Keeping an unsuitable structure when changing genres."]
+    },
+    "10.P.AC.3.d": {
+      "focus": "Create purposeful multimodal texts",
+      "studentFriendly": "I can combine modes, genres, and craft techniques to communicate effectively.",
+      "know": ["Multimodal texts integrate different forms of communication."],
+      "understand": ["Different modes should contribute meaningfully to a shared purpose."],
+      "do": ["Select complementary modes.", "Integrate appropriate features.", "Evaluate audience impact and accessibility."],
+      "targets": ["I can create an effective, accessible multimodal text."],
+      "instruction": ["Use multimodal composition and design feedback."],
+      "evidence": ["An original multimodal product and design explanation."],
+      "watchFor": ["Adding media without a clear communicative function."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify source access, permissions, age suitability, and accessibility."
+}
+
   ]
 }
