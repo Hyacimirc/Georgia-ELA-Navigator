@@ -1519,6 +1519,994 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
 }
-
+,
+{
+  "code": "11.T.RA.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Curating Sources & Evidence",
+  "studentFriendly": "I can find and evaluate credible print and digital sources, verify conflicting claims and perspectives, and use relevant evidence with accurate MLA or APA citations to answer meaningful questions.",
+  "know": [
+    "Academic databases provide access to scholarly, reference, newspaper, and other curated publications; inclusion does not automatically guarantee reliability.",
+    "A focused research question determines which evidence is relevant.",
+    "Search strategies include keywords, synonyms, Boolean operators, filters, and citation chaining.",
+    "Primary and secondary sources serve different research purposes.",
+    "Credibility depends on expertise, evidence, methods, publication context, and corroboration.",
+    "Bias and perspective influence selection and interpretation of information but do not alone establish inaccuracy.",
+    "Misconceptions and conflicting claims require verification using independent evidence.",
+    "Accuracy, validity, and relevance are related but distinct criteria.",
+    "Quotation, paraphrase, and summary require accurate attribution.",
+    "MLA and APA use different in-text citation and reference-list conventions.",
+    "A works-cited or references entry must allow a reader to locate the source."
+  ],
+  "understand": [
+    "Research is iterative: discoveries can change search terms and refine the question.",
+    "A credible source must be appropriate for the specific claim being supported.",
+    "Conflicting sources should be investigated rather than averaged or dismissed automatically.",
+    "Reliable evidence depends on the strength of the underlying documentation, not a website’s appearance.",
+    "Citing evidence makes interpretations traceable and respects intellectual work.",
+    "Effective source curation means selecting and connecting evidence rather than collecting links indiscriminately."
+  ],
+  "do": [
+    "Formulate a researchable question and generate search terms.",
+    "Navigate library catalogs, academic databases, and credible digital and print collections.",
+    "Use filters and source metadata to locate relevant evidence.",
+    "Distinguish factual claims, interpretations, and unsupported assertions.",
+    "Cross-check conflicting claims with independent sources and original evidence.",
+    "Evaluate accuracy, validity, relevance, bias, and methodological limitations.",
+    "Select quotations and paraphrases that directly support an inference.",
+    "Integrate textual evidence with clear explanation.",
+    "Apply MLA or APA in-text citations consistently.",
+    "Prepare matching works-cited or references entries and check source details."
+  ],
+  "vocabulary": [
+    {
+      "term": "Academic database",
+      "definition": "A searchable collection of publications selected or organized for research.",
+      "example": "Searching GALILEO for peer-reviewed research on sleep and learning."
+    },
+    {
+      "term": "Boolean operator",
+      "definition": "A search connector such as AND, OR, or NOT.",
+      "example": "Searching adolescents AND sleep to narrow results."
+    },
+    {
+      "term": "Primary source",
+      "definition": "Original evidence or firsthand documentation.",
+      "example": "A historical letter or original research report."
+    },
+    {
+      "term": "Secondary source",
+      "definition": "An interpretation or analysis of other evidence.",
+      "example": "A scholarly article analyzing historical letters."
+    },
+    {
+      "term": "Credibility",
+      "definition": "The trustworthiness of a source for a particular purpose.",
+      "example": "Checking expertise, methodology, and corroboration."
+    },
+    {
+      "term": "Validity",
+      "definition": "The degree to which evidence or a method supports the conclusion drawn.",
+      "example": "Checking whether a survey measures what it claims to measure."
+    },
+    {
+      "term": "Relevance",
+      "definition": "The usefulness of information for a particular question or claim.",
+      "example": "Rejecting a source about adult sleep for a question about teenagers."
+    },
+    {
+      "term": "Corroboration",
+      "definition": "Independent evidence supporting a claim.",
+      "example": "Comparing a reported statistic with the original study."
+    },
+    {
+      "term": "Bias",
+      "definition": "A perspective or tendency that can affect presentation or interpretation.",
+      "example": "An advocacy group emphasizing favorable findings."
+    },
+    {
+      "term": "Paraphrase",
+      "definition": "An accurate restatement of source information in original language.",
+      "example": "Restating a study finding and citing its authors."
+    },
+    {
+      "term": "In-text citation",
+      "definition": "A brief acknowledgment identifying the source of borrowed material.",
+      "example": "An MLA parenthetical citation after a paraphrase."
+    },
+    {
+      "term": "Works cited",
+      "definition": "An MLA list of sources cited in the text.",
+      "example": "An alphabetized list of complete source entries."
+    },
+    {
+      "term": "References",
+      "definition": "An APA list of works cited in a paper.",
+      "example": "A reference list with authors, dates, titles, and publication details."
+    }
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Investigative nonfiction",
+      "purpose": "Trace how a writer integrates interviews, archival material, and scientific research.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide scientific and historical context.",
+      "interestHook": "How do we verify an account that combines personal testimony and science?",
+      "teachingPrompt": "Identify a factual claim and propose two ways to verify it.",
+      "alignment": [
+        "11.T.RA.2.a",
+        "11.T.RA.2.b"
+      ]
+    },
+    {
+      "title": "The 1619 Project: Selected Essays and Responses",
+      "author": "Multiple authors and scholars",
+      "genre": "Historical argument and critical response",
+      "purpose": "Compare claims, supporting evidence, scholarly disagreement, and source documentation.",
+      "access": "Authorized school-library selections and scholarly responses.",
+      "readingTime": "30–40 minutes",
+      "highInterest": true,
+      "accessibility": "Supply a neutral historical timeline and a structured evidence matrix.",
+      "interestHook": "What happens when researchers disagree about the past?",
+      "teachingPrompt": "Locate an original source or scholarly study bearing on one disputed claim.",
+      "alignment": [
+        "11.T.RA.2.a",
+        "11.T.RA.2.b",
+        "11.T.RA.2.c"
+      ]
+    },
+    {
+      "title": "A NASA Earth Observatory Article and Its Cited Research",
+      "author": "NASA and contributing researchers",
+      "genre": "Science communication and research",
+      "purpose": "Trace a public-facing explanation to the underlying research.",
+      "access": "NASA Earth Observatory and accessible original research.",
+      "readingTime": "25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide charts with accessible descriptions.",
+      "interestHook": "Can a compelling graphic be checked against its source data?",
+      "teachingPrompt": "Which claims are directly supported by the original study?",
+      "alignment": [
+        "11.T.RA.2.a",
+        "11.T.RA.2.b"
+      ]
+    },
+    {
+      "title": "An Academic Database Source Set on Teen Sleep",
+      "author": "Teacher-curated peer-reviewed researchers",
+      "genre": "Scientific research",
+      "purpose": "Practice database search, source comparison, and citation.",
+      "access": "GALILEO or school-subscribed academic databases.",
+      "readingTime": "35 minutes",
+      "highInterest": true,
+      "accessibility": "Provide search-term examples and abstracts before full articles.",
+      "interestHook": "Does the evidence support later school start times?",
+      "teachingPrompt": "Compare methods and conclusions from two studies.",
+      "alignment": [
+        "11.T.RA.2.a",
+        "11.T.RA.2.b",
+        "11.T.RA.2.c"
+      ]
+    },
+    {
+      "title": "A Public Speech and Its Historical Context Sources",
+      "author": "Teacher-selected historical speaker and archivists",
+      "genre": "Speech, archive, and scholarly analysis",
+      "purpose": "Connect textual inferences to independently verified context and properly cite sources.",
+      "access": "Library of Congress, National Archives, or credible university collections.",
+      "readingTime": "30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide an annotated primary-source excerpt.",
+      "interestHook": "What can the original document establish that a summary cannot?",
+      "teachingPrompt": "Support one interpretation with cited textual and contextual evidence.",
+      "alignment": [
+        "11.T.RA.2.a",
+        "11.T.RA.2.b",
+        "11.T.RA.2.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Search-Term Ladder",
+      "activity": "Transform a broad topic into a question; build keywords and synonyms; run two database searches and compare results.",
+      "materials": [
+        "Research question cards",
+        "Database access",
+        "Search log"
+      ],
+      "scaffolds": [
+        "Model AND/OR searches and filter use."
+      ],
+      "success": "Find two relevant sources and explain the search strategy.",
+      "alignment": [
+        "11.T.RA.2.a"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Claim Verification Clinic",
+      "activity": "Compare two contradictory short articles, trace one disputed claim to an original source, and record what can actually be verified.",
+      "materials": [
+        "Paired articles",
+        "Verification organizer"
+      ],
+      "scaffolds": [
+        "Provide a source-tracing checklist."
+      ],
+      "success": "Explain whether the evidence supports, complicates, or fails to verify the claim.",
+      "alignment": [
+        "11.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Database Evidence Map",
+      "activity": "Locate four sources in print or digital collections, evaluate credibility and relevance, and map evidence to a focused question.",
+      "materials": [
+        "GALILEO",
+        "Evidence matrix"
+      ],
+      "scaffolds": [
+        "Model a source annotation with strengths and limitations."
+      ],
+      "success": "Produce four evidence annotations and justify two strongest sources.",
+      "alignment": [
+        "11.T.RA.2.a",
+        "11.T.RA.2.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Cite It, Explain It",
+      "activity": "Integrate a quotation and paraphrase into an inferential response with accurate MLA or APA citations and matching bibliography entries.",
+      "materials": [
+        "Citation style guide",
+        "Source excerpts"
+      ],
+      "scaffolds": [
+        "Provide side-by-side citation examples and a checklist."
+      ],
+      "success": "Submit a coherent evidence-based paragraph with complete matching citations.",
+      "alignment": [
+        "11.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "The Contradictory Evidence Dossier",
+      "activity": "Investigate a contested research question using academic studies, a primary source, and public commentary; reconcile differences and publish a documented evidence brief.",
+      "materials": [
+        "Research databases",
+        "Primary sources",
+        "Citation manager"
+      ],
+      "scaffolds": [
+        "Require explicit discussion of methods and uncertainty."
+      ],
+      "success": "Produce a nuanced synthesis with verified claims and consistent citations.",
+      "alignment": [
+        "11.T.RA.2.a",
+        "11.T.RA.2.b",
+        "11.T.RA.2.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A database article and a popular website report different statistics. What is the strongest next step?",
+      "answer": "Trace both statistics to their original sources and compare definitions, dates, and methods.",
+      "rationale": "Source verification is stronger than relying on prestige or presentation alone.",
+      "alignment": [
+        "11.T.RA.2.b"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Describe a database search strategy for a question about adolescent sleep, including two keyword combinations and one filter.",
+      "answer": "A strong response provides targeted search terms and explains how a relevant filter improves retrieval.",
+      "rationale": "Measures purposeful source navigation.",
+      "alignment": [
+        "11.T.RA.2.a"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain the difference between an accurate paraphrase with a citation and an uncited paraphrase.",
+      "answer": "The cited paraphrase accurately credits the borrowed idea and enables verification.",
+      "rationale": "Measures responsible evidence integration.",
+      "alignment": [
+        "11.T.RA.2.c"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Two credible studies reach different conclusions. Explain three factors you would check before deciding what the evidence supports.",
+      "answer": "Sample, methods, definitions, dates, limitations, and contextual differences are relevant checks.",
+      "rationale": "Measures evaluation of conflicting information.",
+      "alignment": [
+        "11.T.RA.2.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Answer a focused inferential question using three credible sources, including one academic database source. Verify one potentially conflicting claim and provide consistent MLA or APA in-text citations and matching works-cited or reference entries.",
+      "answer": "Assess search quality, source evaluation, evidence integration, claim verification, and citation accuracy.",
+      "rationale": "Integrates all three expectations.",
+      "alignment": [
+        "11.T.RA.2.a",
+        "11.T.RA.2.b",
+        "11.T.RA.2.c"
+      ]
+    }
+  ],
+  "evidence": [
+    "Documented database search log with refined terms.",
+    "Annotated credibility and relevance evaluations.",
+    "A verified claim with source-tracing notes.",
+    "An evidence-based inferential response with in-text citations.",
+    "A correctly matched MLA works-cited or APA references list."
+  ],
+  "instruction": [
+    "Model live searches in GALILEO or another school-subscribed database.",
+    "Teach source evaluation as a claim-specific judgment, not a simple checklist score.",
+    "Demonstrate lateral reading and tracing statistics to original reports.",
+    "Use conflicting sources to teach methodological comparison and uncertainty.",
+    "Teach citation through authentic research paragraphs, not isolated formatting drills.",
+    "Check that every in-text citation corresponds to a complete bibliography entry."
+  ],
+  "watchFor": [
+    "Assuming every database result is peer-reviewed or equally credible.",
+    "Confusing a source’s viewpoint with proof of factual error.",
+    "Selecting sources by headline without reading methods or evidence.",
+    "Using outdated evidence for time-sensitive claims.",
+    "Quoting without explaining relevance to the question.",
+    "Mixing MLA and APA formats within one assignment.",
+    "Listing sources never cited or omitting entries for cited evidence."
+  ],
+  "skills": {
+    "11.T.RA.2.a": {
+      "focus": "Navigate credible print and digital sources",
+      "studentFriendly": "I can search academic databases and other credible collections for evidence that answers my question.",
+      "know": [
+        "Databases and catalogs offer searchable metadata, filters, and source types."
+      ],
+      "understand": [
+        "Strategic searching improves relevance and breadth."
+      ],
+      "do": [
+        "Generate keywords.",
+        "Search print and digital collections.",
+        "Evaluate initial results.",
+        "Refine searches."
+      ],
+      "targets": [
+        "I can locate and justify relevant sources."
+      ],
+      "instruction": [
+        "Model keyword expansion and database filters."
+      ],
+      "evidence": [
+        "An annotated search log and source set."
+      ],
+      "watchFor": [
+        "Choosing the first search result without evaluating relevance."
+      ]
+    },
+    "11.T.RA.2.b": {
+      "focus": "Verify and evaluate source information",
+      "studentFriendly": "I can identify misconceptions, conflicting claims, and potential bias and check accuracy, validity, and relevance.",
+      "know": [
+        "Sources can differ because of methods, dates, definitions, and perspectives."
+      ],
+      "understand": [
+        "Disagreement requires investigation, not automatic rejection."
+      ],
+      "do": [
+        "Compare claims.",
+        "Trace original evidence.",
+        "Evaluate methods and credibility.",
+        "Document uncertainty."
+      ],
+      "targets": [
+        "I can explain which evidence is reliable for my question and why."
+      ],
+      "instruction": [
+        "Use source comparison and original-document verification."
+      ],
+      "evidence": [
+        "A documented comparison of conflicting claims."
+      ],
+      "watchFor": [
+        "Equating disagreement with misinformation or treating bias as automatic falsehood."
+      ]
+    },
+    "11.T.RA.2.c": {
+      "focus": "Integrate and cite evidence in MLA or APA",
+      "studentFriendly": "I can support inferences with evidence and use a consistent citation style with a matching source list.",
+      "know": [
+        "In-text citations identify borrowed evidence; MLA and APA have distinct conventions."
+      ],
+      "understand": [
+        "Accurate citation supports credibility, traceability, and academic integrity."
+      ],
+      "do": [
+        "Quote and paraphrase accurately.",
+        "Add in-text citations.",
+        "Build corresponding source entries.",
+        "Check consistency."
+      ],
+      "targets": [
+        "I can submit an evidence-based response with complete matching citations."
+      ],
+      "instruction": [
+        "Use a real paragraph and citation-to-entry matching exercise."
+      ],
+      "evidence": [
+        "A cited inferential response and works-cited or references page."
+      ],
+      "watchFor": [
+        "Citing a source only in the bibliography or mixing citation styles."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, age suitability, and source access.",
+  "targets": [
+    "I can locate relevant sources in academic databases and other collections.",
+    "I can explain why a source is credible and relevant to a particular question.",
+    "I can investigate conflicting claims and verify their accuracy.",
+    "I can distinguish documented facts, interpretations, and unsupported claims.",
+    "I can integrate textual evidence into a supported inference.",
+    "I can use MLA or APA citations and provide matching source entries."
+  ]
+},
+{
+  "code": "11.T.T.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Narrative Techniques",
+  "studentFriendly": "I can compare how authors use archetypes, perspectives, plot, symbolism, conflict, and language to develop themes across texts and time periods, and I can use those techniques to create an engaging narrative with complex characters and purposeful meaning.",
+  "know": [
+    "Narrative techniques include plot structure, characterization, point of view, conflict, setting, symbolism, imagery, and pacing.",
+    "Archetypes are recurring patterns of character, situation, or imagery that can change meaning across cultures and periods.",
+    "Multiple perspectives can complicate readers’ understanding of events and motives.",
+    "Plot structure controls the sequence and revelation of narrative information.",
+    "Conflict can be internal, interpersonal, social, or environmental.",
+    "Symbolism and metaphor connect concrete details to abstract themes.",
+    "Theme is a developed insight about a subject, not simply a one-word topic.",
+    "Authors may adapt older themes, event patterns, or character types for new historical circumstances.",
+    "Word choice and narrative devices shape tone, mood, audience response, and purpose.",
+    "Complex characters may change through decisions, relationships, and conflicts.",
+    "Comparative literary analysis requires evidence from each text and reasoning connecting examples."
+  ],
+  "understand": [
+    "Similar narrative techniques can create different effects in different texts.",
+    "An archetype is a starting pattern rather than a complete explanation of a character.",
+    "Themes develop through interactions among characters, conflict, setting, and craft.",
+    "Comparing passages reveals both shared ideas and distinctive authorial choices.",
+    "Literary works participate in conversations across historical periods through adaptation and transformation.",
+    "Narrative construction involves purposeful decisions about character change, mood, symbolism, and audience engagement."
+  ],
+  "do": [
+    "Compare archetypes, multiple perspectives, plot structures, and symbolism across two or more texts.",
+    "Support comparisons with specific textual evidence.",
+    "Evaluate how conflict, devices, and word choice influence audiences and purpose.",
+    "Compare how different authors develop a similar theme using passages from each text.",
+    "Analyze recurring themes, event patterns, and character types across historical periods.",
+    "Plan a narrative with complex characters and meaningful change.",
+    "Use setting details to establish and shift mood.",
+    "Develop a theme through metaphor, symbolism, and character decisions.",
+    "Apply narrative devices strategically for an identified audience and purpose.",
+    "Revise narrative choices based on their effects."
+  ],
+  "vocabulary": [
+    {
+      "term": "Archetype",
+      "definition": "A recurring character, situation, or symbolic pattern found across stories.",
+      "example": "A journey that tests a protagonist’s values."
+    },
+    {
+      "term": "Multiple perspectives",
+      "definition": "The presentation of events through more than one viewpoint.",
+      "example": "Two narrators offering conflicting interpretations."
+    },
+    {
+      "term": "Plot structure",
+      "definition": "The organization and revelation of narrative events.",
+      "example": "Beginning a story near its climax and then returning to earlier events."
+    },
+    {
+      "term": "Conflict",
+      "definition": "A struggle that drives choices and narrative development.",
+      "example": "A character balancing loyalty with personal conviction."
+    },
+    {
+      "term": "Internal conflict",
+      "definition": "A struggle within a character.",
+      "example": "Wanting to tell the truth but fearing consequences."
+    },
+    {
+      "term": "Symbolism",
+      "definition": "The use of an element to suggest additional meanings.",
+      "example": "A locked gate representing exclusion."
+    },
+    {
+      "term": "Metaphor",
+      "definition": "A comparison that describes one thing as another.",
+      "example": "The city was a maze of unanswered questions."
+    },
+    {
+      "term": "Theme",
+      "definition": "A developed insight or idea explored through a work.",
+      "example": "Belonging can require both courage and compromise."
+    },
+    {
+      "term": "Mood",
+      "definition": "The emotional atmosphere created for an audience.",
+      "example": "An unsettling atmosphere produced by silence and dim light."
+    },
+    {
+      "term": "Tone",
+      "definition": "The attitude conveyed through a narrator’s or writer’s language.",
+      "example": "A restrained, ironic description of an absurd situation."
+    },
+    {
+      "term": "Narrative device",
+      "definition": "A technique for presenting or shaping a story.",
+      "example": "An unreliable narrator withholding crucial information."
+    },
+    {
+      "term": "Character arc",
+      "definition": "The pattern of change or development experienced by a character.",
+      "example": "A guarded character gradually learning to trust others."
+    },
+    {
+      "term": "Intertextuality",
+      "definition": "Connections between texts through allusion, adaptation, or shared patterns.",
+      "example": "A contemporary novel revisiting an ancient myth."
+    },
+    {
+      "term": "Pacing",
+      "definition": "The speed at which narrative information and events unfold.",
+      "example": "Short sentences accelerating a tense scene."
+    },
+    {
+      "term": "Motif",
+      "definition": "A recurring image, idea, or detail that contributes to meaning.",
+      "example": "Repeated references to windows and thresholds."
+    }
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Odyssey (selected episodes)",
+      "author": "Homer, in translation",
+      "genre": "Epic poetry",
+      "purpose": "Establish archetypal journey patterns, episodic plot, and character choices for later comparison.",
+      "access": "School anthology or authorized translation.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a journey map and notes on translation.",
+      "interestHook": "Why do journey stories remain recognizable across centuries?",
+      "teachingPrompt": "Identify a narrative pattern that a later author transforms.",
+      "alignment": [
+        "11.T.T.1.a",
+        "11.T.T.1.d"
+      ]
+    },
+    {
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "genre": "Speculative short story",
+      "purpose": "Examine narrative perspective, moral conflict, symbolism, and thematic ambiguity.",
+      "access": "School library or authorized copy.",
+      "readingTime": "25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide discussion norms for difficult ethical questions.",
+      "interestHook": "What happens when a seemingly perfect society has a hidden cost?",
+      "teachingPrompt": "How does the narrator guide and complicate the audience’s judgment?",
+      "alignment": [
+        "11.T.T.1.a",
+        "11.T.T.1.b",
+        "11.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The Lottery",
+      "author": "Shirley Jackson",
+      "genre": "Short story",
+      "purpose": "Compare collective ritual, foreshadowing, setting, and symbolism with another text exploring conformity.",
+      "access": "School anthology or authorized copy.",
+      "readingTime": "25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a content advisory for violence and a historical context note.",
+      "interestHook": "Why does an ordinary community participate in an alarming tradition?",
+      "teachingPrompt": "How do details of setting and pacing change the reader’s understanding?",
+      "alignment": [
+        "11.T.T.1.b",
+        "11.T.T.1.c",
+        "11.T.T.1.d"
+      ]
+    },
+    {
+      "title": "Circe (selected excerpts)",
+      "author": "Madeline Miller",
+      "genre": "Mythological novel",
+      "purpose": "Analyze how a modern retelling reshapes an inherited character type and perspective.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "25 minutes",
+      "highInterest": true,
+      "accessibility": "Select age-appropriate excerpts and provide mythological context.",
+      "interestHook": "What changes when a familiar myth is told by a different character?",
+      "teachingPrompt": "Compare characterization and perspective with a classical source.",
+      "alignment": [
+        "11.T.T.1.a",
+        "11.T.T.1.c",
+        "11.T.T.1.d"
+      ]
+    },
+    {
+      "title": "The Paper Menagerie",
+      "author": "Ken Liu",
+      "genre": "Speculative short story",
+      "purpose": "Examine symbolism, changing relationships, character development, and themes of identity and belonging.",
+      "access": "Authorized anthology or publisher excerpt.",
+      "readingTime": "30 minutes",
+      "highInterest": true,
+      "accessibility": "Offer cultural context and a content note about family loss.",
+      "interestHook": "Can a seemingly ordinary object carry an entire family history?",
+      "teachingPrompt": "Track how a recurring symbol changes meaning as the protagonist develops.",
+      "alignment": [
+        "11.T.T.1.b",
+        "11.T.T.1.c",
+        "11.T.T.1.e"
+      ]
+    },
+    {
+      "title": "A Raisin in the Sun (selected scenes)",
+      "author": "Lorraine Hansberry",
+      "genre": "Drama",
+      "purpose": "Compare character conflict, aspirations, symbolism, and the development of a shared theme across genres.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical context and cast chart.",
+      "interestHook": "How do different characters imagine a better future?",
+      "teachingPrompt": "Compare the symbolic role of a treasured object with one in a short story.",
+      "alignment": [
+        "11.T.T.1.b",
+        "11.T.T.1.c",
+        "11.T.T.1.d"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Narrative Technique Match",
+      "activity": "Annotate short passages for point of view, conflict, setting, and symbolism; explain one effect of each.",
+      "materials": [
+        "Short passages",
+        "Annotation key"
+      ],
+      "scaffolds": [
+        "Provide definitions, a worked example, and sentence frames."
+      ],
+      "success": "Identify four techniques and explain two effects with evidence.",
+      "alignment": [
+        "11.T.T.1.a",
+        "11.T.T.1.b"
+      ]
+    },
+    {
+      "level": "Remediation",
+      "time": "35 minutes",
+      "title": "Theme Across Two Stories",
+      "activity": "Use a shared topic to develop a theme statement, then find one supporting passage in each of two short texts.",
+      "materials": [
+        "Paired excerpts",
+        "Theme organizer"
+      ],
+      "scaffolds": [
+        "Contrast topic labels with complete thematic claims."
+      ],
+      "success": "Write a comparative theme statement supported by evidence from both texts.",
+      "alignment": [
+        "11.T.T.1.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Two Authors, One Pattern",
+      "activity": "Compare a classical archetype or event pattern with a contemporary adaptation, analyzing what changes and why.",
+      "materials": [
+        "Classical excerpt",
+        "Modern retelling",
+        "Comparison matrix"
+      ],
+      "scaffolds": [
+        "Model how to distinguish similarity from adaptation."
+      ],
+      "success": "Develop an evidence-based paragraph explaining a significant transformation.",
+      "alignment": [
+        "11.T.T.1.a",
+        "11.T.T.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Symbol and Character Workshop",
+      "activity": "Draft a scene featuring a character facing a consequential decision, a setting that creates mood, and a symbol that develops theme.",
+      "materials": [
+        "Planning template",
+        "Mentor excerpts",
+        "Peer-feedback rubric"
+      ],
+      "scaffolds": [
+        "Provide a character-goal/conflict/change organizer."
+      ],
+      "success": "Produce a coherent scene with purposeful mood and evolving symbolism.",
+      "alignment": [
+        "11.T.T.1.e"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "The Cross-Century Narrative Studio",
+      "activity": "Analyze how two or three works adapt a shared theme or archetype, then create a contemporary narrative that deliberately transforms the pattern; include a craft commentary.",
+      "materials": [
+        "Primary texts",
+        "Literary criticism",
+        "Drafting tools"
+      ],
+      "scaffolds": [
+        "Require evidence-based comparison and a documented revision rationale."
+      ],
+      "success": "Submit a nuanced comparison and an original narrative with complex characterization, purposeful symbolism, and thematic development.",
+      "alignment": [
+        "11.T.T.1.a",
+        "11.T.T.1.b",
+        "11.T.T.1.c",
+        "11.T.T.1.d",
+        "11.T.T.1.e"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement best describes an archetype in literary comparison?",
+      "answer": "A recurring narrative pattern that different authors can adapt for different purposes.",
+      "rationale": "Archetypes are recurring patterns, not identical characters or fixed messages.",
+      "alignment": [
+        "11.T.T.1.a",
+        "11.T.T.1.d"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare how two narrators’ perspectives shape the audience’s understanding of a shared conflict. Use evidence from both texts.",
+      "answer": "A strong response analyzes specific narrative choices and connects them to different audience effects.",
+      "rationale": "Assesses comparative technique analysis.",
+      "alignment": [
+        "11.T.T.1.a",
+        "11.T.T.1.b"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Two texts explore belonging. Explain how each develops a distinct theme through characterization and symbolism.",
+      "answer": "A strong response offers a defensible thematic comparison with passage-level evidence from both works.",
+      "rationale": "Assesses thematic comparison and reasoning.",
+      "alignment": [
+        "11.T.T.1.c"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "How might a contemporary retelling change an inherited character type to reflect a new historical period?",
+      "answer": "A strong response identifies an original pattern, a changed feature, and a plausible contextual effect supported by textual evidence.",
+      "rationale": "Assesses analysis of literary patterns across time.",
+      "alignment": [
+        "11.T.T.1.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Write a 700–1,000-word original narrative with a character who changes, a setting that creates mood, and a recurring metaphor or symbol that develops theme. Add a commentary explaining at least three deliberate narrative choices and how they engage the intended audience.",
+      "answer": "Evaluate complexity of characterization, purposeful setting, coherent theme, symbolism, craft, and explanatory commentary.",
+      "rationale": "Assesses original narrative construction.",
+      "alignment": [
+        "11.T.T.1.e"
+      ]
+    }
+  ],
+  "evidence": [
+    "A comparison of narrative techniques supported by quotations from multiple texts.",
+    "An analysis of plot, conflict, diction, and audience effect.",
+    "A comparative thematic claim with passage-level evidence.",
+    "A cross-period archetype or event-pattern analysis.",
+    "An original narrative and annotated craft reflection."
+  ],
+  "instruction": [
+    "Use brief paired excerpts before moving to whole-work comparison.",
+    "Teach archetypes as flexible patterns rather than rigid labels.",
+    "Model how to compare the effect of a technique, not just its presence.",
+    "Require evidence and reasoning from each text in thematic comparisons.",
+    "Provide historical context without reducing literature to its era.",
+    "Use mentor passages for character arcs, mood, and symbolism.",
+    "Include writing workshops where students revise for audience impact and thematic coherence."
+  ],
+  "watchFor": [
+    "Retelling two plots instead of comparing technique.",
+    "Treating archetypes as universal or culturally identical.",
+    "Confusing a topic such as love with a developed thematic statement.",
+    "Identifying a symbol without tracking its development.",
+    "Making unsupported claims about historical influence.",
+    "Writing a character who changes without a credible cause.",
+    "Adding metaphor and symbolism without connecting them to theme."
+  ],
+  "skills": {
+    "11.T.T.1.a": {
+      "focus": "Compare narrative techniques across texts",
+      "studentFriendly": "I can compare archetypes, perspectives, plot, and symbolism across two or more texts using evidence.",
+      "know": [
+        "Narrative patterns interact differently across works."
+      ],
+      "understand": [
+        "Shared techniques can produce distinct meanings."
+      ],
+      "do": [
+        "Annotate paired passages.",
+        "Compare techniques.",
+        "Support interpretations with evidence."
+      ],
+      "targets": [
+        "I can explain a meaningful similarity and difference in narrative construction."
+      ],
+      "instruction": [
+        "Use a two-text technique-and-effect matrix."
+      ],
+      "evidence": [
+        "An evidence-based comparative paragraph."
+      ],
+      "watchFor": [
+        "Listing devices without explaining interactions or effects."
+      ]
+    },
+    "11.T.T.1.b": {
+      "focus": "Evaluate plot, conflict, devices, and craft",
+      "studentFriendly": "I can compare how narrative craft shapes audience response and purpose in multiple texts.",
+      "know": [
+        "Plot, conflict, diction, and devices shape interpretation."
+      ],
+      "understand": [
+        "Narrative effectiveness depends on the interaction of craft choices."
+      ],
+      "do": [
+        "Compare plot structures.",
+        "Analyze conflict.",
+        "Evaluate word choice and devices."
+      ],
+      "targets": [
+        "I can explain how craft choices influence audiences."
+      ],
+      "instruction": [
+        "Model close reading of paired turning points."
+      ],
+      "evidence": [
+        "A comparison of craft effects with quotations."
+      ],
+      "watchFor": [
+        "Assuming the same device has the same effect in every text."
+      ]
+    },
+    "11.T.T.1.c": {
+      "focus": "Compare development of similar themes",
+      "studentFriendly": "I can compare how different authors develop a shared theme using passages from each work.",
+      "know": [
+        "Themes develop through events, characterization, and symbols."
+      ],
+      "understand": [
+        "Similar topics can lead to different thematic insights."
+      ],
+      "do": [
+        "Formulate thematic claims.",
+        "Select passages.",
+        "Compare development."
+      ],
+      "targets": [
+        "I can support a comparative theme claim with evidence and reasoning."
+      ],
+      "instruction": [
+        "Use thematic evidence trackers across texts."
+      ],
+      "evidence": [
+        "A comparative thematic analysis."
+      ],
+      "watchFor": [
+        "Confusing topic with theme or summarizing without comparison."
+      ]
+    },
+    "11.T.T.1.d": {
+      "focus": "Analyze patterns across time periods",
+      "studentFriendly": "I can explain how literature adapts themes, event patterns, and character types from different periods.",
+      "know": [
+        "Later works may transform earlier narrative patterns."
+      ],
+      "understand": [
+        "Historical context can change the significance of a recurring pattern."
+      ],
+      "do": [
+        "Identify shared patterns.",
+        "Investigate context.",
+        "Explain adaptation."
+      ],
+      "targets": [
+        "I can support a claim about continuity and transformation across time."
+      ],
+      "instruction": [
+        "Pair an older source with a documented modern adaptation."
+      ],
+      "evidence": [
+        "A contextual cross-period comparison."
+      ],
+      "watchFor": [
+        "Assuming influence without evidence or flattening cultural differences."
+      ]
+    },
+    "11.T.T.1.e": {
+      "focus": "Construct purposeful complex narratives",
+      "studentFriendly": "I can write a narrative with a changing character, mood-building setting, and metaphors or symbols that develop a theme.",
+      "know": [
+        "Character change, setting, mood, and symbolism are deliberate craft choices."
+      ],
+      "understand": [
+        "Narrative elements work together to create meaning and engage readers."
+      ],
+      "do": [
+        "Plan a character arc.",
+        "Build mood through setting.",
+        "Develop symbolism.",
+        "Revise for purpose."
+      ],
+      "targets": [
+        "I can create and explain an effective original narrative."
+      ],
+      "instruction": [
+        "Use mentor scenes and focused writing workshops."
+      ],
+      "evidence": [
+        "An original narrative and craft commentary."
+      ],
+      "watchFor": [
+        "Decorative symbols or unmotivated character changes."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, age suitability, and source access.",
+  "targets": [
+    "I can compare archetypes, perspectives, plot, and symbolism across texts.",
+    "I can evaluate how conflict and craft influence audience response.",
+    "I can compare how authors develop similar themes using evidence.",
+    "I can trace narrative patterns across historical periods.",
+    "I can develop a character who changes meaningfully.",
+    "I can use setting, metaphor, and symbolism to create mood and theme.",
+    "I can explain and revise my narrative choices for audience and purpose."
+  ]
+}
   ]
 }
