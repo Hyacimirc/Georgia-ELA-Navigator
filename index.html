@@ -672,7 +672,22 @@ function render() {
       </h3>
 
       <p>
-        ${esc(plain(x.text))}
+     ${(() => {
+  const raw = x.text || "";
+  const match = raw.match(/^\s*\*\*(.+?)\*\*\s*([\s\S]*)$/);
+
+  if (!match) {
+    return `<p>${esc(plain(raw))}</p>`;
+  }
+
+  const title = match[1].trim();
+  const wording = match[2].trim();
+
+  return `
+    <div class="standard-heading">${esc(title)}</div>
+    <p>${esc(plain(wording))}</p>
+  `;
+})()}
       </p>
 
       <div class="actions">
