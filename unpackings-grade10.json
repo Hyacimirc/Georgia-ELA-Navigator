@@ -21260,5 +21260,1064 @@
   "readingSelectionNote": "Selections are independently developed instructional recommendations, not state-prescribed texts. Verify editions, availability, permissions, age suitability, and local instructional requirements. Reading times refer to selected passages unless otherwise specified. High-interest and accessibility labels are editorial judgments."
 }
 
+,
+{
+  "code": "10.T.PM.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Periods & Movements",
+  "studentFriendly": "I can explain how writers adapt familiar stories for new times and purposes, and I can compare important authors, works, themes, and styles from different periods of English and American literature.",
+  "know": [
+    "Literary periods are historical categories that help readers study patterns in themes, genres, styles, and cultural concerns.",
+    "Literary movements may overlap and do not describe every writer or work from an era.",
+    "An archetype is a recurring character, situation, image, or narrative pattern found across literary traditions.",
+    "Adaptation may transform a source's setting, characters, perspective, genre, conflicts, or central message.",
+    "Historical and cultural circumstances influence literary production and interpretation.",
+    "British Romanticism often emphasizes imagination, nature, emotion, individual experience, and responses to industrialization.",
+    "The Harlem Renaissance brought major developments in African American poetry, fiction, music, drama, and cultural expression.",
+    "Writers within a literary movement may disagree with one another or challenge its dominant conventions."
+  ],
+  "understand": [
+    "Adaptations create new meanings through purposeful changes to earlier stories.",
+    "Comparing an adaptation with its source reveals the values and concerns of different audiences and eras.",
+    "Literary movements reflect interactions among historical circumstances, artistic traditions, and individual creativity.",
+    "Literary history is more complex than a fixed sequence of dates and labels.",
+    "Close reading is necessary to support claims about a work's themes and stylistic features.",
+    "Studying literature across periods helps readers recognize continuity, transformation, and disagreement in cultural ideas."
+  ],
+  "do": [
+    "Identify an archetypal pattern or recognizable source in a modern work.",
+    "Explain how an author changes an earlier story for a new purpose or context.",
+    "Compare specific scenes, characters, conflicts, or stylistic choices across an original and adaptation.",
+    "Identify major authors and representative works from two literary periods.",
+    "Discuss characteristic themes, genres, and stylistic features using textual evidence.",
+    "Connect literary choices to relevant historical and cultural contexts.",
+    "Avoid reducing an entire movement to one theme or treating all writers as interchangeable.",
+    "Develop a comparative interpretation supported by precise textual details."
+  ],
+  "vocabulary": [
+    {
+      "term": "Archetype",
+      "definition": "A recurring character, situation, image, or narrative pattern across stories and traditions.",
+      "example": "A journey in which a character faces trials and returns transformed."
+    },
+    {
+      "term": "Adaptation",
+      "definition": "A work that reshapes material from an earlier work or tradition.",
+      "example": "A contemporary novel relocating an ancient myth to a modern city."
+    },
+    {
+      "term": "Allusion",
+      "definition": "A reference to another text, event, person, or cultural tradition.",
+      "example": "A poem invoking Icarus to suggest dangerous ambition."
+    },
+    {
+      "term": "Intertextuality",
+      "definition": "The relationships through which texts echo, transform, or respond to other texts.",
+      "example": "A modern poem challenging the perspective of a familiar myth."
+    },
+    {
+      "term": "Literary period",
+      "definition": "A historical grouping used to study literature produced within a particular context.",
+      "example": "British Romanticism."
+    },
+    {
+      "term": "Literary movement",
+      "definition": "A recognizable pattern of artistic ideas, practices, or concerns shared by some writers.",
+      "example": "The Harlem Renaissance."
+    },
+    {
+      "term": "Romanticism",
+      "definition": "A literary and artistic movement associated with imagination, emotion, nature, and individual experience.",
+      "example": "Wordsworth's attention to memory and the natural world."
+    },
+    {
+      "term": "Harlem Renaissance",
+      "definition": "An influential period of African American cultural and artistic expression centered in the 1920s and 1930s.",
+      "example": "The poetry of Langston Hughes and Claude McKay."
+    },
+    {
+      "term": "Verbal style",
+      "definition": "The distinctive language choices that shape a writer's expression.",
+      "example": "A poem's diction, syntax, imagery, rhythm, and voice."
+    },
+    {
+      "term": "Historical context",
+      "definition": "The social, political, intellectual, and cultural circumstances surrounding a work.",
+      "example": "Considering industrialization when reading British Romantic poetry."
+    },
+    {
+      "term": "Reinterpretation",
+      "definition": "A new understanding or presentation of existing material.",
+      "example": "Retelling a heroic myth from the viewpoint of a character previously ignored."
+    },
+    {
+      "term": "Canon",
+      "definition": "A body of works traditionally regarded as important within a literary tradition.",
+      "example": "Questioning why certain authors appear repeatedly in anthologies while others are excluded."
+    }
+  ],
+  "targets": [
+    "I can identify the source or archetypal pattern behind a modern adaptation.",
+    "I can explain how changes in an adaptation create new meanings.",
+    "I can identify representative authors and works of British Romanticism and the Harlem Renaissance.",
+    "I can compare major themes and stylistic features of two literary periods.",
+    "I can support literary-historical claims with textual evidence.",
+    "I can explain how historical context influences a work without assuming every writer shares the same perspective."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Ancient epic",
+      "purpose": "Establish a source tradition for studying modern adaptations of the journey, homecoming, and heroic identity.",
+      "access": "School library or authorized translation; selected episodes.",
+      "readingTime": "20–30 minutes for selected episodes",
+      "highInterest": true,
+      "accessibility": "Provide a character map and contextualize epic conventions.",
+      "interestHook": "A traveler confronts monsters, temptations, and difficult choices on the way home.",
+      "teachingPrompt": "Which elements of the journey are essential to the story, and which might a modern writer transform?",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "title": "The Penelopiad",
+      "author": "Margaret Atwood",
+      "genre": "Modern myth retelling",
+      "purpose": "Compare a contemporary reinterpretation of the Odyssey with its ancient source.",
+      "access": "Authorized excerpts from a school library edition.",
+      "readingTime": "20–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Requires familiarity with the Odyssey; review mature content before assigning.",
+      "interestHook": "A familiar epic is reconsidered through Penelope's perspective.",
+      "teachingPrompt": "How does changing the narrator challenge the original story's treatment of heroism and power?",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "genre": "Contemporary mythological novel",
+      "purpose": "Examine how a minor or antagonistic mythological figure becomes the center of a new narrative.",
+      "access": "Teacher-selected authorized excerpts; review mature content.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Use carefully selected passages and provide mythological background.",
+      "interestHook": "A character once encountered as an obstacle becomes the protagonist.",
+      "teachingPrompt": "What changes when a modern adaptation gives Circe agency, interiority, and a sustained point of view?",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "title": "I Wandered Lonely as a Cloud",
+      "author": "William Wordsworth",
+      "genre": "British Romantic lyric poetry",
+      "purpose": "Study nature, memory, imagination, and lyrical expression in British Romanticism.",
+      "access": "Public-domain poem.",
+      "readingTime": "10–15 minutes",
+      "highInterest": false,
+      "accessibility": "Accessible with support for figurative language and poetic form.",
+      "interestHook": "An ordinary encounter with flowers becomes a lasting imaginative experience.",
+      "teachingPrompt": "How does the poem transform an observed scene into a claim about memory and imagination?",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "title": "Ozymandias",
+      "author": "Percy Bysshe Shelley",
+      "genre": "British Romantic sonnet",
+      "purpose": "Examine Romantic-era concerns with power, impermanence, irony, and the passage of time.",
+      "access": "Public-domain poem.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Brief but conceptually challenging; support the frame narrative and irony.",
+      "interestHook": "A ruined monument undermines a ruler's boast of greatness.",
+      "teachingPrompt": "How do the poem's structure, imagery, and irony challenge political power?",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic novel associated with British Romanticism",
+      "purpose": "Explore Romantic-era debates about scientific ambition, responsibility, isolation, and the limits of knowledge.",
+      "access": "Public-domain novel; selected chapters or complete text.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging nineteenth-century prose; use reading supports and historical context.",
+      "interestHook": "A creator's ambition produces consequences he refuses to confront.",
+      "teachingPrompt": "Where does the novel complicate the Romantic celebration of individual imagination and ambition?",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "title": "The Negro Speaks of Rivers",
+      "author": "Langston Hughes",
+      "genre": "Harlem Renaissance poetry",
+      "purpose": "Examine collective memory, historical identity, imagery, and repetition.",
+      "access": "Authorized poem text or school anthology.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Brief text; provide historical and geographical context.",
+      "interestHook": "A speaker connects personal identity to the history of civilizations.",
+      "teachingPrompt": "How do repetition and river imagery connect individual voice with collective history?",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "title": "If We Must Die",
+      "author": "Claude McKay",
+      "genre": "Harlem Renaissance sonnet",
+      "purpose": "Analyze how traditional poetic form conveys resistance, dignity, and collective resolve.",
+      "access": "Public-domain poem.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical context and discuss figurative violence thoughtfully.",
+      "interestHook": "A tightly structured sonnet becomes a forceful call for resistance.",
+      "teachingPrompt": "How does McKay use an inherited poetic form to express urgent historical concerns?",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "title": "Sweat",
+      "author": "Zora Neale Hurston",
+      "genre": "Harlem Renaissance short fiction",
+      "purpose": "Study regional voice, characterization, symbolism, and the complexities of a literary movement.",
+      "access": "School anthology or authorized edition.",
+      "readingTime": "25–35 minutes",
+      "highInterest": true,
+      "accessibility": "Review depictions of abuse and provide support for dialect and cultural context.",
+      "interestHook": "A woman's struggle for autonomy unfolds through vivid setting and symbolism.",
+      "teachingPrompt": "How does Hurston's language differ from Hughes's and McKay's, and what does that reveal about the movement's diversity?",
+      "alignment": ["10.T.PM.1.b"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Spot the Adaptation",
+      "activity": "Students compare a short myth synopsis with a contemporary retelling, highlighting retained and changed elements. They explain one change's effect on meaning.",
+      "materials": ["Myth synopsis", "Modern adaptation excerpt", "Comparison organizer"],
+      "scaffolds": ["Provide a model comparison.", "Use character, setting, conflict, and perspective prompts."],
+      "success": "Students identify two meaningful changes and explain the effect of one.",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "35 minutes",
+      "title": "Two Movements, Two Poems",
+      "activity": "Students annotate a Romantic poem and a Harlem Renaissance poem, identifying themes, imagery, voice, and historical context.",
+      "materials": ["Two poems", "Context cards", "Annotation organizer"],
+      "scaffolds": ["Preteach essential vocabulary.", "Model how to connect a historical detail to a textual choice."],
+      "success": "Students accurately identify each work and author and explain one stylistic feature in each.",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Whose Story Is It?",
+      "activity": "Students compare an Odyssey episode with an authorized excerpt from a modern retelling. They analyze changes in perspective, characterization, and the values emphasized.",
+      "materials": ["Paired excerpts", "Comparative annotation guide"],
+      "scaffolds": ["Provide a claim-evidence-reasoning organizer."],
+      "success": "A comparative paragraph explains how at least two changes serve a new purpose.",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Literary History Gallery",
+      "activity": "Teams create annotated exhibits featuring two authors and representative works from each movement. Exhibits connect historical context with themes and stylistic evidence.",
+      "materials": ["Four or more literary selections", "Reliable historical sources", "Gallery template"],
+      "scaffolds": ["Require quotations and commentary rather than biographical facts alone."],
+      "success": "Each exhibit accurately identifies authors, works, and defining features while acknowledging variation within movements.",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "Rewriting the Archetype",
+      "activity": "Students create a short contemporary adaptation of a recognizable myth or archetypal story, then write a critical commentary explaining how changes in context and perspective reshape its purpose.",
+      "materials": ["Original source", "Adaptation planning sheet", "Commentary rubric"],
+      "scaffolds": ["Require explicit comparison with the source tradition."],
+      "success": "The adaptation demonstrates purposeful transformation, and the commentary supports its interpretation with evidence.",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "Challenge the Period Label",
+      "activity": "Students examine several works from each movement and evaluate how useful or limiting literary-period labels are when describing individual writers.",
+      "materials": ["Four or more literary selections", "Historical context sources"],
+      "scaffolds": ["Encourage counterexamples and distinctions among writers."],
+      "success": "Students develop a nuanced argument supported by specific stylistic and thematic evidence.",
+      "alignment": ["10.T.PM.1.b"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A modern retelling presents a legendary monster as a misunderstood narrator. Which change is most likely to reshape the original story's meaning?",
+      "options": [
+        "Changing only the font",
+        "Shifting the narrative perspective",
+        "Keeping every event identical",
+        "Adding a chapter number"
+      ],
+      "answer": "Shifting the narrative perspective",
+      "rationale": "Perspective influences whose experiences and values the audience understands.",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how changing the historical setting of an ancient myth could change the conflicts or values emphasized by a modern adaptation.",
+      "answer": "A strong response identifies a specific change in social or historical context and explains its effect on conflict, characterization, or theme.",
+      "rationale": "Students must analyze the adaptation's new purpose, not merely identify differences.",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare one scene or character from the Odyssey with a modern adaptation. How does the modern author use the source material for a different purpose?",
+      "answer": "A strong response identifies the source relationship, analyzes purposeful changes, and supports an interpretation with evidence from both texts.",
+      "rationale": "The response directly assesses the explanation of adaptation.",
+      "alignment": ["10.T.PM.1.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which pairing correctly identifies a representative author and movement?",
+      "options": [
+        "William Wordsworth — British Romanticism",
+        "Langston Hughes — British Romanticism",
+        "Mary Shelley — Harlem Renaissance",
+        "Claude McKay — Victorian realism"
+      ],
+      "answer": "William Wordsworth — British Romanticism",
+      "rationale": "Wordsworth is a major figure in British Romantic literature.",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement best describes the Harlem Renaissance?",
+      "options": [
+        "A movement in which all writers used identical styles",
+        "A period of influential African American artistic and literary expression",
+        "A movement limited to British nature poetry",
+        "A period without historical or cultural concerns"
+      ],
+      "answer": "A period of influential African American artistic and literary expression",
+      "rationale": "The movement included diverse artistic forms, voices, and concerns.",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare how a British Romantic poem and a Harlem Renaissance poem use imagery or voice to explore a central concern.",
+      "answer": "A strong response identifies both authors and works, analyzes a stylistic feature in each, and connects the comparison to historical or cultural context.",
+      "rationale": "The task integrates literary history, themes, and close reading.",
+      "alignment": ["10.T.PM.1.b"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a comparative literary-history exhibit featuring two authors and works from British Romanticism and two from the Harlem Renaissance. Explain characteristic themes and styles, including an important difference within at least one movement.",
+      "answer": "Evaluate historical accuracy, identification of authors and works, textual analysis, contextual reasoning, and recognition of diversity within movements.",
+      "rationale": "The task assesses literary-historical knowledge without reducing movements to memorized dates.",
+      "alignment": ["10.T.PM.1.b"]
+    }
+  ],
+  "evidence": [
+    "An evidence-based comparison of a source story and modern adaptation.",
+    "An explanation of how an adaptation serves a new purpose.",
+    "Accurate identification of major authors and representative works from two literary periods.",
+    "Comparative analysis of themes and verbal styles.",
+    "A literary-history exhibit supported by quotations and contextual research."
+  ],
+  "instruction": [
+    "Begin with recognizable stories and modern transformations to establish the purpose of comparative reading.",
+    "Teach adaptation as reinterpretation rather than simple retelling.",
+    "Use close reading before introducing broad claims about literary movements.",
+    "Study at least two representative authors and works from each selected period.",
+    "Provide concise, credible historical context without allowing biography to replace literary analysis.",
+    "Discuss variation and disagreement within literary movements.",
+    "Connect period study to recurring questions about identity, power, imagination, and culture."
+  ],
+  "watchFor": [
+    "Treating an archetype as a mandatory formula for all stories.",
+    "Assuming a modern adaptation must preserve the source's values.",
+    "Confusing a literary movement with a single author or theme.",
+    "Making historical claims without textual support.",
+    "Reducing the Harlem Renaissance to one writer or one political perspective.",
+    "Assuming all British Romantic writing celebrates nature in the same way.",
+    "Treating period boundaries as exact or universally agreed upon."
+  ],
+  "skills": {
+    "10.T.PM.1.a": {
+      "focus": "Explain modern adaptations of archetypal stories",
+      "studentFriendly": "I can explain how a modern author changes an older story or archetype to express new ideas.",
+      "know": [
+        "Archetypal patterns recur across traditions.",
+        "Adaptations can change perspective, setting, genre, character, and theme.",
+        "A change in context can produce a change in meaning."
+      ],
+      "understand": [
+        "Modern adaptations respond to the concerns of new audiences and circumstances.",
+        "Purposeful changes reveal a modern author's interpretation of the source."
+      ],
+      "do": [
+        "Identify a source story or archetypal pattern.",
+        "Compare source and adaptation.",
+        "Explain how specific changes serve a new purpose.",
+        "Support analysis with evidence from both texts."
+      ],
+      "targets": [
+        "I can identify a meaningful adaptation choice.",
+        "I can explain how that choice changes the story's message."
+      ],
+      "instruction": [
+        "Use paired excerpts with a shared character or event.",
+        "Compare narrative perspective, conflict, and characterization.",
+        "Require a claim about the purpose of the transformation."
+      ],
+      "evidence": [
+        "A comparative analytical paragraph.",
+        "An annotated adaptation with an explanatory commentary."
+      ],
+      "watchFor": [
+        "Listing differences without analyzing their significance.",
+        "Assuming all adaptations communicate the original message."
+      ]
+    },
+    "10.T.PM.1.b": {
+      "focus": "Major authors, works, themes, and styles from two literary periods",
+      "studentFriendly": "I can identify and discuss important writers and works from two periods of English and American literature, explaining their themes and styles.",
+      "know": [
+        "British Romanticism includes writers such as William Wordsworth, Percy Bysshe Shelley, and Mary Shelley.",
+        "The Harlem Renaissance includes writers such as Langston Hughes, Claude McKay, and Zora Neale Hurston.",
+        "Themes and stylistic features vary within a movement.",
+        "Historical context helps explain literary concerns."
+      ],
+      "understand": [
+        "Literary movements provide useful patterns but do not erase individual differences.",
+        "Writers respond to cultural conditions through distinctive literary choices."
+      ],
+      "do": [
+        "Identify major authors and representative works from two periods.",
+        "Discuss characteristic themes and stylistic features.",
+        "Analyze quotations as evidence of literary style.",
+        "Connect literary choices to relevant historical contexts.",
+        "Recognize important differences among writers within a period."
+      ],
+      "targets": [
+        "I can connect authors and works to their literary periods.",
+        "I can analyze a period-related theme or stylistic feature.",
+        "I can support a literary-historical comparison with textual evidence."
+      ],
+      "instruction": [
+        "Pair close reading with brief historical context.",
+        "Use comparison charts and literary-history galleries.",
+        "Include multiple authors from each movement."
+      ],
+      "evidence": [
+        "A comparative literary analysis.",
+        "An accurate annotated exhibit of authors, works, themes, and styles."
+      ],
+      "watchFor": [
+        "Memorizing dates without reading the literature.",
+        "Overgeneralizing about every writer in a movement."
+      ]
+    }
+  },
+  "readingSelectionNote": "These texts are independently recommended, not prescribed by Georgia. Verify permissions, editions, reading level, and age suitability. British Romanticism and the Harlem Renaissance are an instructional pairing selected for this guide, not a state-mandated pairing."
+},
+{
+  "code": "10.L.GC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Syntax",
+  "studentFriendly": "I can analyze how sentence structure creates meaning and revise my own sentences to control emphasis, rhythm, clarity, voice, and detail.",
+  "know": [
+    "Syntax is the arrangement of words, phrases, and clauses in sentences.",
+    "Sentence structure affects emphasis, pacing, rhythm, clarity, and tone.",
+    "Parallel structure uses grammatically corresponding forms to express related ideas.",
+    "Verb tense locates an action in time, aspect describes how an action unfolds, and mood communicates a speaker's attitude toward an action.",
+    "Active voice typically places the agent of an action in the grammatical subject position.",
+    "Writers can expand sentences using meaningful details, descriptions, modifiers, and clauses.",
+    "Syntactic variety should serve purpose and meaning rather than variation for its own sake.",
+    "Effective revision preserves grammatical relationships and intended meaning."
+  ],
+  "understand": [
+    "Sentence structure is a rhetorical choice, not merely a correctness issue.",
+    "Parallel structure can clarify relationships and make language more memorable.",
+    "Shifts in tense, aspect, or mood can confuse readers unless they are purposeful.",
+    "Consistent active voice can foreground agency and strengthen directness.",
+    "Adding detail improves writing only when the detail serves the purpose.",
+    "Readers can infer tone, perspective, and emphasis from syntactic patterns."
+  ],
+  "do": [
+    "Analyze how sentence structure contributes to meaning and effect.",
+    "Recognize and evaluate parallel structure in authentic texts.",
+    "Revise sentences to vary length, openings, and clause arrangements.",
+    "Maintain appropriate consistency of verb tense, aspect, and mood.",
+    "Use active voice consistently when a text calls for a direct, agent-centered effect.",
+    "Expand and enrich sentences with relevant descriptions and details.",
+    "Create parallel structures within paragraphs to express related ideas.",
+    "Explain and evaluate the effects of syntactic revisions."
+  ],
+  "vocabulary": [
+    {
+      "term": "Syntax",
+      "definition": "The arrangement of words, phrases, and clauses into sentences.",
+      "example": "Changing the order of a sentence to emphasize a surprising result."
+    },
+    {
+      "term": "Parallel structure",
+      "definition": "The use of corresponding grammatical forms for related ideas.",
+      "example": "She wanted to learn, to create, and to lead."
+    },
+    {
+      "term": "Clause",
+      "definition": "A group of words containing a subject and a verb.",
+      "example": "Because the storm intensified."
+    },
+    {
+      "term": "Independent clause",
+      "definition": "A clause that can stand alone as a sentence.",
+      "example": "The experiment succeeded."
+    },
+    {
+      "term": "Dependent clause",
+      "definition": "A clause that cannot stand alone as a complete sentence.",
+      "example": "Although the experiment was difficult."
+    },
+    {
+      "term": "Verb tense",
+      "definition": "A grammatical form indicating when an action or state occurs.",
+      "example": "She studies; she studied."
+    },
+    {
+      "term": "Verb aspect",
+      "definition": "A grammatical distinction describing the temporal character of an action.",
+      "example": "She studied; she was studying; she has studied."
+    },
+    {
+      "term": "Verb mood",
+      "definition": "A grammatical form expressing statements, commands, or hypothetical situations.",
+      "example": "If I were the editor, I would revise the conclusion."
+    },
+    {
+      "term": "Active voice",
+      "definition": "A construction in which the grammatical subject performs the action.",
+      "example": "The students designed the experiment."
+    },
+    {
+      "term": "Passive voice",
+      "definition": "A construction in which the subject receives the action.",
+      "example": "The experiment was designed by the students."
+    },
+    {
+      "term": "Modification",
+      "definition": "The addition of words or phrases that describe or limit meaning.",
+      "example": "The narrow, rain-soaked street emptied quickly."
+    },
+    {
+      "term": "Periodic sentence",
+      "definition": "A sentence that delays its main clause or central idea until later.",
+      "example": "After months of planning and repeated setbacks, the team succeeded."
+    },
+    {
+      "term": "Cumulative sentence",
+      "definition": "A sentence that begins with a main clause and adds modifying details.",
+      "example": "The train departed, its windows glowing in the evening rain."
+    },
+    {
+      "term": "Rhetorical effect",
+      "definition": "The impact a language choice has on an audience.",
+      "example": "A short sentence after a long description creates emphasis."
+    }
+  ],
+  "targets": [
+    "I can explain how a writer's syntax affects meaning, tone, or emphasis.",
+    "I can identify and analyze parallel structure.",
+    "I can vary sentence structure for a deliberate effect.",
+    "I can maintain appropriate consistency of tense, aspect, and mood.",
+    "I can use active voice consistently for a purposeful effect.",
+    "I can expand sentences with details that clarify or enrich meaning.",
+    "I can create parallel structures within a paragraph.",
+    "I can explain why one sentence revision is more effective than another."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Analyze parallelism, cumulative syntax, repetition, and rhetorical emphasis.",
+      "access": "Authorized excerpt or school anthology.",
+      "readingTime": "15–20 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging historical and rhetorical context; provide scaffolding.",
+      "interestHook": "A carefully constructed argument uses sentence rhythm to intensify its message.",
+      "teachingPrompt": "How do repeated grammatical patterns strengthen the relationship among the writer's claims?",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.e"]
+    },
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "genre": "Psychological short fiction",
+      "purpose": "Study sentence length, punctuation, repetition, and changes in pacing.",
+      "access": "Public-domain story.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible prose with an unreliable narrator; review unsettling content.",
+      "interestHook": "A narrator's increasingly unstable language reveals psychological tension.",
+      "teachingPrompt": "Where does Poe accelerate or interrupt the rhythm, and how does that affect the reader?",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.b"]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Analyze concise syntax, fragments, repetition, and descriptive detail.",
+      "access": "School library or authorized edition.",
+      "readingTime": "10–20 minutes for selected vignettes",
+      "highInterest": true,
+      "accessibility": "Brief selections; support figurative interpretation.",
+      "interestHook": "Short sentences and vivid images communicate complex experiences.",
+      "teachingPrompt": "What would change if Cisneros rewrote a brief, emphatic sentence as a long explanatory one?",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.b", "10.L.GC.2.d"]
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "Short fiction",
+      "purpose": "Study how sentence structure, pacing, and description shape interpretation.",
+      "access": "Public-domain story.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Brief but conceptually complex; discuss historical gender expectations.",
+      "interestHook": "A short narrative changes the meaning of a character's emotional response.",
+      "teachingPrompt": "How do syntactic changes accompany the protagonist's developing thoughts?",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.d"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Analyze rhetorical repetition, parallelism, and the syntax of spoken argument.",
+      "access": "Authorized TED talk video or transcript.",
+      "readingTime": "15–20 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Accessible with context for examples and cultural references.",
+      "interestHook": "Repeated sentence patterns expose the limits of stereotypes.",
+      "teachingPrompt": "How does the repetition of similar grammatical structures help the audience track the argument?",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.e"]
+    },
+    {
+      "title": "The Most Dangerous Game",
+      "author": "Richard Connell",
+      "genre": "Adventure and suspense fiction",
+      "purpose": "Analyze how syntactic variation influences suspense and pacing.",
+      "access": "School anthology or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Engaging plot; support older vocabulary and review violent content.",
+      "interestHook": "Changes in sentence rhythm heighten danger and uncertainty.",
+      "teachingPrompt": "How does a sequence of short sentences differ in effect from a longer descriptive sentence?",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.b"]
+    },
+    {
+      "title": "Student Investigative News Writing",
+      "author": "Student writers and professional journalists",
+      "genre": "Expository journalism",
+      "purpose": "Practice active voice, clear agency, consistent verb forms, and purposeful elaboration.",
+      "access": "Teacher-selected professional models and student drafts.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Use familiar school or community issues.",
+      "interestHook": "Small sentence revisions can make a news story more precise and compelling.",
+      "teachingPrompt": "Who performs each action, and how does changing the sentence structure affect accountability or clarity?",
+      "alignment": ["10.L.GC.2.b", "10.L.GC.2.c", "10.L.GC.2.d"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Hear the Difference",
+      "activity": "Students compare pairs of sentences conveying similar information with different structures. They read each aloud and explain changes in emphasis, pace, or clarity.",
+      "materials": ["Sentence pairs", "Effect word bank", "Annotation guide"],
+      "scaffolds": ["Model one comparison.", "Use short, familiar examples."],
+      "success": "Students explain a meaningful syntactic effect in two sentence pairs.",
+      "alignment": ["10.L.GC.2.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Keep the Verb Timeline",
+      "activity": "Students revise a paragraph containing unintended changes in tense, aspect, or mood, then explain which shifts were corrected and why.",
+      "materials": ["Practice paragraph", "Verb timeline", "Revision checklist"],
+      "scaffolds": ["Color-code verb phrases.", "Distinguish purposeful time shifts from accidental inconsistencies."],
+      "success": "Students correct inconsistent verb forms while preserving the intended timeline and meaning.",
+      "alignment": ["10.L.GC.2.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Who Did What?",
+      "activity": "Students identify agents and actions in a paragraph, revise selected passive constructions into active voice, and maintain a consistent agent-centered presentation.",
+      "materials": ["Short paragraph", "Active-voice revision guide"],
+      "scaffolds": ["Use subject-verb-action identification.", "Discuss when the agent is unknown."],
+      "success": "Students produce a coherent paragraph using active voice for a clear intended effect.",
+      "alignment": ["10.L.GC.2.c"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Build the Parallel Pattern",
+      "activity": "Students identify mismatched items in lists and related clauses, revise them into parallel forms, and use a parallel pattern in a short paragraph.",
+      "materials": ["Parallelism examples", "Sentence frames"],
+      "scaffolds": ["Highlight grammatical forms.", "Begin with short lists before moving to paragraph-level patterns."],
+      "success": "Students create a clear parallel structure that expresses related ideas.",
+      "alignment": ["10.L.GC.2.e"]
+    },
+    {
+      "level": "On-Level",
+      "time": "35 minutes",
+      "title": "Syntax Imitation Studio",
+      "activity": "Students analyze a mentor sentence, imitate its structure with original content, and revise their imitation for a different effect. They explain their choices.",
+      "materials": ["Mentor sentences", "Writer's notebook", "Revision guide"],
+      "scaffolds": ["Focus analysis on clause arrangement, rhythm, and emphasis."],
+      "success": "Students produce purposeful syntactic variations and justify the effects.",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "Elaboration Without Padding",
+      "activity": "Students revise a sparse paragraph by adding concrete details, relevant modifiers, and explanatory clauses, then remove additions that distract from the purpose.",
+      "materials": ["Draft paragraph", "Elaboration checklist", "Peer feedback guide"],
+      "scaffolds": ["Ask what readers need to see, know, or understand."],
+      "success": "The revised paragraph communicates richer information without unnecessary repetition.",
+      "alignment": ["10.L.GC.2.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "Parallelism in Persuasion",
+      "activity": "Students analyze parallel patterns in a speech, then revise a persuasive paragraph to create grammatical symmetry among related claims or actions.",
+      "materials": ["Speech excerpt", "Paragraph draft", "Annotation guide"],
+      "scaffolds": ["Compare effective parallelism with repetitive but grammatically mismatched phrasing."],
+      "success": "Students use a deliberate parallel pattern and explain its rhetorical effect.",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.e"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "45 minutes",
+      "title": "Three Ways to Change the Meaning",
+      "activity": "Students rewrite one passage three ways: emphasizing urgency, reflection, and uncertainty. They alter syntax while preserving core facts and explain the rhetorical effects.",
+      "materials": ["Original passage", "Revision comparison chart"],
+      "scaffolds": ["Encourage precise analysis of clause placement and sentence rhythm."],
+      "success": "Each version creates a distinct defensible effect through syntactic choices.",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.b"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "The Syntax Audit",
+      "activity": "Students analyze an original essay for sentence variety, verb consistency, active voice, purposeful elaboration, and parallel structure. They submit a revision with an annotated rationale.",
+      "materials": ["Student essay", "Syntax audit checklist", "Revision commentary template"],
+      "scaffolds": ["Require justification rather than changes made solely to satisfy a checklist."],
+      "success": "The revision improves clarity and rhetorical control while preserving meaning.",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.b", "10.L.GC.2.c", "10.L.GC.2.d", "10.L.GC.2.e"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A writer follows a long description with the sentence 'The door opened.' What is the most likely effect of the sudden short sentence?",
+      "options": [
+        "It necessarily makes the writing less formal",
+        "It can create emphasis and alter the pace",
+        "It eliminates the need for context",
+        "It changes the passage to passive voice"
+      ],
+      "answer": "It can create emphasis and alter the pace",
+      "rationale": "Contrasting sentence lengths can shape pacing and focus attention.",
+      "alignment": ["10.L.GC.2.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which sentence demonstrates parallel structure?",
+      "options": [
+        "She enjoys reading, to paint, and hiking.",
+        "She enjoys reading, painting, and hiking.",
+        "She enjoys reading, to paint, and to hike.",
+        "She enjoys to read, painting, and hikes."
+      ],
+      "answer": "She enjoys reading, painting, and hiking.",
+      "rationale": "All three items use corresponding grammatical forms.",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.e"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how parallel structure can strengthen a persuasive paragraph.",
+      "answer": "Parallel grammatical forms can emphasize relationships among claims, improve clarity, and create memorable rhythm.",
+      "rationale": "The response connects a syntactic feature to its rhetorical effect.",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.e"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision maintains a consistent past-tense narrative?",
+      "options": [
+        "She opened the letter and reads the final sentence.",
+        "She opens the letter and had read the final sentence.",
+        "She opened the letter and read the final sentence.",
+        "She had opened the letter and will read the final sentence."
+      ],
+      "answer": "She opened the letter and read the final sentence.",
+      "rationale": "The verbs describe actions within a consistent past-tense sequence.",
+      "alignment": ["10.L.GC.2.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which sentence uses active voice?",
+      "options": [
+        "The proposal was approved by the committee.",
+        "The proposal had been approved.",
+        "The committee approved the proposal.",
+        "Approval was granted to the proposal."
+      ],
+      "answer": "The committee approved the proposal.",
+      "rationale": "The grammatical subject performs the action.",
+      "alignment": ["10.L.GC.2.c"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Revise a short paragraph to maintain active voice and explain how your revision changes the emphasis on responsibility or agency.",
+      "answer": "A strong response maintains a consistent active-voice approach and explains the effect of naming the agents of actions.",
+      "rationale": "Students must apply active voice for a deliberate rhetorical purpose.",
+      "alignment": ["10.L.GC.2.c"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision most effectively elaborates the sentence 'The building was damaged' for an informative report?",
+      "options": [
+        "The building was very, very damaged.",
+        "The building was damaged, which was bad.",
+        "The storm shattered the building's eastern windows and flooded its ground floor.",
+        "The building was damaged in a damaging way."
+      ],
+      "answer": "The storm shattered the building's eastern windows and flooded its ground floor.",
+      "rationale": "Specific details clarify the nature and extent of the damage.",
+      "alignment": ["10.L.GC.2.d"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Expand 'The students investigated the problem' using two relevant details. Explain why each addition helps the reader.",
+      "answer": "For example: The students investigated the creek's declining water quality by collecting weekly samples and comparing the results with historical data. The additions specify method and context.",
+      "rationale": "The task evaluates purposeful elaboration rather than length alone.",
+      "alignment": ["10.L.GC.2.d"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Revise this sentence for parallelism: 'The club hopes to recruit volunteers, improving the garden, and that the community will participate.' Explain your changes.",
+      "answer": "For example: The club hopes to recruit volunteers, improve the garden, and encourage community participation. Each action now follows the same grammatical pattern.",
+      "rationale": "The task assesses grammatical symmetry and clarity.",
+      "alignment": ["10.L.GC.2.e"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Revise a 250–350 word draft to improve sentence variety, verb consistency, active voice, purposeful elaboration, and parallelism. Annotate five revisions, explaining the effect of each.",
+      "answer": "Evaluate accuracy, rhetorical control, preservation of meaning, and the student's explanation of syntactic decisions.",
+      "rationale": "The task integrates analysis and composition across all five syntax expectations.",
+      "alignment": ["10.L.GC.2.a", "10.L.GC.2.b", "10.L.GC.2.c", "10.L.GC.2.d", "10.L.GC.2.e"]
+    }
+  ],
+  "evidence": [
+    "An analysis explaining how syntax creates meaning or rhetorical effect.",
+    "An original paragraph demonstrating appropriate syntactic variety.",
+    "A revision maintaining consistent verb tense, aspect, and mood.",
+    "A paragraph using active voice for a deliberate effect.",
+    "An elaborated passage with relevant details and descriptions.",
+    "A paragraph employing effective parallel structure.",
+    "An annotated revision explaining at least five syntactic choices."
+  ],
+  "instruction": [
+    "Teach syntax through authentic mentor texts rather than isolated correction drills.",
+    "Have students read sentences aloud to hear pacing and rhythm.",
+    "Model clause rearrangement and compare the resulting effects.",
+    "Teach tense, aspect, and mood through meaningful narrative and explanatory contexts.",
+    "Practice active voice in writing where clear agency is important.",
+    "Use sentence combining and expansion to develop ideas without padding.",
+    "Teach parallelism at both sentence and paragraph levels.",
+    "Require students to justify syntactic revisions in terms of purpose and audience."
+  ],
+  "watchFor": [
+    "Assuming longer sentences are automatically more sophisticated.",
+    "Treating every fragment in a literary text as an error.",
+    "Changing verb forms without considering the intended timeline.",
+    "Confusing active voice with present tense.",
+    "Assuming passive voice is always incorrect rather than evaluating the standard's requested active-voice effect.",
+    "Adding adjectives and adverbs that do not clarify meaning.",
+    "Using repeated words without grammatical parallelism.",
+    "Creating sentence variety at the expense of coherence.",
+    "Editing solely for correctness without considering rhetorical purpose."
+  ],
+  "skills": {
+    "10.L.GC.2.a": {
+      "focus": "Analyze syntax and parallel structure in texts",
+      "studentFriendly": "I can explain how sentence structures, including parallel patterns, influence meaning and effect.",
+      "know": [
+        "Syntax influences pacing, tone, clarity, and emphasis.",
+        "Parallel structure establishes grammatical relationships among ideas."
+      ],
+      "understand": [
+        "Sentence patterns are part of a writer's craft.",
+        "Structural choices can strengthen or weaken a text's effect."
+      ],
+      "do": [
+        "Identify syntactic patterns.",
+        "Analyze parallel structure.",
+        "Evaluate the effects of sentence length, arrangement, and repetition."
+      ],
+      "targets": [
+        "I can explain the effect of a syntactic choice.",
+        "I can evaluate a writer's use of parallelism."
+      ],
+      "instruction": [
+        "Use mentor-sentence comparison and annotation.",
+        "Discuss the effects of syntactic revisions."
+      ],
+      "evidence": [
+        "An evidence-based analysis of sentence structure.",
+        "A comparison of two syntactic versions."
+      ],
+      "watchFor": [
+        "Identifying patterns without explaining their effects."
+      ]
+    },
+    "10.L.GC.2.b": {
+      "focus": "Vary syntax while maintaining verb consistency",
+      "studentFriendly": "I can reshape sentences for effect while keeping verb tense, aspect, and mood consistent when appropriate.",
+      "know": [
+        "Sentence variety includes changes in length, opening, and clause arrangement.",
+        "Tense, aspect, and mood communicate distinct grammatical meanings."
+      ],
+      "understand": [
+        "Variation should support purpose and clarity.",
+        "Verb shifts should be intentional rather than accidental."
+      ],
+      "do": [
+        "Create varied sentence structures.",
+        "Revise for a specific effect.",
+        "Maintain appropriate verb consistency.",
+        "Explain purposeful shifts when needed."
+      ],
+      "targets": [
+        "I can vary syntax for a reason.",
+        "I can identify and correct unintended verb shifts."
+      ],
+      "instruction": [
+        "Use sentence imitation and transformation.",
+        "Annotate verb phrases in authentic paragraphs."
+      ],
+      "evidence": [
+        "A revised paragraph demonstrating syntactic variety and consistent verb forms."
+      ],
+      "watchFor": [
+        "Changing tense simply to avoid repetition.",
+        "Varying sentence structure without a rhetorical purpose."
+      ]
+    },
+    "10.L.GC.2.c": {
+      "focus": "Maintain active voice for deliberate effect",
+      "studentFriendly": "I can use active voice consistently when I want to make actions and responsibility clear.",
+      "know": [
+        "Active voice generally places the agent of an action in the subject position.",
+        "Voice changes what a sentence foregrounds."
+      ],
+      "understand": [
+        "Consistent active voice can create clarity and directness.",
+        "Voice is a purposeful writing choice."
+      ],
+      "do": [
+        "Recognize active and passive constructions.",
+        "Revise passive constructions into active voice when appropriate.",
+        "Maintain an active-voice approach across a paragraph or text.",
+        "Explain the intended effect."
+      ],
+      "targets": [
+        "I can identify who performs an action.",
+        "I can maintain active voice for a clear purpose."
+      ],
+      "instruction": [
+        "Use news and research writing to examine agency.",
+        "Revise complete paragraphs rather than isolated sentences only."
+      ],
+      "evidence": [
+        "A coherent paragraph using active voice for deliberate effect."
+      ],
+      "watchFor": [
+        "Confusing voice with verb tense.",
+        "Assuming every passive construction is inherently incorrect."
+      ]
+    },
+    "10.L.GC.2.d": {
+      "focus": "Expand and enrich ideas through purposeful detail",
+      "studentFriendly": "I can add meaningful descriptions and details that make my ideas clearer or more engaging.",
+      "know": [
+        "Modifiers, phrases, and clauses can add useful information.",
+        "Effective detail depends on purpose and audience."
+      ],
+      "understand": [
+        "Elaboration should enrich meaning rather than merely increase length.",
+        "Specific details can improve precision and reader engagement."
+      ],
+      "do": [
+        "Expand sentences with relevant information.",
+        "Choose details that clarify or develop an idea.",
+        "Remove unnecessary or repetitive additions.",
+        "Explain the effect of elaboration."
+      ],
+      "targets": [
+        "I can enrich a sentence with purposeful detail.",
+        "I can distinguish elaboration from padding."
+      ],
+      "instruction": [
+        "Use sentence combining and expansion.",
+        "Compare sparse, effective, and overloaded descriptions."
+      ],
+      "evidence": [
+        "An expanded paragraph with an explanation of selected details."
+      ],
+      "watchFor": [
+        "Adding modifiers that do not contribute meaning."
+      ]
+    },
+    "10.L.GC.2.e": {
+      "focus": "Use parallel structure within a paragraph",
+      "studentFriendly": "I can use matching grammatical patterns to connect related ideas and create emphasis.",
+      "know": [
+        "Parallelism uses corresponding grammatical forms.",
+        "Parallel patterns can connect related claims, actions, or descriptions."
+      ],
+      "understand": [
+        "Grammatical symmetry can strengthen clarity and rhythm.",
+        "Parallelism can help readers recognize the relationships among ideas."
+      ],
+      "do": [
+        "Identify parallel and nonparallel structures.",
+        "Revise mismatched forms.",
+        "Create parallel patterns across related sentences or clauses.",
+        "Explain how parallelism supports meaning."
+      ],
+      "targets": [
+        "I can create grammatical symmetry.",
+        "I can explain the effect of parallel structure."
+      ],
+      "instruction": [
+        "Analyze rhetorical repetition in speeches.",
+        "Practice sentence and paragraph-level parallelism."
+      ],
+      "evidence": [
+        "A paragraph using purposeful parallel structure.",
+        "A commentary explaining the rhetorical effect."
+      ],
+      "watchFor": [
+        "Confusing repeated vocabulary with grammatical parallelism.",
+        "Using parallel forms that conceal differences in meaning."
+      ]
+    }
+  },
+  "readingSelectionNote": "These texts are independently recommended rather than state-prescribed. Verify edition, access, permissions, reading level, and local instructional requirements. Reading times refer to selected excerpts unless otherwise specified."
+}
+
   ]
 }
