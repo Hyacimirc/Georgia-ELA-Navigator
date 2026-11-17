@@ -20329,5 +20329,936 @@
   "readingSelectionNote": "Selections are independently developed instructional recommendations rather than state-prescribed texts. Several complex literary works are included for Pre-AP preparation and literary analysis; their inclusion does not imply a required College Board reading list. Reading times refer to selected excerpts unless otherwise indicated. High Interest and accessibility are editorial judgments rather than validated reading-level measures. Verify editions, translation rights, permissions, availability, age suitability, and local instructional materials requirements. Organizational structures should be taught as flexible rhetorical choices rather than mandatory essay formulas."
 }
 
+,
+{
+  "code": "10.T.T.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Expository Techniques",
+  "studentFriendly": "I can evaluate how writers explain complex information, compare texts that disagree, and create clear, well-organized explanations for different audiences and purposes.",
+  "know": [
+    "Expository writing explains, informs, analyzes, or clarifies a subject.",
+    "Common organizational patterns include cause and effect, comparison and contrast, problem and solution, classification, and sequence.",
+    "Writers may combine organizational patterns within one text.",
+    "Headings, examples, definitions, evidence, graphics, and transitions can improve clarity.",
+    "Two credible texts can disagree about facts, interpretations, or the significance of evidence.",
+    "An effective explanation considers audience knowledge, purpose, tone, and the relationships among ideas."
+  ],
+  "understand": [
+    "The effectiveness of an expository technique depends on what the writer wants readers to understand.",
+    "Clear writing reveals relationships among ideas rather than merely presenting information.",
+    "Disagreement between sources requires careful analysis rather than automatic rejection of one source.",
+    "Changing the audience may require changes in vocabulary, explanation, evidence, tone, and organization.",
+    "Expository writing can be sophisticated, engaging, and stylistically distinctive without sacrificing accuracy."
+  ],
+  "do": [
+    "Identify and evaluate expository techniques in authentic texts.",
+    "Explain how organization affects clarity, emphasis, and reader understanding.",
+    "Compare conflicting accounts and distinguish factual disagreement from interpretive disagreement.",
+    "Evaluate the evidence and reasoning supporting different explanations.",
+    "Organize an original explanatory text around meaningful relationships among ideas.",
+    "Integrate examples, definitions, data, and other appropriate forms of information.",
+    "Adjust tone and explanation for a specific audience and purpose.",
+    "Revise an explanation to improve coherence, accuracy, and accessibility."
+  ],
+  "vocabulary": [
+    {
+      "term": "Exposition",
+      "definition": "Writing or speaking that explains or informs.",
+      "example": "An article explaining how urban heat islands develop."
+    },
+    {
+      "term": "Organizational pattern",
+      "definition": "The arrangement of ideas according to meaningful relationships.",
+      "example": "Explaining causes before examining their effects."
+    },
+    {
+      "term": "Coherence",
+      "definition": "The logical connection and progression of ideas throughout a text.",
+      "example": "Each paragraph develops the explanation introduced in the preceding section."
+    },
+    {
+      "term": "Cohesion",
+      "definition": "The language and connections that help parts of a text work together.",
+      "example": "Using precise references and transitions to connect evidence and analysis."
+    },
+    {
+      "term": "Qualification",
+      "definition": "Language that establishes the limits or conditions of a claim.",
+      "example": "The results suggest a relationship, although the study cannot establish causation."
+    },
+    {
+      "term": "Interpretation",
+      "definition": "An explanation of what information or evidence means.",
+      "example": "Two historians assign different significance to the same event."
+    },
+    {
+      "term": "Factual disagreement",
+      "definition": "A conflict about what happened or what can be established as true.",
+      "example": "Two reports provide different totals for the same event and period."
+    },
+    {
+      "term": "Interpretive disagreement",
+      "definition": "A conflict about the meaning, causes, or significance of agreed-upon information.",
+      "example": "Two researchers agree on the data but propose different explanations."
+    },
+    {
+      "term": "Expository technique",
+      "definition": "A method used to explain information clearly and effectively.",
+      "example": "Defining a technical term before introducing a complex example."
+    },
+    {
+      "term": "Audience adaptation",
+      "definition": "Adjusting communication to readers' knowledge, needs, and expectations.",
+      "example": "Explaining the same scientific finding differently to researchers and middle school students."
+    }
+  ],
+  "targets": [
+    "I can evaluate how a writer's organization affects clarity.",
+    "I can explain the effects of examples, definitions, comparisons, and other expository techniques.",
+    "I can distinguish disagreements about facts from disagreements about interpretations.",
+    "I can compare how two texts use evidence to explain the same subject.",
+    "I can write a cohesive explanation that combines several types of information.",
+    "I can adapt an explanation's tone and complexity for a particular audience."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Analyze how scientific explanation, historical context, and personal narrative work together.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging scientific and ethical content; provide context and review sensitive material.",
+      "interestHook": "One woman's cells transformed medical research and raised questions about consent.",
+      "teachingPrompt": "How does Skloot make scientific information understandable without separating it from the human story?",
+      "alignment": ["10.T.T.2.a", "10.T.T.2.d"]
+    },
+    {
+      "title": "The Boy Who Harnessed the Wind",
+      "author": "William Kamkwamba and Bryan Mealer",
+      "genre": "Memoir and scientific explanation",
+      "purpose": "Study how technical processes can be explained through narrative, sequence, and cause and effect.",
+      "access": "School library or authorized edition.",
+      "readingTime": "15–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Accessible with background on electricity, engineering, and Malawi.",
+      "interestHook": "A teenager builds a windmill using discarded materials.",
+      "teachingPrompt": "Which explanations make the engineering understandable, and what background information does the reader need?",
+      "alignment": ["10.T.T.2.a", "10.T.T.2.d"]
+    },
+    {
+      "title": "The 57 Bus",
+      "author": "Dashka Slater",
+      "genre": "Investigative narrative nonfiction",
+      "purpose": "Analyze how an author explains a complex event through multiple contexts and perspectives.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Review sensitive content involving violence, identity, and the justice system.",
+      "interestHook": "A single incident leads to complicated questions about accountability and justice.",
+      "teachingPrompt": "How does the arrangement of contextual information affect the reader's understanding of the event?",
+      "alignment": ["10.T.T.2.a", "10.T.T.2.b"]
+    },
+    {
+      "title": "A Fable for Tomorrow",
+      "author": "Rachel Carson",
+      "genre": "Environmental nonfiction",
+      "purpose": "Examine how an evocative opening introduces a scientific argument.",
+      "access": "Authorized edition of Silent Spring.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide context on environmental science and the history of pesticide use.",
+      "interestHook": "A familiar town becomes mysteriously silent.",
+      "teachingPrompt": "How does Carson combine description, implied cause and effect, and explanation to prepare readers for scientific evidence?",
+      "alignment": ["10.T.T.2.a"]
+    },
+    {
+      "title": "NASA Earth Observatory",
+      "author": "NASA Earth Observatory contributors",
+      "genre": "Scientific explanatory articles",
+      "purpose": "Evaluate the relationship among explanations, images, captions, and data.",
+      "access": "NASA Earth Observatory website; select a specific article before instruction.",
+      "readingTime": "10–20 minutes per selected article",
+      "highInterest": true,
+      "accessibility": "Select articles according to students' scientific background.",
+      "interestHook": "Satellite imagery makes environmental changes visible.",
+      "teachingPrompt": "What does the image explain that the prose does not, and where must the prose provide additional interpretation?",
+      "alignment": ["10.T.T.2.a", "10.T.T.2.d"]
+    },
+    {
+      "title": "Our World in Data",
+      "author": "Our World in Data research contributors",
+      "genre": "Data-driven explanatory articles",
+      "purpose": "Analyze how charts, definitions, comparisons, and qualifications support explanations.",
+      "access": "Our World in Data website; select a specific article and verify its sources.",
+      "readingTime": "15–25 minutes per selected article",
+      "highInterest": true,
+      "accessibility": "Provide support interpreting graphs and statistical terminology.",
+      "interestHook": "A surprising chart can challenge an assumption about the world.",
+      "teachingPrompt": "How does the author prevent readers from misinterpreting the data?",
+      "alignment": ["10.T.T.2.a", "10.T.T.2.b"]
+    },
+    {
+      "title": "A Pair of Conflicting News Reports",
+      "author": "Two identified professional news organizations",
+      "genre": "Comparative journalism",
+      "purpose": "Distinguish disagreements about facts from differences in framing and interpretation.",
+      "access": "Teacher-curated reports about the same documented event.",
+      "readingTime": "15–20 minutes for the pair",
+      "highInterest": true,
+      "accessibility": "Choose age-appropriate coverage with sufficient common evidence.",
+      "interestHook": "Two accounts of the same event leave readers with different impressions.",
+      "teachingPrompt": "Which differences concern verifiable facts, and which concern emphasis or interpretation?",
+      "alignment": ["10.T.T.2.b"]
+    },
+    {
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "genre": "Popular science nonfiction",
+      "purpose": "Examine how case studies and scientific explanations are organized for general readers.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging; preteach scientific concepts and contextual vocabulary.",
+      "interestHook": "Individual species become evidence in a larger explanation of ecological change.",
+      "teachingPrompt": "How does a specific example help the reader understand a broader scientific process?",
+      "alignment": ["10.T.T.2.a", "10.T.T.2.d"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "20–25 minutes",
+      "title": "Map the Explanation",
+      "activity": "Students annotate a short explanatory article and sort its paragraphs into main idea, definition, example, evidence, and conclusion. They explain how each part contributes to understanding.",
+      "materials": ["Short explanatory article", "Color-coded annotation guide", "Paragraph function organizer"],
+      "scaffolds": ["Model the first paragraph.", "Provide a bank of paragraph functions.", "Use partner discussion before written analysis."],
+      "success": "Students accurately identify the functions of most paragraphs and explain at least two relationships among them.",
+      "alignment": ["10.T.T.2.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Fact or Interpretation?",
+      "activity": "Students examine two short accounts of one event and label statements as verifiable claims, interpretations, or uncertain claims requiring investigation.",
+      "materials": ["Paired accounts", "Three-column comparison chart"],
+      "scaffolds": ["Use a shared event with accessible background.", "Provide sentence stems for explaining disagreements."],
+      "success": "Students identify at least one factual or interpretive disagreement and explain what evidence would help resolve it.",
+      "alignment": ["10.T.T.2.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Build a Clear Explanation",
+      "activity": "Students arrange evidence, definitions, and examples into a logical explanation of a familiar process, then add transitions and a concluding insight.",
+      "materials": ["Information cards", "Writing organizer", "Revision checklist"],
+      "scaffolds": ["Provide a model paragraph.", "Offer organizational options rather than a mandatory five-paragraph template."],
+      "success": "The explanation has a clear central focus and logically connected supporting information.",
+      "alignment": ["10.T.T.2.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "35–40 minutes",
+      "title": "Reverse Outline an Expert",
+      "activity": "Students reverse-outline an authentic explanatory article, identify its organizational patterns, and evaluate one organizational decision using textual evidence.",
+      "materials": ["Authentic article", "Reverse-outline template"],
+      "scaffolds": ["Model the distinction between identifying a pattern and evaluating its effect."],
+      "success": "Students explain how a specific structural choice improves or limits clarity.",
+      "alignment": ["10.T.T.2.a"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–45 minutes",
+      "title": "Where Do the Sources Disagree?",
+      "activity": "Students compare two reports about the same issue, create a claim-evidence matrix, and write an analysis distinguishing factual disputes from differences in interpretation.",
+      "materials": ["Paired reports", "Claim-evidence matrix"],
+      "scaffolds": ["Require precise quotations or paraphrases from both texts."],
+      "success": "The analysis identifies a meaningful disagreement and accurately represents each source's evidence.",
+      "alignment": ["10.T.T.2.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Explain It to Two Audiences",
+      "activity": "Students write a concise explanation of one concept for peers, then adapt it for younger students or a specialized adult audience. They annotate changes in tone, definitions, examples, and organization.",
+      "materials": ["Reliable source material", "Audience profiles", "Revision checklist"],
+      "scaffolds": ["Compare published examples aimed at different audiences."],
+      "success": "Both explanations remain accurate while making purposeful audience-specific choices.",
+      "alignment": ["10.T.T.2.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "45–50 minutes",
+      "title": "Competing Explanatory Models",
+      "activity": "Students examine competing interpretations of a complex phenomenon, evaluate the evidence and assumptions underlying each, and identify what additional evidence could change the conclusions.",
+      "materials": ["Three credible sources", "Evidence evaluation chart"],
+      "scaffolds": ["Encourage explicit attention to uncertainty and limitations."],
+      "success": "Students produce a nuanced comparison that does not confuse uncertainty with equal evidentiary support.",
+      "alignment": ["10.T.T.2.b"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two to three class periods",
+      "title": "Design a Multimodal Explainer",
+      "activity": "Students create an explanatory article combining prose, data, diagrams, and examples. They justify how each mode clarifies a different relationship among ideas.",
+      "materials": ["Research sources", "Digital publishing tool", "Design rationale template"],
+      "scaffolds": ["Use a peer review protocol focused on accuracy, clarity, and accessibility."],
+      "success": "The final text is coherent, accurate, audience-aware, and accompanied by a defensible design rationale.",
+      "alignment": ["10.T.T.2.a", "10.T.T.2.d"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "An article explains a problem, compares possible responses, and evaluates their likely consequences. Which description best captures its organization?",
+      "options": ["Chronological sequence only", "A combination of problem-solution and comparison", "A list of unrelated facts", "Narrative flashback"],
+      "answer": "A combination of problem-solution and comparison",
+      "rationale": "The article uses multiple organizational patterns to clarify relationships among possible solutions.",
+      "alignment": ["10.T.T.2.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "How could moving an explanation of a technical term from the final paragraph to the introduction change readers' understanding?",
+      "answer": "Introducing the term earlier could establish essential background and reduce confusion when readers encounter the concept later.",
+      "rationale": "The response evaluates the effect of an organizational decision rather than simply naming a structure.",
+      "alignment": ["10.T.T.2.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Two articles agree that a city's average temperature increased but disagree about which factor contributed most. What kind of disagreement is most clearly demonstrated?",
+      "options": ["A disagreement about whether the temperature increased", "A disagreement about interpretation or causation", "A disagreement about spelling", "No disagreement"],
+      "answer": "A disagreement about interpretation or causation",
+      "rationale": "The sources agree on the reported change but interpret its causes differently.",
+      "alignment": ["10.T.T.2.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare two reports on the same issue. Identify one factual agreement, one disagreement, and the evidence each source uses.",
+      "answer": "A strong response accurately represents both sources, distinguishes fact from interpretation, and evaluates relevant evidence.",
+      "rationale": "Students must analyze the nature of a disagreement rather than assume that differing conclusions imply differing facts.",
+      "alignment": ["10.T.T.2.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision most effectively adapts a scientific explanation for readers unfamiliar with the topic?",
+      "options": ["Remove all evidence", "Introduce essential terms and provide a concrete example", "Add unexplained technical vocabulary", "Replace the explanation with an opinion"],
+      "answer": "Introduce essential terms and provide a concrete example",
+      "rationale": "Definitions and examples can improve accessibility while preserving accuracy.",
+      "alignment": ["10.T.T.2.d"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Write a 500–700 word explanation of a complex issue using at least two types of information and a purposeful organizational structure. Include a brief explanation of your audience and structural choices.",
+      "answer": "Evaluate accuracy, relationships among ideas, evidence integration, organizational effectiveness, audience adaptation, and coherence.",
+      "rationale": "The task requires students to apply expository techniques in an original composition.",
+      "alignment": ["10.T.T.2.d"]
+    }
+  ],
+  "evidence": [
+    "An annotated reverse outline evaluating organizational choices.",
+    "A comparison of conflicting texts that distinguishes facts from interpretations.",
+    "An original, coherent explanatory text integrating multiple types of information.",
+    "A revision demonstrating purposeful adaptation for a new audience.",
+    "A written rationale connecting expository choices to audience and purpose."
+  ],
+  "instruction": [
+    "Teach organizational patterns through authentic texts rather than isolated definitions.",
+    "Ask students to explain the effects of techniques instead of merely identifying them.",
+    "Model comparison of conflicting claims using precise evidence from both sources.",
+    "Distinguish factual disagreement, interpretive disagreement, and differences in emphasis.",
+    "Use mentor texts from science, history, journalism, and literary nonfiction.",
+    "Provide opportunities to write for authentic audiences.",
+    "Teach revision through reverse outlining, peer testing, and audience analysis."
+  ],
+  "watchFor": [
+    "Treating every disagreement between sources as a factual contradiction.",
+    "Assuming two conflicting interpretations are equally supported.",
+    "Identifying organizational patterns without evaluating their effects.",
+    "Confusing engaging prose with unsupported or sensationalized claims.",
+    "Using transitions to conceal weak relationships among ideas.",
+    "Changing technical language for a younger audience in ways that introduce inaccuracies.",
+    "Requiring one organizational formula for every explanatory task."
+  ],
+  "skills": {
+    "10.T.T.2.a": {
+      "focus": "Evaluate expository techniques, organization, and clarity",
+      "studentFriendly": "I can evaluate how a writer explains information and how organizational choices help or hinder understanding.",
+      "know": [
+        "Expository techniques include definitions, examples, comparisons, classification, cause-and-effect explanation, and supporting evidence.",
+        "Organizational patterns influence clarity and emphasis."
+      ],
+      "understand": [
+        "Effective explanations make relationships among ideas visible.",
+        "The value of a technique depends on the text's purpose and audience."
+      ],
+      "do": [
+        "Identify and evaluate expository techniques.",
+        "Analyze how organizational patterns affect clarity.",
+        "Support evaluations with textual evidence."
+      ],
+      "targets": [
+        "I can explain how a technique improves or limits clarity.",
+        "I can evaluate the effectiveness of a text's organization."
+      ],
+      "instruction": [
+        "Compare two explanations of the same concept.",
+        "Use reverse outlines and paragraph-function annotations."
+      ],
+      "evidence": [
+        "A supported evaluation of a text's expository techniques.",
+        "A reverse outline with commentary on organizational effectiveness."
+      ],
+      "watchFor": [
+        "Naming a technique without explaining its effect.",
+        "Assuming more information always produces greater clarity."
+      ]
+    },
+    "10.T.T.2.b": {
+      "focus": "Analyze conflicting information and opposing viewpoints",
+      "studentFriendly": "I can compare texts that disagree and determine whether they differ about facts, interpretations, or both.",
+      "know": [
+        "A factual claim can be investigated through evidence.",
+        "Interpretations explain the meaning, causes, or significance of information.",
+        "Sources can agree on evidence while disagreeing about conclusions."
+      ],
+      "understand": [
+        "Careful comparison requires accurate representation of each source.",
+        "Different conclusions do not automatically indicate that one source is dishonest.",
+        "Evidence quality matters when evaluating competing explanations."
+      ],
+      "do": [
+        "Identify points of agreement and disagreement.",
+        "Distinguish factual disputes from interpretive differences.",
+        "Compare the evidence and reasoning used by each source."
+      ],
+      "targets": [
+        "I can identify precisely where two texts disagree.",
+        "I can evaluate evidence supporting different explanations."
+      ],
+      "instruction": [
+        "Use paired reports and claim-evidence matrices.",
+        "Model how to separate a source's claim from the evidence offered for it."
+      ],
+      "evidence": [
+        "A comparative analysis identifying the nature of a disagreement.",
+        "A claim-evidence chart with accurate citations to both texts."
+      ],
+      "watchFor": [
+        "Confusing differences in tone with differences in fact.",
+        "Assuming all perspectives have equally strong evidence."
+      ]
+    },
+    "10.T.T.2.d": {
+      "focus": "Compose cohesive explanations for varied audiences and purposes",
+      "studentFriendly": "I can organize and write a clear explanation that combines different kinds of information and uses an appropriate tone for my audience.",
+      "know": [
+        "Expository texts may combine examples, definitions, descriptions, statistics, and comparisons.",
+        "Coherence depends on logical relationships among ideas.",
+        "Tone and explanation should respond to audience and purpose."
+      ],
+      "understand": [
+        "Effective explanations are designed rather than merely assembled.",
+        "Audience adaptation can improve accessibility without reducing accuracy."
+      ],
+      "do": [
+        "Select an effective organizational pattern.",
+        "Integrate varied information into a coherent explanation.",
+        "Adjust tone and level of explanation for a specific audience.",
+        "Revise for clarity and cohesion."
+      ],
+      "targets": [
+        "I can explain relationships among ideas in my writing.",
+        "I can adapt tone and detail for a specific audience.",
+        "I can revise an explanation for coherence."
+      ],
+      "instruction": [
+        "Use authentic explanatory mentor texts.",
+        "Have students rewrite explanations for different audiences.",
+        "Require a brief writer's rationale for organizational choices."
+      ],
+      "evidence": [
+        "An original explanatory composition.",
+        "An audience-specific revision with an explanation of changes."
+      ],
+      "watchFor": [
+        "Listing facts without connecting them.",
+        "Overloading explanations with unnecessary terminology.",
+        "Using an inappropriate tone for the intended audience."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are independently developed instructional recommendations, not state-prescribed texts. Verify editions, availability, permissions, age suitability, and local instructional requirements. Reading times refer to selected passages unless otherwise specified. High-interest and accessibility labels are editorial judgments."
+},
+{
+  "code": "10.T.RA.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Research & Inquiry",
+  "studentFriendly": "I can develop meaningful research questions, investigate complex issues, use findings to support a thesis, and integrate information from sources accurately with MLA citations.",
+  "know": [
+    "Research begins with questions that can be refined through investigation.",
+    "Complex topics often involve multiple causes, perspectives, and possible solutions.",
+    "A focused research question guides source selection and analysis.",
+    "A thesis or research claim should be supported by relevant findings.",
+    "Summary, paraphrase, and quotation serve different purposes.",
+    "Source integration requires original reasoning as well as accurate representation.",
+    "MLA documentation identifies the sources of borrowed ideas and language.",
+    "A citation does not replace analysis of the evidence."
+  ],
+  "understand": [
+    "Inquiry is recursive: new evidence can lead researchers to revise their questions.",
+    "Strong research develops an interpretation rather than simply collecting information.",
+    "Evidence should be selected and analyzed according to its contribution to the question or thesis.",
+    "Researchers are responsible for representing sources accurately and crediting borrowed ideas.",
+    "Responsible source integration preserves the writer's original voice and reasoning.",
+    "Research can connect disciplines and illuminate possible solutions to complex problems."
+  ],
+  "do": [
+    "Generate open-ended, researchable questions about complex topics.",
+    "Narrow and refine questions based on preliminary investigation.",
+    "Identify connections among related issues and disciplines.",
+    "Develop a focused research question or defensible thesis.",
+    "Analyze findings and determine how they support, complicate, or challenge a claim.",
+    "Distinguish useful evidence from interesting but irrelevant information.",
+    "Integrate quotations, paraphrases, and summaries purposefully.",
+    "Introduce and analyze evidence in original prose.",
+    "Apply MLA in-text citations and Works Cited conventions.",
+    "Revise research writing for accuracy, coherence, and ethical attribution."
+  ],
+  "vocabulary": [
+    {
+      "term": "Inquiry",
+      "definition": "A process of investigating questions through evidence and analysis.",
+      "example": "Investigating why different communities experience unequal access to public transportation."
+    },
+    {
+      "term": "Research question",
+      "definition": "A focused question that guides an investigation.",
+      "example": "How have cities reduced summer heat in densely developed neighborhoods?"
+    },
+    {
+      "term": "Scope",
+      "definition": "The boundaries of an investigation.",
+      "example": "Studying one city's transportation policies during a defined period."
+    },
+    {
+      "term": "Thesis",
+      "definition": "A central, defensible claim developed through reasoning and evidence.",
+      "example": "A city's tree canopy should be treated as essential public infrastructure."
+    },
+    {
+      "term": "Analytical finding",
+      "definition": "A conclusion developed by examining and interpreting evidence.",
+      "example": "The strongest effects appear in neighborhoods with the least existing shade."
+    },
+    {
+      "term": "Synthesis",
+      "definition": "Combining information from multiple sources to develop an understanding or argument.",
+      "example": "Connecting scientific research with historical housing data."
+    },
+    {
+      "term": "Paraphrase",
+      "definition": "A restatement of a source's idea in genuinely original wording and structure.",
+      "example": "Explaining a study's finding in your own language while citing the study."
+    },
+    {
+      "term": "Summary",
+      "definition": "A concise representation of a source's central ideas.",
+      "example": "Condensing a report's main conclusions into two sentences."
+    },
+    {
+      "term": "Quotation",
+      "definition": "The exact words of a source, identified as borrowed language.",
+      "example": "Quoting a distinctive phrase and providing its citation."
+    },
+    {
+      "term": "Signal phrase",
+      "definition": "Language introducing a source or its contribution.",
+      "example": "According to the researchers, ..."
+    },
+    {
+      "term": "MLA in-text citation",
+      "definition": "A brief reference directing readers to the corresponding Works Cited entry.",
+      "example": "An author's surname and page number when applicable."
+    },
+    {
+      "term": "Works Cited",
+      "definition": "An MLA-formatted list identifying sources cited in a work.",
+      "example": "An alphabetized list of cited books, articles, and other sources."
+    }
+  ],
+  "targets": [
+    "I can generate and refine a researchable question.",
+    "I can explain connections among complex topics.",
+    "I can use research findings to support or revise a thesis.",
+    "I can synthesize evidence from more than one source.",
+    "I can distinguish paraphrasing from patchwriting.",
+    "I can integrate quotations, summaries, and paraphrases into my own analysis.",
+    "I can cite borrowed ideas and language using MLA conventions."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Investigative nonfiction",
+      "purpose": "Study how research questions connect science, history, ethics, and family experience.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging; provide historical and scientific context and review sensitive material.",
+      "interestHook": "One investigation leads to questions about science, consent, and medical history.",
+      "teachingPrompt": "How does Skloot use findings from different disciplines to build a more complete explanation?",
+      "alignment": ["10.T.RA.1.a", "10.T.RA.1.b"]
+    },
+    {
+      "title": "The 57 Bus",
+      "author": "Dashka Slater",
+      "genre": "Investigative journalism",
+      "purpose": "Examine how interviews, legal records, and contextual research inform complex inquiry.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Review sensitive content and provide context.",
+      "interestHook": "A single event generates questions about identity, justice, and accountability.",
+      "teachingPrompt": "Which questions require different kinds of sources, and what are the limits of each source?",
+      "alignment": ["10.T.RA.1.a", "10.T.RA.1.b"]
+    },
+    {
+      "title": "The Boy Who Harnessed the Wind",
+      "author": "William Kamkwamba and Bryan Mealer",
+      "genre": "Memoir and nonfiction",
+      "purpose": "Investigate how scientific knowledge, local conditions, and creative problem-solving intersect.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Accessible with background on energy and Malawi.",
+      "interestHook": "A practical problem becomes an engineering investigation.",
+      "teachingPrompt": "What research questions could extend the problems and solutions described in this memoir?",
+      "alignment": ["10.T.RA.1.a"]
+    },
+    {
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "genre": "Science journalism",
+      "purpose": "Analyze how an author uses findings from different scientific investigations to develop a larger explanation.",
+      "access": "School library or authorized edition.",
+      "readingTime": "20–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Challenging scientific vocabulary; provide background.",
+      "interestHook": "Separate scientific discoveries contribute to a larger argument about biodiversity.",
+      "teachingPrompt": "Which findings support the author's larger claim, and how are they connected?",
+      "alignment": ["10.T.RA.1.b", "10.T.RA.1.c"]
+    },
+    {
+      "title": "Our World in Data",
+      "author": "Our World in Data research contributors",
+      "genre": "Data-driven research explanations",
+      "purpose": "Practice generating questions from data and tracing claims to original sources.",
+      "access": "Our World in Data website; select and verify a specific article.",
+      "readingTime": "15–25 minutes",
+      "highInterest": true,
+      "accessibility": "Support graph interpretation and statistical reasoning.",
+      "interestHook": "Data can reveal patterns that generate new questions.",
+      "teachingPrompt": "What can this dataset establish, and what questions remain unanswered?",
+      "alignment": ["10.T.RA.1.a", "10.T.RA.1.b"]
+    },
+    {
+      "title": "Library Research Databases",
+      "author": "Various researchers and publishers",
+      "genre": "Scholarly and reference sources",
+      "purpose": "Practice finding, analyzing, paraphrasing, and documenting research findings.",
+      "access": "GALILEO and school-licensed research databases.",
+      "readingTime": "Varies by selected source",
+      "highInterest": false,
+      "accessibility": "Select appropriate articles and teach database navigation.",
+      "interestHook": "Students investigate a question they genuinely want answered.",
+      "teachingPrompt": "Which source provides the strongest evidence for your question, and how will you use it ethically?",
+      "alignment": ["10.T.RA.1.a", "10.T.RA.1.b", "10.T.RA.1.c"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "From Topic to Research Question",
+      "activity": "Students transform broad topics into focused, researchable questions using topic, population, place, period, and issue prompts.",
+      "materials": ["Question-development organizer", "Sample topics", "Question quality checklist"],
+      "scaffolds": ["Model narrowing one broad topic.", "Compare questions that invite investigation with questions answered by one fact."],
+      "success": "Students produce a focused question that requires investigation and can explain its scope.",
+      "alignment": ["10.T.RA.1.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Evidence and Claim Match",
+      "activity": "Students match research findings to possible claims, explain why evidence is relevant, and identify claims not adequately supported.",
+      "materials": ["Claim cards", "Evidence cards", "Reasoning stems"],
+      "scaffolds": ["Model one claim-evidence-reasoning explanation.", "Include examples of irrelevant evidence."],
+      "success": "Students select relevant findings and explain the connection to a claim.",
+      "alignment": ["10.T.RA.1.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Paraphrase Without Patchwriting",
+      "activity": "Students read a short passage, set it aside, explain the idea orally, and write a paraphrase with an MLA citation. They compare their wording and structure with the source.",
+      "materials": ["Short source passage", "Paraphrase checklist", "MLA model"],
+      "scaffolds": ["Provide a source-reading and note-taking routine.", "Model how changing a few words is not sufficient."],
+      "success": "The paraphrase accurately represents the source in original language and includes attribution.",
+      "alignment": ["10.T.RA.1.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "Question Refinement Conference",
+      "activity": "Students develop three research questions, conduct preliminary searches, and revise one question based on available evidence and emerging complexity.",
+      "materials": ["Research databases", "Question log", "Conference protocol"],
+      "scaffolds": ["Require a written explanation of why the final question improved."],
+      "success": "Students document a meaningful revision and explain how new information influenced it.",
+      "alignment": ["10.T.RA.1.a"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Evidence-Based Thesis Workshop",
+      "activity": "Students analyze findings from three sources, develop a provisional thesis, and identify evidence that supports or complicates it.",
+      "materials": ["Research notes", "Evidence matrix", "Thesis revision guide"],
+      "scaffolds": ["Distinguish a research topic from a defensible thesis."],
+      "success": "Students create a thesis supported by analyzed findings and acknowledge an important complication.",
+      "alignment": ["10.T.RA.1.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "The Source Integration Laboratory",
+      "activity": "Students draft a paragraph using a summary, a paraphrase, and a short quotation. Each source contribution is introduced, cited in MLA style, and followed by original analysis.",
+      "materials": ["Three research sources", "MLA guide", "Integration checklist"],
+      "scaffolds": ["Color-code original reasoning and source-derived material."],
+      "success": "The paragraph accurately integrates all three methods and uses appropriate MLA documentation.",
+      "alignment": ["10.T.RA.1.c"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "Interdisciplinary Inquiry",
+      "activity": "Students investigate a question connecting at least two disciplines, evaluate different kinds of findings, and explain how the combined evidence changes the interpretation.",
+      "materials": ["Scholarly and journalistic sources", "Synthesis matrix"],
+      "scaffolds": ["Encourage students to identify methodological differences among disciplines."],
+      "success": "The final analysis synthesizes findings rather than summarizing sources separately.",
+      "alignment": ["10.T.RA.1.a", "10.T.RA.1.b"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three to four class periods",
+      "title": "Research Brief for a Real Audience",
+      "activity": "Students develop a research brief for a school or community audience, investigate a complex problem, evaluate possible responses, and support recommendations with MLA-documented evidence.",
+      "materials": ["Research databases", "Brief template", "Peer review rubric"],
+      "scaffolds": ["Require a limitations section and a source audit."],
+      "success": "The brief demonstrates focused inquiry, synthesis, evidence-based reasoning, accurate attribution, and audience awareness.",
+      "alignment": ["10.T.RA.1.a", "10.T.RA.1.b", "10.T.RA.1.c"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which question is most appropriate for a sustained research investigation?",
+      "options": ["What is a city?", "How many letters are in the word transportation?", "How have transportation policies affected access to jobs in one metropolitan area?", "Is transportation good?"],
+      "answer": "How have transportation policies affected access to jobs in one metropolitan area?",
+      "rationale": "The question is focused, researchable, and complex enough to require evidence and analysis.",
+      "alignment": ["10.T.RA.1.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Revise the question 'Why is technology bad?' into a focused, neutral, researchable question.",
+      "answer": "For example: How has smartphone use during the school day affected students' reported attention and learning experiences in public high schools?",
+      "rationale": "The revision removes a predetermined judgment and establishes a more manageable scope.",
+      "alignment": ["10.T.RA.1.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student discovers reliable findings that contradict the student's initial thesis. What is the strongest research response?",
+      "options": ["Ignore the findings", "Revise or qualify the thesis in light of the evidence", "Delete all sources", "Use only sources that support the original thesis"],
+      "answer": "Revise or qualify the thesis in light of the evidence",
+      "rationale": "Research conclusions should respond to credible findings rather than dictate them.",
+      "alignment": ["10.T.RA.1.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how two findings from different sources work together to support, complicate, or challenge a thesis.",
+      "answer": "A strong response accurately describes each finding, analyzes their relationship, and explains the implications for the thesis.",
+      "rationale": "The task assesses synthesis and analytical reasoning rather than source collection.",
+      "alignment": ["10.T.RA.1.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which action best demonstrates ethical paraphrasing?",
+      "options": ["Changing three words in a source sentence without citation", "Rewriting an idea in genuinely original language and citing its source", "Copying a paragraph without quotation marks", "Listing a source only when its exact words are quoted"],
+      "answer": "Rewriting an idea in genuinely original language and citing its source",
+      "rationale": "Paraphrased ideas require accurate representation, original wording, and attribution.",
+      "alignment": ["10.T.RA.1.c"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Why should a writer explain the significance of a quotation instead of allowing it to stand alone?",
+      "answer": "The writer must connect the source's words to the original claim, show how the evidence supports the reasoning, and maintain control of the argument.",
+      "rationale": "Effective integration requires analysis rather than inserting evidence without explanation.",
+      "alignment": ["10.T.RA.1.c"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Develop a research question, investigate at least three credible sources, and produce a 700–900 word research-based analysis using quotations, paraphrases, summaries, and MLA documentation.",
+      "answer": "Evaluate question quality, analytical findings, thesis development, synthesis, accurate source representation, original reasoning, MLA in-text citations, and Works Cited.",
+      "rationale": "The task integrates the three active Grade 10 research and inquiry expectations.",
+      "alignment": ["10.T.RA.1.a", "10.T.RA.1.b", "10.T.RA.1.c"]
+    }
+  ],
+  "evidence": [
+    "A research question log documenting refinement.",
+    "An evidence matrix connecting findings to a question or thesis.",
+    "A thesis revised in response to credible research.",
+    "An original analytical paragraph integrating multiple sources.",
+    "Accurate MLA in-text citations and Works Cited entries.",
+    "A completed research brief or analysis demonstrating synthesis."
+  ],
+  "instruction": [
+    "Collaborate with the librarian to teach research through authentic databases and sources.",
+    "Begin with student-generated questions rather than assigned thesis statements.",
+    "Model preliminary research as a way to refine the investigation.",
+    "Teach source evaluation and analytical use of findings as connected practices.",
+    "Use synthesis matrices to move students beyond one-source-at-a-time summaries.",
+    "Model accurate quotation, paraphrase, summary, and MLA documentation.",
+    "Require original reasoning after source material.",
+    "Teach students to revise claims when new evidence warrants it.",
+    "Use the current MLA Handbook and institutional guidance for citation details."
+  ],
+  "watchFor": [
+    "Questions so broad they cannot be investigated meaningfully.",
+    "Questions that assume a conclusion before research begins.",
+    "Collecting sources without analyzing findings.",
+    "Treating a thesis as unchangeable.",
+    "Using quotations as substitutes for reasoning.",
+    "Patchwriting disguised as paraphrasing.",
+    "Citing quotations but not paraphrased ideas.",
+    "Confusing a Works Cited entry with an in-text citation.",
+    "Using MLA punctuation mechanically without checking the source type.",
+    "Writing source-by-source summaries instead of synthesizing evidence."
+  ],
+  "skills": {
+    "10.T.RA.1.a": {
+      "focus": "Generate and refine questions for complex research",
+      "studentFriendly": "I can develop research questions that connect complex ideas and refine my investigation as I learn.",
+      "know": [
+        "Research questions establish direction and scope.",
+        "Preliminary research can reveal new connections and possible solutions.",
+        "Complex questions may involve several disciplines or perspectives."
+      ],
+      "understand": [
+        "Research questions can change as understanding develops.",
+        "A productive question invites investigation rather than a predetermined answer."
+      ],
+      "do": [
+        "Generate researchable questions.",
+        "Identify relationships among complex topics.",
+        "Narrow or refine a question using preliminary findings.",
+        "Explore possible solutions when appropriate."
+      ],
+      "targets": [
+        "I can explain why a question is researchable.",
+        "I can revise a question based on what I discover."
+      ],
+      "instruction": [
+        "Use question formulation and preliminary database searching.",
+        "Conduct brief conferences about scope and complexity."
+      ],
+      "evidence": [
+        "An initial and revised research question.",
+        "A rationale explaining the revision."
+      ],
+      "watchFor": [
+        "Overly broad or predetermined questions.",
+        "Treating question refinement as a sign of failure."
+      ]
+    },
+    "10.T.RA.1.b": {
+      "focus": "Use analytical findings to support a research question or thesis",
+      "studentFriendly": "I can analyze research findings and explain how they support or challenge my thesis.",
+      "know": [
+        "Evidence must be relevant to a research question or claim.",
+        "Analytical findings involve interpretation of information.",
+        "Credible evidence can complicate or challenge a provisional thesis."
+      ],
+      "understand": [
+        "Research writing develops conclusions through analysis.",
+        "A defensible thesis responds to the available evidence."
+      ],
+      "do": [
+        "Select relevant findings.",
+        "Analyze the significance of evidence.",
+        "Synthesize findings across sources.",
+        "Develop or revise a thesis based on research.",
+        "Cite findings appropriately."
+      ],
+      "targets": [
+        "I can explain how a finding supports a claim.",
+        "I can revise my thesis in response to evidence."
+      ],
+      "instruction": [
+        "Use evidence matrices and claim-evidence-reasoning conferences.",
+        "Compare source-by-source summaries with genuine synthesis."
+      ],
+      "evidence": [
+        "A research-based thesis.",
+        "An analytical paragraph connecting findings from multiple sources."
+      ],
+      "watchFor": [
+        "Cherry-picking evidence.",
+        "Listing findings without explaining their significance."
+      ]
+    },
+    "10.T.RA.1.c": {
+      "focus": "Integrate source material accurately using MLA documentation",
+      "studentFriendly": "I can use quotations, paraphrases, and summaries in my own writing while giving sources appropriate MLA credit.",
+      "know": [
+        "Quotations reproduce exact language.",
+        "Paraphrases restate ideas in original wording and structure.",
+        "Summaries condense central ideas.",
+        "MLA documentation identifies sources of borrowed ideas and language."
+      ],
+      "understand": [
+        "Source integration should strengthen original writing.",
+        "Ethical attribution applies to borrowed ideas as well as exact words."
+      ],
+      "do": [
+        "Choose when to quote, paraphrase, or summarize.",
+        "Introduce source material in original prose.",
+        "Analyze the significance of integrated evidence.",
+        "Use MLA in-text citations and Works Cited entries.",
+        "Revise to eliminate patchwriting and unsupported claims."
+      ],
+      "targets": [
+        "I can paraphrase without copying sentence structure.",
+        "I can integrate evidence into my own analysis.",
+        "I can cite borrowed ideas and words using MLA conventions."
+      ],
+      "instruction": [
+        "Model source integration with authentic passages.",
+        "Use color-coded drafting to distinguish original analysis from borrowed material.",
+        "Practice MLA citations with different source types."
+      ],
+      "evidence": [
+        "A paragraph integrating quotation, paraphrase, and summary.",
+        "Correct attribution and documentation in a research-based composition."
+      ],
+      "watchFor": [
+        "Patchwriting.",
+        "Unintroduced quotations.",
+        "Missing citations for paraphrased ideas.",
+        "Citations that do not correspond to Works Cited entries."
+      ]
+    }
+  },
+  "readingSelectionNote": "Selections are independently developed instructional recommendations, not state-prescribed texts. Verify editions, availability, permissions, age suitability, and local instructional requirements. Reading times refer to selected passages unless otherwise specified. High-interest and accessibility labels are editorial judgments."
+}
+
   ]
 }
