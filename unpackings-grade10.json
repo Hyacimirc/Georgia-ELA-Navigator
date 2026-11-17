@@ -24721,5 +24721,767 @@
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify source access, permissions, age suitability, and accessibility."
 }
 
+,
+{
+  "code": "10.P.CP.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Collaboration",
+  "studentFriendly": "I can prepare for group work, help establish productive expectations, contribute ideas, listen and respond thoughtfully, and work with others to investigate questions, solve problems, and create meaningful work.",
+  "know": [
+    "Productive collaboration requires preparation, participation, and shared responsibility.",
+    "Group norms establish expectations for communication, decision-making, and accountability.",
+    "Shared goals and procedures help teams manage complex projects.",
+    "Active listening includes accurately understanding and considering others' contributions.",
+    "Constructive feedback is specific, respectful, and useful for improvement.",
+    "Collaborative inquiry allows participants to combine knowledge and evaluate competing explanations.",
+    "Effective group work includes both individual accountability and collective responsibility.",
+    "Disagreement can improve a project when participants use evidence and respectful dialogue."
+  ],
+  "understand": [
+    "Collaboration is a learnable process rather than simply dividing work among participants.",
+    "Preparation makes discussion more substantive and productive.",
+    "Clear norms and goals support equitable participation.",
+    "Listening and feedback are as important as offering ideas.",
+    "Different perspectives can strengthen reasoning and creative decisions.",
+    "Teams benefit from reviewing both their final products and their collaborative processes."
+  ],
+  "do": [
+    "Prepare for discussions by reviewing materials, gathering evidence, and developing questions.",
+    "Contribute to establishing group norms, goals, roles, and procedures.",
+    "Participate actively and responsibly in shared work.",
+    "Express ideas clearly and support claims with relevant evidence.",
+    "Listen to others and accurately summarize their perspectives.",
+    "Ask clarifying and probing questions.",
+    "Provide and respond to constructive feedback.",
+    "Collaboratively investigate questions, solve problems, and create texts.",
+    "Monitor progress and adjust group procedures when needed.",
+    "Reflect on individual contributions and group effectiveness."
+  ],
+  "vocabulary": [
+    {
+      "term": "Collaboration",
+      "definition": "Working with others toward shared goals through coordinated contributions.",
+      "example": "A research team combining evidence to produce a joint report."
+    },
+    {
+      "term": "Group norms",
+      "definition": "Agreed-upon expectations guiding group interactions and responsibilities.",
+      "example": "Allowing each participant time to contribute."
+    },
+    {
+      "term": "Consensus",
+      "definition": "A decision or position that group members can collectively support.",
+      "example": "Agreeing on a research question after evaluating several possibilities."
+    },
+    {
+      "term": "Active listening",
+      "definition": "Attentive listening that seeks to understand and respond accurately.",
+      "example": "Restating a peer's point before offering a different interpretation."
+    },
+    {
+      "term": "Constructive feedback",
+      "definition": "Specific information intended to improve an idea, process, or product.",
+      "example": "Suggesting additional evidence for a weak claim."
+    },
+    {
+      "term": "Accountability",
+      "definition": "Responsibility for completing commitments and contributing to shared work.",
+      "example": "Submitting research notes by an agreed deadline."
+    },
+    {
+      "term": "Collaborative inquiry",
+      "definition": "Joint investigation of a question through research, discussion, and analysis.",
+      "example": "Evaluating several explanations for a historical event."
+    },
+    {
+      "term": "Facilitation",
+      "definition": "Helping a group communicate, make progress, and accomplish its goals.",
+      "example": "Inviting quieter members to contribute and summarizing decisions."
+    },
+    {
+      "term": "Evidence-based discussion",
+      "definition": "A conversation in which participants support and evaluate ideas using relevant information.",
+      "example": "Referring to passages when debating a character's motivation."
+    },
+    {
+      "term": "Peer review",
+      "definition": "A process in which participants evaluate one another's work and offer suggestions.",
+      "example": "Reviewing another team's argument for clarity and evidence."
+    },
+    {
+      "term": "Synthesis",
+      "definition": "Combining ideas or information to develop a broader understanding.",
+      "example": "Integrating several interpretations into a nuanced group conclusion."
+    },
+    {
+      "term": "Reflection",
+      "definition": "Deliberate evaluation of experiences, decisions, and results.",
+      "example": "Identifying how a group's procedures affected its productivity."
+    }
+  ],
+  "targets": [
+    "I can arrive prepared to contribute meaningfully.",
+    "I can help establish norms, goals, and procedures for group work.",
+    "I can express ideas and listen respectfully to others.",
+    "I can offer feedback that improves a shared product.",
+    "I can use evidence and questions to advance a discussion.",
+    "I can collaborate to investigate a complex issue or create a text.",
+    "I can evaluate my contributions and our group's effectiveness."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Twelve Angry Men",
+      "author": "Reginald Rose",
+      "genre": "Drama",
+      "purpose": "Analyze group decision-making, disagreement, evidence, persuasion, and listening.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "25–35 minutes for selected scenes",
+      "highInterest": true,
+      "accessibility": "Provide character identifiers and historical context.",
+      "interestHook": "A group must reach a consequential decision despite conflicting assumptions.",
+      "teachingPrompt": "Which behaviors help or obstruct the group's ability to reason together?",
+      "alignment": ["10.P.CP.1.b", "10.P.CP.1.c", "10.P.CP.1.d"]
+    },
+    {
+      "title": "The 57 Bus",
+      "author": "Dashka Slater",
+      "genre": "Investigative narrative nonfiction",
+      "purpose": "Support evidence-based discussions about complex questions and differing perspectives.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Review sensitive content and establish respectful discussion norms.",
+      "interestHook": "A complicated event challenges readers to consider multiple perspectives.",
+      "teachingPrompt": "How can a group investigate disagreement without dismissing evidence or individual experiences?",
+      "alignment": ["10.P.CP.1.a", "10.P.CP.1.c", "10.P.CP.1.d"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Provide a common text for collaborative inquiry about perspective and interpretation.",
+      "access": "Authorized TED talk or transcript.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide captions and context.",
+      "interestHook": "Participants examine how assumptions influence what they hear and believe.",
+      "teachingPrompt": "What discussion norms help participants challenge assumptions constructively?",
+      "alignment": ["10.P.CP.1.a", "10.P.CP.1.c"]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Scientific and historical nonfiction",
+      "purpose": "Support collaborative investigation of scientific ethics and competing considerations.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical and scientific context; review sensitive material.",
+      "interestHook": "Students must consider scientific progress alongside questions of consent and justice.",
+      "teachingPrompt": "How can a group use evidence to develop a responsible response to an ethical dilemma?",
+      "alignment": ["10.P.CP.1.a", "10.P.CP.1.d"]
+    },
+    {
+      "title": "A Collaborative Research Source Set",
+      "author": "Teacher-curated credible sources",
+      "genre": "Articles, reports, interviews, and primary sources",
+      "purpose": "Provide varied evidence for a shared investigation and group-created product.",
+      "access": "School databases, library materials, and verified public sources.",
+      "readingTime": "30–40 minutes",
+      "highInterest": true,
+      "accessibility": "Provide texts at varied complexity levels.",
+      "interestHook": "Different sources reveal pieces of a problem that one reader might miss.",
+      "teachingPrompt": "How can the team combine evidence without losing important differences among sources?",
+      "alignment": ["10.P.CP.1.a", "10.P.CP.1.b", "10.P.CP.1.c", "10.P.CP.1.d"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Prepare to Participate",
+      "activity": "Students read a brief common text, prepare two observations and one question, and participate in a structured discussion.",
+      "materials": ["Short text", "Preparation organizer", "Discussion stems"],
+      "scaffolds": ["Provide a model observation and question.", "Allow preparation time before speaking."],
+      "success": "Each student contributes a prepared idea or question grounded in the text.",
+      "alignment": ["10.P.CP.1.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Build the Group Agreement",
+      "activity": "Small groups establish three norms, a shared goal, roles, and a simple timeline for a short task.",
+      "materials": ["Group agreement template", "Task description"],
+      "scaffolds": ["Provide examples of measurable goals and practical norms."],
+      "success": "Each group produces an actionable agreement and follows it during the task.",
+      "alignment": ["10.P.CP.1.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Listen, Build, Respond",
+      "activity": "Students practice accurately restating a peer's idea, adding evidence, and offering constructive feedback during a short discussion.",
+      "materials": ["Discussion prompt", "Feedback stems", "Observation checklist"],
+      "scaffolds": ["Model respectful disagreement and clarification questions."],
+      "success": "Students demonstrate listening and provide specific, useful feedback.",
+      "alignment": ["10.P.CP.1.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Evidence-Based Seminar",
+      "activity": "Students prepare annotated evidence, establish discussion norms, and investigate a complex interpretive question through a collaborative seminar.",
+      "materials": ["Common text", "Seminar preparation guide", "Reflection rubric"],
+      "scaffolds": ["Provide discussion roles and evidence prompts."],
+      "success": "Students advance the conversation with evidence, questions, and responses to peers.",
+      "alignment": ["10.P.CP.1.a", "10.P.CP.1.b", "10.P.CP.1.c", "10.P.CP.1.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Collaborative Inquiry Brief",
+      "activity": "Teams investigate a community question, assign research responsibilities, evaluate sources, and jointly produce an evidence-based briefing.",
+      "materials": ["Research sources", "Shared planning document", "Group rubric"],
+      "scaffolds": ["Require individual research logs and a shared synthesis meeting."],
+      "success": "The final brief integrates evidence from multiple contributors and documents group decisions.",
+      "alignment": ["10.P.CP.1.a", "10.P.CP.1.b", "10.P.CP.1.c", "10.P.CP.1.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "The Collaborative Editorial Board",
+      "activity": "Students establish an editorial team, investigate a complex issue, develop competing proposals, and collaboratively publish a researched editorial or multimedia feature.",
+      "materials": ["Research databases", "Editorial planning guide", "Peer-review rubric"],
+      "scaffolds": ["Require documented decisions, feedback cycles, and individual accountability."],
+      "success": "The publication demonstrates thoughtful synthesis, clear collaboration, and substantive revision.",
+      "alignment": ["10.P.CP.1.a", "10.P.CP.1.b", "10.P.CP.1.c", "10.P.CP.1.d"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which action best demonstrates preparation for a collaborative discussion?",
+      "options": [
+        "Waiting for others to explain the reading",
+        "Reviewing the text and preparing evidence-based questions",
+        "Deciding to agree with the first speaker",
+        "Speaking frequently without referencing the topic"
+      ],
+      "answer": "Reviewing the text and preparing evidence-based questions",
+      "rationale": "Preparation enables informed and purposeful participation.",
+      "alignment": ["10.P.CP.1.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which group procedure is most likely to improve accountability?",
+      "options": [
+        "Leaving responsibilities undefined",
+        "Assigning tasks, establishing deadlines, and reviewing progress",
+        "Allowing one member to complete everything",
+        "Avoiding discussion of goals"
+      ],
+      "answer": "Assigning tasks, establishing deadlines, and reviewing progress",
+      "rationale": "Clear responsibilities and monitoring support shared productivity.",
+      "alignment": ["10.P.CP.1.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "A peer offers an interpretation you disagree with. Write a response that demonstrates active listening, respectful disagreement, and constructive feedback.",
+      "answer": "A strong response accurately acknowledges the peer's reasoning, offers a supported alternative, and asks a productive question.",
+      "rationale": "Students demonstrate constructive participation rather than simple agreement.",
+      "alignment": ["10.P.CP.1.c"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a team could investigate a complex question more effectively than members working independently without discussion.",
+      "answer": "A strong response discusses coordinated research, diverse perspectives, shared evaluation of evidence, and synthesis.",
+      "rationale": "The task evaluates understanding of collaborative inquiry.",
+      "alignment": ["10.P.CP.1.d"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Work in a team to investigate a complex issue and produce a shared research-based text. Submit preparation notes, group norms, a contribution log, evidence of feedback, and a final reflection.",
+      "answer": "Evaluate preparation, goal setting, equitable contribution, listening, feedback, inquiry, final product, and reflection.",
+      "rationale": "The task assesses all four collaboration expectations.",
+      "alignment": ["10.P.CP.1.a", "10.P.CP.1.b", "10.P.CP.1.c", "10.P.CP.1.d"]
+    }
+  ],
+  "evidence": [
+    "Prepared notes and questions for collaborative discussions.",
+    "A group agreement with goals, norms, roles, and procedures.",
+    "Discussion observations demonstrating listening and constructive contributions.",
+    "A collaborative inquiry product supported by evidence.",
+    "An individual reflection on contributions and group effectiveness."
+  ],
+  "instruction": [
+    "Teach collaboration skills explicitly rather than assuming students already possess them.",
+    "Provide preparation time and meaningful common texts.",
+    "Model productive norms, evidence-based disagreement, and constructive feedback.",
+    "Use roles flexibly without allowing them to limit participation.",
+    "Assess individual contributions as well as group outcomes.",
+    "Design tasks that genuinely require collaboration and synthesis.",
+    "Provide opportunities to reflect and improve collaborative processes."
+  ],
+  "watchFor": [
+    "Mistaking frequent speaking for meaningful contribution.",
+    "Allowing one student to dominate decisions or production.",
+    "Dividing tasks without integrating ideas.",
+    "Treating agreement as the only sign of successful collaboration.",
+    "Giving vague praise instead of actionable feedback.",
+    "Assessing only the final product without considering the process.",
+    "Confusing equal speaking time with equitable opportunities to contribute."
+  ],
+  "skills": {
+    "10.P.CP.1.a": {
+      "focus": "Prepare for active participation",
+      "studentFriendly": "I can arrive ready to contribute to discussions and collaborative work.",
+      "know": ["Preparation includes reviewing materials, gathering evidence, and developing questions."],
+      "understand": ["Prepared participants can contribute more substantively."],
+      "do": ["Review materials.", "Prepare evidence and questions.", "Participate actively."],
+      "targets": ["I can contribute a prepared, relevant idea or question."],
+      "instruction": ["Use pre-discussion organizers and evidence notes."],
+      "evidence": ["Prepared discussion notes and substantive participation."],
+      "watchFor": ["Arriving without having engaged with the materials."]
+    },
+    "10.P.CP.1.b": {
+      "focus": "Establish norms, goals, and procedures",
+      "studentFriendly": "I can help my group set expectations and organize work productively.",
+      "know": ["Norms, goals, roles, and procedures support coordinated work."],
+      "understand": ["Shared expectations improve accountability and productivity."],
+      "do": ["Develop group norms.", "Establish goals.", "Agree on procedures.", "Monitor progress."],
+      "targets": ["I can help create and follow a productive group plan."],
+      "instruction": ["Model group agreements and project planning."],
+      "evidence": ["A shared group plan and documented progress."],
+      "watchFor": ["Setting goals without assigning responsibilities or reviewing progress."]
+    },
+    "10.P.CP.1.c": {
+      "focus": "Contribute ideas, listen, and provide feedback",
+      "studentFriendly": "I can share ideas, listen thoughtfully, and help others improve their work.",
+      "know": ["Constructive discussion includes listening, questioning, and feedback."],
+      "understand": ["Respectful exchanges can improve collective reasoning."],
+      "do": ["Offer ideas.", "Listen accurately.", "Ask questions.", "Provide useful feedback."],
+      "targets": ["I can respond thoughtfully to others and offer actionable feedback."],
+      "instruction": ["Use discussion protocols and feedback models."],
+      "evidence": ["Discussion observations and peer-feedback records."],
+      "watchFor": ["Responding without first understanding another person's contribution."]
+    },
+    "10.P.CP.1.d": {
+      "focus": "Investigate, solve problems, and create collaboratively",
+      "studentFriendly": "I can work with others to explore questions, solve problems, and create texts.",
+      "know": ["Collaborative inquiry combines research, discussion, and synthesis."],
+      "understand": ["Shared investigation can produce stronger understanding and solutions."],
+      "do": ["Investigate questions.", "Discuss evidence.", "Develop solutions.", "Create shared texts."],
+      "targets": ["I can contribute meaningfully to a shared inquiry or product."],
+      "instruction": ["Use authentic group investigations with individual accountability."],
+      "evidence": ["A collaborative product and documented contributions."],
+      "watchFor": ["Combining separate sections without developing a coherent shared result."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, permissions, reading level, and age suitability."
+},
+{
+  "code": "10.P.CP.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Presentation",
+  "studentFriendly": "I can communicate ideas clearly, choose effective presentation formats, use my voice and body language purposefully, respond to audience questions, and recite significant poems and speeches.",
+  "know": [
+    "Presentations communicate ideas, information, and texts to specific audiences.",
+    "Clear presentations use logical organization, appropriate evidence, and understandable language.",
+    "Different modes and genres suit different purposes and audiences.",
+    "Visual, written, audio, and spoken elements can work together to support a message.",
+    "Tone, pace, volume, emphasis, and nonverbal gestures influence audience interpretation.",
+    "Audience dialogue requires attentive listening and thoughtful responses.",
+    "Recitation involves accurate and expressive oral presentation of a memorized or prepared text.",
+    "Significant poetry and speeches provide opportunities to study language, rhythm, rhetorical techniques, and cultural context.",
+    "Effective delivery supports meaning rather than distracting from it."
+  ],
+  "understand": [
+    "Presentation choices should be guided by purpose and audience.",
+    "Clarity depends on both content and delivery.",
+    "Multimodal features are most effective when they contribute meaning.",
+    "Vocal and nonverbal choices shape audience engagement and comprehension.",
+    "Questions and answers are part of effective communication rather than interruptions.",
+    "Recitation develops familiarity with influential language and rhetorical expression.",
+    "A strong presenter can adapt communication in response to audience needs."
+  ],
+  "do": [
+    "Organize and present ideas clearly with appropriate supporting information.",
+    "Select modes and genres suited to purpose and audience.",
+    "Integrate visual, audio, or written elements when useful.",
+    "Adjust tone, pace, emphasis, and nonverbal gestures for rhetorical effect.",
+    "Practice delivery and revise based on feedback.",
+    "Invite and respond to audience questions.",
+    "Ask clarifying questions when needed.",
+    "Recite all or part of a significant poem or speech with accuracy and understanding.",
+    "Explain how delivery choices support the meaning of a recited text.",
+    "Reflect on the effectiveness of a presentation."
+  ],
+  "vocabulary": [
+    {
+      "term": "Presentation",
+      "definition": "An organized communication delivered to an audience.",
+      "example": "A student presents findings from a research investigation."
+    },
+    {
+      "term": "Audience",
+      "definition": "The people receiving and interpreting a communication.",
+      "example": "Students, families, or community decision-makers."
+    },
+    {
+      "term": "Mode",
+      "definition": "A form through which information or meaning is communicated.",
+      "example": "Spoken language, video, written text, or graphics."
+    },
+    {
+      "term": "Genre",
+      "definition": "A recognizable type of communication with characteristic conventions.",
+      "example": "A keynote speech, debate, podcast, or research briefing."
+    },
+    {
+      "term": "Tone",
+      "definition": "The attitude or emotional quality communicated by a speaker.",
+      "example": "Using a serious tone when discussing a safety concern."
+    },
+    {
+      "term": "Pace",
+      "definition": "The speed of spoken delivery.",
+      "example": "Slowing down while explaining a complex concept."
+    },
+    {
+      "term": "Nonverbal communication",
+      "definition": "Meaning communicated through gestures, posture, expression, and other nonverbal behaviors.",
+      "example": "Using a gesture to emphasize a comparison."
+    },
+    {
+      "term": "Vocal emphasis",
+      "definition": "Changes in stress, volume, or intonation that highlight meaning.",
+      "example": "Emphasizing a key contrast in a speech."
+    },
+    {
+      "term": "Multimodal presentation",
+      "definition": "A presentation combining more than one communication mode.",
+      "example": "A spoken explanation supported by a graph and captioned video."
+    },
+    {
+      "term": "Audience dialogue",
+      "definition": "A two-way exchange between a presenter and listeners.",
+      "example": "Responding to questions after a research briefing."
+    },
+    {
+      "term": "Recitation",
+      "definition": "The oral presentation of a learned or prepared literary or rhetorical text.",
+      "example": "Reciting a selected passage from a significant speech."
+    },
+    {
+      "term": "Rhetorical delivery",
+      "definition": "The use of vocal and physical choices to communicate effectively.",
+      "example": "Pausing before a central claim."
+    }
+  ],
+  "targets": [
+    "I can present information clearly and accurately.",
+    "I can choose a presentation mode appropriate to my audience.",
+    "I can integrate visuals or other media that improve understanding.",
+    "I can adjust tone, pace, and gestures for effect.",
+    "I can listen and respond thoughtfully to audience questions.",
+    "I can recite a significant poem or speech with understanding and expression.",
+    "I can evaluate and improve my presentation skills."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Negro Speaks of Rivers",
+      "author": "Langston Hughes",
+      "genre": "Poetry",
+      "purpose": "Practice recitation, rhythm, imagery, and expressive delivery.",
+      "access": "Authorized text or school anthology.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical context and a recording where appropriately licensed.",
+      "interestHook": "Repetition and rhythm connect a personal voice with collective history.",
+      "teachingPrompt": "How do pauses and vocal emphasis change the audience's understanding?",
+      "alignment": ["10.P.CP.2.c", "10.P.CP.2.e"]
+    },
+    {
+      "title": "If We Must Die",
+      "author": "Claude McKay",
+      "genre": "Poetry",
+      "purpose": "Practice expressive recitation of a historically significant poem.",
+      "access": "Public-domain poem.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical context and discuss figurative violence.",
+      "interestHook": "A sonnet's controlled form intensifies its urgent message.",
+      "teachingPrompt": "How should a speaker communicate the poem's urgency without sacrificing clarity?",
+      "alignment": ["10.P.CP.2.c", "10.P.CP.2.e"]
+    },
+    {
+      "title": "Ozymandias",
+      "author": "Percy Bysshe Shelley",
+      "genre": "Poetry",
+      "purpose": "Practice recitation that communicates irony, imagery, and shifts in perspective.",
+      "access": "Public-domain poem.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Support unfamiliar vocabulary and nested narration.",
+      "interestHook": "The delivery of a boast can expose its irony.",
+      "teachingPrompt": "Which words deserve emphasis to communicate the poem's central irony?",
+      "alignment": ["10.P.CP.2.c", "10.P.CP.2.e"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Recorded speech",
+      "purpose": "Analyze tone, pace, gesture, audience engagement, and presentation organization.",
+      "access": "Authorized TED talk with captions and transcript.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Use captions and transcript for analysis.",
+      "interestHook": "A speaker builds a complex argument through clear, engaging delivery.",
+      "teachingPrompt": "How does the speaker adjust pacing and emphasis across the presentation?",
+      "alignment": ["10.P.CP.2.a", "10.P.CP.2.c"]
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Adapt a significant written rhetorical passage for oral presentation and discuss the differences between reading and delivery.",
+      "access": "Authorized excerpt or school anthology.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical context and support complex syntax.",
+      "interestHook": "A written argument gains new qualities when delivered aloud.",
+      "teachingPrompt": "What changes when this written passage becomes a spoken presentation?",
+      "alignment": ["10.P.CP.2.b", "10.P.CP.2.c"]
+    },
+    {
+      "title": "A Student Research Briefing",
+      "author": "Student-created work",
+      "genre": "Multimodal presentation",
+      "purpose": "Practice clear explanation, visual integration, and audience questions.",
+      "access": "Original student research and appropriately attributed media.",
+      "readingTime": "5–7 minutes for each presentation",
+      "highInterest": true,
+      "accessibility": "Provide captions or transcripts for prerecorded media and accessible visual materials.",
+      "interestHook": "Students present a genuine finding and defend their reasoning.",
+      "teachingPrompt": "What information should be spoken, shown visually, or reserved for audience questions?",
+      "alignment": ["10.P.CP.2.a", "10.P.CP.2.b", "10.P.CP.2.c", "10.P.CP.2.d"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Make the Message Clear",
+      "activity": "Students organize a short explanation into an opening, two supporting points, and a conclusion, then present it to a partner.",
+      "materials": ["Presentation organizer", "Short topic prompt", "Feedback checklist"],
+      "scaffolds": ["Provide sentence starters and rehearsal time."],
+      "success": "Students communicate a clear central idea supported by relevant details.",
+      "alignment": ["10.P.CP.2.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Match the Mode",
+      "activity": "Students compare presentation options for different audiences and select an appropriate combination of speech, visuals, and written information.",
+      "materials": ["Audience scenarios", "Mode selection chart"],
+      "scaffolds": ["Model how a graph can clarify a numerical comparison."],
+      "success": "Students justify a presentation format for two scenarios.",
+      "alignment": ["10.P.CP.2.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Voice and Meaning",
+      "activity": "Students practice delivering the same short passage with different pacing, pauses, and emphasis, discussing how each choice changes meaning.",
+      "materials": ["Short passage", "Delivery annotation guide"],
+      "scaffolds": ["Model expressive but natural delivery.", "Allow partner rehearsal."],
+      "success": "Students identify and demonstrate two purposeful delivery choices.",
+      "alignment": ["10.P.CP.2.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "The Research Lightning Talk",
+      "activity": "Students present a three-minute research explanation using a purposeful visual and respond to two audience questions.",
+      "materials": ["Research notes", "Presentation tool", "Feedback rubric"],
+      "scaffolds": ["Require a central claim and a clearly labeled visual."],
+      "success": "Students communicate accurately, use an appropriate mode, and respond thoughtfully.",
+      "alignment": ["10.P.CP.2.a", "10.P.CP.2.b", "10.P.CP.2.c", "10.P.CP.2.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Poetry in Performance",
+      "activity": "Students select a significant grade-appropriate poem, investigate its context, annotate its language and structure, and recite all or part with an explanatory introduction.",
+      "materials": ["Poem", "Context sources", "Recitation rubric"],
+      "scaffolds": ["Offer text choices and supported rehearsal.", "Provide alternative access arrangements where needed."],
+      "success": "Students demonstrate accurate, meaningful recitation and explain delivery choices.",
+      "alignment": ["10.P.CP.2.a", "10.P.CP.2.c", "10.P.CP.2.e"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "Questions Are Part of the Presentation",
+      "activity": "Students deliver a short argument and participate in a structured audience question-and-answer session, practicing clarification and evidence-based responses.",
+      "materials": ["Argument outline", "Question stems", "Response rubric"],
+      "scaffolds": ["Model how to acknowledge uncertainty and respond accurately."],
+      "success": "Students answer questions directly, listen attentively, and distinguish evidence from speculation.",
+      "alignment": ["10.P.CP.2.a", "10.P.CP.2.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "The Public Humanities Showcase",
+      "activity": "Students create a researched multimodal presentation on a literary or cultural issue, integrate significant quotations or recitation, and lead an audience dialogue.",
+      "materials": ["Research sources", "Presentation tools", "Audience feedback rubric"],
+      "scaffolds": ["Require an audience analysis and accessibility plan."],
+      "success": "The presentation combines clear reasoning, effective media, expressive delivery, and thoughtful dialogue.",
+      "alignment": ["10.P.CP.2.a", "10.P.CP.2.b", "10.P.CP.2.c", "10.P.CP.2.d", "10.P.CP.2.e"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which presentation structure most clearly communicates research findings?",
+      "options": [
+        "Unrelated facts in random order",
+        "A central question, evidence, findings, and conclusion",
+        "A list of sources without explanation",
+        "A conclusion without supporting information"
+      ],
+      "answer": "A central question, evidence, findings, and conclusion",
+      "rationale": "A logical sequence helps an audience understand and evaluate information.",
+      "alignment": ["10.P.CP.2.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A presenter needs to explain changes in temperature over 50 years. Which mode would most effectively support the spoken explanation?",
+      "options": [
+        "An unrelated photograph",
+        "A clearly labeled line graph",
+        "A decorative animation",
+        "A long paragraph read from the screen"
+      ],
+      "answer": "A clearly labeled line graph",
+      "rationale": "The graph makes a numerical trend easier to interpret.",
+      "alignment": ["10.P.CP.2.b"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a speaker might adjust tone, pace, and gestures when presenting a serious issue to community leaders.",
+      "answer": "A strong response proposes purposeful delivery choices suited to the topic and audience, explaining their effects.",
+      "rationale": "Students connect delivery techniques with rhetorical purpose.",
+      "alignment": ["10.P.CP.2.c"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "An audience member challenges a conclusion in your presentation. Write a response that acknowledges the question and addresses it with evidence.",
+      "answer": "A strong response accurately restates the concern, responds with relevant evidence, and acknowledges any uncertainty.",
+      "rationale": "Students demonstrate productive audience dialogue.",
+      "alignment": ["10.P.CP.2.d"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Choose a significant poem or speech and explain how reciting part of it aloud could deepen your understanding of its language.",
+      "answer": "A strong response discusses rhythm, repetition, emphasis, syntax, or rhetorical meaning using a specific passage.",
+      "rationale": "Students connect recitation with literary and rhetorical understanding.",
+      "alignment": ["10.P.CP.2.e"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Deliver a five-minute presentation for a defined audience using an appropriate combination of modes. Demonstrate purposeful vocal and nonverbal delivery, respond to audience questions, and include a meaningful recitation of part of a significant poem or speech.",
+      "answer": "Evaluate clarity, mode selection, delivery, audience dialogue, recitation accuracy and understanding, and reflection.",
+      "rationale": "The task integrates all five presentation expectations.",
+      "alignment": ["10.P.CP.2.a", "10.P.CP.2.b", "10.P.CP.2.c", "10.P.CP.2.d", "10.P.CP.2.e"]
+    }
+  ],
+  "evidence": [
+    "A clear presentation outline with relevant supporting evidence.",
+    "An appropriate and accessible multimodal presentation.",
+    "A delivery reflection addressing tone, pace, and gestures.",
+    "A record of audience questions and responses.",
+    "A meaningful recitation of a significant poem or speech.",
+    "A self-evaluation identifying strengths and next steps."
+  ],
+  "instruction": [
+    "Teach presentation as a process involving planning, rehearsal, delivery, and reflection.",
+    "Use authentic audiences and meaningful communication purposes.",
+    "Model clear organization and effective use of supporting evidence.",
+    "Select modes and media based on their contribution to understanding.",
+    "Provide feedback on vocal and nonverbal delivery without imposing one culturally narrow presentation style.",
+    "Practice responding to audience questions, including acknowledging uncertainty.",
+    "Teach recitation alongside contextual study and interpretation.",
+    "Provide accessible participation and presentation options."
+  ],
+  "watchFor": [
+    "Reading dense slides aloud without explaining the content.",
+    "Adding media that distracts from the message.",
+    "Speaking too quickly for the audience to follow.",
+    "Treating gestures as mandatory rather than purposeful.",
+    "Avoiding audience questions or inventing unsupported answers.",
+    "Reciting words without understanding their significance.",
+    "Evaluating presentation quality solely through eye contact or extroversion.",
+    "Ignoring captions, readable visuals, or other accessibility needs."
+  ],
+  "skills": {
+    "10.P.CP.2.a": {
+      "focus": "Present ideas, information, and texts clearly",
+      "studentFriendly": "I can communicate a clear message supported by appropriate information.",
+      "know": ["Effective presentations have a clear purpose and logical organization."],
+      "understand": ["Clarity supports audience comprehension."],
+      "do": ["Organize ideas.", "Use appropriate evidence.", "Present clearly."],
+      "targets": ["I can deliver a clear, coherent presentation."],
+      "instruction": ["Use short rehearsals and feedback on organization."],
+      "evidence": ["A clear presentation with supporting information."],
+      "watchFor": ["Presenting details without a central message."]
+    },
+    "10.P.CP.2.b": {
+      "focus": "Integrate appropriate modes and genres",
+      "studentFriendly": "I can choose presentation formats and media that suit my audience and purpose.",
+      "know": ["Modes and genres offer different communication possibilities."],
+      "understand": ["Media should clarify or strengthen a message."],
+      "do": ["Select appropriate modes.", "Integrate supporting features.", "Explain choices."],
+      "targets": ["I can use an effective presentation format."],
+      "instruction": ["Compare presentation formats for different audiences."],
+      "evidence": ["A purposeful multimodal presentation."],
+      "watchFor": ["Using technology without a communicative purpose."]
+    },
+    "10.P.CP.2.c": {
+      "focus": "Use tone, pace, and nonverbal gestures purposefully",
+      "studentFriendly": "I can adjust how I speak and present myself to support my message.",
+      "know": ["Vocal and nonverbal delivery influence meaning."],
+      "understand": ["Delivery should fit audience and purpose."],
+      "do": ["Adjust tone.", "Control pace.", "Use purposeful gestures.", "Reflect on delivery."],
+      "targets": ["I can make deliberate delivery choices."],
+      "instruction": ["Use annotated scripts and rehearsal feedback."],
+      "evidence": ["A rehearsed presentation with an explanation of delivery choices."],
+      "watchFor": ["Using gestures or vocal changes without considering their effect."]
+    },
+    "10.P.CP.2.d": {
+      "focus": "Engage audiences through questions and answers",
+      "studentFriendly": "I can ask and answer questions to communicate more effectively with an audience.",
+      "know": ["Audience dialogue requires listening, clarification, and accurate responses."],
+      "understand": ["Questions can deepen understanding and improve communication."],
+      "do": ["Invite questions.", "Listen attentively.", "Respond accurately.", "Acknowledge uncertainty."],
+      "targets": ["I can participate thoughtfully in audience dialogue."],
+      "instruction": ["Use structured question-and-answer practice."],
+      "evidence": ["Audience questions and supported responses."],
+      "watchFor": ["Guessing when an answer is unknown."]
+    },
+    "10.P.CP.2.e": {
+      "focus": "Recite significant poems and speeches",
+      "studentFriendly": "I can recite a significant poem or speech and explain how its language and delivery communicate meaning.",
+      "know": ["Recitation involves accurate oral presentation and attention to language."],
+      "understand": ["Speaking significant texts aloud can deepen literary and rhetorical understanding."],
+      "do": ["Study a significant text.", "Prepare a recitation.", "Use expressive delivery.", "Explain meaning."],
+      "targets": ["I can recite and interpret a meaningful passage."],
+      "instruction": ["Pair contextual study with annotated rehearsal."],
+      "evidence": ["An accurate, meaningful recitation and brief interpretation."],
+      "watchFor": ["Memorizing without understanding the text."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, permissions, reading level, and age suitability."
+}
+
   ]
 }
