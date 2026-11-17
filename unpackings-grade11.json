@@ -1,6 +1,719 @@
 
-{
-  "about": "Georgia ELA Navigator — Grade 11",
-  "unpackings": []
-}
-
+[
+  {
+    "code": "11.L.GC.1",
+    "status": "draft — independently developed instructional guidance; educator review recommended",
+    "focus": "Grammar, Usage & Mechanics",
+    "studentFriendly": "I can analyze how grammar, usage, and mechanics shape meaning and credibility, and I can apply the conventions of Standard English deliberately when creating and revising texts.",
+    "know": [
+      "Standard English conventions provide shared expectations for formal written communication.",
+      "Grammar describes how words, phrases, and clauses function together.",
+      "Usage involves selecting forms and constructions appropriate to a communication situation.",
+      "Mechanics includes capitalization, punctuation, and other written conventions.",
+      "Grammatical choices can affect clarity, emphasis, tone, rhythm, and interpretation.",
+      "Writers can deliberately vary sentence structures while maintaining grammatical control.",
+      "Punctuation can clarify relationships among ideas and create rhetorical effects.",
+      "Formal academic writing and other communication contexts may call for different registers.",
+      "Editing improves accuracy, but effective revision also considers meaning and audience.",
+      "Language variation is not evidence of intellectual ability; writers make choices according to purpose, audience, and context."
+    ],
+    "understand": [
+      "Conventions support clear communication and establish expectations within particular settings.",
+      "Grammar and mechanics are tools for constructing meaning rather than isolated rules.",
+      "Experienced writers evaluate the effects of language choices as well as their correctness.",
+      "Control of conventions supports credibility in academic and professional contexts.",
+      "Writers can distinguish purposeful stylistic variation from unintentional errors.",
+      "Effective editing requires understanding the intended meaning of a sentence."
+    ],
+    "do": [
+      "Analyze the grammatical structures of complex sentences.",
+      "Evaluate how usage and mechanics influence clarity and rhetorical effect.",
+      "Identify and correct errors that obscure meaning or undermine formal communication.",
+      "Apply appropriate punctuation and capitalization in original writing.",
+      "Maintain consistent and purposeful grammatical relationships.",
+      "Revise sentences for clarity, concision, emphasis, and coherence.",
+      "Evaluate the effectiveness of conventional and stylistically unconventional constructions.",
+      "Edit academic, literary, and professional texts according to audience and purpose.",
+      "Explain the rationale for significant editing decisions."
+    ],
+    "vocabulary": [
+      {
+        "term": "Grammar",
+        "definition": "The system of structures and patterns governing how language is formed.",
+        "example": "Examining how a dependent clause relates to an independent clause."
+      },
+      {
+        "term": "Usage",
+        "definition": "The selection and application of language forms appropriate to a context.",
+        "example": "Choosing a formal register for a research paper."
+      },
+      {
+        "term": "Mechanics",
+        "definition": "Written conventions such as punctuation and capitalization.",
+        "example": "Using a colon to introduce an explanation."
+      },
+      {
+        "term": "Register",
+        "definition": "A variety or level of language suited to a particular situation.",
+        "example": "Using different language in a college application essay and a text message."
+      },
+      {
+        "term": "Independent clause",
+        "definition": "A clause containing a subject and predicate that can stand alone as a sentence.",
+        "example": "The researchers published their findings."
+      },
+      {
+        "term": "Dependent clause",
+        "definition": "A clause that cannot function as a complete sentence by itself.",
+        "example": "Although the results were unexpected."
+      },
+      {
+        "term": "Parallel structure",
+        "definition": "The use of corresponding grammatical forms to express related ideas.",
+        "example": "The project required planning, researching, and revising."
+      },
+      {
+        "term": "Modifier",
+        "definition": "A word, phrase, or clause that describes or limits another element.",
+        "example": "The carefully documented findings persuaded the committee."
+      },
+      {
+        "term": "Semicolon",
+        "definition": "A punctuation mark that can connect closely related independent clauses or separate complex list items.",
+        "example": "The evidence was persuasive; the committee approved the proposal."
+      },
+      {
+        "term": "Colon",
+        "definition": "A punctuation mark used after an independent clause to introduce an explanation, example, or list.",
+        "example": "The committee reached one conclusion: further research was necessary."
+      },
+      {
+        "term": "Conciseness",
+        "definition": "Expressing ideas efficiently without sacrificing essential meaning.",
+        "example": "Replacing 'due to the fact that' with 'because.'"
+      },
+      {
+        "term": "Rhetorical effect",
+        "definition": "The influence a language choice has on an audience.",
+        "example": "A brief sentence emphasizing a conclusion."
+      }
+    ],
+    "targets": [
+      "I can analyze how grammar influences meaning.",
+      "I can apply Standard English conventions in formal writing.",
+      "I can use punctuation to clarify relationships among ideas.",
+      "I can revise sentences for clarity and rhetorical effect.",
+      "I can distinguish intentional stylistic choices from unintentional errors.",
+      "I can explain and justify my editing decisions."
+    ],
+    "suggestedTexts": [
+      {
+        "title": "Letter from Birmingham Jail",
+        "author": "Martin Luther King Jr.",
+        "genre": "Argumentative prose",
+        "purpose": "Analyze sentence structure, punctuation, and grammatical parallelism in a sophisticated argument.",
+        "access": "Authorized excerpts or school anthology.",
+        "readingTime": "20–25 minutes",
+        "highInterest": true,
+        "accessibility": "Provide historical context and annotate complex sentence structures.",
+        "interestHook": "Sentence construction reinforces the urgency and logic of an argument.",
+        "teachingPrompt": "How does the arrangement of clauses shape emphasis and persuasion?",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "title": "The Story of an Hour",
+        "author": "Kate Chopin",
+        "genre": "Short story",
+        "purpose": "Examine how grammatical and punctuation choices support pacing, perspective, and ambiguity.",
+        "access": "Public-domain text.",
+        "readingTime": "20 minutes",
+        "highInterest": true,
+        "accessibility": "Provide historical context and discuss themes of death and marriage.",
+        "interestHook": "Subtle sentence choices influence a story's surprising interpretation.",
+        "teachingPrompt": "Which sentence-level choices contribute to the story's final effect?",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "title": "The House on Mango Street",
+        "author": "Sandra Cisneros",
+        "genre": "Literary vignettes",
+        "purpose": "Compare purposeful stylistic sentence choices with conventions used in formal academic prose.",
+        "access": "School library or authorized excerpts.",
+        "readingTime": "15–20 minutes",
+        "highInterest": true,
+        "accessibility": "Select short passages and provide discussion of narrative voice.",
+        "interestHook": "A writer's distinctive voice can challenge expectations about conventional sentence structure.",
+        "teachingPrompt": "What would be lost if every sentence were rewritten in formal academic style?",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "title": "A Student Research Draft and Edited Version",
+        "author": "Teacher-created or permission-cleared student examples",
+        "genre": "Academic writing",
+        "purpose": "Evaluate how editing decisions improve precision, coherence, and credibility.",
+        "access": "Teacher-created materials.",
+        "readingTime": "15 minutes",
+        "highInterest": false,
+        "accessibility": "Provide side-by-side versions and highlight selected changes.",
+        "interestHook": "Small sentence-level revisions can make a complicated argument much easier to follow.",
+        "teachingPrompt": "Which edits change meaning, and which primarily change presentation?",
+        "alignment": ["11.L.GC.1"]
+      }
+    ],
+    "differentiation": [
+      {
+        "level": "Remediation",
+        "time": "25 minutes",
+        "title": "Find the Sentence Boundaries",
+        "activity": "Students identify independent and dependent clauses, repair fragments and run-ons, and explain how punctuation clarifies relationships.",
+        "materials": ["Sentence cards", "Clause identification guide"],
+        "scaffolds": ["Color-code clauses and model several repairs."],
+        "success": "Students correctly revise four sentences and explain two decisions.",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "level": "Remediation",
+        "time": "30 minutes",
+        "title": "Edit for Meaning",
+        "activity": "Students compare unclear and revised sentences, identify the source of confusion, and make targeted edits.",
+        "materials": ["Editing worksheet", "Before-and-after examples"],
+        "scaffolds": ["Provide a checklist for agreement, modifiers, punctuation, and clarity."],
+        "success": "Students improve five sentences without changing the intended meaning.",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "level": "On-Level",
+        "time": "45 minutes",
+        "title": "The Sentence Revision Laboratory",
+        "activity": "Students revise a paragraph three ways to emphasize different ideas, varying clause structure, punctuation, and sentence length.",
+        "materials": ["Original paragraph", "Revision organizer"],
+        "scaffolds": ["Model the rhetorical effects of two contrasting revisions."],
+        "success": "Students produce three purposeful versions and explain their effects.",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "level": "On-Level",
+        "time": "40 minutes",
+        "title": "The Editorial Conference",
+        "activity": "Pairs edit a formal argumentative paragraph for grammatical accuracy, clarity, consistency, and rhetorical effectiveness.",
+        "materials": ["Draft paragraphs", "Editing rubric", "Commenting tools"],
+        "scaffolds": ["Require explanations for substantive changes."],
+        "success": "Students submit an improved paragraph with a justified revision record.",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "level": "Enrichment",
+        "time": "Two class periods",
+        "title": "Grammar as Rhetorical Design",
+        "activity": "Students analyze sentence-level choices in two accomplished writers, imitate selected techniques in original prose, and annotate how their constructions influence audience interpretation.",
+        "materials": ["Mentor passages", "Comparative annotation guide", "Writing tools"],
+        "scaffolds": ["Distinguish stylistic imitation from copying content."],
+        "success": "Students demonstrate grammatical control and sophisticated explanation of rhetorical effects.",
+        "alignment": ["11.L.GC.1"]
+      }
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Which revision most effectively corrects the sentence 'The evidence was compelling, the committee approved the recommendation'?",
+        "options": [
+          "The evidence was compelling; the committee approved the recommendation.",
+          "The evidence was compelling the committee approved the recommendation.",
+          "The evidence, was compelling the committee, approved the recommendation.",
+          "The evidence was compelling, and, the committee approved the recommendation."
+        ],
+        "answer": "The evidence was compelling; the committee approved the recommendation.",
+        "rationale": "A semicolon appropriately joins two closely related independent clauses.",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Which sentence demonstrates parallel structure?",
+        "options": [
+          "The researcher was careful, persistent, and worked accurately.",
+          "The researcher valued accuracy, persistence, and clarity.",
+          "The researcher valued accuracy, being persistent, and to communicate clearly.",
+          "The researcher was accurate, with persistence, and communicating clearly."
+        ],
+        "answer": "The researcher valued accuracy, persistence, and clarity.",
+        "rationale": "The coordinated items use corresponding grammatical forms.",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "type": "Constructed Response",
+        "prompt": "Revise a complex but unclear sentence from a draft. Explain how your changes improve clarity without altering its meaning.",
+        "answer": "A strong response includes a grammatically sound revision and explains the effect of specific changes.",
+        "rationale": "Students demonstrate purposeful editing rather than mechanical correction alone.",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "type": "Short Response",
+        "prompt": "Explain why a deliberate sentence fragment in a literary work may be effective even though it would be inappropriate in some formal academic contexts.",
+        "answer": "A strong response distinguishes intentional stylistic effect from the conventions expected in different communication situations.",
+        "rationale": "Students evaluate language choices in relation to genre, audience, and purpose.",
+        "alignment": ["11.L.GC.1"]
+      },
+      {
+        "type": "Performance Task",
+        "prompt": "Revise a 250-word analytical paragraph for grammatical accuracy, effective mechanics, clarity, and rhetorical emphasis. Annotate five significant decisions and explain their effects.",
+        "answer": "Evaluate grammatical control, clarity, purposeful sentence choices, and accuracy of explanations.",
+        "rationale": "The task integrates analysis, evaluation, and construction.",
+        "alignment": ["11.L.GC.1"]
+      }
+    ],
+    "evidence": [
+      "Annotated analysis of sentence structures and punctuation.",
+      "Edited paragraphs demonstrating control of formal conventions.",
+      "Before-and-after revisions with explanations.",
+      "Original writing using deliberate grammatical and rhetorical choices.",
+      "An editing reflection identifying recurring patterns and improvements."
+    ],
+    "instruction": [
+      "Teach grammar and mechanics through authentic texts and student writing.",
+      "Model the connection between conventions, meaning, and rhetorical effect.",
+      "Use sentence combining and revision rather than isolated correction alone.",
+      "Distinguish formal Standard English expectations from the legitimacy of language variation.",
+      "Provide focused editing conferences and opportunities to apply feedback.",
+      "Evaluate purposeful stylistic choices within their genres and contexts."
+    ],
+    "watchFor": [
+      "Treating every unconventional literary construction as an error.",
+      "Correcting surface features without checking intended meaning.",
+      "Teaching punctuation as disconnected memorized rules.",
+      "Confusing grammatical complexity with effective writing.",
+      "Overediting student voice.",
+      "Assuming formal academic conventions apply identically to every genre."
+    ],
+    "skills": {},
+    "readingSelectionNote": "The official source lists this standard without lettered expectations. These instructional skills are independently developed, not additional Georgia standards. Verify text permissions, editions, and age suitability."
+  },
+  {
+    "code": "11.T.C.2",
+    "status": "draft — independently developed instructional guidance; educator review recommended",
+    "focus": "Authors & Speakers",
+    "studentFriendly": "I can compare perspectives across texts, investigate the visible and hidden influences shaping them, evaluate how an author's experiences and circumstances affect their choices, and synthesize credible research into an informed understanding.",
+    "know": [
+      "Authors and speakers communicate perspectives shaped by experience, knowledge, discipline, and circumstances.",
+      "Different texts may frame the same topic in ways that shape audience perceptions or beliefs.",
+      "Perspective can be established through claims, examples, omissions, language, imagery, and structure.",
+      "Texts may be influenced by commercial relationships, sponsorships, advertising, ownership, and financial incentives.",
+      "Commercial influence may not be immediately visible to the audience.",
+      "Historical and disciplinary contexts can shape stylistic and thematic decisions.",
+      "An author's personal perspective may interact with professional expectations and institutional pressures.",
+      "Credible research requires evaluating authorship, expertise, evidence, currency, and potential conflicts of interest.",
+      "Synthesis combines information from multiple sources to develop a coherent understanding.",
+      "Responsible analysis distinguishes demonstrated influences from unsupported speculation."
+    ],
+    "understand": [
+      "Perspective shapes how information is selected, developed, and interpreted.",
+      "A single topic can be represented through several defensible or competing perspectives.",
+      "The circumstances of text creation may influence its content and style.",
+      "Commercial incentives can shape communication even when a text appears informational.",
+      "A writer's perspective should be evaluated through evidence rather than assumed from identity alone.",
+      "Credible synthesis involves comparing, reconciling, and integrating sources rather than merely summarizing them separately.",
+      "Understanding influence helps readers become more critical and independent interpreters."
+    ],
+    "do": [
+      "Compare and contrast perspectives across several texts addressing a common topic.",
+      "Analyze how authors establish and develop their perspectives.",
+      "Explain how language, evidence, organization, and omissions may shape audience beliefs.",
+      "Investigate sponsorship, ownership, advertising, affiliate relationships, and other commercial influences.",
+      "Distinguish disclosed financial relationships from less-visible incentives.",
+      "Evaluate the influence of historical, disciplinary, and personal perspectives on thematic and stylistic choices.",
+      "Research a complex question using credible sources representing relevant perspectives.",
+      "Evaluate source reliability and conflicts of interest.",
+      "Synthesize evidence into an original explanation or argument.",
+      "Cite sources appropriately and acknowledge uncertainty."
+    ],
+    "vocabulary": [
+      {
+        "term": "Perspective",
+        "definition": "A way of interpreting or presenting a subject shaped by knowledge, experience, and circumstances.",
+        "example": "A scientist and a community resident emphasizing different aspects of a proposed project."
+      },
+      {
+        "term": "Framing",
+        "definition": "The selection and presentation of information to encourage a particular understanding.",
+        "example": "Describing a policy primarily through its cost or its potential benefits."
+      },
+      {
+        "term": "Commercial influence",
+        "definition": "The effect of financial interests or business relationships on a text.",
+        "example": "A product review published through an affiliate marketing arrangement."
+      },
+      {
+        "term": "Sponsored content",
+        "definition": "Material funded or supported by an advertiser or sponsor.",
+        "example": "An article labeled as a paid partnership."
+      },
+      {
+        "term": "Native advertising",
+        "definition": "Advertising designed to resemble the surrounding editorial content.",
+        "example": "A paid promotional feature formatted like a magazine article."
+      },
+      {
+        "term": "Conflict of interest",
+        "definition": "A relationship or incentive that could compromise or appear to compromise impartial judgment.",
+        "example": "A reviewer receiving compensation from a company whose product is reviewed."
+      },
+      {
+        "term": "Disciplinary perspective",
+        "definition": "An approach shaped by the methods and assumptions of a field of study.",
+        "example": "An economist and an environmental scientist examining the same development."
+      },
+      {
+        "term": "Historical perspective",
+        "definition": "An interpretation shaped by the circumstances and knowledge of a particular time.",
+        "example": "A nineteenth-century author's treatment of industrial labor."
+      },
+      {
+        "term": "Thematic choice",
+        "definition": "A decision about the ideas or concerns emphasized in a text.",
+        "example": "Focusing a novel on the tension between individual freedom and social expectations."
+      },
+      {
+        "term": "Stylistic choice",
+        "definition": "A decision involving language, form, organization, or presentation.",
+        "example": "Using restrained scientific language instead of an emotional appeal."
+      },
+      {
+        "term": "Credibility",
+        "definition": "The degree to which a source is trustworthy and appropriately supported.",
+        "example": "A research report that identifies methods and provides verifiable evidence."
+      },
+      {
+        "term": "Synthesis",
+        "definition": "The integration of ideas and evidence from multiple sources into a coherent understanding.",
+        "example": "Combining historical records, scientific findings, and community testimony to explain an issue."
+      }
+    ],
+    "targets": [
+      "I can compare how different authors frame a common topic.",
+      "I can explain how perspectives influence audience perceptions.",
+      "I can identify visible and less-visible commercial influences.",
+      "I can evaluate how historical, disciplinary, and personal perspectives shape texts.",
+      "I can distinguish credible evidence from unsupported assumptions.",
+      "I can synthesize several credible sources into a coherent explanation.",
+      "I can document sources and acknowledge competing interpretations."
+    ],
+    "suggestedTexts": [
+      {
+        "title": "The Danger of a Single Story",
+        "author": "Chimamanda Ngozi Adichie",
+        "genre": "Speech",
+        "purpose": "Examine how narrative selection and perspective shape beliefs about people and cultures.",
+        "access": "Authorized TED talk or transcript.",
+        "readingTime": "20 minutes",
+        "highInterest": true,
+        "accessibility": "Provide captions and context for cultural references.",
+        "interestHook": "The stories people encounter can influence how they understand entire communities.",
+        "teachingPrompt": "How does the speaker demonstrate that perspective is constructed through selective storytelling?",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.c"]
+      },
+      {
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "genre": "Investigative narrative nonfiction",
+        "purpose": "Compare scientific, historical, ethical, and personal perspectives on medical research.",
+        "access": "School library or authorized excerpts.",
+        "readingTime": "25–30 minutes",
+        "highInterest": true,
+        "accessibility": "Provide historical and scientific context; review sensitive material.",
+        "interestHook": "The same medical discovery can be understood differently by researchers and affected families.",
+        "teachingPrompt": "How do disciplinary and personal perspectives shape what different participants consider important?",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.c", "11.T.C.2.d"]
+      },
+      {
+        "title": "Silent Spring",
+        "author": "Rachel Carson",
+        "genre": "Environmental nonfiction",
+        "purpose": "Analyze how scientific expertise, historical circumstances, and rhetorical choices shape a public argument.",
+        "access": "School library or authorized excerpts.",
+        "readingTime": "20–25 minutes",
+        "highInterest": true,
+        "accessibility": "Provide context for mid-twentieth-century environmental debates.",
+        "interestHook": "Scientific writing can challenge powerful economic interests.",
+        "teachingPrompt": "How do scientific evidence and historical context influence the author's thematic and stylistic choices?",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.c"]
+      },
+      {
+        "title": "A Sponsored Article and an Independent Report",
+        "author": "Teacher-selected publishers",
+        "genre": "Digital journalism and sponsored content",
+        "purpose": "Investigate commercial incentives, disclosure practices, framing, and credibility.",
+        "access": "Verified publisher websites or school databases.",
+        "readingTime": "25 minutes",
+        "highInterest": true,
+        "accessibility": "Provide screenshots or accessible copies showing relevant disclosures.",
+        "interestHook": "A polished article may have financial relationships readers need to understand.",
+        "teachingPrompt": "What evidence establishes a commercial relationship, and how might it influence the text?",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.b"]
+      },
+      {
+        "title": "A Research Source Set on Artificial Intelligence in Education",
+        "author": "Teacher-curated researchers, educators, and organizations",
+        "genre": "Research articles, policy reports, journalism, and commentary",
+        "purpose": "Compare disciplinary and institutional perspectives and synthesize credible evidence.",
+        "access": "Academic databases, official reports, and verified publications.",
+        "readingTime": "35–45 minutes",
+        "highInterest": true,
+        "accessibility": "Provide a mix of concise summaries and appropriately challenging full texts.",
+        "interestHook": "Different stakeholders make competing claims about the same emerging technology.",
+        "teachingPrompt": "How do expertise, institutional interests, and evidence shape each source's conclusions?",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.b", "11.T.C.2.c", "11.T.C.2.d"]
+      }
+    ],
+    "differentiation": [
+      {
+        "level": "Remediation",
+        "time": "30 minutes",
+        "title": "Two Perspectives, One Topic",
+        "activity": "Students read two short texts about the same issue, identify each central claim, and compare the evidence and language used.",
+        "materials": ["Paired texts", "Perspective comparison organizer"],
+        "scaffolds": ["Provide claim-identification prompts and sentence stems."],
+        "success": "Students identify two similarities or differences and support them with examples.",
+        "alignment": ["11.T.C.2.a"]
+      },
+      {
+        "level": "Remediation",
+        "time": "30 minutes",
+        "title": "Follow the Funding",
+        "activity": "Students examine examples of sponsored content, independent reporting, and affiliate-linked reviews to identify disclosed relationships and possible incentives.",
+        "materials": ["Sample digital texts", "Disclosure checklist"],
+        "scaffolds": ["Model how to locate publisher information and advertising disclosures."],
+        "success": "Students identify the nature of two commercial relationships and explain their possible relevance.",
+        "alignment": ["11.T.C.2.b"]
+      },
+      {
+        "level": "On-Level",
+        "time": "45 minutes",
+        "title": "The Perspective Matrix",
+        "activity": "Students compare three texts addressing one issue, documenting claims, evidence, audience, framing, historical context, and authorial perspective.",
+        "materials": ["Three credible texts", "Comparison matrix"],
+        "scaffolds": ["Require a specific quotation or paraphrase for each analytical claim."],
+        "success": "Students explain how differing perspectives produce distinct representations of the issue.",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.c"]
+      },
+      {
+        "level": "On-Level",
+        "time": "Two class periods",
+        "title": "Who Influenced This Text?",
+        "activity": "Students investigate the authorship, publisher, funding, disclosures, and evidence behind a public-facing article, then write a source evaluation.",
+        "materials": ["Selected article", "Publisher information", "Source evaluation rubric"],
+        "scaffolds": ["Distinguish verified financial relationships from hypothetical concerns."],
+        "success": "Students produce an evidence-supported evaluation without making unsupported accusations.",
+        "alignment": ["11.T.C.2.b", "11.T.C.2.c"]
+      },
+      {
+        "level": "On-Level",
+        "time": "Two class periods",
+        "title": "Synthesize, Don't Stack",
+        "activity": "Students investigate a focused research question using four credible sources and write a synthesis organized around themes or findings rather than source-by-source summaries.",
+        "materials": ["Research databases", "Evidence matrix", "Citation guide"],
+        "scaffolds": ["Model synthesis paragraphs that connect and qualify sources."],
+        "success": "Students develop a coherent answer supported by appropriately cited evidence from multiple sources.",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.d"]
+      },
+      {
+        "level": "Enrichment",
+        "time": "Three class periods",
+        "title": "The Influence Investigation",
+        "activity": "Students investigate a consequential public issue by comparing scientific, commercial, journalistic, and personal perspectives. They examine documented institutional incentives and create an annotated synthesis explaining how these influences shape public understanding.",
+        "materials": ["Academic databases", "Financial disclosure information", "Research organizer", "Publishing tools"],
+        "scaffolds": ["Require transparent sourcing, consideration of counterevidence, and explicit uncertainty statements."],
+        "success": "The final analysis integrates credible research and carefully distinguishes documented influences from inference.",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.b", "11.T.C.2.c", "11.T.C.2.d"]
+      }
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Two articles discuss the same proposed environmental policy. One emphasizes business costs, while the other emphasizes health benefits. What is the strongest initial inference?",
+        "options": [
+          "Both articles must contain false information",
+          "The authors may frame the issue through different perspectives and priorities",
+          "The articles necessarily have identical audiences",
+          "Neither article can be evaluated"
+        ],
+        "answer": "The authors may frame the issue through different perspectives and priorities",
+        "rationale": "Differences in emphasis can reveal contrasting perspectives without proving dishonesty.",
+        "alignment": ["11.T.C.2.a"]
+      },
+      {
+        "type": "Multiple Choice",
+        "prompt": "Which finding provides the clearest evidence of a commercial influence on a product review?",
+        "options": [
+          "The reviewer uses descriptive language",
+          "The reviewer discusses an expensive product",
+          "The reviewer discloses receiving a commission from purchases made through links",
+          "The review includes a photograph"
+        ],
+        "answer": "The reviewer discloses receiving a commission from purchases made through links",
+        "rationale": "A disclosed affiliate relationship establishes a financial incentive relevant to evaluating the review.",
+        "alignment": ["11.T.C.2.b"]
+      },
+      {
+        "type": "Constructed Response",
+        "prompt": "Explain how historical circumstances and professional expertise might lead two authors to make different stylistic and thematic choices about the same topic.",
+        "answer": "A strong response identifies relevant circumstances, describes specific choices, and explains the connections using evidence.",
+        "rationale": "Students evaluate how historical and disciplinary perspectives influence texts.",
+        "alignment": ["11.T.C.2.c"]
+      },
+      {
+        "type": "Short Response",
+        "prompt": "What distinguishes a synthesis paragraph from a sequence of unrelated source summaries?",
+        "answer": "A synthesis develops a shared idea by comparing, connecting, qualifying, or reconciling information from multiple credible sources.",
+        "rationale": "Students demonstrate understanding of research-based synthesis.",
+        "alignment": ["11.T.C.2.d"]
+      },
+      {
+        "type": "Performance Task",
+        "prompt": "Investigate a complex topic using at least four credible sources representing different perspectives. Analyze how the texts establish perspective, identify any documented commercial or institutional influences, evaluate contextual effects on style and theme, and synthesize findings into an original evidence-based report.",
+        "answer": "Evaluate comparative analysis, evidence of influence, contextual reasoning, source credibility, integration of findings, and citation accuracy.",
+        "rationale": "The task integrates all four Authors & Speakers expectations.",
+        "alignment": ["11.T.C.2.a", "11.T.C.2.b", "11.T.C.2.c", "11.T.C.2.d"]
+      }
+    ],
+    "evidence": [
+      "A comparative analysis of perspectives across texts.",
+      "An investigation of disclosed or documented commercial influences.",
+      "An analysis of historical, disciplinary, and personal influences on craft.",
+      "A credible source evaluation matrix.",
+      "An original synthesis supported by multiple cited sources."
+    ],
+    "instruction": [
+      "Teach perspective through comparative reading rather than isolated identification of bias.",
+      "Use real examples of sponsored content and financial disclosures.",
+      "Distinguish commercial influence from automatic proof of inaccuracy.",
+      "Model how to investigate authorship, ownership, sponsorship, and expertise.",
+      "Require textual evidence for claims about stylistic and thematic choices.",
+      "Teach synthesis as integration of findings, not a collection of summaries.",
+      "Include academic databases and credible primary sources.",
+      "Emphasize ethical citation and careful treatment of uncertainty."
+    ],
+    "watchFor": [
+      "Assuming every difference in perspective indicates misinformation.",
+      "Treating an author's identity as sufficient proof of a particular viewpoint.",
+      "Accusing a source of hidden influence without evidence.",
+      "Confusing sponsored content with all forms of advertising.",
+      "Equating commercial funding with automatic falsehood.",
+      "Summarizing sources separately without synthesizing their findings.",
+      "Using numerous sources without evaluating credibility.",
+      "Ignoring evidence that complicates an initial conclusion."
+    ],
+    "skills": {
+      "11.T.C.2.a": {
+        "focus": "Compare and contrast perspectives",
+        "studentFriendly": "I can compare how different texts develop perspectives and influence readers' beliefs.",
+        "know": [
+          "Perspective is developed through evidence, framing, language, and emphasis."
+        ],
+        "understand": [
+          "Different representations of the same issue can shape audience perceptions."
+        ],
+        "do": [
+          "Compare claims.",
+          "Analyze framing.",
+          "Evaluate effects on audience perceptions."
+        ],
+        "targets": [
+          "I can explain how two or more texts construct different perspectives."
+        ],
+        "instruction": [
+          "Use paired and multi-source comparative reading."
+        ],
+        "evidence": [
+          "An evidence-based comparative analysis."
+        ],
+        "watchFor": [
+          "Comparing conclusions without analyzing how perspectives are developed."
+        ]
+      },
+      "11.T.C.2.b": {
+        "focus": "Identify influencers, including less-visible commercial influences",
+        "studentFriendly": "I can investigate who or what influences a text, including financial interests that may not be obvious.",
+        "know": [
+          "Ownership, sponsorship, advertising, and financial relationships can influence texts."
+        ],
+        "understand": [
+          "Recognizing documented incentives supports critical evaluation."
+        ],
+        "do": [
+          "Investigate publishers.",
+          "Examine disclosures.",
+          "Identify relevant commercial relationships.",
+          "Evaluate possible effects."
+        ],
+        "targets": [
+          "I can explain a documented influence without making unsupported claims."
+        ],
+        "instruction": [
+          "Analyze authentic disclosure and sponsorship examples."
+        ],
+        "evidence": [
+          "A documented influence analysis."
+        ],
+        "watchFor": [
+          "Assuming an undisclosed relationship exists without evidence."
+        ]
+      },
+      "11.T.C.2.c": {
+        "focus": "Evaluate historical, disciplinary, and personal influences",
+        "studentFriendly": "I can explain how an author's circumstances and expertise influence themes and style.",
+        "know": [
+          "Historical conditions, professional disciplines, and personal experiences can shape authorial choices."
+        ],
+        "understand": [
+          "Context can influence what authors emphasize and how they communicate."
+        ],
+        "do": [
+          "Investigate relevant circumstances.",
+          "Analyze themes and style.",
+          "Evaluate supported connections."
+        ],
+        "targets": [
+          "I can connect contextual evidence with specific authorial choices."
+        ],
+        "instruction": [
+          "Pair close reading with focused contextual research."
+        ],
+        "evidence": [
+          "A contextual analysis supported by textual examples."
+        ],
+        "watchFor": [
+          "Reducing a complex text to assumptions about the author's background."
+        ]
+      },
+      "11.T.C.2.d": {
+        "focus": "Synthesize credible research",
+        "studentFriendly": "I can combine credible research to answer complex academic or personal questions.",
+        "know": [
+          "Credible research involves evaluating sources and integrating findings."
+        ],
+        "understand": [
+          "Synthesis creates a coherent understanding that draws from multiple sources."
+        ],
+        "do": [
+          "Develop a research question.",
+          "Evaluate sources.",
+          "Compare findings.",
+          "Integrate evidence.",
+          "Cite sources."
+        ],
+        "targets": [
+          "I can develop an original, evidence-based synthesis."
+        ],
+        "instruction": [
+          "Use evidence matrices and thematic synthesis models."
+        ],
+        "evidence": [
+          "A properly sourced synthesis report."
+        ],
+        "watchFor": [
+          "Writing disconnected summaries instead of integrating ideas."
+        ]
+      }
+    },
+    "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, permissions, reading level, source currency, and age suitability."
+  }
+]
