@@ -25483,5 +25483,750 @@
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, permissions, reading level, and age suitability."
 }
 
+,
+{
+  "code": "10.P.EICC.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Reader & Writer Identity",
+  "studentFriendly": "I can develop my identity as a reader and writer by setting goals, exploring texts that matter to me, using effective strategies, participating in a literary community, and becoming increasingly independent.",
+  "know": [
+    "Reading and writing identities develop through experiences, choices, reflection, and practice.",
+    "Specific and measurable goals help readers and writers monitor progress.",
+    "Reading and writing preferences can involve topics, genres, modes, techniques, and purposes.",
+    "Personal interests and academic expectations can both guide text selection.",
+    "Comprehension and composition strategies can be selected and adapted for different tasks.",
+    "Literary communities support growth through discussion, sharing, listening, and feedback.",
+    "Independent readers and writers increasingly evaluate and direct their own learning."
+  ],
+  "understand": [
+    "Reading and writing identities evolve over time.",
+    "Goals are useful when they guide action and can be revised.",
+    "Exploring unfamiliar genres and perspectives can expand personal preferences.",
+    "Strategic readers and writers select tools based on their needs.",
+    "Constructive literary communities encourage participation and improvement.",
+    "Independence involves making informed choices and seeking resources when needed."
+  ],
+  "do": [
+    "Establish, monitor, discuss, and revise personal and academic reading and writing goals.",
+    "Reflect on preferred genres, modes, topics, and craft techniques using specific examples.",
+    "Select and engage with texts for both personal interest and academic relevance.",
+    "Develop and apply a repertoire of comprehension and composition strategies.",
+    "Participate in a community of readers and writers through discussion and feedback.",
+    "Make increasingly independent reading and writing decisions.",
+    "Document growth through portfolios, reading records, and reflective writing."
+  ],
+  "vocabulary": [
+    {
+      "term": "Reader identity",
+      "definition": "A person's developing understanding of their interests, habits, strengths, and experiences as a reader.",
+      "example": "Recognizing an interest in investigative nonfiction while exploring poetry."
+    },
+    {
+      "term": "Writer identity",
+      "definition": "A person's developing understanding of their voice, purposes, processes, and strengths as a writer.",
+      "example": "Discovering a preference for narrative essays and analytical commentary."
+    },
+    {
+      "term": "Reading repertoire",
+      "definition": "The range of texts, strategies, and experiences a reader can draw upon.",
+      "example": "Using annotation, questioning, rereading, and synthesis for different tasks."
+    },
+    {
+      "term": "Composition strategy",
+      "definition": "A technique that supports planning, drafting, revising, or editing.",
+      "example": "Using a reverse outline to evaluate organization."
+    },
+    {
+      "term": "Metacognition",
+      "definition": "Awareness and evaluation of one's own thinking and learning.",
+      "example": "Recognizing when comprehension breaks down and choosing to reread."
+    },
+    {
+      "term": "Goal setting",
+      "definition": "Identifying an intended achievement and planning how to reach it.",
+      "example": "Completing and reflecting on two independent reading selections."
+    },
+    {
+      "term": "Reflection",
+      "definition": "Thoughtful examination of experiences, choices, and progress.",
+      "example": "Explaining why a revision improved an essay."
+    },
+    {
+      "term": "Genre",
+      "definition": "A recognizable category of texts with shared conventions.",
+      "example": "Memoir, literary fiction, investigative journalism, or poetry."
+    },
+    {
+      "term": "Mode",
+      "definition": "A form of communication, such as written, visual, audio, or multimodal expression.",
+      "example": "Reading an essay and listening to an audio documentary."
+    },
+    {
+      "term": "Literary community",
+      "definition": "A group whose members share, discuss, and respond to reading and writing.",
+      "example": "A student-led book discussion or writing workshop."
+    },
+    {
+      "term": "Autonomy",
+      "definition": "The capacity to make informed, self-directed decisions.",
+      "example": "Choosing a research topic and independently selecting credible sources."
+    },
+    {
+      "term": "Portfolio",
+      "definition": "A purposeful collection of work documenting learning and development.",
+      "example": "A collection of drafts, finished writing, and reflections."
+    }
+  ],
+  "targets": [
+    "I can establish and revise meaningful reading and writing goals.",
+    "I can describe my preferences using examples from texts.",
+    "I can choose texts that support both my interests and academic learning.",
+    "I can select strategies to help me understand and create texts.",
+    "I can contribute to a community of readers and writers.",
+    "I can make independent decisions about my reading and writing.",
+    "I can use evidence to reflect on my growth."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Explore how voice, personal experience, and concise writing can influence reader and writer identity.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "15–20 minutes for selected vignettes",
+      "highInterest": true,
+      "accessibility": "Short selections allow close reading and discussion.",
+      "interestHook": "A young narrator discovers the power of telling her own story.",
+      "teachingPrompt": "Which elements of this writer's voice might influence your own writing choices?",
+      "alignment": ["10.P.EICC.1.b", "10.P.EICC.1.c", "10.P.EICC.1.d"]
+    },
+    {
+      "title": "Brown Girl Dreaming",
+      "author": "Jacqueline Woodson",
+      "genre": "Memoir in verse",
+      "purpose": "Explore the development of identity and the role of reading, memory, and language.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Short verse passages support discussion of voice and form.",
+      "interestHook": "A writer's identity emerges through family stories and language.",
+      "teachingPrompt": "How does the author's choice of verse influence your response to the memoir?",
+      "alignment": ["10.P.EICC.1.b", "10.P.EICC.1.c"]
+    },
+    {
+      "title": "The Poet X",
+      "author": "Elizabeth Acevedo",
+      "genre": "Young adult novel in verse",
+      "purpose": "Examine writing as a means of self-expression and participation in a community.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Review mature themes and select passages appropriately.",
+      "interestHook": "A teenager discovers a voice through poetry.",
+      "teachingPrompt": "How can sharing writing change a person's understanding of themselves?",
+      "alignment": ["10.P.EICC.1.b", "10.P.EICC.1.e", "10.P.EICC.1.f"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Reflect on reading preferences, exposure to diverse perspectives, and the expansion of literary identity.",
+      "access": "Authorized TED talk or transcript.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide captions and cultural context.",
+      "interestHook": "The stories we encounter influence what we expect from literature.",
+      "teachingPrompt": "How might your reading identity change when you encounter unfamiliar perspectives?",
+      "alignment": ["10.P.EICC.1.b", "10.P.EICC.1.c", "10.P.EICC.1.f"]
+    },
+    {
+      "title": "Independent Reading Choice Collection",
+      "author": "Various authors",
+      "genre": "Fiction, nonfiction, poetry, graphic narratives, and audio texts",
+      "purpose": "Support independent selection, goal setting, and exploration of genres and modes.",
+      "access": "School library, Sora, and available digital collections.",
+      "readingTime": "Ongoing",
+      "highInterest": true,
+      "accessibility": "Provide varied formats, complexity levels, and accessible editions.",
+      "interestHook": "Students discover texts that reflect their interests and challenge their assumptions.",
+      "teachingPrompt": "What does your selection reveal about your interests, and what new territory could you explore?",
+      "alignment": ["10.P.EICC.1.a", "10.P.EICC.1.b", "10.P.EICC.1.c", "10.P.EICC.1.f"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "My Reading and Writing Snapshot",
+      "activity": "Students identify current interests, strengths, challenges, and one achievable goal for reading and writing.",
+      "materials": ["Identity inventory", "Goal-setting organizer"],
+      "scaffolds": ["Offer examples of specific goals.", "Allow oral or written reflection."],
+      "success": "Students establish two actionable goals and explain how they will monitor progress.",
+      "alignment": ["10.P.EICC.1.a", "10.P.EICC.1.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Choose a Strategy",
+      "activity": "Students practice annotation, questioning, rereading, and summarizing with a short text, then identify which strategies help them most.",
+      "materials": ["Short text", "Strategy guide", "Reflection sheet"],
+      "scaffolds": ["Model each strategy.", "Use a familiar passage."],
+      "success": "Students apply two strategies and explain when to use them.",
+      "alignment": ["10.P.EICC.1.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "The Reader's Choice Challenge",
+      "activity": "Students sample texts across at least three genres or modes, choose one for sustained engagement, and document how the choice supports their interests and goals.",
+      "materials": ["Text sampler", "Selection guide", "Reading journal"],
+      "scaffolds": ["Provide curated selections and opportunities to exchange unsuitable choices."],
+      "success": "Students justify their selection and demonstrate sustained engagement.",
+      "alignment": ["10.P.EICC.1.a", "10.P.EICC.1.b", "10.P.EICC.1.c", "10.P.EICC.1.f"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "A Community of Writers",
+      "activity": "Students establish workshop norms, share original writing, offer specific feedback, and revise a selected passage.",
+      "materials": ["Student drafts", "Workshop norms", "Feedback guide"],
+      "scaffolds": ["Model supportive, actionable feedback.", "Offer alternative ways to share."],
+      "success": "Students contribute constructively and make a purposeful revision.",
+      "alignment": ["10.P.EICC.1.d", "10.P.EICC.1.e"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "The Literary Identity Portfolio",
+      "activity": "Students curate examples of reading and writing across genres, analyze changes in preferences and strategies, and develop a plan for future independent learning.",
+      "materials": ["Reading records", "Writing samples", "Portfolio template"],
+      "scaffolds": ["Require evidence-based reflection rather than general impressions."],
+      "success": "The portfolio documents growth, deliberate choices, and realistic next steps.",
+      "alignment": ["10.P.EICC.1.a", "10.P.EICC.1.b", "10.P.EICC.1.c", "10.P.EICC.1.d", "10.P.EICC.1.e", "10.P.EICC.1.f"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which reading goal is most useful for monitoring progress?",
+      "options": [
+        "Become a better reader someday",
+        "Read more interesting books",
+        "Read for 20 minutes four times a week and record one reflection each week",
+        "Never struggle with difficult texts"
+      ],
+      "answer": "Read for 20 minutes four times a week and record one reflection each week",
+      "rationale": "The goal includes specific actions and measurable evidence of progress.",
+      "alignment": ["10.P.EICC.1.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Identify a text that influenced your reading or writing preferences. Explain which techniques, topics, modes, or genres appealed to you.",
+      "answer": "A strong response identifies a specific text and connects its features to the student's preferences.",
+      "rationale": "Students reflect on their developing identities using textual examples.",
+      "alignment": ["10.P.EICC.1.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how you would choose a text that interests you while also supporting an academic goal.",
+      "answer": "A strong response considers interest, relevance, appropriate challenge, format, and the intended learning outcome.",
+      "rationale": "Students practice purposeful and increasingly independent selection.",
+      "alignment": ["10.P.EICC.1.c", "10.P.EICC.1.f"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student realizes that an informational article is difficult to follow. Which response demonstrates strategic reading?",
+      "options": [
+        "Continue without checking understanding",
+        "Reread a section, examine headings, and summarize the main idea",
+        "Assume the article is impossible to understand",
+        "Skip every unfamiliar concept"
+      ],
+      "answer": "Reread a section, examine headings, and summarize the main idea",
+      "rationale": "The student selects comprehension strategies appropriate to the difficulty.",
+      "alignment": ["10.P.EICC.1.d"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe two actions that help create a productive community of readers and writers.",
+      "answer": "Possible responses include establishing norms, listening, discussing texts, sharing writing, and giving specific feedback.",
+      "rationale": "Students identify practices that support literary community.",
+      "alignment": ["10.P.EICC.1.e"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a reader-writer portfolio containing goals, reading choices, writing samples, strategy reflections, evidence of community participation, and a plan for increased independence.",
+      "answer": "Evaluate specificity of goals, thoughtful selection, strategy use, participation, reflection, and autonomy.",
+      "rationale": "The task integrates all six expectations.",
+      "alignment": ["10.P.EICC.1.a", "10.P.EICC.1.b", "10.P.EICC.1.c", "10.P.EICC.1.d", "10.P.EICC.1.e", "10.P.EICC.1.f"]
+    }
+  ],
+  "evidence": [
+    "Personal and academic reading and writing goals with progress records.",
+    "Reflections identifying preferences and their textual basis.",
+    "A record of independently selected texts.",
+    "Examples of strategically applied comprehension and composition techniques.",
+    "Documentation of discussion, sharing, and feedback.",
+    "A portfolio demonstrating growing independence."
+  ],
+  "instruction": [
+    "Use regular reflection and goal-setting conferences.",
+    "Offer meaningful student choice across genres and modes.",
+    "Teach students how to select appropriately challenging texts.",
+    "Model flexible strategy selection.",
+    "Create supportive reading and writing communities.",
+    "Assess growth and strategic decision-making rather than reading volume alone.",
+    "Gradually transfer responsibility to students."
+  ],
+  "watchFor": [
+    "Treating reading preferences as fixed identities.",
+    "Equating independent reading with the absence of teacher support.",
+    "Setting vague goals without monitoring progress.",
+    "Requiring students to disclose personal experiences.",
+    "Confusing the quantity of reading with the quality of engagement.",
+    "Using one comprehension strategy for every text.",
+    "Allowing peer feedback to become vague praise or personal criticism."
+  ],
+  "skills": {
+    "10.P.EICC.1.a": {
+      "focus": "Set, monitor, discuss, and revise goals",
+      "studentFriendly": "I can set meaningful reading and writing goals and track my progress.",
+      "know": ["Effective goals are specific, actionable, and revisable."],
+      "understand": ["Monitoring goals helps guide improvement."],
+      "do": ["Set goals.", "Monitor progress.", "Discuss results.", "Revise goals."],
+      "targets": ["I can document progress toward a meaningful goal."],
+      "instruction": ["Use goal conferences and reflection logs."],
+      "evidence": ["A goal record with revisions and reflections."],
+      "watchFor": ["Goals without clear actions or evidence."]
+    },
+    "10.P.EICC.1.b": {
+      "focus": "Reflect on reading and writing preferences",
+      "studentFriendly": "I can explain which texts and writing techniques resonate with me.",
+      "know": ["Preferences can involve topics, modes, genres, and craft techniques."],
+      "understand": ["Reflecting on preferences supports intentional choices."],
+      "do": ["Identify preferences.", "Discuss examples.", "Reflect on changes."],
+      "targets": ["I can explain a preference using specific textual examples."],
+      "instruction": ["Use preference inventories and comparative reading."],
+      "evidence": ["A reflection supported by examples."],
+      "watchFor": ["Assuming preferences cannot change."]
+    },
+    "10.P.EICC.1.c": {
+      "focus": "Select personally and academically relevant texts",
+      "studentFriendly": "I can choose texts that interest me and help me learn.",
+      "know": ["Text selection can balance interest, relevance, challenge, and format."],
+      "understand": ["Purposeful selection supports engagement and growth."],
+      "do": ["Explore options.", "Select texts.", "Explain choices.", "Engage with selections."],
+      "targets": ["I can justify a text selection."],
+      "instruction": ["Use book sampling and guided choice."],
+      "evidence": ["A text-selection rationale and engagement record."],
+      "watchFor": ["Selecting solely by length or perceived difficulty."]
+    },
+    "10.P.EICC.1.d": {
+      "focus": "Develop a repertoire of reading and writing strategies",
+      "studentFriendly": "I can choose strategies that help me understand and create different texts.",
+      "know": ["Different tasks benefit from different strategies."],
+      "understand": ["Strategic flexibility supports comprehension and composition."],
+      "do": ["Practice strategies.", "Choose appropriate tools.", "Evaluate effectiveness."],
+      "targets": ["I can explain why a strategy fits a task."],
+      "instruction": ["Model multiple strategies and guided reflection."],
+      "evidence": ["Annotated texts and strategy reflections."],
+      "watchFor": ["Applying strategies mechanically."]
+    },
+    "10.P.EICC.1.e": {
+      "focus": "Participate in a community of readers and writers",
+      "studentFriendly": "I can discuss texts, share writing, listen, and offer useful feedback.",
+      "know": ["Literary communities depend on norms and constructive participation."],
+      "understand": ["Dialogue and feedback support development."],
+      "do": ["Establish norms.", "Discuss texts.", "Share writing.", "Listen.", "Exchange feedback."],
+      "targets": ["I can contribute constructively to a literary community."],
+      "instruction": ["Use reading circles and writing workshops."],
+      "evidence": ["Discussion participation and feedback records."],
+      "watchFor": ["Equating participation solely with speaking frequency."]
+    },
+    "10.P.EICC.1.f": {
+      "focus": "Develop reading and writing autonomy",
+      "studentFriendly": "I can increasingly direct my own reading and writing decisions.",
+      "know": ["Autonomy involves purposeful choices and resourcefulness."],
+      "understand": ["Independence develops through practice and reflection."],
+      "do": ["Make informed choices.", "Seek resources.", "Monitor progress.", "Adjust approaches."],
+      "targets": ["I can independently plan and complete a meaningful literacy task."],
+      "instruction": ["Gradually release responsibility and offer authentic choices."],
+      "evidence": ["An independently managed reading or writing project."],
+      "watchFor": ["Mistaking autonomy for refusing help."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed and not Georgia-prescribed. Verify editions, permissions, age suitability, and access."
+},
+{
+  "code": "10.P.EICC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Engagement & Intention",
+  "studentFriendly": "I can read, listen, speak, and write with a purpose: to share stories, learn and teach, analyze ideas, solve problems, and influence decisions.",
+  "know": [
+    "Texts can serve different purposes, including storytelling, informing, explaining, analyzing, and persuading.",
+    "People participate in dialogue as both creators and audiences of texts.",
+    "Narrative texts communicate real or imagined experiences.",
+    "Informational texts support knowledge building, skill development, and informed decisions.",
+    "Explanatory texts clarify concepts and processes.",
+    "Analytical texts examine and evaluate ideas, claims, and evidence.",
+    "Problem-solving and persuasive texts can influence actions and decisions.",
+    "Readers and writers connect ideas within a text, across texts, and to broader experiences or issues.",
+    "Purpose influences the selection of genre, evidence, organization, and rhetorical techniques."
+  ],
+  "understand": [
+    "Literacy is an active exchange of ideas rather than only a school assignment.",
+    "The same topic can be explored through several purposes and genres.",
+    "Texts help people make connections, develop understanding, and participate in communities.",
+    "Intentional reading and writing require awareness of the task and intended audience.",
+    "Analysis and evaluation help people move beyond simply collecting information.",
+    "Well-supported communication can contribute to meaningful decisions and solutions."
+  ],
+  "do": [
+    "Interpret and construct narrative texts that share real or imagined experiences.",
+    "Use texts to develop knowledge and skills and communicate information.",
+    "Interpret and create explanations of concepts and processes.",
+    "Analyze and evaluate texts, claims, evidence, and ideas.",
+    "Use reading and writing to investigate problems and influence decisions.",
+    "Make purposeful connections within, between, and beyond texts.",
+    "Select appropriate genres, modes, and strategies for different communication goals.",
+    "Explain how audience and purpose shape reading and writing decisions."
+  ],
+  "vocabulary": [
+    {
+      "term": "Authorial intention",
+      "definition": "The purpose or goal guiding a writer's communication choices.",
+      "example": "Writing an editorial to encourage policy reconsideration."
+    },
+    {
+      "term": "Narrative",
+      "definition": "A text that communicates a sequence of real or imagined experiences.",
+      "example": "A memoir recounting a significant personal event."
+    },
+    {
+      "term": "Informational text",
+      "definition": "A text designed primarily to communicate knowledge or facts.",
+      "example": "An article describing a scientific discovery."
+    },
+    {
+      "term": "Expository writing",
+      "definition": "Writing that explains or clarifies a subject.",
+      "example": "An explanation of how a voting system works."
+    },
+    {
+      "term": "Analysis",
+      "definition": "Close examination of components and relationships to develop understanding.",
+      "example": "Explaining how an argument uses evidence."
+    },
+    {
+      "term": "Evaluation",
+      "definition": "Judging quality, effectiveness, or validity using appropriate criteria.",
+      "example": "Assessing whether a source supports its claims."
+    },
+    {
+      "term": "Persuasion",
+      "definition": "Communication intended to influence beliefs, attitudes, or actions.",
+      "example": "A researched letter advocating a change."
+    },
+    {
+      "term": "Text-to-text connection",
+      "definition": "A meaningful relationship identified between different texts.",
+      "example": "Comparing how two authors approach the same ethical issue."
+    },
+    {
+      "term": "Synthesis",
+      "definition": "Combining information or ideas to develop a broader understanding.",
+      "example": "Using several sources to propose a solution."
+    },
+    {
+      "term": "Audience",
+      "definition": "The people for whom a communication is intended.",
+      "example": "Students, community members, or policymakers."
+    },
+    {
+      "term": "Evidence",
+      "definition": "Information supporting an interpretation, explanation, or claim.",
+      "example": "A quotation, observation, or research finding."
+    },
+    {
+      "term": "Informed decision",
+      "definition": "A choice made after considering relevant information and reasoning.",
+      "example": "Evaluating evidence before recommending a policy."
+    }
+  ],
+  "targets": [
+    "I can use stories to communicate experiences.",
+    "I can read and write to build knowledge and share information.",
+    "I can explain a concept or process clearly.",
+    "I can analyze and evaluate texts and ideas.",
+    "I can use texts to investigate problems and support decisions.",
+    "I can make meaningful connections among texts and broader issues.",
+    "I can select communication strategies that match my purpose."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Explore how storytelling communicates personal and community experiences.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Use short selections and discuss figurative language.",
+      "interestHook": "Brief stories reveal complex experiences of identity and belonging.",
+      "teachingPrompt": "What does the narrative communicate that a factual summary might not?",
+      "alignment": ["10.P.EICC.2.a"]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Examine how narrative and explanation build knowledge and raise ethical questions.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide scientific and historical context; review sensitive material.",
+      "interestHook": "One person's story opens questions about science and medical ethics.",
+      "teachingPrompt": "How does the text help readers understand scientific processes and evaluate decisions?",
+      "alignment": ["10.P.EICC.2.a", "10.P.EICC.2.b", "10.P.EICC.2.c", "10.P.EICC.2.d"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Analyze how stories communicate ideas and influence audience perspectives.",
+      "access": "Authorized TED talk or transcript.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide captions and context.",
+      "interestHook": "The speaker uses stories to challenge assumptions.",
+      "teachingPrompt": "How does the speech connect individual experiences to a broader argument?",
+      "alignment": ["10.P.EICC.2.a", "10.P.EICC.2.d", "10.P.EICC.2.e"]
+    },
+    {
+      "title": "NASA Earth Observatory",
+      "author": "NASA Earth Observatory contributors",
+      "genre": "Scientific explanation",
+      "purpose": "Use informational texts to build knowledge and explain scientific concepts.",
+      "access": "NASA Earth Observatory website; select a specific article.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Support technical vocabulary and graph interpretation.",
+      "interestHook": "Satellite observations reveal changes that affect everyday life.",
+      "teachingPrompt": "How does the author make a complicated process understandable?",
+      "alignment": ["10.P.EICC.2.b", "10.P.EICC.2.c"]
+    },
+    {
+      "title": "A Community Issue Source Set",
+      "author": "Teacher-curated credible sources",
+      "genre": "News, reports, public data, and opinion writing",
+      "purpose": "Support analysis, synthesis, problem-solving, and evidence-based advocacy.",
+      "access": "School databases and verified public sources.",
+      "readingTime": "30–40 minutes",
+      "highInterest": true,
+      "accessibility": "Offer varied complexity levels and accessible formats.",
+      "interestHook": "Students use reading and writing to investigate a problem they recognize.",
+      "teachingPrompt": "What does each source contribute to understanding the issue, and what action does the evidence support?",
+      "alignment": ["10.P.EICC.2.b", "10.P.EICC.2.d", "10.P.EICC.2.e"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Five Purposes, Five Texts",
+      "activity": "Students sort short examples by purpose: storytelling, informing, explaining, analyzing, or influencing decisions.",
+      "materials": ["Text excerpts", "Purpose sorting chart"],
+      "scaffolds": ["Provide a purpose definition and model one classification."],
+      "success": "Students identify the primary purpose of five texts and justify their choices.",
+      "alignment": ["10.P.EICC.2.a", "10.P.EICC.2.b", "10.P.EICC.2.c", "10.P.EICC.2.d", "10.P.EICC.2.e"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Explain It Clearly",
+      "activity": "Students read a short explanation of a familiar process and create a clear explanation for a younger audience.",
+      "materials": ["Model text", "Sequence organizer", "Explanation checklist"],
+      "scaffolds": ["Provide transition words and visual supports."],
+      "success": "Students accurately explain the process in a logical sequence.",
+      "alignment": ["10.P.EICC.2.b", "10.P.EICC.2.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "One Topic, Three Purposes",
+      "activity": "Students select a topic and create a brief narrative, an informative explanation, and an evidence-based argument about it.",
+      "materials": ["Topic options", "Research sources", "Genre planning organizer"],
+      "scaffolds": ["Compare mentor examples before composing."],
+      "success": "Each text fulfills its distinct purpose and communicates accurate information.",
+      "alignment": ["10.P.EICC.2.a", "10.P.EICC.2.b", "10.P.EICC.2.c", "10.P.EICC.2.e"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Analyze Before You Decide",
+      "activity": "Students investigate a school or community question using multiple sources, evaluate competing claims, and write a recommendation.",
+      "materials": ["Credible sources", "Evidence matrix", "Recommendation template"],
+      "scaffolds": ["Model distinctions among fact, inference, and opinion."],
+      "success": "The recommendation uses credible evidence and addresses a reasonable alternative.",
+      "alignment": ["10.P.EICC.2.b", "10.P.EICC.2.d", "10.P.EICC.2.e"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "Literacy for Civic Action",
+      "activity": "Students investigate a consequential issue, create an explanatory resource, develop an evidence-based argument, and communicate a proposed solution to an authentic audience.",
+      "materials": ["Research databases", "Writing and design tools", "Audience analysis template"],
+      "scaffolds": ["Require ethical source use and consideration of multiple perspectives."],
+      "success": "Students demonstrate how different texts work together to inform, analyze, and influence decisions.",
+      "alignment": ["10.P.EICC.2.a", "10.P.EICC.2.b", "10.P.EICC.2.c", "10.P.EICC.2.d", "10.P.EICC.2.e"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student writes a fictional story about a family moving to a new country. Which purpose is most directly represented?",
+      "options": [
+        "Sharing an imagined experience",
+        "Explaining a scientific process",
+        "Evaluating statistical evidence",
+        "Issuing technical instructions"
+      ],
+      "answer": "Sharing an imagined experience",
+      "rationale": "Narrative texts communicate real or imagined experiences.",
+      "alignment": ["10.P.EICC.2.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe how reading a reliable informational article could help someone make an informed decision.",
+      "answer": "A strong response explains how accurate information develops understanding and supports the comparison of options.",
+      "rationale": "Students connect literacy with knowledge and decision-making.",
+      "alignment": ["10.P.EICC.2.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which text would most directly help readers understand how a complex process works?",
+      "options": [
+        "An explanation with clearly sequenced steps and relevant diagrams",
+        "A list of unrelated opinions",
+        "A fictional conversation without explanatory context",
+        "An advertisement with no factual information"
+      ],
+      "answer": "An explanation with clearly sequenced steps and relevant diagrams",
+      "rationale": "Logical sequencing and relevant features support conceptual understanding.",
+      "alignment": ["10.P.EICC.2.c"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Two articles reach different conclusions about the same issue. Explain how you would analyze and evaluate their reasoning.",
+      "answer": "A strong response compares claims, evidence, assumptions, credibility, and relevant context.",
+      "rationale": "Students use texts to analyze and evaluate ideas.",
+      "alignment": ["10.P.EICC.2.d"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which communication would most effectively support a decision about a proposed school improvement?",
+      "options": [
+        "An unsupported demand",
+        "A recommendation supported by relevant evidence and consideration of costs",
+        "An unrelated personal anecdote",
+        "A message that ignores the intended audience"
+      ],
+      "answer": "A recommendation supported by relevant evidence and consideration of costs",
+      "rationale": "Problem-solving communication should support informed decisions.",
+      "alignment": ["10.P.EICC.2.e"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Investigate a meaningful issue and create a connected collection of texts: a short narrative illustrating an experience, an informational explanation, an analysis of evidence, and a recommendation intended to influence a decision.",
+      "answer": "Evaluate purposeful genre choices, accuracy, analysis, meaningful connections, and evidence-based recommendations.",
+      "rationale": "The task integrates all five expectations.",
+      "alignment": ["10.P.EICC.2.a", "10.P.EICC.2.b", "10.P.EICC.2.c", "10.P.EICC.2.d", "10.P.EICC.2.e"]
+    }
+  ],
+  "evidence": [
+    "A narrative communicating a real or imagined experience.",
+    "An informational or explanatory text that develops understanding.",
+    "An analysis evaluating claims, evidence, or ideas.",
+    "A researched recommendation addressing a problem or decision.",
+    "A reflection explaining purposeful connections among texts."
+  ],
+  "instruction": [
+    "Teach students to identify their purpose before reading or composing.",
+    "Use common topics across multiple genres to clarify different intentions.",
+    "Connect literacy tasks with authentic questions and decisions.",
+    "Model meaningful connections within, between, and beyond texts.",
+    "Distinguish explanation from analysis and persuasion.",
+    "Emphasize credible evidence and ethical communication.",
+    "Allow students to select appropriate modes for different audiences."
+  ],
+  "watchFor": [
+    "Assuming a text can have only one purpose.",
+    "Confusing a summary with an analysis.",
+    "Offering recommendations without evidence.",
+    "Using personal stories as substitutes for factual support.",
+    "Treating text-to-world connections as unsupported generalizations.",
+    "Ignoring audience needs when selecting genre or mode.",
+    "Equating persuasion with emotional manipulation."
+  ],
+  "skills": {
+    "10.P.EICC.2.a": {
+      "focus": "Share real or imagined experiences",
+      "studentFriendly": "I can use stories to communicate real or imagined experiences.",
+      "know": ["Narrative texts communicate experiences through events, details, and perspective."],
+      "understand": ["Stories can communicate human experiences and ideas."],
+      "do": ["Interpret narratives.", "Construct stories.", "Connect experiences to meaning."],
+      "targets": ["I can use narrative to communicate an experience."],
+      "instruction": ["Use narrative mentor texts and short compositions."],
+      "evidence": ["An interpreted or original narrative."],
+      "watchFor": ["Confusing narrative purpose with factual explanation."]
+    },
+    "10.P.EICC.2.b": {
+      "focus": "Build knowledge and share information",
+      "studentFriendly": "I can use texts to learn, develop skills, make decisions, and share information.",
+      "know": ["Informational texts communicate knowledge and support learning."],
+      "understand": ["Reliable information supports informed decisions."],
+      "do": ["Gather information.", "Build understanding.", "Communicate accurate findings."],
+      "targets": ["I can use information to learn and communicate effectively."],
+      "instruction": ["Use credible sources and authentic informational tasks."],
+      "evidence": ["An accurate informational product."],
+      "watchFor": ["Repeating information without evaluating its reliability."]
+    },
+    "10.P.EICC.2.c": {
+      "focus": "Explain concepts and processes",
+      "studentFriendly": "I can use texts to understand and explain how ideas or processes work.",
+      "know": ["Explanations clarify concepts, relationships, and processes."],
+      "understand": ["Clear explanations build understanding."],
+      "do": ["Interpret explanations.", "Organize concepts.", "Explain processes accurately."],
+      "targets": ["I can explain a complex concept clearly."],
+      "instruction": ["Use diagrams, models, and explanatory writing."],
+      "evidence": ["An accurate, organized explanation."],
+      "watchFor": ["Listing steps without explaining relationships."]
+    },
+    "10.P.EICC.2.d": {
+      "focus": "Analyze and evaluate texts and ideas",
+      "studentFriendly": "I can examine and evaluate texts, evidence, and ideas.",
+      "know": ["Analysis examines relationships; evaluation applies criteria."],
+      "understand": ["Careful interpretation supports reasoned judgments."],
+      "do": ["Analyze claims.", "Evaluate evidence.", "Compare perspectives.", "Support conclusions."],
+      "targets": ["I can develop a supported evaluation of an idea."],
+      "instruction": ["Use comparative analysis and evidence matrices."],
+      "evidence": ["An evidence-based analysis or evaluation."],
+      "watchFor": ["Treating personal preference as sufficient evaluation."]
+    },
+    "10.P.EICC.2.e": {
+      "focus": "Solve problems and influence decisions",
+      "studentFriendly": "I can use reading and writing to investigate problems and support decisions.",
+      "know": ["Problem-solving communication identifies needs, options, and evidence."],
+      "understand": ["Purposeful texts can influence decisions responsibly."],
+      "do": ["Investigate problems.", "Evaluate possible solutions.", "Develop supported recommendations."],
+      "targets": ["I can use evidence to recommend a responsible course of action."],
+      "instruction": ["Use authentic problems and audience-focused writing."],
+      "evidence": ["A researched recommendation or advocacy text."],
+      "watchFor": ["Advocating a solution without considering alternatives."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed and not Georgia-prescribed. Verify editions, permissions, age suitability, and access."
+}
+
   ]
 }
