@@ -26228,5 +26228,830 @@
   "readingSelectionNote": "Text recommendations are independently developed and not Georgia-prescribed. Verify editions, permissions, age suitability, and access."
 }
 
+,
+{
+  "code": "10.P.ST.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Context",
+  "studentFriendly": "I can investigate the historical, cultural, geographic, and social circumstances surrounding a text and explain how those circumstances influence the author's choices, the audience's expectations, and the meaning of the text.",
+  "know": [
+    "Context includes relevant background information, geographic location, cultural influences, historical period, and contemporary events.",
+    "A text is created and interpreted within particular social, historical, and cultural circumstances.",
+    "Prior knowledge, research, and discussion can help readers identify relevant contextual information.",
+    "Authors' experiences and circumstances can influence their purposes, perspectives, and craft choices.",
+    "Audiences interpret texts through their own experiences, knowledge, and cultural expectations.",
+    "A text may be interpreted differently by its original audience and a contemporary audience.",
+    "Historical and cultural context can clarify unfamiliar references, conflicts, language, and assumptions.",
+    "Relevant contextual evidence should be distinguished from unsupported speculation about an author's intentions."
+  ],
+  "understand": [
+    "Context influences both the creation and interpretation of texts.",
+    "Not every contextual detail is equally relevant to understanding a particular text.",
+    "Research and discussion can challenge assumptions and deepen interpretation.",
+    "Authors make choices in response to the circumstances in which they write.",
+    "Audiences' experiences and expectations influence their responses.",
+    "A text's meaning and significance can change as it reaches new audiences.",
+    "Context supports interpretation but does not replace close attention to the text itself."
+  ],
+  "do": [
+    "Identify historical, geographic, cultural, and contemporary circumstances relevant to a text.",
+    "Activate prior knowledge and identify gaps requiring further investigation.",
+    "Conduct focused research using credible sources.",
+    "Discuss contextual findings with others and refine initial interpretations.",
+    "Explain how context influences the purposes of an author and an audience.",
+    "Analyze how contextual circumstances shape diction, imagery, references, structure, and other authorial decisions.",
+    "Compare how different audiences might respond to the same text.",
+    "Use relevant context when constructing original texts for particular audiences.",
+    "Support contextual interpretations with textual and researched evidence."
+  ],
+  "vocabulary": [
+    {
+      "term": "Context",
+      "definition": "The circumstances and background information surrounding the creation or interpretation of a text.",
+      "example": "Understanding segregation when analyzing a Civil Rights-era speech."
+    },
+    {
+      "term": "Historical context",
+      "definition": "The events, conditions, and ideas associated with a particular period.",
+      "example": "Studying industrialization before reading a nineteenth-century social critique."
+    },
+    {
+      "term": "Cultural context",
+      "definition": "The beliefs, traditions, values, and practices relevant to a text.",
+      "example": "Investigating cultural expectations surrounding family obligations in a story."
+    },
+    {
+      "term": "Geographic context",
+      "definition": "The influence of location, environment, and regional conditions.",
+      "example": "Considering how a coastal setting shapes a community's experiences."
+    },
+    {
+      "term": "Social context",
+      "definition": "The relationships, institutions, and conditions affecting people in a society.",
+      "example": "Examining class expectations in a novel."
+    },
+    {
+      "term": "Contemporary events",
+      "definition": "Events occurring during the period in which a text is created or received.",
+      "example": "A public debate influencing an editorial's subject."
+    },
+    {
+      "term": "Original audience",
+      "definition": "The people for whom a text was initially intended or among whom it first circulated.",
+      "example": "The readers of a newspaper editorial when it was first published."
+    },
+    {
+      "term": "Contemporary audience",
+      "definition": "Readers, listeners, or viewers encountering a text in the present.",
+      "example": "Students interpreting a historical speech today."
+    },
+    {
+      "term": "Primary source",
+      "definition": "Evidence originating from the period or event being studied.",
+      "example": "A historical letter, photograph, or newspaper article."
+    },
+    {
+      "term": "Secondary source",
+      "definition": "A source that interprets or analyzes primary evidence.",
+      "example": "A scholarly article about a literary movement."
+    },
+    {
+      "term": "Anachronism",
+      "definition": "An element or interpretation placed in a historical period to which it does not belong.",
+      "example": "Assuming that a nineteenth-century character had access to modern communication technology."
+    },
+    {
+      "term": "Contextual interpretation",
+      "definition": "An explanation of a text that considers relevant circumstances alongside textual evidence.",
+      "example": "Explaining how a historical conflict influences a poem's imagery."
+    }
+  ],
+  "targets": [
+    "I can identify contextual information relevant to interpreting a text.",
+    "I can use research and discussion to develop contextual understanding.",
+    "I can explain how context influences an author's purpose.",
+    "I can explain how context influences an audience's expectations.",
+    "I can analyze the relationship between context and authorial choices.",
+    "I can compare possible audience responses across time or cultures.",
+    "I can use context deliberately when constructing my own texts."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Examine how historical circumstances, immediate audience, and contemporary events influence an author's argument.",
+      "access": "Authorized excerpts or school anthology.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a timeline of the Birmingham campaign and explain the letter's immediate rhetorical situation.",
+      "interestHook": "A letter written in confinement addresses both specific critics and a much wider audience.",
+      "teachingPrompt": "Which historical details are essential to understanding why the author makes these particular arguments?",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.b", "10.P.ST.1.c"]
+    },
+    {
+      "title": "The Negro Speaks of Rivers",
+      "author": "Langston Hughes",
+      "genre": "Poetry",
+      "purpose": "Investigate historical, geographic, and cultural references and their relationship to poetic meaning.",
+      "access": "Authorized text or school anthology.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide maps and historical context for the referenced rivers and civilizations.",
+      "interestHook": "Geographic references connect one speaker's voice to an expansive history.",
+      "teachingPrompt": "How does knowledge of the poem's geographic and historical references deepen its meaning?",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.c"]
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic and science fiction novel",
+      "purpose": "Explore how scientific developments, Romantic-era ideas, and social questions influence literary themes.",
+      "access": "Public-domain text or school library edition.",
+      "readingTime": "25–30 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Introduce relevant scientific debates and provide vocabulary support.",
+      "interestHook": "An early science fiction story raises questions that remain relevant to emerging technologies.",
+      "teachingPrompt": "How might the novel's original readers and modern readers understand its scientific concerns differently?",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.b", "10.P.ST.1.c"]
+    },
+    {
+      "title": "Sweat",
+      "author": "Zora Neale Hurston",
+      "genre": "Short story",
+      "purpose": "Study the influence of regional setting, cultural context, and social expectations.",
+      "access": "School anthology or legally accessible edition.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Support dialect interpretation and discuss themes of abuse and power.",
+      "interestHook": "A story's setting and community expectations shape a character's choices.",
+      "teachingPrompt": "Which details of place and social context help explain the central conflict?",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.c"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Consider how cultural assumptions and audience knowledge influence interpretation.",
+      "access": "Authorized TED talk and transcript.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Use captions and provide context for unfamiliar references.",
+      "interestHook": "Different audiences can interpret the same people and experiences through different assumptions.",
+      "teachingPrompt": "How does the speaker challenge the contextual assumptions audiences bring to stories?",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.b", "10.P.ST.1.c"]
+    },
+    {
+      "title": "A Historical Newspaper and Contemporary Article Pair",
+      "author": "Teacher-selected credible sources",
+      "genre": "Journalism",
+      "purpose": "Compare how changing circumstances influence the framing and reception of a topic.",
+      "access": "Library databases, historical newspaper archives, and verified news sources.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Select short, readable articles and provide relevant background.",
+      "interestHook": "The same issue can look different when viewed through different historical circumstances.",
+      "teachingPrompt": "What changed in the surrounding context, and how did those changes affect the writing?",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.b", "10.P.ST.1.c"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Build the Context Map",
+      "activity": "Students identify the time, place, cultural influences, and relevant events surrounding a short text and explain how one detail supports interpretation.",
+      "materials": ["Short text", "Context organizer", "Curated background source"],
+      "scaffolds": ["Provide guiding questions and model one contextual connection."],
+      "success": "Students identify three relevant contextual details and explain one supported connection.",
+      "alignment": ["10.P.ST.1.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Who Was Listening?",
+      "activity": "Students investigate the original audience of a short speech and compare its likely concerns with those of a contemporary student audience.",
+      "materials": ["Speech excerpt", "Audience comparison chart"],
+      "scaffolds": ["Provide a brief historical overview and audience profiles."],
+      "success": "Students explain two ways context could influence audience expectations.",
+      "alignment": ["10.P.ST.1.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "The Context Detective",
+      "activity": "Students research three relevant circumstances surrounding a literary text and annotate passages demonstrating their influence on the author's choices.",
+      "materials": ["Literary excerpt", "Research sources", "Annotation guide"],
+      "scaffolds": ["Require a textual example and a credible contextual source for each claim."],
+      "success": "Students explain three evidence-supported connections between context and craft.",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Then and Now",
+      "activity": "Students compare how an original audience and a contemporary audience might interpret a historical text, distinguishing documented responses from reasoned possibilities.",
+      "materials": ["Historical text", "Background sources", "Comparison organizer"],
+      "scaffolds": ["Model careful language for claims about audience responses."],
+      "success": "Students develop a nuanced comparison supported by textual and contextual evidence.",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.b", "10.P.ST.1.c"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "The Contextual Edition",
+      "activity": "Students create an annotated edition of a historical poem, speech, or story, including a timeline, explanatory notes, relevant images, and an interpretive introduction.",
+      "materials": ["Primary text", "Historical databases", "Digital publishing tool"],
+      "scaffolds": ["Require citations and distinguish established historical facts from interpretation."],
+      "success": "The edition helps modern readers understand how context influenced the text's creation and reception.",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.b", "10.P.ST.1.c"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student is interpreting a speech delivered during a major historical protest. Which research would most directly support contextual understanding?",
+      "options": [
+        "The speaker's favorite food",
+        "The events, audience, and social conditions surrounding the protest",
+        "The student's opinion of the speaker's clothing",
+        "An unrelated modern advertisement"
+      ],
+      "answer": "The events, audience, and social conditions surrounding the protest",
+      "rationale": "These details are directly relevant to the speech's circumstances and purpose.",
+      "alignment": ["10.P.ST.1.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a writer's intended audience and the historical circumstances of publication might influence the writer's purpose.",
+      "answer": "A strong response identifies relevant circumstances and explains their connection to the writer's intended effect.",
+      "rationale": "Students connect context with author and audience purposes.",
+      "alignment": ["10.P.ST.1.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Select a passage from a historical literary text. Explain how a contextual detail helps account for one specific authorial choice.",
+      "answer": "A strong response connects credible contextual evidence with diction, imagery, structure, characterization, or another identifiable craft choice.",
+      "rationale": "Students analyze the influence of context on construction.",
+      "alignment": ["10.P.ST.1.c"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement best reflects responsible contextual interpretation?",
+      "options": [
+        "Every detail of an author's biography determines the meaning of the text",
+        "Modern readers always interpret historical texts exactly as original readers did",
+        "Relevant context can deepen interpretation when considered alongside textual evidence",
+        "Historical research makes close reading unnecessary"
+      ],
+      "answer": "Relevant context can deepen interpretation when considered alongside textual evidence",
+      "rationale": "Context supports rather than replaces evidence-based textual analysis.",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.c"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Develop a contextual analysis of a significant literary or rhetorical text. Identify relevant circumstances through research, explain their influence on author and audience purposes, and analyze two authorial choices. Compare the potential responses of original and contemporary audiences.",
+      "answer": "Evaluate research relevance, credible sourcing, contextual accuracy, textual analysis, and nuanced discussion of audience responses.",
+      "rationale": "The task integrates all three Context expectations.",
+      "alignment": ["10.P.ST.1.a", "10.P.ST.1.b", "10.P.ST.1.c"]
+    }
+  ],
+  "evidence": [
+    "A contextual research organizer with credible sources.",
+    "An annotated text connecting context with authorial decisions.",
+    "An explanation of how circumstances influence author and audience purposes.",
+    "A comparison of original and contemporary audience responses.",
+    "An original text accompanied by a contextual rationale."
+  ],
+  "instruction": [
+    "Begin with close reading and identify contextual questions worth investigating.",
+    "Teach students to distinguish relevant background from interesting but unrelated information.",
+    "Use primary and secondary sources appropriately.",
+    "Connect research findings to specific textual evidence.",
+    "Model cautious interpretation of historical audiences and authorial intentions.",
+    "Include cultural and geographic contexts as well as historical chronology.",
+    "Ask students to consider context when constructing original texts."
+  ],
+  "watchFor": [
+    "Replacing textual analysis with an author biography.",
+    "Assuming all members of a historical or cultural group shared identical beliefs.",
+    "Treating speculative claims about authorial intention as established facts.",
+    "Using unreliable background sources.",
+    "Applying present-day assumptions without investigating historical differences.",
+    "Assuming that context determines a single correct interpretation.",
+    "Including contextual details without explaining their relevance."
+  ],
+  "skills": {
+    "10.P.ST.1.a": {
+      "focus": "Identify relevant contextual components",
+      "studentFriendly": "I can use what I know, research, and discussion to identify the context that matters most.",
+      "know": [
+        "Context can include historical, geographic, cultural, and contemporary circumstances.",
+        "Prior knowledge, research, and discussion provide complementary sources of understanding."
+      ],
+      "understand": [
+        "Relevant context supports accurate interpretation and purposeful composition."
+      ],
+      "do": [
+        "Identify contextual questions.",
+        "Research relevant circumstances.",
+        "Discuss findings.",
+        "Select information that directly informs the text."
+      ],
+      "targets": [
+        "I can explain why specific contextual information matters."
+      ],
+      "instruction": [
+        "Use context maps, source evaluation, and focused inquiry."
+      ],
+      "evidence": [
+        "A contextual research summary with relevant sources."
+      ],
+      "watchFor": [
+        "Collecting background facts without connecting them to the text."
+      ]
+    },
+    "10.P.ST.1.b": {
+      "focus": "Consider context's influence on author and audience purposes",
+      "studentFriendly": "I can explain how circumstances influence what writers and audiences hope to accomplish.",
+      "know": [
+        "Authors and audiences act within particular circumstances."
+      ],
+      "understand": [
+        "Context can influence the purposes of both the author and the audience."
+      ],
+      "do": [
+        "Identify relevant circumstances.",
+        "Analyze authorial purpose.",
+        "Consider audience needs and expectations."
+      ],
+      "targets": [
+        "I can explain a contextual influence on author and audience purposes."
+      ],
+      "instruction": [
+        "Compare texts created for different audiences or periods."
+      ],
+      "evidence": [
+        "An evidence-supported explanation of contextual purpose."
+      ],
+      "watchFor": [
+        "Assuming author and audience purposes are always identical."
+      ]
+    },
+    "10.P.ST.1.c": {
+      "focus": "Analyze context's influence on choices and responses",
+      "studentFriendly": "I can explain how context shapes an author's decisions and an audience's interpretation.",
+      "know": [
+        "Context can influence diction, structure, references, imagery, and reception."
+      ],
+      "understand": [
+        "Authors and audiences respond to circumstances through different choices and interpretations."
+      ],
+      "do": [
+        "Analyze authorial decisions.",
+        "Consider audience responses.",
+        "Support conclusions with evidence."
+      ],
+      "targets": [
+        "I can connect context with a specific craft choice or audience response."
+      ],
+      "instruction": [
+        "Use annotated passages and historical reception comparisons."
+      ],
+      "evidence": [
+        "A contextual close reading with textual evidence."
+      ],
+      "watchFor": [
+        "Claiming that a contextual circumstance proves an unsupported interpretation."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, age suitability, historical accuracy, and source access."
+},
+{
+  "code": "10.P.ST.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Author, Audience, & Purpose",
+  "studentFriendly": "I can identify how authors adapt their ideas, perspectives, language, structure, and design for particular audiences and purposes, and I can make those choices deliberately in my own writing.",
+  "know": [
+    "The rhetorical situation includes author, audience, purpose, and context.",
+    "Authors construct texts to achieve purposes such as informing, explaining, entertaining, analyzing, persuading, or inspiring.",
+    "Audience characteristics and expectations influence communication choices.",
+    "A text's effectiveness can be evaluated in relation to its intended purpose.",
+    "Point of view and perspective shape the selection and presentation of information.",
+    "Authors emphasize particular details and ideas based on purpose and audience.",
+    "Text design affects accessibility, navigation, and audience engagement.",
+    "Diction, syntax, and craft techniques influence clarity, tone, and rhetorical impact.",
+    "A writer can revise choices after considering how an audience might interpret a text."
+  ],
+  "understand": [
+    "Effective communication requires attention to the relationship among author, audience, context, and purpose.",
+    "A text may serve several purposes, but particular choices can reveal its central intention.",
+    "An author's perspective influences what is emphasized and how information is framed.",
+    "Audience awareness involves considering readers' knowledge, needs, expectations, and possible responses.",
+    "Content, design, language, and craft should work together to support purpose.",
+    "A text can be evaluated by examining how effectively its choices serve the intended audience.",
+    "Responsible communication combines persuasive effectiveness with accuracy and ethical representation."
+  ],
+  "do": [
+    "Identify an author's likely purpose using textual and contextual evidence.",
+    "Analyze the intended audience and the assumptions a text makes about that audience.",
+    "Evaluate how effectively a text achieves its purpose.",
+    "Identify and analyze an author's point of view or distinctive perspective.",
+    "Establish a clear purpose and perspective when constructing original texts.",
+    "Select and emphasize information appropriate to audience and context.",
+    "Choose accessible formats, structures, and text features.",
+    "Use purposeful diction, syntax, and craft techniques.",
+    "Compare how different authors approach the same topic for different audiences.",
+    "Revise writing after evaluating its likely effects on an intended audience."
+  ],
+  "vocabulary": [
+    {
+      "term": "Rhetorical situation",
+      "definition": "The relationship among author, audience, purpose, message, and context.",
+      "example": "A student writes to school administrators about a proposed schedule change."
+    },
+    {
+      "term": "Authorial purpose",
+      "definition": "The goal an author seeks to accomplish through a text.",
+      "example": "Explaining a scientific finding to general readers."
+    },
+    {
+      "term": "Target audience",
+      "definition": "The specific group a text is intended to reach.",
+      "example": "Incoming ninth-grade students."
+    },
+    {
+      "term": "Point of view",
+      "definition": "The position or perspective from which information or events are presented.",
+      "example": "A first-person account of a community event."
+    },
+    {
+      "term": "Perspective",
+      "definition": "A way of understanding or interpreting an issue influenced by experience, knowledge, and values.",
+      "example": "A student's perspective on school transportation."
+    },
+    {
+      "term": "Rhetorical strategy",
+      "definition": "A deliberate technique used to achieve a communicative purpose.",
+      "example": "Addressing a likely objection before presenting a recommendation."
+    },
+    {
+      "term": "Diction",
+      "definition": "A writer's choice of words.",
+      "example": "Choosing precise, accessible language for a public information guide."
+    },
+    {
+      "term": "Syntax",
+      "definition": "The arrangement of words, phrases, and clauses.",
+      "example": "Using a brief sentence to emphasize a central claim."
+    },
+    {
+      "term": "Text design",
+      "definition": "The organization, layout, format, and features of a text.",
+      "example": "A guide using descriptive headings, numbered steps, and diagrams."
+    },
+    {
+      "term": "Accessibility",
+      "definition": "The extent to which intended users can understand and navigate a text.",
+      "example": "Providing captions, readable headings, and explanations of unfamiliar terms."
+    },
+    {
+      "term": "Emphasis",
+      "definition": "Special attention given to information or ideas to communicate importance.",
+      "example": "Placing a critical deadline near the beginning of an announcement."
+    },
+    {
+      "term": "Rhetorical effectiveness",
+      "definition": "How successfully a text's choices achieve its intended purpose for an audience.",
+      "example": "A clear, evidence-supported proposal that addresses decision-makers' concerns."
+    }
+  ],
+  "targets": [
+    "I can identify an author's purpose and intended audience.",
+    "I can evaluate whether a text achieves its purpose.",
+    "I can identify and explain an author's perspective.",
+    "I can establish a clear purpose and perspective in my writing.",
+    "I can select information that matters to my audience.",
+    "I can choose accessible text structures and formats.",
+    "I can use diction, syntax, and craft techniques deliberately.",
+    "I can justify revisions based on audience and purpose."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Examine the relationship among immediate audience, wider audience, rhetorical purpose, and craft.",
+      "access": "Authorized excerpts or school anthology.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical background and support complex syntax.",
+      "interestHook": "The writer responds to a particular group while developing a message with broader significance.",
+      "teachingPrompt": "How do the author's choices address both his immediate readers and a larger audience?",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.b", "10.P.ST.2.c"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Analyze how personal narrative, perspective, and rhetorical techniques support a public message.",
+      "access": "Authorized TED talk or transcript.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Use captions and provide context for unfamiliar references.",
+      "interestHook": "The speaker uses personal stories to challenge an audience's assumptions.",
+      "teachingPrompt": "How do the speaker's stories and language help accomplish her purpose?",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.b", "10.P.ST.2.c"]
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical essay",
+      "purpose": "Investigate how irony, audience expectations, and historical context shape rhetorical purpose.",
+      "access": "Public-domain text.",
+      "readingTime": "20–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Provide historical context and explicitly prepare students for disturbing satirical content.",
+      "interestHook": "A shocking argument exposes the failures of the society it criticizes.",
+      "teachingPrompt": "How can a writer's apparent argument differ from the writer's underlying purpose?",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.b", "10.P.ST.2.c"]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Analyze distinctive narrative perspective, diction, and structure.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Use short passages and support figurative language.",
+      "interestHook": "A distinctive narrator shapes how readers experience familiar places and events.",
+      "teachingPrompt": "How would the text change if it were written from another character's perspective?",
+      "alignment": ["10.P.ST.2.b", "10.P.ST.2.c"]
+    },
+    {
+      "title": "NASA Earth Observatory",
+      "author": "NASA Earth Observatory contributors",
+      "genre": "Public-facing science communication",
+      "purpose": "Examine how experts adapt content, vocabulary, visuals, and organization for a general audience.",
+      "access": "NASA Earth Observatory website; select a specific article.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide graph-reading support and clarify technical vocabulary.",
+      "interestHook": "Complex scientific information becomes understandable through purposeful design.",
+      "teachingPrompt": "Which choices make this article accessible to readers without specialized training?",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.c"]
+    },
+    {
+      "title": "Two Articles About One Issue",
+      "author": "Teacher-selected credible authors",
+      "genre": "Expository and argumentative journalism",
+      "purpose": "Compare authorial perspective, intended audiences, information selection, and rhetorical effectiveness.",
+      "access": "School research databases or verified publications.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Choose articles with identifiable differences in audience or purpose.",
+      "interestHook": "Two authors can use the same facts to construct very different messages.",
+      "teachingPrompt": "How do audience and purpose explain the differences between these texts?",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.b", "10.P.ST.2.c"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Author, Audience, Purpose",
+      "activity": "Students examine three short texts, identify the intended audience and likely purpose of each, and highlight evidence supporting their conclusions.",
+      "materials": ["Three short texts", "Rhetorical situation organizer"],
+      "scaffolds": ["Model one analysis and provide a purpose word bank."],
+      "success": "Students identify audience and purpose with supporting evidence for two texts.",
+      "alignment": ["10.P.ST.2.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "One Event, Two Perspectives",
+      "activity": "Students read two short accounts of the same event and identify differences in emphasis, diction, and perspective.",
+      "materials": ["Paired accounts", "Comparison chart"],
+      "scaffolds": ["Provide sentence stems for identifying and comparing perspectives."],
+      "success": "Students explain two choices that reveal a distinctive perspective.",
+      "alignment": ["10.P.ST.2.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Rewrite for Your Reader",
+      "activity": "Students adapt a complicated announcement for a younger audience by revising vocabulary, organization, and supporting explanations.",
+      "materials": ["Original announcement", "Audience profile", "Revision checklist"],
+      "scaffolds": ["Model how to simplify language without removing essential information."],
+      "success": "Students make three purposeful revisions and explain their effects.",
+      "alignment": ["10.P.ST.2.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "The Rhetorical Effectiveness Audit",
+      "activity": "Students analyze a public-facing text, identify its audience and purpose, and evaluate how successfully its content, language, and design support its intended effect.",
+      "materials": ["Selected text", "Evaluation rubric", "Annotation guide"],
+      "scaffolds": ["Require evidence for each evaluation."],
+      "success": "Students develop a supported judgment about rhetorical effectiveness.",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Same Topic, Different Readers",
+      "activity": "Students research a school or community issue and write two texts for distinct audiences, adjusting perspective, information selection, diction, syntax, and format.",
+      "materials": ["Research sources", "Audience profiles", "Writing rubric"],
+      "scaffolds": ["Provide mentor examples and an audience-analysis organizer."],
+      "success": "Both texts communicate accurate information through deliberate audience-specific choices.",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.b", "10.P.ST.2.c"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "The Public Communication Studio",
+      "activity": "Students develop a communication campaign addressing an authentic issue. They create a research-based argument for decision-makers and an accessible informational resource for the public, then evaluate each product's rhetorical effectiveness.",
+      "materials": ["Credible sources", "Digital design tools", "Rhetorical analysis rubric"],
+      "scaffolds": ["Require an explicit purpose, audience analysis, source documentation, and design rationale."],
+      "success": "The products demonstrate coherent perspective, appropriate evidence, accessible design, and justified rhetorical choices.",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.b", "10.P.ST.2.c"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A writer creates a guide explaining course selection to incoming ninth graders. Which choice best demonstrates attention to audience and purpose?",
+      "options": [
+        "Using unexplained scheduling abbreviations",
+        "Organizing clear steps and defining unfamiliar terms",
+        "Including unrelated personal opinions",
+        "Omitting important deadlines"
+      ],
+      "answer": "Organizing clear steps and defining unfamiliar terms",
+      "rationale": "The writer anticipates the audience's knowledge and information needs.",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.c"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Choose an argumentative text and explain how its author uses two choices to accomplish a particular purpose.",
+      "answer": "A strong response identifies the purpose and explains the effects of specific rhetorical choices using textual evidence.",
+      "rationale": "Students evaluate rhetorical effectiveness.",
+      "alignment": ["10.P.ST.2.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Two authors describe the same event but emphasize different details. Which explanation best accounts for the difference?",
+      "options": [
+        "All accounts must contain identical information",
+        "The authors may have different perspectives, purposes, and audiences",
+        "One author must necessarily be dishonest",
+        "Audience never affects writing"
+      ],
+      "answer": "The authors may have different perspectives, purposes, and audiences",
+      "rationale": "Perspective and rhetorical situation influence how information is selected and framed.",
+      "alignment": ["10.P.ST.2.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how you would adapt an academic research explanation for a general public audience. Address information selection, text design, word choice, and sentence structure.",
+      "answer": "A strong response proposes purposeful changes that preserve accuracy while improving clarity and accessibility.",
+      "rationale": "Students apply knowledge of audience-sensitive composition choices.",
+      "alignment": ["10.P.ST.2.c"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "How can an author's perspective influence which information is highlighted in a text?",
+      "answer": "A strong response explains how a particular viewpoint can shape emphasis, framing, examples, or interpretation, using a specific illustration.",
+      "rationale": "Students analyze perspective in relation to rhetorical decisions.",
+      "alignment": ["10.P.ST.2.b", "10.P.ST.2.c"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Analyze a published text's author, audience, context, purpose, perspective, and rhetorical choices. Then create an original text addressing a related issue for a different audience. Annotate your decisions about information, design, diction, syntax, and craft.",
+      "answer": "Evaluate rhetorical analysis, evidence, clarity of purpose, perspective, audience awareness, accessibility, and justification of craft choices.",
+      "rationale": "The task integrates all three Author, Audience, and Purpose expectations.",
+      "alignment": ["10.P.ST.2.a", "10.P.ST.2.b", "10.P.ST.2.c"]
+    }
+  ],
+  "evidence": [
+    "An annotated analysis identifying author, audience, purpose, and context.",
+    "An evaluation of a text's rhetorical effectiveness.",
+    "A comparison of perspectives across texts.",
+    "An original composition designed for a clearly identified audience.",
+    "A revision rationale explaining choices about content, design, diction, syntax, and craft."
+  ],
+  "instruction": [
+    "Introduce the rhetorical situation before analyzing individual techniques.",
+    "Teach students to support claims about purpose and audience with evidence.",
+    "Compare texts addressing similar topics for different audiences.",
+    "Distinguish an author's perspective from the reader's personal response.",
+    "Model how information selection and emphasis influence meaning.",
+    "Include accessibility when teaching text design.",
+    "Use authentic writing situations with identifiable audiences.",
+    "Require students to explain and evaluate their rhetorical choices."
+  ],
+  "watchFor": [
+    "Reducing authorial purpose to a single unsupported label.",
+    "Assuming an author's stated purpose guarantees the text's effectiveness.",
+    "Confusing perspective with factual accuracy.",
+    "Treating sophisticated vocabulary as inherently better writing.",
+    "Choosing text features for decoration rather than accessibility.",
+    "Ignoring context when interpreting rhetorical choices.",
+    "Making claims about audience responses without evidence.",
+    "Adapting a text for an audience by removing essential accuracy or nuance."
+  ],
+  "skills": {
+    "10.P.ST.2.a": {
+      "focus": "Discern and establish purpose; evaluate effectiveness",
+      "studentFriendly": "I can identify and establish a text's purpose and evaluate how effectively it reaches its audience.",
+      "know": [
+        "Purpose is shaped by author, audience, and context.",
+        "Rhetorical effectiveness can be evaluated using evidence."
+      ],
+      "understand": [
+        "Texts should be interpreted and constructed with attention to their intended effects."
+      ],
+      "do": [
+        "Identify purpose.",
+        "Analyze audience and context.",
+        "Establish a purpose for original writing.",
+        "Evaluate effectiveness."
+      ],
+      "targets": [
+        "I can explain whether a text achieves its purpose and why."
+      ],
+      "instruction": [
+        "Use rhetorical situation charts and evidence-based evaluations."
+      ],
+      "evidence": [
+        "An annotated rhetorical analysis and purposeful original text."
+      ],
+      "watchFor": [
+        "Naming a purpose without explaining the text's choices or effects."
+      ]
+    },
+    "10.P.ST.2.b": {
+      "focus": "Discern and establish point of view or perspective",
+      "studentFriendly": "I can identify an author's perspective and develop a clear perspective in my own writing.",
+      "know": [
+        "Perspective is influenced by author, audience, and context."
+      ],
+      "understand": [
+        "Perspective influences how ideas are framed and communicated."
+      ],
+      "do": [
+        "Analyze perspective.",
+        "Compare viewpoints.",
+        "Establish a clear perspective.",
+        "Support interpretations with evidence."
+      ],
+      "targets": [
+        "I can explain and communicate a distinctive perspective."
+      ],
+      "instruction": [
+        "Use paired texts and perspective-shifting writing exercises."
+      ],
+      "evidence": [
+        "A comparative analysis and an original perspective-driven composition."
+      ],
+      "watchFor": [
+        "Assuming that perspective and unsupported bias are the same thing."
+      ]
+    },
+    "10.P.ST.2.c": {
+      "focus": "Make audience-aware choices about content, design, language, and craft",
+      "studentFriendly": "I can choose what information to emphasize and how to present it for my intended audience.",
+      "know": [
+        "Authors select information, text design, diction, syntax, and craft techniques in response to audience and context."
+      ],
+      "understand": [
+        "Purposeful choices improve clarity, accessibility, and rhetorical impact."
+      ],
+      "do": [
+        "Select relevant information.",
+        "Choose accessible design.",
+        "Use effective diction and syntax.",
+        "Apply purposeful craft techniques.",
+        "Revise for audience needs."
+      ],
+      "targets": [
+        "I can explain how my writing choices serve a particular audience."
+      ],
+      "instruction": [
+        "Use audience-specific revision and annotated mentor texts."
+      ],
+      "evidence": [
+        "An audience-aware composition with an annotated craft rationale."
+      ],
+      "watchFor": [
+        "Making stylistic choices without considering their effects on the audience."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, age suitability, and source access."
+}
+
   ]
 }
