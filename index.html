@@ -12,41 +12,17 @@
   background: #f5f7f9;
   color: #203349;
 }
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-}
-
+* { box-sizing: border-box; }
+body { margin: 0; }
 header {
   background: #142e4c;
   color: white;
   padding: 32px max(18px, calc((100vw - 1050px)/2)) 36px;
 }
-
-header small {
-  letter-spacing: .1em;
-  color: #bad4ed;
-}
-
-h1 {
-  font-size: clamp(30px, 4vw, 48px);
-  margin: 12px 0;
-}
-
-header p {
-  color: #d9e5f0;
-  max-width: 670px;
-}
-
-main {
-  max-width: 1090px;
-  margin: auto;
-  padding: 24px 18px 70px;
-}
+header small { letter-spacing: .1em; color: #bad4ed; }
+h1 { font-size: clamp(30px, 4vw, 48px); margin: 12px 0; }
+header p { color: #d9e5f0; max-width: 670px; }
+main { max-width: 1090px; margin: auto; padding: 24px 18px 70px; }
 
 .toolbar {
   display: grid;
@@ -59,17 +35,13 @@ main {
   margin-top: -12px;
   position: relative;
 }
-
-input,
-select,
-button {
+input, select, button {
   font: inherit;
   padding: 11px;
   border: 1px solid #c9d5e0;
   border-radius: 8px;
   width: 100%;
 }
-
 button {
   cursor: pointer;
   background: #185889;
@@ -77,37 +49,21 @@ button {
   border: 0;
   font-weight: 650;
 }
-
-button:hover {
-  background: #10436d;
-}
-
-.info {
-  color: #52667b;
-  font-size: 14px;
-}
-
+button:hover { background: #10436d; }
+.info { color: #52667b; font-size: 14px; }
 .cards {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 14px;
 }
-
 .card {
   background: white;
   border: 1px solid #d9e3ec;
   border-radius: 12px;
   padding: 20px;
 }
-
-.card h3 {
-  margin: 8px 0;
-}
-
-.card p {
-  line-height: 1.55;
-}
-
+.card h3 { margin: 8px 0; }
+.card p { line-height: 1.55; }
 .tag {
   display: inline-block;
   background: #eaf2f8;
@@ -117,33 +73,12 @@ button:hover {
   font-size: 12px;
   margin-right: 6px;
 }
-
-.code {
-  font-weight: 750;
-  color: #155789;
-}
-
-.subtle {
-  color: #5c7084;
-  font-size: 13px;
-}
-
-.item {
-  margin-bottom: 12px;
-}
-
-.item h3 {
-  font-size: 17px;
-}
-
-a {
-  color: #155789;
-}
-
-a:hover {
-  text-decoration: none;
-}
-
+.code { font-weight: 750; color: #155789; }
+.subtle { color: #5c7084; font-size: 13px; }
+.item { margin-bottom: 12px; }
+.item h3 { font-size: 17px; }
+a { color: #155789; }
+a:hover { text-decoration: none; }
 .actions {
   display: flex;
   gap: 10px;
@@ -151,64 +86,18 @@ a:hover {
   flex-wrap: wrap;
   margin-top: 13px;
 }
+.actions button { width: auto; }
+section { margin-top: 30px; }
+#results { display: grid; gap: 12px; }
+#results .card { padding: 17px 20px; }
+#results p { margin: 8px 0; }
+#results .card button { max-width: 180px; }
+.hidden { display: none; }
+footer { margin-top: 35px; font-size: 13px; color: #637489; }
+#detail { scroll-margin-top: 18px; }
+#detailcontent { padding: 26px; }
 
-.actions button {
-  width: auto;
-}
-
-.details {
-  background: #f1f6fa;
-  border-left: 4px solid #2970a2;
-  padding: 13px 16px;
-  margin-top: 14px;
-}
-
-section {
-  margin-top: 30px;
-}
-
-#results {
-  display: grid;
-  gap: 12px;
-}
-
-#results .card {
-  padding: 17px 20px;
-}
-
-#results p {
-  margin: 8px 0;
-}
-
-#results .card button {
-  max-width: 180px;
-}
-
-.hidden {
-  display: none;
-}
-
-footer {
-  margin-top: 35px;
-  font-size: 13px;
-  color: #637489;
-}
-
-#detail {
-  scroll-margin-top: 18px;
-}
-
-/* Instructional guide */
-
-#detailcontent {
-  padding: 26px;
-}
-
-.guide-title {
-  font-size: 26px;
-  margin: 8px 0;
-}
-
+.guide-title { font-size: 26px; margin: 8px 0; }
 .guide-label {
   font-size: 12px;
   font-weight: 800;
@@ -216,7 +105,6 @@ footer {
   letter-spacing: .08em;
   color: #52708c;
 }
-
 .guide-panel {
   padding: 18px;
   border: 1px solid #dce6ed;
@@ -224,100 +112,63 @@ footer {
   margin: 14px 0;
   background: #fff;
 }
-
 .guide-student {
   background: #edf5f9;
   border-left: 4px solid #28739a;
 }
-
 .guide-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 12px;
 }
-
 .guide-grid > div {
   background: #f2f6f9;
   border-radius: 10px;
   padding: 14px;
 }
-
-.guide-grid h4 {
-  margin: 0 0 8px;
-}
-
-.guide-panel p,
-.guide-panel li {
-  line-height: 1.6;
-}
-
-.guide-panel ul {
-  padding-left: 22px;
-}
-
+.guide-grid h4 { margin: 0 0 8px; }
+.guide-panel p, .guide-panel li { line-height: 1.6; }
+.guide-panel ul { padding-left: 22px; }
 .guide-vocab {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
 }
-
 .guide-term {
   padding: 12px;
   border-radius: 9px;
   background: #f6f8fa;
 }
-
-.guide-term p {
-  margin: 5px 0;
-}
-
+.guide-term p { margin: 5px 0; }
 .guide-fold {
   border: 1px solid #dce6ed;
   border-radius: 11px;
   margin: 10px 0;
   background: #fff;
 }
-
 .guide-fold summary {
   padding: 17px 18px;
   font-weight: 750;
   cursor: pointer;
-  list--position: inside;
+  list-style-position: inside;
 }
-
-.guide-fold .fold-body {
-  padding: 0 18px 18px;
-}
-
+.guide-fold .fold-body { padding: 0 18px 18px; }
 .guide-activity {
   border-top: 1px solid #e2e9ee;
   padding: 14px 0;
 }
-
-.guide-activity:first-child {
-  border: 0;
-}
-
+.guide-activity:first-child { border: 0; }
 .guide-action {
   width: auto;
   padding: 8px 12px;
   font-size: 13px;
 }
-
 .guide-question {
   border-top: 1px solid #e2e9ee;
   padding: 13px 0;
 }
-
-.guide-question:first-child {
-  border: 0;
-}
-
-.guide-muted {
-  color: #5c7084;
-  font-size: 14px;
-}
-
+.guide-question:first-child { border: 0; }
+.guide-muted { color: #5c7084; font-size: 14px; }
 .guide-chip {
   display: inline-block;
   background: #e9f2f8;
@@ -327,33 +178,19 @@ footer {
   color: #245574;
   margin: 4px 4px 4px 0;
 }
-
-/* Search usability */
-
-.search-group {
-  display: flex;
-  gap: 8px;
-  min-width: 0;
-}
-
-.search-group input {
-  min-width: 0;
-  flex: 1;
-}
-
+.search-group { display: flex; gap: 8px; min-width: 0; }
+.search-group input { min-width: 0; flex: 1; }
 .search-group button {
   width: auto;
   white-space: nowrap;
   padding-inline: 17px;
 }
-
 .search-help {
   grid-column: 1/-1;
   margin: 0;
   color: #52667b;
   font-size: 13px;
 }
-
 .search-feedback {
   margin: 12px 0;
   padding: 12px 15px;
@@ -362,82 +199,46 @@ footer {
   border-radius: 7px;
   font-weight: 600;
 }
+#explore { scroll-margin-top: 16px; }
 
-#explore {
-  scroll-margin-top: 16px;
-}
-
-/* Responsive layout */
-
-@media (max-width: 750px) {
-
-  .toolbar,
-  .cards,
-  .guide-grid,
-  .guide-vocab {
-    grid-template-columns: 1fr;
-  }
-
-  header {
-    padding: 24px 18px 36px;
-  }
-
-  #detailcontent {
-    padding: 17px;
-  }
-
-  .search-group {
-    flex-wrap: wrap;
-  }
-
-  .search-group input {
-    flex-basis: 100%;
-  }
-
-  .search-group button {
-    width: 100%;
-  }
-}
-  .standard-heading {
+/* Separate official standard title from wording */
+.standard-heading {
   font-weight: 700;
   font-size: 1.1rem;
   margin: 12px 0 6px;
+}
+.standard-wording {
+  margin: 6px 0 12px;
+  line-height: 1.6;
+}
+
+@media (max-width: 750px) {
+  .toolbar, .cards, .guide-grid, .guide-vocab {
+    grid-template-columns: 1fr;
+  }
+  header { padding: 24px 18px 36px; }
+  #detailcontent { padding: 17px; }
+  .search-group { flex-wrap: wrap; }
+  .search-group input { flex-basis: 100%; }
+  .search-group button { width: 100%; }
 }
 </style>
 </head>
 
 <body>
-
 <header>
-  <small>
-    GEORGIA ELA · UNOFFICIAL TEACHER RESOURCE
-  </small>
-
+  <small>GEORGIA ELA · UNOFFICIAL TEACHER RESOURCE</small>
   <h1>Standards made simpler.</h1>
-
-  <p>
-    Why don't they come unpacked? They are here.
-  </p>
+  <p>Why don't they come unpacked? They are here.</p>
 </header>
 
 <main>
-
-  <!-- Search and filters -->
-
   <div class="toolbar">
-
     <div class="search-group">
-
-      <input
-        id="query"
+      <input id="query"
         placeholder="Search skills, wording, or codes"
-        aria-label="Search standards"
-      >
-
-      <button id="find" type="button">
-        Find Standards
-      </button>
-
+        aria-label="Search standards">
+      <button id="find" type="button">Find Standards</button>
     </div>
 
     <select id="grade" aria-label="Grade">
@@ -469,101 +270,59 @@ footer {
       Search as you type, or press Enter / Find Standards
       to jump to your results.
     </p>
-
   </div>
-
-  <!-- Loading status -->
 
   <p id="status" class="info" role="status">
     Loading official Georgia ELA standards…
   </p>
 
-  <!-- Introduction -->
-
   <section id="intro">
-
     <h2>Start with the standards</h2>
-
     <div class="cards">
-
       <div class="card">
-
         <span class="tag">01</span>
-
         <h3>Browse by grade</h3>
-
         <p>
           Find the standards for grades 9, 10, 11,
           and 12 without searching a long PDF.
         </p>
-
-        <button
-          onclick="document.getElementById('grade').focus()"
-        >
+        <button type="button"
+          onclick="document.getElementById('grade').focus()">
           Choose a grade
         </button>
-
       </div>
-
       <div class="card">
-
         <span class="tag">02</span>
-
         <h3>Unpack a standard</h3>
-
         <p>
           Open a standard to view its official wording
           and any related expectations. Instructional
           unpackings can be added separately.
         </p>
-
-        <button
-          onclick="document.getElementById('query').focus()"
-        >
+        <button type="button"
+          onclick="document.getElementById('query').focus()">
           Find a standard
         </button>
-
       </div>
-
     </div>
-
   </section>
-
-  <!-- Search results -->
 
   <section id="explore">
-
     <h2>Explore standards</h2>
-
-    <p
-      id="searchFeedback"
-      class="search-feedback"
-      role="status"
-      aria-live="polite"
-    ></p>
-
+    <p id="searchFeedback" class="search-feedback"
+       role="status" aria-live="polite"></p>
     <p id="count" class="info"></p>
-
     <div id="results"></div>
-
     <div class="actions">
-
-      <button id="more" class="hidden">
+      <button id="more" class="hidden" type="button">
         Show more results
       </button>
-
     </div>
-
   </section>
 
-  <!-- Standard details -->
-
   <section id="detail" class="hidden">
-
     <h2>Standard details</h2>
-
     <div id="detailcontent" class="card"></div>
-
   </section>
 
   <footer>
@@ -574,14 +333,10 @@ footer {
     This site is not an official Georgia Department of
     Education website. Be the change you wish to see.
   </footer>
-
 </main>
 
 <script>
-
-/* =========================================
-   GLOBAL DATA AND HELPER FUNCTIONS
-========================================= */
+/* GLOBAL DATA AND HELPERS */
 
 let standards = [];
 let unpackings = {};
@@ -603,28 +358,49 @@ const esc = s => String(s ?? '').replace(
 const plain = s =>
   String(s || '').replace(/[*_`]/g, '');
 
-function parents(code) {
+/*
+  Format official Georgia wording without modifying
+  the original standards database.
 
-  let parts = code.split('.');
-  let a = [];
+  Example:
+  **Organization** Analyze, evaluate, and use...
 
-  while (parts.length > 2) {
+  Displays:
+  Organization
+  Analyze, evaluate, and use...
+*/
+function formatOfficialStandard(raw) {
+  const text = String(raw || '');
+  const match = text.match(
+    /^\s*\*\*(.+?)\*\*\s*([\s\S]*)$/
+  );
 
-    parts.pop();
-    a.push(parts.join('.'));
-
+  if (!match) {
+    return `<p class="standard-wording">${esc(plain(text))}</p>`;
   }
 
+  const title = match[1].trim();
+  const wording = match[2].trim();
+
+  return `
+    <div class="standard-heading">${esc(title)}</div>
+    <p class="standard-wording">${esc(plain(wording))}</p>
+  `;
+}
+
+function parents(code) {
+  let parts = code.split('.');
+  let a = [];
+  while (parts.length > 2) {
+    parts.pop();
+    a.push(parts.join('.'));
+  }
   return a;
 }
 
-
-/* =========================================
-   SEARCH AND RENDERING
-========================================= */
+/* SEARCH AND RENDERING */
 
 function render() {
-
   const q = $('query').value.trim().toLowerCase();
   const g = $('grade').value;
   const d = $('domain').value;
@@ -655,146 +431,74 @@ function render() {
     : `No results${label}. Try a different keyword or change your filters.`;
 
   const html = found.slice(0, limit).map(x => `
-
     <article class="card item">
-
-      <span class="tag">
-        ${esc(x.domain)}
-      </span>
-
-      <span class="tag">
-        ${esc(x.type)}
-      </span>
-
+      <span class="tag">${esc(x.domain)}</span>
+      <span class="tag">${esc(x.type)}</span>
       <span class="subtle">
         Grade ${esc(x.grade.join('–'))}
       </span>
 
-      <h3>
-        <span class="code">
-          ${esc(x.code)}
-        </span>
-      </h3>
+      <h3><span class="code">${esc(x.code)}</span></h3>
 
-      <p>
-     ${(() => {
-  const raw = x.text || "";
-  const match = raw.match(/^\s*\*\*(.+?)\*\*\s*([\s\S]*)$/);
-
-  if (!match) {
-    return `<p>${esc(plain(raw))}</p>`;
-  }
-
-  const title = match[1].trim();
-  const wording = match[2].trim();
-
-  return `
-    <div class="standard-heading">${esc(title)}</div>
-    <p>${esc(plain(wording))}</p>
-  `;
-})()}
-      </p>
+      ${formatOfficialStandard(x.text)}
 
       <div class="actions">
-
-        <button data-open="${esc(x.id)}">
+        <button data-open="${esc(x.id)}" type="button">
           View details
         </button>
-
-        <a
-          href="${esc(x.url)}"
-          target="_blank"
-          rel="noopener"
-        >
+        <a href="${esc(x.url)}"
+           target="_blank" rel="noopener">
           Official source
         </a>
-
       </div>
-
     </article>
-
   `).join('');
 
   $('results').innerHTML =
     html || '<p>No matches. Try another keyword or filter.</p>';
 
   $('more').classList.toggle(
-    'hidden',
-    found.length <= limit
+    'hidden', found.length <= limit
   );
 
   $('more').textContent =
     `Show more (${Math.min(found.length - limit, 30)} next)`;
 
-  document.querySelectorAll('[data-open]')
-    .forEach(b => {
-
-      b.addEventListener('click', () => {
-
-        openItem(b.dataset.open);
-
-      });
-
+  document.querySelectorAll('[data-open]').forEach(b => {
+    b.addEventListener('click', () => {
+      openItem(b.dataset.open);
     });
-
+  });
 }
 
-
-/* =========================================
-   INSTRUCTIONAL GUIDE HELPERS
-========================================= */
+/* INSTRUCTIONAL GUIDE HELPERS */
 
 function asList(arr) {
-
   return Array.isArray(arr) && arr.length
-
-    ? `<ul>
-        ${arr.map(v =>
-          `<li>${esc(v)}</li>`
-        ).join('')}
-       </ul>`
-
+    ? `<ul>${arr.map(v =>
+        `<li>${esc(v)}</li>`
+      ).join('')}</ul>`
     : '<p class="guide-muted">Not yet available.</p>';
-
 }
-
 
 function fold(title, body) {
-
   return `
-
     <details class="guide-fold">
-
-      <summary>
-        ${esc(title)}
-      </summary>
-
-      <div class="fold-body">
-        ${body}
-      </div>
-
+      <summary>${esc(title)}</summary>
+      <div class="fold-body">${body}</div>
     </details>
-
   `;
-
 }
 
-
-/* =========================================
-   BUILD THE INSTRUCTIONAL GUIDE
-========================================= */
+/* BUILD THE INSTRUCTIONAL GUIDE */
 
 function guide(x, unpack, related) {
-
   const specific =
-    unpack &&
-    unpack.skills &&
-    unpack.skills[x.code];
+    unpack && unpack.skills && unpack.skills[x.code];
 
   const g = specific || unpack;
 
   let h = `
-
     <div class="guide-label">
       ${esc(x.grade.join('–'))} ·
       ${esc(x.domain)} ·
@@ -807,523 +511,287 @@ function guide(x, unpack, related) {
         unpack &&
         unpack.code === x.code &&
         unpack.focus
-
           ? ' — ' + esc(unpack.focus)
-
           : ''
       }
     </h2>
 
     <div class="guide-panel">
-
       <div class="guide-label">
         Official Georgia wording
       </div>
 
-      <p>
-        ${esc(plain(x.text))}
-      </p>
+      ${formatOfficialStandard(x.text)}
 
-      <a
-        href="${esc(x.url)}"
-        target="_blank"
-        rel="noopener"
-      >
+      <a href="${esc(x.url)}"
+         target="_blank" rel="noopener">
         View official source
       </a>
-
     </div>
-
   `;
 
-
   /* No instructional card yet */
-
   if (!g) {
-
     h += `
-
       <div class="guide-panel">
-
         <strong>
           Instructional unpacking coming soon.
         </strong>
-
         <p class="guide-muted">
           Official wording above is sourced from Georgia.
           No teacher-developed guide has been published
           for this record.
         </p>
-
       </div>
-
     `;
-
   } else {
 
     /* Instructional disclaimer */
-
     h += `
-
       <p class="guide-muted">
-
         Independent teacher-developed draft,
         not official Georgia guidance.
-
         ${
           unpack.code !== x.code
-
             ? ' Guidance adapted from parent standard ' +
               esc(unpack.code) + '.'
-
             : ''
         }
-
       </p>
-
     `;
 
-
     /* Student-friendly language */
-
     if (g.studentFriendly || unpack.studentFriendly) {
-
       h += `
-
         <div class="guide-panel guide-student">
-
           <div class="guide-label">
             In student-friendly language
           </div>
-
-          <p>
-
-            <strong>
-              ${
-                esc(
-                  g.studentFriendly ||
-                  unpack.studentFriendly
-                )
-              }
-            </strong>
-
-          </p>
-
+          <p><strong>
+            ${esc(g.studentFriendly || unpack.studentFriendly)}
+          </strong></p>
         </div>
-
       `;
-
     }
 
-
     /* Know, Understand, Do */
-
     h += `
-
       <div class="guide-panel">
-
         <h3>Know · Understand · Do</h3>
-
         <div class="guide-grid">
-
           <div>
             <h4>Know</h4>
             ${asList(g.know)}
           </div>
-
           <div>
             <h4>Understand</h4>
             ${asList(g.understand)}
           </div>
-
           <div>
             <h4>Do</h4>
             ${asList(g.do)}
           </div>
-
         </div>
-
       </div>
-
     `;
-
 
     /* Academic vocabulary */
-
     const vocab =
-      g.vocabulary ||
-      unpack.vocabulary ||
-      [];
+      g.vocabulary || unpack.vocabulary || [];
 
     h += `
-
       <div class="guide-panel">
-
         <h3>Academic vocabulary</h3>
-
         ${
           vocab.length
-
             ? `<div class="guide-vocab">
-
                 ${vocab.map(v => `
-
                   <div class="guide-term">
-
-                    <strong>
-                      ${esc(v.term)}
-                    </strong>
-
-                    <p>
-                      ${esc(v.definition)}
-                    </p>
-
+                    <strong>${esc(v.term)}</strong>
+                    <p>${esc(v.definition)}</p>
                     ${
                       v.example
-
                         ? `<p class="guide-muted">
-                            <em>
-                              ${esc(v.example)}
-                            </em>
+                            <em>${esc(v.example)}</em>
                            </p>`
-
                         : ''
                     }
-
                   </div>
-
                 `).join('')}
-
                </div>`
-
             : '<p class="guide-muted">Vocabulary entries in development.</p>'
         }
-
       </div>
-
     `;
 
-
     /* Learning targets */
-
     h += fold(
       'Learning targets',
       asList(g.targets)
     );
 
-
     /* Suggested mentor texts */
-
     const texts =
-      g.suggestedTexts ||
-      unpack.suggestedTexts ||
-      [];
+      g.suggestedTexts || unpack.suggestedTexts || [];
 
     h += fold(
-
       'Suggested mentor texts',
-
       texts.length
-
         ? texts.map(t => `
-
             <div class="guide-activity">
-
-              <strong>
-                ${esc(t.title)}
-              </strong>
-
+              <strong>${esc(t.title)}</strong>
               · ${esc(t.author)}
-
-              <p>
-                ${esc(t.purpose)}
-              </p>
-
+              <p>${esc(t.purpose)}</p>
               <p class="guide-muted">
-
-                ${
-                  esc(
-                    t.access ||
-                    'Check local availability and permissions.'
-                  )
-                }
-
+                ${esc(t.access ||
+                  'Check local availability and permissions.')}
               </p>
-
             </div>
-
           `).join('')
-
         : '<p>Suggested texts in development.</p>'
-
     );
 
-
     /* Differentiated activities */
-
     const diff =
-      g.differentiation ||
-      unpack.differentiation ||
-      [];
+      g.differentiation || unpack.differentiation || [];
 
     h += fold(
-
       'Differentiated activities — remediation · on-level · enrichment',
-
       diff.length
-
         ? diff.map((v, i) => `
-
             <div class="guide-activity">
-
-              <span class="guide-chip">
-                ${esc(v.level)}
-              </span>
-
-              <span class="guide-chip">
-                ${esc(v.time)}
-              </span>
-
-              <h4>
-                ${esc(v.title)}
-              </h4>
-
-              <p>
-                ${esc(v.activity)}
-              </p>
-
+              <span class="guide-chip">${esc(v.level)}</span>
+              <span class="guide-chip">${esc(v.time)}</span>
+              <h4>${esc(v.title)}</h4>
+              <p>${esc(v.activity)}</p>
               <p>
                 <strong>Scaffolds:</strong>
                 ${esc(v.scaffolds)}
               </p>
-
               <p>
                 <strong>Success check:</strong>
                 ${esc(v.success)}
               </p>
-
-              <button
-                class="guide-action"
-                data-copy-activity="${i}"
-              >
+              <button class="guide-action"
+                      type="button"
+                      data-copy-activity="${i}">
                 Copy activity
               </button>
-
             </div>
-
           `).join('')
-
         : '<p>Activities in development.</p>'
-
     );
 
-
     /* Assessment question bank */
-
     const questions =
-      g.questions ||
-      unpack.questions ||
-      [];
+      g.questions || unpack.questions || [];
 
     h += fold(
-
       'Assessment question bank',
-
       questions.length
-
         ? questions.map(q => `
-
             <div class="guide-question">
-
-              <span class="guide-chip">
-                ${esc(q.type)}
-              </span>
-
-              <p>
-                <strong>
-                  ${esc(q.prompt)}
-                </strong>
-              </p>
-
+              <span class="guide-chip">${esc(q.type)}</span>
+              <p><strong>${esc(q.prompt)}</strong></p>
               ${
                 q.options
-
                   ? `<ol type="A">
-
                       ${q.options.map(o =>
                         `<li>${esc(o)}</li>`
                       ).join('')}
-
                      </ol>`
-
                   : ''
               }
-
               <details>
-
                 <summary>
                   Show answer / scoring guidance
                 </summary>
-
-                <p>
-                  ${esc(q.answer || '')}
-                </p>
-
+                <p>${esc(q.answer || '')}</p>
                 ${
                   q.rationale
-
                     ? `<p class="guide-muted">
                         ${esc(q.rationale)}
                        </p>`
-
                     : ''
                 }
-
               </details>
-
             </div>
-
           `).join('')
-
         : '<p>Questions in development.</p>'
-
     );
-
 
     /* Evidence of mastery */
-
     h += fold(
-
       'Evidence of mastery',
-
       asList(g.evidence)
-
     );
-
 
     /* Instructional approaches */
-
     h += fold(
-
       'Instructional approaches and watch-fors',
-
       `
         <h4>Instructional approaches</h4>
-
         ${asList(g.instruction)}
-
         <h4>Watch for</h4>
-
         ${asList(g.watchFor)}
       `
-
     );
 
-
     /* Skill-specific instructional guidance */
-
     if (unpack.skills && x.code === unpack.code) {
-
       h += fold(
-
         'Skill-specific teaching guidance',
-
         Object.entries(unpack.skills)
-
           .map(([code, sk]) => `
-
             <div class="guide-activity">
-
               <h4>
-                ${esc(code)} —
-                ${esc(sk.focus || '')}
+                ${esc(code)} — ${esc(sk.focus || '')}
               </h4>
-
               <strong>Know</strong>
-
               ${asList(sk.know)}
-
               <strong>Understand</strong>
-
               ${asList(sk.understand)}
-
               <strong>Do</strong>
-
               ${asList(sk.do)}
-
             </div>
-
           `).join('')
-
       );
-
     }
-
   }
 
-
   /* Related expectations and skills */
-
   h += fold(
-
     `Related expectations and skills (${related.length})`,
-
     related.length
-
       ? related.slice(0, 100).map(v => `
-
           <div class="guide-activity">
-
-            <strong>
-              ${esc(v.code)}
-            </strong>
-
+            <strong>${esc(v.code)}</strong>
             · ${esc(v.type)}
-
-            <p>
-              ${esc(plain(v.text))}
-            </p>
-
+            ${formatOfficialStandard(v.text)}
           </div>
-
         `).join('')
-
       : '<p>No nested records found.</p>'
-
   );
 
   return h;
-
 }
 
-
-/* =========================================
-   OPEN A STANDARD
-========================================= */
+/* OPEN A STANDARD */
 
 function openItem(id) {
-
   const x = standards.find(v => v.id === id);
-
   if (!x) return;
 
   const related = standards.filter(v =>
-
     v.code.startsWith(x.code + '.') &&
-
     v.grade.some(g => x.grade.includes(g))
-
   );
 
   const parent = parents(x.code)
-
     .map(c => unpackings[c])
-
     .find(Boolean);
 
-  const unpack =
-    unpackings[x.code] ||
-    parent;
+  const unpack = unpackings[x.code] || parent;
 
   $('detailcontent').innerHTML =
     guide(x, unpack, related);
@@ -1331,16 +799,11 @@ function openItem(id) {
   $('detail').classList.remove('hidden');
 
   $('detail').scrollIntoView({
-
     behavior: 'smooth',
-
     block: 'start'
-
   });
 
-
   /* Copy activity functionality */
-
   const g =
     (unpack?.skills && unpack.skills[x.code]) ||
     unpack;
@@ -1351,11 +814,8 @@ function openItem(id) {
     [];
 
   document.querySelectorAll('[data-copy-activity]')
-
     .forEach(btn => {
-
       btn.addEventListener('click', async () => {
-
         const a =
           acts[Number(btn.dataset.copyActivity)];
 
@@ -1369,368 +829,186 @@ function openItem(id) {
           `Success check: ${a.success}`;
 
         try {
-
           await navigator.clipboard.writeText(copy);
-
           btn.textContent = 'Copied!';
-
         } catch (e) {
-
           btn.textContent = 'Clipboard unavailable';
-
         }
 
         setTimeout(() => {
-
           btn.textContent = 'Copy activity';
-
         }, 2000);
-
       });
-
     });
-
 }
 
-
-/* =========================================
-   GRADE-LEVEL INSTRUCTIONAL DATABASES
-========================================= */
+/* GRADE-LEVEL INSTRUCTIONAL DATABASES */
 
 const gradeFiles = [
-
-  {
-    grade: 9,
-    file: './unpackings-grade9.json'
-  },
-
-  {
-    grade: 10,
-    file: './unpackings-grade10.json'
-  },
-
-  {
-    grade: 11,
-    file: './unpackings-grade11.json'
-  },
-
-  {
-    grade: 12,
-    file: './unpackings-grade12.json'
-  }
-
+  { grade: 9, file: './unpackings-grade9.json' },
+  { grade: 10, file: './unpackings-grade10.json' },
+  { grade: 11, file: './unpackings-grade11.json' },
+  { grade: 12, file: './unpackings-grade12.json' }
 ];
 
-
-/* =========================================
-   LOAD OFFICIAL STANDARDS AND ALL FOUR
-   GRADE-LEVEL INSTRUCTIONAL DATABASES
-========================================= */
+/* LOAD STANDARDS AND INSTRUCTIONAL CARDS */
 
 async function load() {
-
   try {
-
-    /* Load the official Georgia standards */
-
-    const r = await fetch(
-
-      './standards.json',
-
-      {
-        cache: 'no-store'
-      }
-
-    );
+    const r = await fetch('./standards.json', {
+      cache: 'no-store'
+    });
 
     if (!r.ok) {
-
       throw Error(
         'standards.json returned HTTP ' + r.status
       );
-
     }
 
     const d = await r.json();
-
     standards = d.standards || [];
 
     if (!standards.length) {
-
       throw Error('No official standards found');
-
     }
 
     const sourceDate =
-
       d.source?.lastChangeDateTime?.slice(0, 10) ||
-
       'date unavailable';
 
-
-    /* Reset instructional database */
-
     unpackings = {};
-
     const gradeStatus = [];
-
     const errors = [];
 
-
-    /* Load all four grades independently */
-
     const results = await Promise.allSettled(
-
       gradeFiles.map(async entry => {
-
-        const response = await fetch(
-
-          entry.file,
-
-          {
-            cache: 'no-store'
-          }
-
-        );
+        const response = await fetch(entry.file, {
+          cache: 'no-store'
+        });
 
         if (!response.ok) {
-
-          throw Error(
-            'HTTP ' + response.status
-          );
-
+          throw Error('HTTP ' + response.status);
         }
 
         const data = await response.json();
 
         if (!Array.isArray(data.unpackings)) {
-
-          throw Error(
-            'Missing unpackings array'
-          );
-
+          throw Error('Missing unpackings array');
         }
-
-
-        /* Validate each instructional card */
 
         const seen = new Set();
 
         for (const card of data.unpackings) {
-
           if (!card || typeof card.code !== 'string') {
-
-            throw Error(
-              'Missing standard code'
-            );
-
+            throw Error('Missing standard code');
           }
 
           if (!card.code.startsWith(entry.grade + '.')) {
-
-            throw Error(
-              'Incorrect grade: ' + card.code
-            );
-
+            throw Error('Incorrect grade: ' + card.code);
           }
 
           if (seen.has(card.code)) {
-
-            throw Error(
-              'Duplicate card: ' + card.code
-            );
-
+            throw Error('Duplicate card: ' + card.code);
           }
 
           seen.add(card.code);
-
         }
 
         return data.unpackings;
-
       })
-
     );
 
-
-    /* Combine successfully loaded grades */
-
     results.forEach((result, index) => {
-
       const grade = gradeFiles[index].grade;
 
       if (result.status === 'fulfilled') {
-
         result.value.forEach(card => {
-
           unpackings[card.code] = card;
-
         });
 
         gradeStatus.push(
-
           'Grade ' + grade + ': ' +
-
           result.value.length + '/27 cards'
-
         );
-
       } else {
-
         errors.push(
-
           'Grade ' + grade + ': ' +
-
           result.reason.message
-
         );
-
       }
-
     });
-
-
-    /* Display loading status */
 
     const totalCards =
       Object.keys(unpackings).length;
 
     $('status').textContent =
-
       'Official data loaded · ' +
-
       standards.length.toLocaleString() +
-
       ' records · Source updated ' +
-
       sourceDate +
-
       ' · ' + totalCards +
-
       ' instructional cards loaded';
 
-
-    /* Display grade-by-grade card counts */
-
     if (gradeStatus.length) {
-
       $('status').textContent +=
-
         ' · ' + gradeStatus.join(' · ');
-
     }
 
-
-    /* Display any instructional database errors */
-
     if (errors.length) {
-
       $('status').textContent +=
-
         ' · ERROR: ' + errors.join(' · ');
 
       console.error(
-
         'Instructional loading errors:',
-
         errors
-
       );
-
     }
 
-
-    /* Display the standards */
-
     render();
-
   } catch (e) {
-
     $('status').textContent =
-
       'Could not load the standards database: ' +
-
       e.message;
 
     $('count').textContent = '';
-
   }
-
 }
 
-
-/* =========================================
-   SEARCH EVENT HANDLERS
-========================================= */
+/* SEARCH EVENT HANDLERS */
 
 function submitSearch() {
-
   limit = 30;
-
   render();
 
   $('explore').scrollIntoView({
-
     behavior: 'smooth',
-
     block: 'start'
-
   });
-
 }
 
-
-$('find').addEventListener(
-
-  'click',
-
-  submitSearch
-
-);
-
+$('find').addEventListener('click', submitSearch);
 
 $('query').addEventListener('keydown', e => {
-
   if (e.key === 'Enter') {
-
     e.preventDefault();
-
     submitSearch();
-
   }
-
 });
-
 
 ['query', 'grade', 'domain', 'type'].forEach(id => {
-
   $(id).addEventListener('input', () => {
-
     limit = 30;
-
     render();
-
   });
-
 });
 
-
 $('more').onclick = () => {
-
   limit += 30;
-
   render();
-
 };
 
-
-/* =========================================
-   INITIALIZE THE NAVIGATOR
-========================================= */
-
+/* INITIALIZE NAVIGATOR */
 load();
-
 </script>
-
 </body>
 </html>
