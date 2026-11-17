@@ -22319,5 +22319,903 @@
   "readingSelectionNote": "These texts are independently recommended rather than state-prescribed. Verify edition, access, permissions, reading level, and local instructional requirements. Reading times refer to selected excerpts unless otherwise specified."
 }
 
+,
+{
+  "code": "10.L.V.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "General, Academic, & Specialized Vocabulary",
+  "studentFriendly": "I can learn useful vocabulary from challenging texts and choose precise words for different audiences, subjects, and real-world situations.",
+  "know": [
+    "General vocabulary includes words used in everyday communication.",
+    "Academic vocabulary includes words used across school subjects, such as analyze, evaluate, and significant.",
+    "Specialized vocabulary includes terms used within disciplines, technical fields, and professions.",
+    "Words may have different meanings or connotations in different contexts.",
+    "Print, digital, and multimodal texts provide opportunities to acquire vocabulary.",
+    "Register is the level and style of language appropriate to a particular context.",
+    "Effective vocabulary choices depend on audience, purpose, discipline, and communication setting.",
+    "Precision matters more than using unnecessarily complicated words."
+  ],
+  "understand": [
+    "Vocabulary knowledge expands through meaningful encounters with words in context.",
+    "Specialized vocabulary helps people communicate efficiently within a field.",
+    "Writers and speakers adjust vocabulary to meet audience needs.",
+    "The most effective word is not necessarily the most sophisticated word.",
+    "Precise vocabulary supports accurate reasoning and clear communication.",
+    "A word learned in one context may need to be reconsidered in another."
+  ],
+  "do": [
+    "Identify unfamiliar general, academic, and specialized vocabulary in grade-level texts.",
+    "Use contextual information and reliable references to establish meaning.",
+    "Maintain a vocabulary record with definitions, examples, and authentic uses.",
+    "Compare how terms function across disciplines and professional settings.",
+    "Apply newly acquired vocabulary in speaking and writing.",
+    "Select precise words for a particular audience and purpose.",
+    "Revise vague, inflated, or inappropriate wording.",
+    "Explain why one word is more effective than a possible alternative."
+  ],
+  "vocabulary": [
+    {
+      "term": "General vocabulary",
+      "definition": "Words used broadly in everyday communication.",
+      "example": "Explain, repair, compare."
+    },
+    {
+      "term": "Academic vocabulary",
+      "definition": "Words used frequently in learning and analysis across subjects.",
+      "example": "Interpret, synthesize, evaluate."
+    },
+    {
+      "term": "Disciplinary vocabulary",
+      "definition": "Terms associated with a particular field of study.",
+      "example": "Metaphor in literature; isotope in chemistry."
+    },
+    {
+      "term": "Technical vocabulary",
+      "definition": "Specialized terms describing tools, systems, methods, or processes.",
+      "example": "Algorithm, calibration, torque."
+    },
+    {
+      "term": "Professional vocabulary",
+      "definition": "Language commonly used within an occupation or workplace.",
+      "example": "Client intake, diagnostic report, procurement."
+    },
+    {
+      "term": "Register",
+      "definition": "A variety or level of language suited to a social or professional situation.",
+      "example": "A formal research presentation uses different language from a text to a friend."
+    },
+    {
+      "term": "Denotation",
+      "definition": "A word's direct or conventional meaning.",
+      "example": "Frugal means careful about spending."
+    },
+    {
+      "term": "Connotation",
+      "definition": "The associations or feelings a word may suggest.",
+      "example": "Frugal and stingy can describe similar behavior but suggest different judgments."
+    },
+    {
+      "term": "Precision",
+      "definition": "The accurate expression of a specific meaning.",
+      "example": "Using declined by 12 percent instead of changed a lot."
+    },
+    {
+      "term": "Nuance",
+      "definition": "A subtle distinction in meaning or effect.",
+      "example": "The difference between skeptical and cynical."
+    },
+    {
+      "term": "Multimodal text",
+      "definition": "Communication combining modes such as words, images, audio, or video.",
+      "example": "A scientific explainer with narration, diagrams, and captions."
+    },
+    {
+      "term": "Context",
+      "definition": "The surrounding language, situation, and subject that help establish meaning.",
+      "example": "The meaning of cell changes between biology and criminal justice."
+    }
+  ],
+  "targets": [
+    "I can identify important academic and specialized vocabulary in challenging texts.",
+    "I can determine how a word is used within a particular discipline.",
+    "I can explain the meaning of a newly acquired term using an authentic example.",
+    "I can use precise vocabulary when communicating about a subject.",
+    "I can adapt word choices for academic, professional, and everyday audiences.",
+    "I can revise vague language to communicate more accurately."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Scientific and historical nonfiction",
+      "purpose": "Examine how scientific terminology is introduced and explained for general readers.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Provide biological and historical context; review sensitive material.",
+      "interestHook": "Medical discoveries become understandable through the story of a real family.",
+      "teachingPrompt": "Which scientific terms are essential, and how does the writer make them accessible?",
+      "alignment": ["10.L.V.1.a", "10.L.V.1.b"]
+    },
+    {
+      "title": "The Boy Who Harnessed the Wind",
+      "author": "William Kamkwamba and Bryan Mealer",
+      "genre": "Memoir and engineering nonfiction",
+      "purpose": "Develop technical vocabulary through an engaging account of invention.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "20–25 minutes",
+      "highInterest": true,
+      "accessibility": "Support engineering terms with diagrams and photographs.",
+      "interestHook": "A teenager learns enough engineering to solve a community problem.",
+      "teachingPrompt": "How does the author introduce unfamiliar technical concepts without losing the reader?",
+      "alignment": ["10.L.V.1.a"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Analyze precise language, connotation, and register in a public presentation.",
+      "access": "Authorized TED talk video or transcript.",
+      "readingTime": "15–20 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Accessible; provide context for cultural references.",
+      "interestHook": "Small choices in language shape how people understand one another.",
+      "teachingPrompt": "Which words carry important connotations, and how do they shape the speaker's message?",
+      "alignment": ["10.L.V.1.a", "10.L.V.1.b"]
+    },
+    {
+      "title": "NASA Earth Observatory",
+      "author": "NASA Earth Observatory contributors",
+      "genre": "Scientific articles and multimodal explanations",
+      "purpose": "Acquire disciplinary vocabulary through prose, imagery, captions, and data.",
+      "access": "NASA Earth Observatory website; select a specific article.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Select an article appropriate to students' science knowledge.",
+      "interestHook": "Satellite images reveal environmental changes that require scientific explanation.",
+      "teachingPrompt": "Which terms are necessary to interpret the image accurately?",
+      "alignment": ["10.L.V.1.a"]
+    },
+    {
+      "title": "Our World in Data",
+      "author": "Our World in Data contributors",
+      "genre": "Data-driven explanatory writing",
+      "purpose": "Examine precise quantitative and analytical vocabulary.",
+      "access": "Our World in Data website; select and verify an article.",
+      "readingTime": "15–25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide graph-reading support and definitions of statistical terms.",
+      "interestHook": "The difference between a rate and a total can change an interpretation.",
+      "teachingPrompt": "How would replacing a precise statistical term with a vague synonym distort the explanation?",
+      "alignment": ["10.L.V.1.a", "10.L.V.1.b"]
+    },
+    {
+      "title": "A Professional Communication Set",
+      "author": "Teacher-curated authentic documents",
+      "genre": "Email, report, instructions, and public-facing explanation",
+      "purpose": "Compare vocabulary choices across professional and everyday settings.",
+      "access": "Teacher-created or appropriately licensed examples.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Use familiar situations such as school events, jobs, and community services.",
+      "interestHook": "The same information can sound confusing, rude, or clear depending on the words chosen.",
+      "teachingPrompt": "Which words would you change when addressing a client instead of a specialist?",
+      "alignment": ["10.L.V.1.b"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Vocabulary in Context",
+      "activity": "Students locate six important words in a short article, infer their meanings, confirm definitions, and write original example sentences.",
+      "materials": ["Short article", "Vocabulary organizer", "Dictionary"],
+      "scaffolds": ["Preselect essential words.", "Model the difference between a contextual meaning and a dictionary's first definition."],
+      "success": "Students explain the contextual meanings of at least five words and use them accurately.",
+      "alignment": ["10.L.V.1.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Replace the Vague Word",
+      "activity": "Students revise sentences containing vague words such as good, bad, thing, and stuff, choosing more precise language suited to the topic.",
+      "materials": ["Revision sentences", "Word bank", "Audience prompts"],
+      "scaffolds": ["Offer two or three plausible alternatives.", "Discuss differences in meaning before revising."],
+      "success": "Students improve the precision of four sentences and explain two choices.",
+      "alignment": ["10.L.V.1.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "Vocabulary Across Disciplines",
+      "activity": "Students investigate how five words function in at least two fields, using authentic examples to explain changes in meaning.",
+      "materials": ["Articles from different disciplines", "Comparison matrix"],
+      "scaffolds": ["Begin with terms such as model, theory, function, and evidence."],
+      "success": "Students accurately explain disciplinary differences and use the terms in context.",
+      "alignment": ["10.L.V.1.a", "10.L.V.1.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "One Message, Three Audiences",
+      "activity": "Students explain the same technical topic to a specialist, a younger student, and a general audience, adjusting vocabulary and register while preserving accuracy.",
+      "materials": ["Source article", "Audience profiles", "Revision checklist"],
+      "scaffolds": ["Model an audience-specific definition."],
+      "success": "Each explanation uses appropriate vocabulary, and the student can justify the differences.",
+      "alignment": ["10.L.V.1.b"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "The Precision Audit",
+      "activity": "Students analyze vocabulary in a scientific, political, or professional text, identifying ambiguous terms, loaded connotations, and places where technical precision affects interpretation.",
+      "materials": ["Authentic text", "Reference sources", "Analysis rubric"],
+      "scaffolds": ["Require explanations grounded in the text's purpose and audience."],
+      "success": "Students produce an evidence-based critique and a revised passage.",
+      "alignment": ["10.L.V.1.a", "10.L.V.1.b"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "Build a Field Guide",
+      "activity": "Students create a digital vocabulary guide for a career or academic discipline, using authentic examples, definitions, audience notes, and distinctions among commonly confused terms.",
+      "materials": ["Research databases", "Digital publishing tool"],
+      "scaffolds": ["Require source verification and an authentic intended audience."],
+      "success": "The guide is accurate, usable, and demonstrates appropriate specialized vocabulary.",
+      "alignment": ["10.L.V.1.a", "10.L.V.1.b"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "In a biology article, the word culture refers to growing cells under controlled conditions. Which kind of vocabulary use does this illustrate?",
+      "options": [
+        "A specialized disciplinary meaning",
+        "An informal greeting",
+        "A meaningless repetition",
+        "An unrelated spelling rule"
+      ],
+      "answer": "A specialized disciplinary meaning",
+      "rationale": "A familiar word can acquire a specific meaning within a discipline.",
+      "alignment": ["10.L.V.1.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Choose one unfamiliar technical term from a grade-level article. Explain its contextual meaning and how the surrounding text helped you understand it.",
+      "answer": "A strong response accurately defines the term and identifies useful contextual information.",
+      "rationale": "Students demonstrate vocabulary acquisition through authentic reading.",
+      "alignment": ["10.L.V.1.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which sentence is most precise for a scientific report?",
+      "options": [
+        "The water got kind of worse.",
+        "The water quality changed a bunch.",
+        "The sample's nitrate concentration increased from 2 to 8 milligrams per liter.",
+        "There was some stuff in the water."
+      ],
+      "answer": "The sample's nitrate concentration increased from 2 to 8 milligrams per liter.",
+      "rationale": "The sentence communicates a measurable change using precise disciplinary language.",
+      "alignment": ["10.L.V.1.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain the term biodiversity for a biology class and then for an elementary school audience. Describe the vocabulary choices you made.",
+      "answer": "A strong response maintains scientific accuracy while adjusting terminology, examples, and level of explanation.",
+      "rationale": "Students demonstrate audience-appropriate vocabulary use.",
+      "alignment": ["10.L.V.1.b"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a one-page vocabulary guide for a career or academic field, defining eight important terms, demonstrating their authentic use, and explaining how two terms should be adapted for a general audience.",
+      "answer": "Evaluate accuracy, contextual examples, specialized vocabulary, clarity, and audience adaptation.",
+      "rationale": "The task integrates vocabulary acquisition and precise communication.",
+      "alignment": ["10.L.V.1.a", "10.L.V.1.b"]
+    }
+  ],
+  "evidence": [
+    "A vocabulary record containing accurate contextual definitions and original examples.",
+    "A comparison of specialized word meanings across disciplines.",
+    "An audience-specific revision demonstrating precise vocabulary choices.",
+    "An authentic communication using appropriate academic or professional terminology.",
+    "A written explanation justifying word choices."
+  ],
+  "instruction": [
+    "Teach vocabulary through authentic reading, listening, viewing, speaking, and writing.",
+    "Distinguish general, academic, disciplinary, technical, and professional uses.",
+    "Select high-utility terms rather than assigning large disconnected word lists.",
+    "Use student-friendly definitions followed by authentic examples.",
+    "Build repeated opportunities to apply new vocabulary.",
+    "Model how word choice changes for audience and purpose.",
+    "Teach precision and nuance instead of rewarding unnecessarily difficult words."
+  ],
+  "watchFor": [
+    "Memorizing definitions without recognizing contextual meaning.",
+    "Assuming a familiar word has the same meaning in every discipline.",
+    "Using advanced vocabulary inaccurately to sound sophisticated.",
+    "Confusing formal register with excessive complexity.",
+    "Replacing technical terms with simpler words that change the meaning.",
+    "Learning vocabulary only for a quiz rather than applying it."
+  ],
+  "skills": {
+    "10.L.V.1.a": {
+      "focus": "Acquire vocabulary from grade-level texts and content",
+      "studentFriendly": "I can learn general, academic, and specialized words from challenging texts and use context to understand them.",
+      "know": [
+        "Vocabulary varies by discipline, medium, and setting.",
+        "Authentic examples reveal how words function.",
+        "Reference tools can confirm meaning."
+      ],
+      "understand": [
+        "Vocabulary grows through meaningful use and repeated exposure.",
+        "Context determines which meaning of a word is appropriate."
+      ],
+      "do": [
+        "Identify useful unfamiliar terms.",
+        "Determine and verify contextual meanings.",
+        "Collect authentic examples from print, digital, and multimodal texts.",
+        "Use new vocabulary in original explanations."
+      ],
+      "targets": [
+        "I can explain a word's meaning in context.",
+        "I can use a newly learned term accurately."
+      ],
+      "instruction": [
+        "Use vocabulary notebooks and authentic disciplinary texts.",
+        "Provide repeated reading, discussion, and writing opportunities."
+      ],
+      "evidence": [
+        "A contextual vocabulary record.",
+        "Accurate use of new terms in an original response."
+      ],
+      "watchFor": [
+        "Definitions memorized without contextual understanding."
+      ]
+    },
+    "10.L.V.1.b": {
+      "focus": "Use precise vocabulary for varied settings and audiences",
+      "studentFriendly": "I can choose accurate words and adjust my language for academic, professional, and everyday communication.",
+      "know": [
+        "Word choice depends on audience, purpose, and setting.",
+        "Register and connotation influence interpretation.",
+        "Precise words reduce ambiguity."
+      ],
+      "understand": [
+        "Effective vocabulary choices serve communication rather than display.",
+        "Different audiences may need different explanations of the same concept."
+      ],
+      "do": [
+        "Choose accurate general and specialized terms.",
+        "Adjust style and register for a communication setting.",
+        "Revise vague or misleading wording.",
+        "Explain the effects of vocabulary choices."
+      ],
+      "targets": [
+        "I can use precise vocabulary.",
+        "I can adapt language for a specific audience."
+      ],
+      "instruction": [
+        "Compare communications written for different audiences.",
+        "Use authentic revision tasks involving academic and professional settings."
+      ],
+      "evidence": [
+        "Two audience-specific versions of the same explanation.",
+        "A revision commentary explaining precise word choices."
+      ],
+      "watchFor": [
+        "Using jargon without considering the audience.",
+        "Substituting complexity for accuracy."
+      ]
+    }
+  },
+  "readingSelectionNote": "These are independently developed instructional recommendations, not Georgia-prescribed texts. Verify editions, availability, permissions, reading level, and local instructional requirements."
+},
+{
+  "code": "10.L.V.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Word Analysis",
+  "studentFriendly": "I can use word parts, word histories, grammar, and context to figure out unfamiliar words and build precise words for my own writing.",
+  "know": [
+    "Etymology is the study of a word's history and development.",
+    "Roots and affixes provide clues to meaning but do not always determine a word's current meaning.",
+    "Greek and Latin elements occur in many academic, scientific, and professional terms.",
+    "Prefixes can modify a word's meaning, while suffixes can change meaning or grammatical function.",
+    "A word's part of speech helps determine how it functions in a sentence.",
+    "The same word form may function as more than one part of speech.",
+    "Some words are formed by combining meaningful elements.",
+    "Effective word construction must follow accepted usage and fit the context.",
+    "Writers choose words according to grammatical role, precision, tone, and audience."
+  ],
+  "understand": [
+    "Word analysis combines knowledge of structure, history, grammar, and context.",
+    "A plausible meaning based on a root should be checked against the actual sentence.",
+    "Etymology can illuminate relationships among words without fully explaining modern usage.",
+    "Grammatical function helps readers resolve ambiguity.",
+    "Word construction can expand vocabulary when it follows meaningful patterns.",
+    "Precise writing depends on selecting words that perform the intended grammatical and rhetorical functions."
+  ],
+  "do": [
+    "Break unfamiliar words into recognizable roots, prefixes, and suffixes.",
+    "Use Greek and Latin elements to develop plausible meaning hypotheses.",
+    "Consult context and reliable references to verify meanings.",
+    "Use etymology to explain relationships among words.",
+    "Identify how parts of speech function in authentic sentences.",
+    "Determine how a word's grammatical role affects its meaning.",
+    "Construct words using appropriate roots and affixes.",
+    "Use constructed or derived words correctly in context.",
+    "Select precise nouns, verbs, adjectives, adverbs, and other forms for original writing.",
+    "Revise awkward or inaccurate word forms."
+  ],
+  "vocabulary": [
+    {
+      "term": "Etymology",
+      "definition": "The study of the history and development of words.",
+      "example": "Investigating the Greek elements behind the word biology."
+    },
+    {
+      "term": "Root",
+      "definition": "A core word element that contributes meaning.",
+      "example": "Spect relates to looking in inspect and spectator."
+    },
+    {
+      "term": "Prefix",
+      "definition": "A meaningful element attached to the beginning of a word.",
+      "example": "Pre- in preview."
+    },
+    {
+      "term": "Suffix",
+      "definition": "An element attached to the end of a word.",
+      "example": "-ist in scientist."
+    },
+    {
+      "term": "Affix",
+      "definition": "A word element added to a base or root.",
+      "example": "Re- and -able are affixes."
+    },
+    {
+      "term": "Morpheme",
+      "definition": "The smallest meaningful unit in a word.",
+      "example": "Un-, help, and -ful in unhelpful."
+    },
+    {
+      "term": "Derivation",
+      "definition": "The formation of a word from another word or root, often by adding an affix.",
+      "example": "Analyze becomes analysis or analytical through related word forms."
+    },
+    {
+      "term": "Part of speech",
+      "definition": "A grammatical category describing how a word functions.",
+      "example": "Research can function as a noun or a verb."
+    },
+    {
+      "term": "Noun",
+      "definition": "A word functioning as a name for a person, place, thing, or concept.",
+      "example": "The analysis revealed a pattern."
+    },
+    {
+      "term": "Verb",
+      "definition": "A word expressing an action, occurrence, or state.",
+      "example": "Scientists analyze the results."
+    },
+    {
+      "term": "Adjective",
+      "definition": "A word that modifies a noun or pronoun.",
+      "example": "The analytical report was detailed."
+    },
+    {
+      "term": "Adverb",
+      "definition": "A word that can modify a verb, adjective, another adverb, or an entire clause.",
+      "example": "The researchers carefully reviewed the evidence."
+    },
+    {
+      "term": "Word family",
+      "definition": "A group of related words sharing a base, root, or historical connection.",
+      "example": "Construct, construction, constructive, reconstruct."
+    },
+    {
+      "term": "Contextual meaning",
+      "definition": "The meaning a word has in a particular passage or situation.",
+      "example": "Address means speak to in address the problem."
+    }
+  ],
+  "targets": [
+    "I can use roots, affixes, and etymology to investigate unfamiliar words.",
+    "I can verify a possible word meaning using context.",
+    "I can explain how a word's part of speech influences its meaning.",
+    "I can distinguish grammatical functions of the same word form.",
+    "I can build appropriate words using roots and affixes.",
+    "I can use newly constructed or derived words accurately.",
+    "I can select precise word forms for my writing.",
+    "I can revise grammatical word choices to improve clarity."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Scientific nonfiction",
+      "purpose": "Analyze Greek and Latin elements in biological and medical vocabulary.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "15–25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide context and review sensitive material.",
+      "interestHook": "Medical terminology becomes more understandable when its components are examined.",
+      "teachingPrompt": "Which scientific words can you partially decode, and how does the passage confirm or challenge your prediction?",
+      "alignment": ["10.L.V.2.a", "10.L.V.2.b"]
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic novel",
+      "purpose": "Study historical vocabulary, word families, and grammatical functions in challenging prose.",
+      "access": "Public-domain text.",
+      "readingTime": "20–25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Support nineteenth-century syntax and unfamiliar word usage.",
+      "interestHook": "A classic scientific horror story offers rich language for investigation.",
+      "teachingPrompt": "Where does knowing a root help, and where must you rely on sentence context?",
+      "alignment": ["10.L.V.2.a", "10.L.V.2.b"]
+    },
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "genre": "Psychological short fiction",
+      "purpose": "Analyze how parts of speech and word choices shape the narrator's meaning.",
+      "access": "Public-domain story.",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Accessible with support for older vocabulary and figurative expressions.",
+      "interestHook": "Unusual word choices help reveal an unreliable narrator.",
+      "teachingPrompt": "How does a word's grammatical function influence its meaning in a particular sentence?",
+      "alignment": ["10.L.V.2.b", "10.L.V.2.d"]
+    },
+    {
+      "title": "NASA Earth Observatory",
+      "author": "NASA Earth Observatory contributors",
+      "genre": "Scientific explanatory articles",
+      "purpose": "Investigate roots, affixes, and constructed scientific vocabulary in authentic context.",
+      "access": "NASA Earth Observatory website; select a specific article.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Choose a text aligned to students' science knowledge.",
+      "interestHook": "Understanding word parts can unlock unfamiliar scientific concepts.",
+      "teachingPrompt": "How do the components of a technical term help you predict its meaning?",
+      "alignment": ["10.L.V.2.a", "10.L.V.2.c"]
+    },
+    {
+      "title": "A Professional Writing Sample",
+      "author": "Teacher-curated authentic or model text",
+      "genre": "Workplace communication",
+      "purpose": "Revise word forms and parts of speech for clarity and precision.",
+      "access": "Teacher-created or appropriately licensed sample.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Use a familiar workplace or school scenario.",
+      "interestHook": "One grammatical word choice can change whether a message sounds clear and professional.",
+      "teachingPrompt": "Would a noun, verb, or adjective communicate the idea more effectively here?",
+      "alignment": ["10.L.V.2.c", "10.L.V.2.d"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Break the Word Apart",
+      "activity": "Students divide familiar academic words into meaningful elements, predict meanings, and verify those predictions in authentic sentences.",
+      "materials": ["Word-part cards", "Context sentences", "Reference source"],
+      "scaffolds": ["Begin with transparent examples such as biography and reconstruct.", "Avoid treating every letter sequence as a meaningful root."],
+      "success": "Students accurately analyze four words and verify their contextual meanings.",
+      "alignment": ["10.L.V.2.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Same Word, Different Job",
+      "activity": "Students examine pairs such as 'We research the issue' and 'The research is extensive,' identifying how grammatical function changes.",
+      "materials": ["Sentence pairs", "Part-of-speech chart"],
+      "scaffolds": ["Highlight the surrounding words.", "Model how sentence position and grammatical relationships provide clues."],
+      "success": "Students identify grammatical functions and explain their contextual meanings.",
+      "alignment": ["10.L.V.2.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Build a Word Family",
+      "activity": "Students construct related words from a root or base, verify which forms are established English words, and use them in original sentences.",
+      "materials": ["Root cards", "Affix cards", "Dictionary"],
+      "scaffolds": ["Use established word families.", "Model how spelling may change during word formation."],
+      "success": "Students construct and correctly use at least four valid related words.",
+      "alignment": ["10.L.V.2.c"]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "The Etymology Investigation",
+      "activity": "Students trace the history and components of five unfamiliar academic words, compare their predicted meanings with current usage, and explain discrepancies.",
+      "materials": ["Authentic article", "Etymological dictionary", "Investigation organizer"],
+      "scaffolds": ["Require verification of roots and word histories."],
+      "success": "Students explain the relationship between word structure, history, and contextual meaning.",
+      "alignment": ["10.L.V.2.a"]
+    },
+    {
+      "level": "On-Level",
+      "time": "35 minutes",
+      "title": "Grammar Changes Meaning",
+      "activity": "Students analyze ambiguous or flexible words in authentic passages and rewrite sentences to demonstrate how parts of speech influence meaning.",
+      "materials": ["Passage excerpts", "Sentence transformation guide"],
+      "scaffolds": ["Use terms such as challenge, record, impact, and research."],
+      "success": "Students accurately explain grammatical function and the resulting meaning.",
+      "alignment": ["10.L.V.2.b", "10.L.V.2.d"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Construct and Apply",
+      "activity": "Students build related academic words using roots and affixes, verify their forms, and write a coherent explanatory paragraph incorporating at least five.",
+      "materials": ["Root reference chart", "Dictionary", "Writing prompt"],
+      "scaffolds": ["Require the paragraph to demonstrate meaning, not simply contain the words."],
+      "success": "The paragraph uses valid word forms accurately and naturally.",
+      "alignment": ["10.L.V.2.c", "10.L.V.2.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "When Roots Mislead",
+      "activity": "Students investigate words whose modern meanings cannot be reliably inferred from their historical components alone. They create an evidence-based explanation of semantic change.",
+      "materials": ["Etymological references", "Historical usage examples"],
+      "scaffolds": ["Distinguish documented etymology from appealing but unsupported folk explanations."],
+      "success": "Students explain how a word's history and present-day meaning can diverge.",
+      "alignment": ["10.L.V.2.a", "10.L.V.2.b"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Two class periods",
+      "title": "The Language Design Lab",
+      "activity": "Students analyze specialized terminology in an emerging field, construct plausible new terms using meaningful elements, and evaluate whether the forms communicate clearly and follow established patterns.",
+      "materials": ["Disciplinary articles", "Morphology references", "Peer review guide"],
+      "scaffolds": ["Clearly distinguish established terms from invented proposals."],
+      "success": "Students justify word construction and demonstrate precise contextual use.",
+      "alignment": ["10.L.V.2.c", "10.L.V.2.d"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "The prefix pre- means before. Which interpretation of prehistoric is most reasonable?",
+      "options": [
+        "After recorded history",
+        "Before recorded history",
+        "Against historical study",
+        "A person who studies history"
+      ],
+      "answer": "Before recorded history",
+      "rationale": "The prefix provides a useful meaning clue, which should be confirmed in context.",
+      "alignment": ["10.L.V.2.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Use recognizable word elements to predict the meaning of biodegradable. Then explain how you would verify your prediction.",
+      "answer": "Bio- relates to life and degradable means capable of breaking down. The word describes material that can be broken down by biological processes. Verify with context and a reliable reference.",
+      "rationale": "Students combine morphological analysis with verification.",
+      "alignment": ["10.L.V.2.a"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "In which sentence does the word record function as a verb?",
+      "options": [
+        "The record was accurate.",
+        "She will record the results.",
+        "The record contains several errors.",
+        "That record belongs in the archive."
+      ],
+      "answer": "She will record the results.",
+      "rationale": "Record expresses an action in this sentence.",
+      "alignment": ["10.L.V.2.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how the word challenge functions differently in 'The challenge was difficult' and 'We challenge the conclusion.'",
+      "answer": "Challenge is a noun in the first sentence and a verb in the second. Its grammatical role changes how it contributes to the sentence's meaning.",
+      "rationale": "Students analyze grammatical function in context.",
+      "alignment": ["10.L.V.2.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which word is formed by adding a prefix to construct?",
+      "options": [
+        "Reconstruct",
+        "Construction",
+        "Constructive",
+        "Constructively"
+      ],
+      "answer": "Reconstruct",
+      "rationale": "Re- is a prefix attached before the base construct.",
+      "alignment": ["10.L.V.2.c"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Construct two valid words related to the base act using affixes. Use each in an original sentence.",
+      "answer": "Examples include react and action. Responses should demonstrate correct word formation and appropriate contextual use.",
+      "rationale": "Students apply morphological knowledge rather than only recognizing word parts.",
+      "alignment": ["10.L.V.2.c"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which sentence uses the appropriate word form?",
+      "options": [
+        "The report provides an analyze of the results.",
+        "The report provides an analytical of the results.",
+        "The report provides an analysis of the results.",
+        "The report provides an analyzing of the results."
+      ],
+      "answer": "The report provides an analysis of the results.",
+      "rationale": "The noun analysis correctly completes the grammatical structure.",
+      "alignment": ["10.L.V.2.d"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Revise 'The committee made an evaluation of the plan' to use a more direct verb. Explain the effect.",
+      "answer": "The committee evaluated the plan. The revision replaces a noun-heavy construction with a direct verb, improving concision.",
+      "rationale": "Students select word forms for precise and effective communication.",
+      "alignment": ["10.L.V.2.d"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Analyze six unfamiliar words from an authentic article, explain their components and contextual meanings, construct four related valid words, and revise a paragraph using precise grammatical forms.",
+      "answer": "Evaluate morphological accuracy, contextual verification, valid word construction, and effective word choice.",
+      "rationale": "The task integrates all four word-analysis expectations.",
+      "alignment": ["10.L.V.2.a", "10.L.V.2.b", "10.L.V.2.c", "10.L.V.2.d"]
+    }
+  ],
+  "evidence": [
+    "A morphological analysis of unfamiliar words with contextual verification.",
+    "An explanation of how parts of speech affect meaning.",
+    "A word-family chart containing correctly constructed forms.",
+    "Original sentences demonstrating accurate use of derived words.",
+    "A revised paragraph using precise and effective grammatical forms."
+  ],
+  "instruction": [
+    "Teach Greek and Latin roots through authentic grade-level texts.",
+    "Combine word-part analysis with contextual verification.",
+    "Use reliable etymological references rather than unsupported word-origin stories.",
+    "Model how parts of speech influence meaning in real sentences.",
+    "Teach word construction with established patterns and dictionary verification.",
+    "Connect morphology to sentence-level writing and revision.",
+    "Encourage students to explain why a particular word form is effective."
+  ],
+  "watchFor": [
+    "Assuming a root always predicts the modern meaning exactly.",
+    "Treating any familiar letter sequence as a meaningful root.",
+    "Inventing etymologies based on resemblance.",
+    "Identifying parts of speech without considering sentence function.",
+    "Constructing nonexistent words and presenting them as standard usage.",
+    "Choosing a grammatically possible word form that is inappropriate in context.",
+    "Using word-analysis worksheets without transferring the skill to reading or writing."
+  ],
+  "skills": {
+    "10.L.V.2.a": {
+      "focus": "Analyze unfamiliar words using roots, affixes, and etymology",
+      "studentFriendly": "I can break unfamiliar words into meaningful parts and use their histories to predict meanings in context.",
+      "know": [
+        "Roots and affixes contribute to word meaning.",
+        "Greek and Latin elements appear in academic and specialized vocabulary.",
+        "Word histories may differ from current usage."
+      ],
+      "understand": [
+        "Morphological clues are useful but require contextual verification."
+      ],
+      "do": [
+        "Identify meaningful roots and affixes.",
+        "Use etymology to develop a meaning hypothesis.",
+        "Verify the meaning in context."
+      ],
+      "targets": [
+        "I can explain the components of an unfamiliar word.",
+        "I can confirm its contextual meaning."
+      ],
+      "instruction": [
+        "Model word analysis with authentic texts.",
+        "Use reliable dictionaries and etymological references."
+      ],
+      "evidence": [
+        "An annotated word analysis with a verified definition."
+      ],
+      "watchFor": [
+        "Assuming a word's historical components determine every modern meaning."
+      ]
+    },
+    "10.L.V.2.b": {
+      "focus": "Determine meaning through parts of speech",
+      "studentFriendly": "I can use a word's grammatical job in a sentence to understand what it means.",
+      "know": [
+        "Words function as different parts of speech.",
+        "Some word forms can perform more than one grammatical role."
+      ],
+      "understand": [
+        "Grammatical relationships help determine meaning."
+      ],
+      "do": [
+        "Identify a word's part of speech in context.",
+        "Analyze surrounding grammatical relationships.",
+        "Explain the resulting meaning."
+      ],
+      "targets": [
+        "I can explain how grammatical function affects a word's meaning."
+      ],
+      "instruction": [
+        "Compare the same word used in different grammatical roles."
+      ],
+      "evidence": [
+        "A contextual analysis of a word's grammatical function."
+      ],
+      "watchFor": [
+        "Assigning a part of speech based on the word alone."
+      ]
+    },
+    "10.L.V.2.c": {
+      "focus": "Construct words using roots and affixes",
+      "studentFriendly": "I can build valid words using roots and affixes and use those words correctly.",
+      "know": [
+        "Roots and affixes combine according to established patterns.",
+        "Spelling may change when word forms are constructed."
+      ],
+      "understand": [
+        "Word construction can expand expressive vocabulary when the result fits standard usage."
+      ],
+      "do": [
+        "Construct related words using appropriate roots and affixes.",
+        "Verify word forms.",
+        "Use constructed words accurately in context."
+      ],
+      "targets": [
+        "I can create valid related words.",
+        "I can use them appropriately in sentences."
+      ],
+      "instruction": [
+        "Build word families from authentic academic vocabulary.",
+        "Verify forms with reliable references."
+      ],
+      "evidence": [
+        "A word-family chart and original contextual sentences."
+      ],
+      "watchFor": [
+        "Assuming every combination of root and affix is a valid English word."
+      ]
+    },
+    "10.L.V.2.d": {
+      "focus": "Select precise word forms when composing",
+      "studentFriendly": "I can choose nouns, verbs, adjectives, and other word forms that make my writing clear and effective.",
+      "know": [
+        "Parts of speech perform different grammatical functions.",
+        "Word form influences sentence clarity and style."
+      ],
+      "understand": [
+        "Precise grammatical choices help writers communicate intended meanings."
+      ],
+      "do": [
+        "Select appropriate word forms.",
+        "Revise awkward or vague constructions.",
+        "Explain how a word choice improves a sentence."
+      ],
+      "targets": [
+        "I can use the correct word form.",
+        "I can revise wording for greater precision."
+      ],
+      "instruction": [
+        "Use sentence revision with authentic student writing.",
+        "Compare noun-heavy and verb-centered constructions."
+      ],
+      "evidence": [
+        "A revised paragraph with a word-choice rationale."
+      ],
+      "watchFor": [
+        "Using a grammatically incorrect form.",
+        "Assuming a more complex word is always more effective."
+      ]
+    }
+  },
+  "readingSelectionNote": "These are independently developed instructional recommendations, not Georgia-prescribed texts. Verify editions, availability, permissions, reading level, and local instructional requirements."
+}
+
   ]
 }
