@@ -716,5 +716,809 @@
     },
     "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, permissions, reading level, source currency, and age suitability."
   }
+    
+,
+{
+  "code": "11.T.T.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Argumentative Techniques",
+  "studentFriendly": "I can evaluate how arguments use evidence, reasoning, rhetorical techniques, and logical fallacies to influence audiences, and I can strategically combine these techniques to construct convincing, responsible arguments.",
+  "know": [
+    "Arguments communicate claims supported by reasons and evidence.",
+    "Argumentative techniques include claims, counterclaims, rebuttals, concessions, evidence, and rhetorical appeals.",
+    "Argumentative texts can combine logical, ethical, and emotional appeals.",
+    "Rhetorical techniques influence how audiences interpret arguments and respond to claims.",
+    "Logical fallacies are errors in reasoning that weaken the relationship between evidence and conclusions.",
+    "Common fallacies include false dilemma, hasty generalization, straw man, ad hominem, circular reasoning, and false cause.",
+    "Arguments can use accurate evidence but still employ flawed reasoning.",
+    "Writers make choices about evidence, organization, and language according to audience and purpose.",
+    "Rhetorical devices such as parallelism, repetition, analogy, and rhetorical questions can strengthen an argument.",
+    "Ethical argumentation requires accurate representation of evidence and opposing perspectives."
+  ],
+  "understand": [
+    "An argument's effectiveness depends on its reasoning, evidence, rhetorical choices, and intended audience.",
+    "Persuasive impact and logical soundness are related but not identical.",
+    "Logical fallacies can distort audience understanding even when they initially seem convincing.",
+    "Multiple rhetorical appeals can reinforce one another when integrated purposefully.",
+    "Counterarguments and concessions can strengthen credibility.",
+    "Analyzing an argument requires evaluating how techniques contribute to meaning rather than simply identifying them.",
+    "Responsible writers consider the consequences of their rhetorical choices."
+  ],
+  "do": [
+    "Read, discuss, evaluate, and critique argumentative texts across genres and modes.",
+    "Identify claims, reasons, evidence, counterclaims, and rebuttals.",
+    "Evaluate how argumentative techniques contribute to meaning and central ideas.",
+    "Identify and explain logical fallacies in written, spoken, and multimodal texts.",
+    "Distinguish persuasive language from well-supported reasoning.",
+    "Select and apply argumentative techniques suited to audience and purpose.",
+    "Integrate multiple rhetorical devices or appeals strategically.",
+    "Address counterarguments fairly and respond with evidence.",
+    "Revise arguments to improve logic, clarity, credibility, and audience engagement."
+  ],
+  "vocabulary": [
+    {
+      "term": "Claim",
+      "definition": "An arguable position that a writer or speaker seeks to establish.",
+      "example": "Schools should provide more opportunities for independent reading."
+    },
+    {
+      "term": "Counterclaim",
+      "definition": "A position that challenges or complicates an argument's main claim.",
+      "example": "Additional reading time might reduce time for other activities."
+    },
+    {
+      "term": "Rebuttal",
+      "definition": "A reasoned response to an opposing claim.",
+      "example": "Explaining how a proposed schedule accommodates both concerns."
+    },
+    {
+      "term": "Concession",
+      "definition": "Acknowledgment that an opposing position has some merit.",
+      "example": "Recognizing that implementation would require resources."
+    },
+    {
+      "term": "Logos",
+      "definition": "A rhetorical appeal relying on reasons, evidence, or logical relationships.",
+      "example": "Using reliable data to support a recommendation."
+    },
+    {
+      "term": "Ethos",
+      "definition": "A rhetorical appeal based on credibility, character, or demonstrated expertise.",
+      "example": "A scientist explaining relevant qualifications and methods."
+    },
+    {
+      "term": "Pathos",
+      "definition": "A rhetorical appeal engaging an audience's emotions or values.",
+      "example": "A personal account illustrating the human effects of a policy."
+    },
+    {
+      "term": "Logical fallacy",
+      "definition": "An error in reasoning that undermines an argument.",
+      "example": "Assuming that two events occurring together proves one caused the other."
+    },
+    {
+      "term": "Straw man",
+      "definition": "A fallacy that misrepresents an opposing argument to make it easier to attack.",
+      "example": "Claiming that someone who supports shorter homework assignments opposes learning."
+    },
+    {
+      "term": "False dilemma",
+      "definition": "A fallacy presenting only two alternatives when other possibilities exist.",
+      "example": "Either eliminate technology or abandon meaningful instruction."
+    },
+    {
+      "term": "Hasty generalization",
+      "definition": "A conclusion drawn from insufficient or unrepresentative evidence.",
+      "example": "Judging an entire program based on one participant's experience."
+    },
+    {
+      "term": "Ad hominem",
+      "definition": "A fallacy attacking a person instead of addressing the person's argument.",
+      "example": "Rejecting a proposal solely because the speaker is inexperienced."
+    },
+    {
+      "term": "False cause",
+      "definition": "A fallacy assuming a causal relationship without adequate support.",
+      "example": "Concluding that a new schedule caused higher test scores simply because both occurred together."
+    },
+    {
+      "term": "Parallelism",
+      "definition": "The repetition of corresponding grammatical structures for emphasis or clarity.",
+      "example": "We must investigate carefully, evaluate fairly, and act responsibly."
+    },
+    {
+      "term": "Rhetorical question",
+      "definition": "A question asked primarily to encourage reflection or emphasize a point.",
+      "example": "What kind of community do we want to build?"
+    }
+  ],
+  "targets": [
+    "I can evaluate the effectiveness of argumentative techniques.",
+    "I can explain how arguments influence meaning and audience response.",
+    "I can identify and analyze logical fallacies.",
+    "I can support claims with credible evidence and reasoning.",
+    "I can respond fairly to counterarguments.",
+    "I can integrate multiple rhetorical appeals and devices purposefully.",
+    "I can revise an argument to improve its effectiveness and integrity."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Analyze how a sustained argument combines reasoning, credibility, emotional appeals, and rhetorical devices.",
+      "access": "Authorized excerpts or school anthology.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical context and support complex syntax.",
+      "interestHook": "A writer constructs a sophisticated response to public criticism.",
+      "teachingPrompt": "How do multiple rhetorical appeals reinforce the central argument?",
+      "alignment": ["11.T.T.3.a", "11.T.T.3.c", "11.T.T.3.d"]
+    },
+    {
+      "title": "Ain't I a Woman?",
+      "author": "Sojourner Truth, in historically varying transcriptions",
+      "genre": "Historical speech",
+      "purpose": "Analyze rhetorical questions, repetition, appeals, and the complications of historical transcription.",
+      "access": "Credible historical archives or school anthology.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Compare transcription histories and explain differences between documented versions.",
+      "interestHook": "A brief historical argument raises questions about rhetoric and how speeches are preserved.",
+      "teachingPrompt": "How do rhetorical choices reinforce the argument, and how does transcription affect our analysis?",
+      "alignment": ["11.T.T.3.a", "11.T.T.3.d"]
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical argumentative essay",
+      "purpose": "Evaluate irony, apparent reasoning, audience assumptions, and the distinction between literal and intended arguments.",
+      "access": "Public-domain text.",
+      "readingTime": "25 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Provide historical context and discuss disturbing satirical content before reading.",
+      "interestHook": "An intentionally shocking proposal exposes the failures of public reasoning.",
+      "teachingPrompt": "Why is it essential to distinguish the speaker's literal claims from the author's satirical purpose?",
+      "alignment": ["11.T.T.3.a", "11.T.T.3.b"]
+    },
+    {
+      "title": "The Case for Reparations",
+      "author": "Ta-Nehisi Coates",
+      "genre": "Long-form argumentative journalism",
+      "purpose": "Examine the integration of historical evidence, individual experiences, and sustained reasoning.",
+      "access": "Authorized excerpts from The Atlantic or school databases.",
+      "readingTime": "25–35 minutes for selected passages",
+      "highInterest": true,
+      "accessibility": "Provide historical background and select manageable sections.",
+      "interestHook": "An extended argument connects individual stories with historical documentation.",
+      "teachingPrompt": "How does the writer combine different forms of evidence to develop a central claim?",
+      "alignment": ["11.T.T.3.a", "11.T.T.3.d"]
+    },
+    {
+      "title": "A Public Debate and Fact-Checking Source Set",
+      "author": "Teacher-curated credible speakers and fact-checking organizations",
+      "genre": "Debate, commentary, and evidence analysis",
+      "purpose": "Identify logical fallacies and evaluate claims against independent evidence.",
+      "access": "Credible public transcripts, research databases, and verified fact-checking resources.",
+      "readingTime": "30–40 minutes",
+      "highInterest": true,
+      "accessibility": "Select age-appropriate issues and provide transcripts.",
+      "interestHook": "A confident argument may contain reasoning that does not withstand scrutiny.",
+      "teachingPrompt": "Which claims are supported, which reasoning is flawed, and what additional evidence is needed?",
+      "alignment": ["11.T.T.3.a", "11.T.T.3.b", "11.T.T.3.c"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Find the Argument",
+      "activity": "Students color-code claims, reasons, evidence, and counterclaims in a short editorial and explain how the components work together.",
+      "materials": ["Short editorial", "Color-coding guide", "Argument organizer"],
+      "scaffolds": ["Model one paragraph and provide a claim-versus-evidence reference sheet."],
+      "success": "Students accurately identify major components and explain the argument's central idea.",
+      "alignment": ["11.T.T.3.a"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Fallacy Detective",
+      "activity": "Students classify short arguments containing false dilemmas, hasty generalizations, straw men, and false causes, then rewrite flawed reasoning.",
+      "materials": ["Fallacy examples", "Classification chart"],
+      "scaffolds": ["Provide definitions and one worked example per fallacy."],
+      "success": "Students identify three fallacies and explain why the reasoning fails.",
+      "alignment": ["11.T.T.3.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "The Argument Audit",
+      "activity": "Students evaluate an editorial for evidence quality, reasoning, counterarguments, and rhetorical appeals, then write a critique supported by quotations.",
+      "materials": ["Editorial", "Argument evaluation rubric"],
+      "scaffolds": ["Provide criteria for distinguishing persuasive impact from logical soundness."],
+      "success": "Students produce an evidence-based evaluation identifying strengths and weaknesses.",
+      "alignment": ["11.T.T.3.a", "11.T.T.3.b"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Build a Responsible Argument",
+      "activity": "Students develop a claim about a school or community issue, research evidence, address a counterclaim, and incorporate at least two rhetorical appeals.",
+      "materials": ["Research sources", "Argument planner", "Revision rubric"],
+      "scaffolds": ["Model concession and rebuttal paragraphs."],
+      "success": "The final argument combines sound reasoning, credible evidence, and purposeful appeals.",
+      "alignment": ["11.T.T.3.c", "11.T.T.3.d"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "The Rhetoric and Reasoning Lab",
+      "activity": "Students compare two sophisticated arguments on a contested issue, identify rhetorical strengths and logical weaknesses, and compose a nuanced original response that integrates multiple appeals without relying on fallacies.",
+      "materials": ["Paired arguments", "Academic research sources", "Rhetorical analysis rubric"],
+      "scaffolds": ["Require fair representation of opposing positions and documented evidence."],
+      "success": "Students demonstrate nuanced evaluation and strategically integrated rhetorical techniques.",
+      "alignment": ["11.T.T.3.a", "11.T.T.3.b", "11.T.T.3.c", "11.T.T.3.d"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which statement best describes a logical fallacy?",
+      "options": [
+        "A claim supported by credible evidence",
+        "An error in reasoning that weakens an argument",
+        "Any argument containing emotion",
+        "A conclusion that challenges popular opinion"
+      ],
+      "answer": "An error in reasoning that weakens an argument",
+      "rationale": "A fallacy concerns defective reasoning rather than whether an argument is emotional or unpopular.",
+      "alignment": ["11.T.T.3.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A speaker argues, 'Either we eliminate all homework or we do not care about students.' Which fallacy is most evident?",
+      "options": ["False dilemma", "Valid deduction", "Concession", "Analogy"],
+      "answer": "False dilemma",
+      "rationale": "The statement presents only two alternatives while excluding reasonable possibilities.",
+      "alignment": ["11.T.T.3.b"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Select a paragraph from an argument and evaluate how its evidence and rhetorical techniques contribute to its central idea.",
+      "answer": "A strong response identifies techniques, cites evidence, and explains their effects rather than simply naming them.",
+      "rationale": "Students evaluate argumentative construction and implications for meaning.",
+      "alignment": ["11.T.T.3.a"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how a writer could combine logos, ethos, and pathos in an argument about improving public transportation.",
+      "answer": "A strong response proposes credible evidence, trustworthy expertise, and a relevant human perspective without substituting emotion for reasoning.",
+      "rationale": "Students demonstrate strategic integration of rhetorical appeals.",
+      "alignment": ["11.T.T.3.c", "11.T.T.3.d"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Write an evidence-based argument for an authentic audience. Include a clear claim, credible evidence, a fair counterargument, a rebuttal, and at least two strategically integrated rhetorical devices or appeals. Annotate your choices and evaluate the reasoning for fallacies.",
+      "answer": "Evaluate argumentative effectiveness, logical soundness, evidence, fair treatment of opposing views, and rhetorical integration.",
+      "rationale": "The task assesses all four expectations.",
+      "alignment": ["11.T.T.3.a", "11.T.T.3.b", "11.T.T.3.c", "11.T.T.3.d"]
+    }
+  ],
+  "evidence": [
+    "An annotated analysis of argumentative techniques.",
+    "A logical fallacy identification and explanation exercise.",
+    "A critique of an argument's reasoning and rhetorical effectiveness.",
+    "An original evidence-based argument incorporating multiple appeals.",
+    "A reflection explaining how rhetorical choices serve audience and purpose."
+  ],
+  "instruction": [
+    "Teach claims, evidence, and reasoning before introducing complex rhetorical analysis.",
+    "Distinguish logical validity from emotional persuasiveness.",
+    "Use authentic examples of flawed and effective arguments.",
+    "Model analysis of how rhetorical techniques shape meaning.",
+    "Teach fair counterargument and responsible rebuttal.",
+    "Require students to explain the intended effect of each rhetorical device.",
+    "Evaluate ethical reasoning alongside persuasive effectiveness."
+  ],
+  "watchFor": [
+    "Identifying an appeal without explaining its function.",
+    "Labeling every emotional argument fallacious.",
+    "Assuming a persuasive argument must be logically sound.",
+    "Using fallacy labels without explaining the actual reasoning error.",
+    "Misrepresenting counterarguments.",
+    "Treating rhetorical devices as decorative additions.",
+    "Substituting confident language for credible evidence."
+  ],
+  "skills": {
+    "11.T.T.3.a": {
+      "focus": "Evaluate argumentative techniques",
+      "studentFriendly": "I can critique how argumentative techniques influence meaning and audience response.",
+      "know": ["Arguments use evidence, reasoning, organization, and rhetorical choices."],
+      "understand": ["Argumentative techniques influence interpretation and effectiveness."],
+      "do": ["Read and discuss arguments.", "Identify techniques.", "Evaluate their implications."],
+      "targets": ["I can explain how a technique supports or weakens an argument."],
+      "instruction": ["Use annotated mentor arguments and evidence-based critiques."],
+      "evidence": ["An argumentative technique analysis."],
+      "watchFor": ["Naming a technique without analyzing its effect."]
+    },
+    "11.T.T.3.b": {
+      "focus": "Analyze logical fallacies",
+      "studentFriendly": "I can identify flawed reasoning and explain how it affects an argument.",
+      "know": ["Logical fallacies weaken the relationship between reasons and conclusions."],
+      "understand": ["Flawed reasoning can mislead audiences."],
+      "do": ["Identify fallacies.", "Explain reasoning errors.", "Evaluate consequences."],
+      "targets": ["I can explain why an argument contains a specific reasoning error."],
+      "instruction": ["Compare flawed and revised arguments."],
+      "evidence": ["A fallacy analysis with explanations."],
+      "watchFor": ["Treating disagreement as evidence of a fallacy."]
+    },
+    "11.T.T.3.c": {
+      "focus": "Apply argumentative techniques strategically",
+      "studentFriendly": "I can choose techniques that strengthen my argument for a particular audience.",
+      "know": ["Argumentative choices should support purpose and audience engagement."],
+      "understand": ["Strategic argumentation combines sound reasoning with effective communication."],
+      "do": ["Develop claims.", "Select evidence.", "Address counterarguments.", "Revise strategically."],
+      "targets": ["I can construct a credible and engaging argument."],
+      "instruction": ["Use authentic argumentative writing and revision."],
+      "evidence": ["An original argument with justified choices."],
+      "watchFor": ["Choosing persuasion over accuracy."]
+    },
+    "11.T.T.3.d": {
+      "focus": "Integrate multiple rhetorical devices or appeals",
+      "studentFriendly": "I can combine rhetorical techniques to strengthen my message.",
+      "know": ["Appeals and rhetorical devices can reinforce one another."],
+      "understand": ["Effective integration depends on audience, context, and purpose."],
+      "do": ["Select appeals.", "Integrate devices.", "Evaluate their combined effects."],
+      "targets": ["I can integrate multiple rhetorical techniques purposefully."],
+      "instruction": ["Analyze combinations of appeals in mentor texts."],
+      "evidence": ["A rhetorically developed argument with annotations."],
+      "watchFor": ["Adding devices mechanically without considering their effects."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.P.EICC.4",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Writing Processes",
+  "studentFriendly": "I can manage a flexible writing process by setting a purpose, considering my audience, researching and organizing ideas, drafting with intention, evaluating feedback, revising for effectiveness, and editing for accuracy.",
+  "know": [
+    "Writing is a recursive process rather than a fixed sequence of steps.",
+    "Writers establish goals based on purpose, audience, and context.",
+    "Modes, genres, and organizational structures offer different ways to communicate.",
+    "Prior knowledge, research, and discussion support idea generation.",
+    "Planning involves selecting and prioritizing relevant information.",
+    "Drafting requires purposeful decisions about ideas, diction, syntax, and craft.",
+    "Evaluation considers whether a text achieves its intended purpose.",
+    "Feedback can reveal gaps in clarity, evidence, organization, and audience awareness.",
+    "Revision involves substantive changes to meaning, structure, and rhetorical effectiveness.",
+    "Editing addresses conventions, consistency, and surface-level accuracy.",
+    "Writers may return to earlier stages as new information or insights emerge."
+  ],
+  "understand": [
+    "Effective writers adapt their processes to different tasks, audiences, and purposes.",
+    "Clear goals provide criteria for evaluating a draft.",
+    "Planning should remain flexible as understanding develops.",
+    "Strong writing requires deliberate selection and organization of ideas.",
+    "A first draft is a working version rather than a finished product.",
+    "Feedback is most useful when interpreted in relation to the writer's goals.",
+    "Revision and editing address different aspects of writing quality.",
+    "An effective writing process balances creativity, critical evaluation, and accuracy."
+  ],
+  "do": [
+    "Establish a purpose, writing goals, and target audience.",
+    "Select appropriate modes, genres, structures, and organizational approaches.",
+    "Generate ideas using prior knowledge, research, and discussion.",
+    "Evaluate and prioritize information according to relevance and impact.",
+    "Develop an initial draft using appropriate language, sentences, and craft techniques.",
+    "Evaluate a draft through self-review and external feedback.",
+    "Revise ideas, organization, information, diction, and craft for effectiveness.",
+    "Edit for grammar, usage, punctuation, and other written conventions.",
+    "Document and explain significant decisions across the writing process.",
+    "Move flexibly among planning, drafting, researching, evaluating, and revising."
+  ],
+  "vocabulary": [
+    {
+      "term": "Writing process",
+      "definition": "The flexible set of activities writers use to develop and improve texts.",
+      "example": "Returning to research after discovering a gap in a draft."
+    },
+    {
+      "term": "Purpose",
+      "definition": "The intended outcome or effect of a text.",
+      "example": "Explaining a problem or persuading an audience to act."
+    },
+    {
+      "term": "Target audience",
+      "definition": "The specific readers, listeners, or viewers a text is designed to reach.",
+      "example": "Local decision-makers considering a proposal."
+    },
+    {
+      "term": "Mode",
+      "definition": "A form through which communication is delivered.",
+      "example": "Written prose, audio, visuals, or multimodal presentation."
+    },
+    {
+      "term": "Genre",
+      "definition": "A recognizable type of text with particular conventions.",
+      "example": "Editorial, memoir, research report, or feature article."
+    },
+    {
+      "term": "Organizational structure",
+      "definition": "The arrangement of information and ideas within a text.",
+      "example": "Problem-solution or comparison-contrast organization."
+    },
+    {
+      "term": "Idea generation",
+      "definition": "The development of potential content through thinking, research, and discussion.",
+      "example": "Brainstorming questions before beginning a research essay."
+    },
+    {
+      "term": "Relevance",
+      "definition": "The degree to which information contributes to a particular purpose.",
+      "example": "Selecting evidence that directly supports a central claim."
+    },
+    {
+      "term": "Drafting",
+      "definition": "Developing an initial or intermediate version of a text.",
+      "example": "Writing an exploratory introduction before refining the thesis."
+    },
+    {
+      "term": "Self-evaluation",
+      "definition": "Assessing one's own work against goals and criteria.",
+      "example": "Checking whether a conclusion addresses the intended audience."
+    },
+    {
+      "term": "Peer feedback",
+      "definition": "Information from other writers or readers that can guide improvement.",
+      "example": "A peer identifying a gap in an explanation."
+    },
+    {
+      "term": "Revision",
+      "definition": "Reconsidering and changing a text to improve its meaning or effectiveness.",
+      "example": "Reorganizing paragraphs to strengthen an argument."
+    },
+    {
+      "term": "Editing",
+      "definition": "Correcting or refining a text's language conventions and consistency.",
+      "example": "Correcting agreement, punctuation, and capitalization."
+    },
+    {
+      "term": "Recursive process",
+      "definition": "A process in which earlier stages are revisited as work develops.",
+      "example": "Returning to planning after receiving feedback on a draft."
+    },
+    {
+      "term": "Craft technique",
+      "definition": "A deliberate language or structural choice used to create an effect.",
+      "example": "Using a brief anecdote to introduce a complex issue."
+    }
+  ],
+  "targets": [
+    "I can identify my purpose, goals, and intended audience.",
+    "I can choose a suitable genre, mode, and organization.",
+    "I can generate ideas through research, reflection, and discussion.",
+    "I can prioritize relevant and impactful information.",
+    "I can draft using purposeful language and craft.",
+    "I can evaluate whether my draft achieves its goals.",
+    "I can revise substantially in response to feedback.",
+    "I can edit my work for accuracy and conventions.",
+    "I can explain how my writing changed throughout the process."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Study how a writer's selection, organization, and language choices support a distinctive narrative purpose.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Use short vignettes and provide guided craft analysis.",
+      "interestHook": "A concise piece of writing can communicate a complex experience.",
+      "teachingPrompt": "How might the author have selected and revised details to achieve this effect?",
+      "alignment": ["11.P.EICC.4.b", "11.P.EICC.4.d", "11.P.EICC.4.e"]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Investigative narrative nonfiction",
+      "purpose": "Examine how research, organization, and narrative craft support complex nonfiction.",
+      "access": "School library or authorized excerpts.",
+      "readingTime": "25 minutes",
+      "highInterest": true,
+      "accessibility": "Provide historical and scientific context.",
+      "interestHook": "Research and storytelling work together to make a complicated issue understandable.",
+      "teachingPrompt": "How does the author organize researched information for a broad audience?",
+      "alignment": ["11.P.EICC.4.b", "11.P.EICC.4.c", "11.P.EICC.4.d", "11.P.EICC.4.e"]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Analyze purposeful organization, audience awareness, and the selection of illustrative experiences.",
+      "access": "Authorized TED talk or transcript.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide captions and a transcript.",
+      "interestHook": "Carefully arranged stories build toward a broader argument.",
+      "teachingPrompt": "What choices would a writer need to plan and refine to produce this structure?",
+      "alignment": ["11.P.EICC.4.a", "11.P.EICC.4.b", "11.P.EICC.4.d", "11.P.EICC.4.e"]
+    },
+    {
+      "title": "A Published Essay and Its Revision History",
+      "author": "Teacher-selected author or permission-cleared student writer",
+      "genre": "Essay with drafts and commentary",
+      "purpose": "Investigate how planning, feedback, revision, and editing change a text.",
+      "access": "Teacher-created materials, published author drafts, or permission-cleared student work.",
+      "readingTime": "25–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide annotated versions with changes highlighted.",
+      "interestHook": "A finished essay may look dramatically different from its first draft.",
+      "teachingPrompt": "Which revisions changed the ideas, and which corrected presentation?",
+      "alignment": ["11.P.EICC.4.f", "11.P.EICC.4.g", "11.P.EICC.4.h"]
+    },
+    {
+      "title": "A Public Information Guide",
+      "author": "Teacher-selected credible organization",
+      "genre": "Expository and instructional writing",
+      "purpose": "Evaluate how genre, design, information selection, and editing meet audience needs.",
+      "access": "Credible public websites or teacher-created examples.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Select an accessible guide with clear headings and readable structure.",
+      "interestHook": "The effectiveness of practical writing depends on the reader being able to use it.",
+      "teachingPrompt": "How would this guide change if the audience were unfamiliar with the topic?",
+      "alignment": ["11.P.EICC.4.a", "11.P.EICC.4.b", "11.P.EICC.4.d", "11.P.EICC.4.f"]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Start with Purpose",
+      "activity": "Students identify a writing task's purpose and audience, then select a suitable genre and organizational structure.",
+      "materials": ["Writing scenarios", "Purpose and audience organizer"],
+      "scaffolds": ["Provide sample audience profiles and genre examples."],
+      "success": "Students develop a clear purpose statement and explain their organizational choice.",
+      "alignment": ["11.P.EICC.4.a", "11.P.EICC.4.b"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "From Ideas to Outline",
+      "activity": "Students brainstorm ideas, review a short source, discuss possibilities with a partner, and organize relevant details into an outline.",
+      "materials": ["Short source", "Brainstorming sheet", "Outline template"],
+      "scaffolds": ["Model how to distinguish central ideas from less relevant details."],
+      "success": "Students produce an outline with a clear focus and logically grouped support.",
+      "alignment": ["11.P.EICC.4.c", "11.P.EICC.4.d"]
+    },
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Revise or Edit?",
+      "activity": "Students compare two drafts and categorize changes as revision or editing, then apply both types to a short paragraph.",
+      "materials": ["Sample drafts", "Revision and editing checklist"],
+      "scaffolds": ["Model changes to organization separately from corrections to conventions."],
+      "success": "Students make and explain two substantive revisions and three editing corrections.",
+      "alignment": ["11.P.EICC.4.f", "11.P.EICC.4.g", "11.P.EICC.4.h"]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Draft with Intention",
+      "activity": "Students plan and draft a researched explanatory or argumentative text for a defined audience, documenting choices about evidence, organization, diction, and craft.",
+      "materials": ["Research sources", "Planning organizer", "Drafting checklist"],
+      "scaffolds": ["Provide a model demonstrating how an outline can evolve during drafting."],
+      "success": "Students produce a coherent draft and explain several purposeful craft choices.",
+      "alignment": ["11.P.EICC.4.a", "11.P.EICC.4.b", "11.P.EICC.4.c", "11.P.EICC.4.d", "11.P.EICC.4.e"]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "The Revision Conference",
+      "activity": "Students exchange drafts, provide feedback linked to the writer's purpose, revise major weaknesses, and complete a separate editing pass.",
+      "materials": ["Student drafts", "Feedback rubric", "Revision log"],
+      "scaffolds": ["Use specific feedback questions about audience, evidence, and organization."],
+      "success": "Students document meaningful revisions and produce a conventionally edited final draft.",
+      "alignment": ["11.P.EICC.4.f", "11.P.EICC.4.g", "11.P.EICC.4.h"]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Four class periods",
+      "title": "The Editorial Production Studio",
+      "activity": "Students develop a publication-ready essay or feature for an authentic audience, using research, multiple drafts, editorial conferences, substantive revision, and a documented editing process.",
+      "materials": ["Research databases", "Publishing tools", "Editorial rubric", "Process portfolio"],
+      "scaffolds": ["Require an audience analysis, editorial rationale, and revision history."],
+      "success": "The final publication demonstrates a flexible, reflective writing process and clear rhetorical effectiveness.",
+      "alignment": ["11.P.EICC.4.a", "11.P.EICC.4.b", "11.P.EICC.4.c", "11.P.EICC.4.d", "11.P.EICC.4.e", "11.P.EICC.4.f", "11.P.EICC.4.g", "11.P.EICC.4.h"]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "What should most directly guide a writer's initial choices about genre and organization?",
+      "options": [
+        "The writer's favorite font",
+        "The purpose, goals, and target audience",
+        "The length of the first paragraph",
+        "The number of available images"
+      ],
+      "answer": "The purpose, goals, and target audience",
+      "rationale": "These factors establish the communication needs that planning should address.",
+      "alignment": ["11.P.EICC.4.a", "11.P.EICC.4.b"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student has gathered extensive research but cannot organize a draft. What is the most productive next step?",
+      "options": [
+        "Include every source in the order it was found",
+        "Identify the most relevant information and connect it to an organization plan",
+        "Begin editing punctuation before drafting",
+        "Discard all research and start over"
+      ],
+      "answer": "Identify the most relevant information and connect it to an organization plan",
+      "rationale": "Purposeful selection and organization connect research with writing goals.",
+      "alignment": ["11.P.EICC.4.c", "11.P.EICC.4.d"]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Explain how audience awareness should influence diction, sentence structure, and craft techniques during drafting.",
+      "answer": "A strong response proposes specific choices suited to an identified audience and explains their effects.",
+      "rationale": "Students connect drafting decisions with rhetorical purpose.",
+      "alignment": ["11.P.EICC.4.e"]
+    },
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which change is primarily a substantive revision rather than an edit?",
+      "options": [
+        "Correcting a misspelled word",
+        "Adding a missing comma",
+        "Reorganizing paragraphs to strengthen the argument",
+        "Correcting subject-verb agreement"
+      ],
+      "answer": "Reorganizing paragraphs to strengthen the argument",
+      "rationale": "Substantive revision improves the text's ideas or effectiveness, while editing addresses conventions.",
+      "alignment": ["11.P.EICC.4.g", "11.P.EICC.4.h"]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "A peer says your draft contains useful information but does not clearly address its intended audience. Describe how you would evaluate and revise the draft.",
+      "answer": "A strong response uses the writing goals to evaluate the draft and proposes specific changes to information, organization, language, or craft.",
+      "rationale": "Students apply feedback through purposeful evaluation and revision.",
+      "alignment": ["11.P.EICC.4.f", "11.P.EICC.4.g"]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Produce a complete writing-process portfolio for a text intended for an authentic audience. Include a purpose statement, audience analysis, planning materials, research notes, initial draft, feedback, revised draft, edited final version, and a reflection explaining significant decisions.",
+      "answer": "Evaluate purpose and audience alignment, planning, idea development, drafting, feedback use, substantive revision, editing, and process reflection.",
+      "rationale": "The task integrates all eight Writing Processes expectations.",
+      "alignment": ["11.P.EICC.4.a", "11.P.EICC.4.b", "11.P.EICC.4.c", "11.P.EICC.4.d", "11.P.EICC.4.e", "11.P.EICC.4.f", "11.P.EICC.4.g", "11.P.EICC.4.h"]
+    }
+  ],
+  "evidence": [
+    "A writing purpose statement and target-audience profile.",
+    "A plan identifying mode, genre, and organization.",
+    "Idea-generation notes and research records.",
+    "An outline connecting relevant information with writing goals.",
+    "An initial draft demonstrating purposeful craft choices.",
+    "Self-evaluation and external feedback.",
+    "A revised draft with documented substantive changes.",
+    "An edited final text and process reflection."
+  ],
+  "instruction": [
+    "Model writing as a flexible and recursive process.",
+    "Use authentic audiences and meaningful writing purposes.",
+    "Teach students to select modes, genres, and structures deliberately.",
+    "Provide structured opportunities for research, discussion, and planning.",
+    "Demonstrate how writers prioritize information.",
+    "Use mentor texts to analyze effective drafting choices.",
+    "Teach self-evaluation and feedback as separate but complementary processes.",
+    "Distinguish substantive revision from editing.",
+    "Assess process decisions as well as final products."
+  ],
+  "watchFor": [
+    "Treating writing as a rigid sequence that cannot be revisited.",
+    "Planning without a clear purpose or audience.",
+    "Including all gathered information regardless of relevance.",
+    "Mistaking a complete first draft for a finished text.",
+    "Giving feedback limited to grammar and punctuation.",
+    "Revising only individual words when the structure is ineffective.",
+    "Editing before addressing major problems in meaning.",
+    "Accepting feedback mechanically without evaluating it against writing goals."
+  ],
+  "skills": {
+    "11.P.EICC.4.a": {
+      "focus": "Establish purpose, goals, and audience",
+      "studentFriendly": "I can identify why I am writing, what I want to accomplish, and whom I want to reach.",
+      "know": ["Purpose, goals, and audience guide writing decisions."],
+      "understand": ["Clear intentions establish criteria for effectiveness."],
+      "do": ["Define purpose.", "Set goals.", "Identify audience."],
+      "targets": ["I can establish a clear rhetorical situation for my writing."],
+      "instruction": ["Use authentic writing scenarios and audience profiles."],
+      "evidence": ["A purpose statement and audience analysis."],
+      "watchFor": ["Beginning without considering intended readers."]
+    },
+    "11.P.EICC.4.b": {
+      "focus": "Plan mode, genre, and organization",
+      "studentFriendly": "I can choose the format and structure that best fit my writing purpose.",
+      "know": ["Different modes, genres, and structures serve different communication needs."],
+      "understand": ["Organizational choices influence accessibility and impact."],
+      "do": ["Select mode.", "Choose genre.", "Plan structure."],
+      "targets": ["I can justify my organizational plan."],
+      "instruction": ["Compare organizational models and mentor texts."],
+      "evidence": ["A writing plan with a rationale."],
+      "watchFor": ["Choosing a structure only because it is familiar."]
+    },
+    "11.P.EICC.4.c": {
+      "focus": "Generate ideas through knowledge, research, and discussion",
+      "studentFriendly": "I can develop writing ideas using what I know, what I research, and what I discuss with others.",
+      "know": ["Idea generation draws on multiple sources of information."],
+      "understand": ["Research and discussion can expand and refine ideas."],
+      "do": ["Assess prior knowledge.", "Research.", "Discuss.", "Generate possibilities."],
+      "targets": ["I can develop relevant ideas using several approaches."],
+      "instruction": ["Use inquiry questions, brainstorming, and source gathering."],
+      "evidence": ["Idea-generation notes and research records."],
+      "watchFor": ["Relying exclusively on initial assumptions."]
+    },
+    "11.P.EICC.4.d": {
+      "focus": "Connect and prioritize information",
+      "studentFriendly": "I can organize ideas and highlight the information that will matter most to my readers.",
+      "know": ["Information varies in relevance, usefulness, and impact."],
+      "understand": ["Effective selection strengthens coherence and purpose."],
+      "do": ["Evaluate information.", "Prioritize details.", "Connect ideas to the plan."],
+      "targets": ["I can justify why particular information belongs in my text."],
+      "instruction": ["Use evidence sorting and reverse outlining."],
+      "evidence": ["A prioritized outline or evidence map."],
+      "watchFor": ["Including information simply because it was collected."]
+    },
+    "11.P.EICC.4.e": {
+      "focus": "Construct an intentional initial draft",
+      "studentFriendly": "I can combine ideas, language, and craft techniques to produce a draft that serves my audience.",
+      "know": ["Drafting integrates content, diction, syntax, and craft."],
+      "understand": ["Purposeful language choices influence audience engagement."],
+      "do": ["Integrate information.", "Select language.", "Apply craft.", "Develop a draft."],
+      "targets": ["I can draft a coherent text with purposeful choices."],
+      "instruction": ["Use mentor texts and guided drafting conferences."],
+      "evidence": ["An initial draft with annotations."],
+      "watchFor": ["Prioritizing polished sentences over developing ideas."]
+    },
+    "11.P.EICC.4.f": {
+      "focus": "Evaluate effectiveness through review and feedback",
+      "studentFriendly": "I can evaluate whether my draft achieves its goals and use feedback to identify improvements.",
+      "know": ["Evaluation compares a draft against purpose and writing goals."],
+      "understand": ["Self-review and external feedback reveal different opportunities for improvement."],
+      "do": ["Review the draft.", "Gather feedback.", "Evaluate alignment with goals."],
+      "targets": ["I can identify strengths and specific priorities for revision."],
+      "instruction": ["Use focused feedback rubrics and writer conferences."],
+      "evidence": ["A self-evaluation and feedback record."],
+      "watchFor": ["Treating every suggestion as equally relevant."]
+    },
+    "11.P.EICC.4.g": {
+      "focus": "Revise for effectiveness",
+      "studentFriendly": "I can make meaningful changes to improve my ideas, organization, information, language, and craft.",
+      "know": ["Revision addresses the substance and effectiveness of a text."],
+      "understand": ["Major improvements may require rethinking earlier choices."],
+      "do": ["Reorganize.", "Develop ideas.", "Replace weak evidence.", "Refine language and craft."],
+      "targets": ["I can explain how revisions improve the text."],
+      "instruction": ["Use revision plans and comparison of drafts."],
+      "evidence": ["A substantially revised draft and rationale."],
+      "watchFor": ["Limiting revision to proofreading."]
+    },
+    "11.P.EICC.4.h": {
+      "focus": "Edit for written conventions",
+      "studentFriendly": "I can edit my writing to meet appropriate conventions and communicate accurately.",
+      "know": ["Editing addresses grammar, usage, punctuation, and consistency."],
+      "understand": ["Conventions support clarity and credibility."],
+      "do": ["Proofread.", "Correct errors.", "Check consistency.", "Finalize text."],
+      "targets": ["I can produce a carefully edited final text."],
+      "instruction": ["Use targeted editing passes and convention checklists."],
+      "evidence": ["An edited final version."],
+      "watchFor": ["Editing without first completing necessary substantive revision."]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
+
   ]
 }
