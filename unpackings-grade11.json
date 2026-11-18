@@ -5273,5 +5273,720 @@
     }
   }
 }
+    ,
+  {
+    "code": "11.T.RA.1",
+    "focus": "Research & Inquiry",
+    "studentFriendly": "I can develop and refine a complex research question, synthesize credible evidence into a defensible thesis, and integrate source material ethically using MLA or APA citation.",
+    "know": [
+      "An investigable question is open-ended, appropriately scoped, and answerable with accessible evidence.",
+      "A central thesis is an arguable synthesis, not a list of source summaries.",
+      "Source integration includes contextualizing evidence, accurately paraphrasing or quoting it, and explaining its relevance.",
+      "MLA and APA use different in-text citation and reference conventions; consistency and traceability matter."
+    ],
+    "understand": [
+      "Research is recursive: new evidence can change the question, scope, and thesis.",
+      "Credible synthesis puts sources in conversation, including their agreements, limitations, and contradictions.",
+      "Citation is part of ethical authorship and allows readers to verify evidence."
+    ],
+    "do": [
+      "Generate a question web, refine a research question, and explain why it is manageable.",
+      "Compare claims and methods across at least three credible sources to form a qualified thesis.",
+      "Write an evidence-based paragraph that integrates a quotation, paraphrase, and summary with accurate attribution.",
+      "Create a matching MLA Works Cited or APA References list and check every in-text citation."
+    ],
+    "vocabulary": [
+      {
+        "term": "inquiry question",
+        "definition": "A focused, researchable question that guides investigation.",
+        "example": "How did newspaper coverage shape public perceptions of a specific labor movement?"
+      },
+      {
+        "term": "scope",
+        "definition": "The boundaries of a research investigation.",
+        "example": "Restricting a topic to one decade and two cities makes the inquiry manageable."
+      },
+      {
+        "term": "synthesis",
+        "definition": "A reasoned integration of findings from multiple sources.",
+        "example": "Two studies agree on an effect but differ about its cause."
+      },
+      {
+        "term": "central thesis",
+        "definition": "A defensible interpretation supported by evidence.",
+        "example": "A thesis explains why a pattern matters rather than simply naming it."
+      },
+      {
+        "term": "paraphrase",
+        "definition": "A genuinely reworded rendering of a source idea with attribution.",
+        "example": "The student restates a researcher’s finding in original syntax and cites it."
+      },
+      {
+        "term": "source attribution",
+        "definition": "Identification of where an idea or wording originated.",
+        "example": "A parenthetical citation points to a matching bibliography entry."
+      },
+      {
+        "term": "counterevidence",
+        "definition": "Evidence that complicates or challenges a working claim.",
+        "example": "A primary document contradicts a broad generalization."
+      },
+      {
+        "term": "primary source",
+        "definition": "Firsthand evidence produced in the time or setting studied.",
+        "example": "A contemporary newspaper editorial documents a public argument."
+      }
+    ],
+    "targets": [
+      "11.T.RA.1.a: Produce and refine an investigable question about a complex issue, with a justified scope.",
+      "11.T.RA.1.b: Synthesize credible sources to support a nuanced central thesis, noting points of disagreement.",
+      "11.T.RA.1.c: Integrate quotations, paraphrases, and summaries smoothly and cite them consistently in MLA or APA style."
+    ],
+    "suggestedTexts": [
+      {
+        "title": "Library of Congress Chronicling America newspaper archive",
+        "author": "Library of Congress",
+        "genre": "digitized primary-source newspapers",
+        "purpose": "Investigate how coverage and vocabulary shift across time and regions.",
+        "access": "Free online archive; select short articles",
+        "readingTime": "20–30 min",
+        "highInterest": true,
+        "accessibility": "Historical typeface may require transcripts and guided reading.",
+        "interestHook": "Compare two headlines covering a similar event.",
+        "teachingPrompt": "Which questions emerge from different framings of the same issue?",
+        "alignment": [
+          "11.T.RA.1.a",
+          "11.T.RA.1.b"
+        ]
+      },
+      {
+        "title": "Pew Research Center reports (selected issue)",
+        "author": "Pew Research Center",
+        "genre": "survey research report",
+        "purpose": "Distinguish data, methodology, limitations, and conclusions.",
+        "access": "Free online; choose a report relevant to student interests",
+        "readingTime": "20 min",
+        "highInterest": true,
+        "accessibility": "Use executive summary and charts before methodology.",
+        "interestHook": "Test whether a popular claim matches the survey data.",
+        "teachingPrompt": "How does sampling affect the thesis you can responsibly defend?",
+        "alignment": [
+          "11.T.RA.1.b"
+        ]
+      },
+      {
+        "title": "Smithsonian Magazine history feature (selected)",
+        "author": "Smithsonian Magazine",
+        "genre": "reported historical feature",
+        "purpose": "Trace how an author integrates primary and secondary evidence.",
+        "access": "Free selected articles; verify access",
+        "readingTime": "15–25 min",
+        "highInterest": true,
+        "accessibility": "Chunk article into claim, evidence, and explanation.",
+        "interestHook": "Investigate an overlooked historical story.",
+        "teachingPrompt": "Which claims depend on expert interpretation rather than firsthand records?",
+        "alignment": [
+          "11.T.RA.1.b",
+          "11.T.RA.1.c"
+        ]
+      },
+      {
+        "title": "Letter from Birmingham Jail (excerpts)",
+        "author": "Martin Luther King Jr.",
+        "genre": "primary-source argument",
+        "purpose": "Examine how sourced references and counterarguments support a central thesis.",
+        "access": "Widely anthologized; verify edition and permissions",
+        "readingTime": "15–20 min",
+        "highInterest": false,
+        "accessibility": "Preteach historical context and selected allusions.",
+        "interestHook": "Study an argument written in response to a specific audience.",
+        "teachingPrompt": "How does the author integrate references to strengthen an original claim?",
+        "alignment": [
+          "11.T.RA.1.b",
+          "11.T.RA.1.c"
+        ]
+      },
+      {
+        "title": "The Immortal Life of Henrietta Lacks (excerpt)",
+        "author": "Rebecca Skloot",
+        "genre": "narrative nonfiction",
+        "purpose": "Explore ethical sourcing, competing perspectives, and responsible attribution.",
+        "access": "School or library copy; excerpt permissions needed",
+        "readingTime": "20 min",
+        "highInterest": true,
+        "accessibility": "Provide timeline and key terms before reading.",
+        "interestHook": "Follow a medical story with real ethical stakes.",
+        "teachingPrompt": "What new inquiry questions arise when multiple stakeholders speak?",
+        "alignment": [
+          "11.T.RA.1.a",
+          "11.T.RA.1.b"
+        ]
+      },
+      {
+        "title": "National Archives DocsTeach primary-source set (selected)",
+        "author": "U.S. National Archives",
+        "genre": "archival documents",
+        "purpose": "Develop a question from conflicting firsthand documents and cite archival metadata.",
+        "access": "Free online documents and educator tools",
+        "readingTime": "20–30 min",
+        "highInterest": true,
+        "accessibility": "Use transcripts and document-analysis worksheets.",
+        "interestHook": "Solve a historical evidence puzzle.",
+        "teachingPrompt": "How should an archive item be described so another researcher can find it?",
+        "alignment": [
+          "11.T.RA.1.a",
+          "11.T.RA.1.c"
+        ]
+      }
+    ],
+    "differentiation": [
+      {
+        "level": "Remediation",
+        "time": "35 min",
+        "title": "Question ladder and source matrix",
+        "activity": "Begin with a broad topic; use who/when/where/why prompts to narrow it. Annotate two short sources for claim, evidence, and reliability. Compose one comparative synthesis sentence with source labels.",
+        "materials": [
+          "Question-ladder organizer",
+          "Two accessible articles",
+          "Source comparison chart"
+        ],
+        "scaffolds": [
+          "Provide three candidate questions and model why one is researchable.",
+          "Offer sentence frames: Source A suggests…, while Source B complicates…"
+        ],
+        "success": "One focused question, a reason for its scope, and a synthesis statement supported by both sources.",
+        "alignment": [
+          "11.T.RA.1.a",
+          "11.T.RA.1.b"
+        ]
+      },
+      {
+        "level": "On-Level",
+        "time": "50 min",
+        "title": "Mini inquiry dossier",
+        "activity": "Choose a contested school/community or historical issue. Refine a question, locate three credible sources representing at least two perspectives, draft a qualified thesis, and compose a paragraph with one quote and one paraphrase plus MLA/APA citations.",
+        "materials": [
+          "Library databases",
+          "Inquiry log",
+          "Citation guide"
+        ],
+        "scaffolds": [
+          "Require a source-quality note for each entry.",
+          "Use a claim–evidence–reasoning organizer."
+        ],
+        "success": "Question is answerable; thesis integrates sources; paragraph contains accurate attribution and matching citations.",
+        "alignment": [
+          "11.T.RA.1.a",
+          "11.T.RA.1.b",
+          "11.T.RA.1.c"
+        ]
+      },
+      {
+        "level": "Enrichment",
+        "time": "60 min",
+        "title": "Counterevidence revision conference",
+        "activity": "Investigate a complex topic using four or more credible sources, including one primary source and one credible challenge to the initial thesis. Write a synthesis memo explaining how counterevidence changed the claim; revise citations for traceability.",
+        "materials": [
+          "Primary-source collection",
+          "Academic database",
+          "Style manual"
+        ],
+        "scaffolds": [
+          "Conference about what would falsify the claim.",
+          "Invite methodological comparison rather than source counting."
+        ],
+        "success": "Revised thesis acknowledges a meaningful limitation, and every borrowed idea is traceable.",
+        "alignment": [
+          "11.T.RA.1.a",
+          "11.T.RA.1.b",
+          "11.T.RA.1.c"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Which question is most suitable for a focused research investigation of historical news coverage?",
+        "options": [
+          "Was journalism important?",
+          "How did two Atlanta newspapers frame school integration during one specified year?",
+          "Why is the media always biased?",
+          "What happened in American history?"
+        ],
+        "answer": "B",
+        "rationale": "It identifies a specific corpus, place, and time and invites evidence-based comparison.",
+        "alignment": [
+          "11.T.RA.1.a"
+        ]
+      },
+      {
+        "type": "Constructed Response",
+        "prompt": "Two credible sources disagree about why a policy changed. Explain how you would synthesize them without misrepresenting either. Include a qualified thesis. ",
+        "options": null,
+        "answer": "Identify each source’s claim and evidentiary basis, explain agreement and disagreement, and formulate a thesis that accounts for the difference.",
+        "rationale": "Synthesis is more than placing summaries next to each other.",
+        "alignment": [
+          "11.T.RA.1.b"
+        ]
+      },
+      {
+        "type": "Performance Task",
+        "prompt": "Write a 180–250-word research paragraph using a direct quote, a paraphrase, and a summary from at least two sources. Add consistent MLA or APA citations and a corresponding reference list.",
+        "options": null,
+        "answer": "Score for accurate integration, contextualization, interpretation, original phrasing, and citation correspondence.",
+        "rationale": "A quotation alone does not prove the writer has synthesized the evidence.",
+        "alignment": [
+          "11.T.RA.1.c"
+        ]
+      }
+    ],
+    "evidence": [
+      "A dated inquiry log shows the original question, a revised question, and rationale for the change.",
+      "A synthesis matrix identifies agreements, contradictions, credibility, and evidence quality across sources.",
+      "A paragraph states a defensible thesis, explains evidence, and includes matching in-text and end citations."
+    ],
+    "instruction": [
+      "Model the difference between a topic, a yes/no question, and an investigable interpretive question.",
+      "Use lateral reading to investigate author, publication, evidence, and corroboration.",
+      "Teach synthesis with a color-coded claim/evidence/interpretation matrix rather than serial source summaries.",
+      "Demonstrate quote sandwiches and how to paraphrase from notes without copying syntax.",
+      "Teach MLA and APA as alternative systems; select one based on task and check correspondence rather than mixing them."
+    ],
+    "watchFor": [
+      "A question is too broad, loaded, or answerable only with opinion.",
+      "A thesis repeats a source rather than interpreting evidence across sources.",
+      "Students mistake source quantity for credibility.",
+      "Paraphrases retain the source’s sentence structure or omit attribution.",
+      "In-text citations and bibliography entries do not match."
+    ],
+    "skills": {
+      "11.T.RA.1.a": {
+        "focus": "Generate and refine research questions",
+        "studentFriendly": "I can turn a complex topic into a researchable question and refine it as I learn.",
+        "know": [
+          "Open versus closed questions",
+          "Scope and feasibility",
+          "Question webs"
+        ],
+        "understand": [
+          "Strong inquiry begins with uncertainty and can evolve with evidence."
+        ],
+        "do": [
+          "Generate multiple questions, select one, set boundaries, and revise after initial reading."
+        ],
+        "targets": [
+          "Produce two iterations of a question and justify the revision."
+        ],
+        "instruction": [
+          "Compare overly broad and viable questions.",
+          "Use a question funnel and a preliminary source scan."
+        ],
+        "evidence": [
+          "Question log with initial and revised wording plus rationale."
+        ],
+        "watchFor": [
+          "Treating a topic label or predetermined answer as an inquiry question."
+        ]
+      },
+      "11.T.RA.1.b": {
+        "focus": "Synthesize credible sources into a thesis",
+        "studentFriendly": "I can combine credible sources to develop a central thesis rather than just list facts.",
+        "know": [
+          "Credibility indicators",
+          "Corroboration",
+          "Synthesis matrix"
+        ],
+        "understand": [
+          "Source disagreements can refine rather than invalidate an argument."
+        ],
+        "do": [
+          "Evaluate sources, cluster findings, articulate a qualified thesis, and support it with evidence."
+        ],
+        "targets": [
+          "Write a thesis supported by at least three sources, noting a complication."
+        ],
+        "instruction": [
+          "Model comparison across claims and methods.",
+          "Require a source-quality rationale before thesis drafting."
+        ],
+        "evidence": [
+          "Synthesis matrix and evidence-based thesis with source annotations."
+        ],
+        "watchFor": [
+          "Paragraphs that summarize one source at a time without connecting them."
+        ]
+      },
+      "11.T.RA.1.c": {
+        "focus": "Integrate and cite borrowed material",
+        "studentFriendly": "I can use quotations, paraphrases, and summaries in my own writing and cite each accurately in MLA or APA style.",
+        "know": [
+          "Quotation versus paraphrase versus summary",
+          "In-text and end citations",
+          "Patchwriting"
+        ],
+        "understand": [
+          "Citation documents intellectual debts and enables verification."
+        ],
+        "do": [
+          "Introduce evidence, integrate it grammatically, interpret it, and check corresponding citations."
+        ],
+        "targets": [
+          "Submit one paragraph using all three integration methods with consistent citation style."
+        ],
+        "instruction": [
+          "Use a color-coded source-integration model.",
+          "Practice rewriting a passage from notes and comparing with the original."
+        ],
+        "evidence": [
+          "Annotated paragraph and correctly matched bibliography or reference entries."
+        ],
+        "watchFor": [
+          "Orphaned quotations, patchwriting, missing page/author details where required."
+        ]
+      }
+    },
+    "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability.",
+    "status": "draft — independently developed instructional guidance; educator review recommended"
+  },
+  {
+    "code": "11.T.PM.1",
+    "focus": "Periods & Movements",
+    "studentFriendly": "I can explain how writers shaped and responded to literary movements, and compare major authors, works, themes, and styles across at least three periods of English and American literary history.",
+    "know": [
+      "A literary movement forms through shared cultural, social, political, aesthetic, and publishing conditions, though individual writers differ.",
+      "Period labels are interpretive categories with overlapping dates and contested boundaries.",
+      "Recurring themes and stylistic features can be compared across British and American literature without treating either tradition as uniform.",
+      "Historical context illuminates but does not determine a text’s meaning."
+    ],
+    "understand": [
+      "Literature both reflects and challenges the beliefs and power structures of its time.",
+      "Writers can be linked by networks, publications, shared ideas, or common artistic responses—not merely by dates.",
+      "Comparing periods requires attention to continuity, change, and perspectives omitted from traditional literary histories."
+    ],
+    "do": [
+      "Explain how writers and historical circumstances contributed to a named literary movement.",
+      "Identify representative writers and works from at least three periods of English and American literary history.",
+      "Compare a shared theme and specific language or genre choices across three periods.",
+      "Use passages and historical sources to support claims about literary context without reducing a work to a label."
+    ],
+    "vocabulary": [
+      {
+        "term": "literary movement",
+        "definition": "A historically situated grouping of writers or works linked by shared ideas or artistic practices.",
+        "example": "Romantic writers often valued imagination and nature but disagreed in important ways."
+      },
+      {
+        "term": "periodization",
+        "definition": "Dividing literary history into interpretive time periods.",
+        "example": "The dates used for Modernism vary across scholarly accounts."
+      },
+      {
+        "term": "Romanticism",
+        "definition": "A broad movement often emphasizing imagination, emotion, nature, and the individual.",
+        "example": "A lyric speaker finds meaning in a natural landscape."
+      },
+      {
+        "term": "Realism",
+        "definition": "A literary approach often depicting ordinary life, social conditions, and plausible causality.",
+        "example": "A story attends closely to everyday speech and class constraints."
+      },
+      {
+        "term": "Modernism",
+        "definition": "A varied set of literary experiments responding to modern life and disruption.",
+        "example": "A poem uses fragmentation and shifts in voice."
+      },
+      {
+        "term": "historical context",
+        "definition": "Conditions surrounding the production and reception of a work.",
+        "example": "Industrialization shapes a writer’s depiction of urban labor."
+      },
+      {
+        "term": "stylistic feature",
+        "definition": "A recognizable formal or linguistic choice.",
+        "example": "Free verse, irony, dialect, and stream of consciousness are possible features."
+      },
+      {
+        "term": "canon",
+        "definition": "Works traditionally treated as central in a field, subject to revision and critique.",
+        "example": "A class considers whose writing was excluded from earlier anthologies."
+      }
+    ],
+    "targets": [
+      "11.T.PM.1.a: Explain how writers in a particular time and place formed or participated in a cultural, social, or political movement, citing historical and textual evidence.",
+      "11.T.PM.1.b: Identify and discuss major authors and works across three English and American literary periods, comparing key themes and stylistic features."
+    ],
+    "suggestedTexts": [
+      {
+        "title": "London (1794)",
+        "author": "William Blake",
+        "genre": "Romantic-era lyric poem",
+        "purpose": "Analyze social criticism and the relation between artistic form and political conditions.",
+        "access": "Public domain; Poetry Foundation or other reputable editions",
+        "readingTime": "10–15 min",
+        "highInterest": true,
+        "accessibility": "Provide a short note on eighteenth-century London and vocabulary.",
+        "interestHook": "A city becomes a map of institutional power.",
+        "teachingPrompt": "What evidence links the poem’s voice to contemporary social debates?",
+        "alignment": [
+          "11.T.PM.1.a",
+          "11.T.PM.1.b"
+        ]
+      },
+      {
+        "title": "Ode to a Nightingale (selected stanzas)",
+        "author": "John Keats",
+        "genre": "British Romantic ode",
+        "purpose": "Contrast imaginative escape, mortality, and musical form with later poetic responses.",
+        "access": "Public domain",
+        "readingTime": "15–20 min",
+        "highInterest": false,
+        "accessibility": "Use selected stanzas with audio reading.",
+        "interestHook": "Explore how a bird’s song becomes a meditation on life.",
+        "teachingPrompt": "How does the ode’s structure shape its central tension?",
+        "alignment": [
+          "11.T.PM.1.b"
+        ]
+      },
+      {
+        "title": "The Story of an Hour",
+        "author": "Kate Chopin",
+        "genre": "American realist short story",
+        "purpose": "Examine social expectations, irony, and compressed psychological narration.",
+        "access": "Public domain; available in reputable archives",
+        "readingTime": "15 min",
+        "highInterest": true,
+        "accessibility": "Preview social context and ambiguous ending.",
+        "interestHook": "A single hour overturns a character’s expectations.",
+        "teachingPrompt": "Which stylistic choices complicate the story’s historical setting?",
+        "alignment": [
+          "11.T.PM.1.b"
+        ]
+      },
+      {
+        "title": "The Open Boat (excerpt)",
+        "author": "Stephen Crane",
+        "genre": "American naturalist short fiction",
+        "purpose": "Study naturalist ideas, impersonal forces, and precise narrative detail.",
+        "access": "Public domain; choose a manageable excerpt",
+        "readingTime": "20 min",
+        "highInterest": true,
+        "accessibility": "Supply a brief plot map and maritime vocabulary.",
+        "interestHook": "Four people struggle to survive at sea.",
+        "teachingPrompt": "How does the narration complicate ideas about individual control?",
+        "alignment": [
+          "11.T.PM.1.b"
+        ]
+      },
+      {
+        "title": "The Love Song of J. Alfred Prufrock (selected excerpts)",
+        "author": "T. S. Eliot",
+        "genre": "Modernist dramatic monologue",
+        "purpose": "Investigate fragmentation, allusion, urban anxiety, and changes in poetic voice.",
+        "access": "Publicly accessible authorized editions may vary; verify rights",
+        "readingTime": "20 min",
+        "highInterest": true,
+        "accessibility": "Provide allusion notes and guided annotations.",
+        "interestHook": "Enter the spiraling inner voice of a hesitant speaker.",
+        "teachingPrompt": "What makes this voice different from the Romantic lyric speakers studied?",
+        "alignment": [
+          "11.T.PM.1.b"
+        ]
+      },
+      {
+        "title": "Harlem",
+        "author": "Langston Hughes",
+        "genre": "Harlem Renaissance poem",
+        "purpose": "Connect a literary movement to historical networks, political demands, and concise figurative language.",
+        "access": "Widely anthologized; verify reproduction permissions",
+        "readingTime": "10 min",
+        "highInterest": true,
+        "accessibility": "Use short historical context on the Harlem Renaissance.",
+        "interestHook": "A sequence of images asks what happens to deferred dreams.",
+        "teachingPrompt": "How does the poem connect collective history with individual voice?",
+        "alignment": [
+          "11.T.PM.1.a",
+          "11.T.PM.1.b"
+        ]
+      }
+    ],
+    "differentiation": [
+      {
+        "level": "Remediation",
+        "time": "35 min",
+        "title": "Three-period evidence sort",
+        "activity": "Provide brief excerpts from Romantic, Realist, and Modernist texts plus short historical context cards. Students match passages to plausible periods, underline stylistic evidence, and explain one exception to a simplistic label.",
+        "materials": [
+          "Three excerpts",
+          "Context cards",
+          "Comparison grid"
+        ],
+        "scaffolds": [
+          "Preteach imagery, irony, and fragmentation.",
+          "Offer evidence sentence frames."
+        ],
+        "success": "Accurately identifies two features in each excerpt and supports at least one comparison with quotation.",
+        "alignment": [
+          "11.T.PM.1.b"
+        ]
+      },
+      {
+        "level": "On-Level",
+        "time": "50 min",
+        "title": "Movement map and comparative commentary",
+        "activity": "In groups, map how a literary movement arose through writers, publications, and historical events. Independently write a comparative commentary on a shared theme across three periods using specific textual details.",
+        "materials": [
+          "Primary historical sources",
+          "Three literary excerpts",
+          "Timeline template"
+        ],
+        "scaffolds": [
+          "Model one movement network with sources.",
+          "Require a thesis connecting continuity and change."
+        ],
+        "success": "Movement explanation names relationships and context; commentary compares three periods with textual evidence.",
+        "alignment": [
+          "11.T.PM.1.a",
+          "11.T.PM.1.b"
+        ]
+      },
+      {
+        "level": "Enrichment",
+        "time": "60 min",
+        "title": "Challenge the period label",
+        "activity": "Choose an author or work that complicates a textbook period label. Compare it with two texts from other periods, use scholarly historical context, and propose a more nuanced classification in a brief curatorial essay.",
+        "materials": [
+          "Scholarly reference source",
+          "Annotated passages",
+          "Curatorial label template"
+        ],
+        "scaffolds": [
+          "Ask whose voices the period label excludes.",
+          "Invite comparison of publication date and stylistic influence."
+        ],
+        "success": "Argument recognizes overlapping periods and substantiates an alternative with close reading and context.",
+        "alignment": [
+          "11.T.PM.1.a",
+          "11.T.PM.1.b"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "Multiple Choice",
+        "prompt": "Which evidence best supports the claim that writers constituted a literary movement?",
+        "options": [
+          "They published within the same century.",
+          "They shared networks and publications, responded to common conditions, and debated related artistic ideas.",
+          "Their poems all contain rhyme.",
+          "They were born in the same country."
+        ],
+        "answer": "B",
+        "rationale": "Movements are established through cultural relationships and shared artistic conversations, not chronology alone.",
+        "alignment": [
+          "11.T.PM.1.a"
+        ]
+      },
+      {
+        "type": "Constructed Response",
+        "prompt": "Compare how a Romantic poem, a Realist story, and a Modernist poem portray the individual in society. Identify a specific work and stylistic feature from each period.",
+        "options": null,
+        "answer": "An effective answer accurately names three works and authors, analyzes a common theme, and connects precise formal features to historical context without stereotyping periods.",
+        "rationale": "A list of dates or authors alone does not satisfy the comparison.",
+        "alignment": [
+          "11.T.PM.1.b"
+        ]
+      },
+      {
+        "type": "Performance Task",
+        "prompt": "Create a mini-exhibition with three annotated text excerpts representing different English/American literary periods and a 250-word curator statement explaining a theme, stylistic changes, and one historical connection among writers.",
+        "options": null,
+        "answer": "Assess period accuracy, textual evidence, explanation of literary movement context, and nuanced comparison across three periods.",
+        "rationale": "Annotations must explain rather than merely label stylistic features.",
+        "alignment": [
+          "11.T.PM.1.a",
+          "11.T.PM.1.b"
+        ]
+      }
+    ],
+    "evidence": [
+      "A movement map cites historical events, writers, and venues linking a group of authors.",
+      "A three-period comparison identifies authors, representative works, a shared theme, and concrete stylistic evidence.",
+      "A reflection acknowledges limitations of period labels and variation within movements."
+    ],
+    "instruction": [
+      "Introduce periodization as a useful but debatable scholarly model; dates and labels overlap.",
+      "Use paired close readings before asking students to generalize about a period.",
+      "Pair literary passages with brief historical primary sources, such as magazines, letters, or manifestos.",
+      "Include writers whose experiences complicate a narrow British/American canon.",
+      "Teach movement formation through relationships among authors, publishers, institutions, and political debates."
+    ],
+    "watchFor": [
+      "Students assume all writers in a period have the same worldview or style.",
+      "Comparisons name themes but lack quotations or formal analysis.",
+      "Historical context replaces interpretation of the literary text.",
+      "Students list three periods but do not identify specific major authors and works.",
+      "Movements are reduced to coincidental dates rather than social or cultural networks."
+    ],
+    "skills": {
+      "11.T.PM.1.a": {
+        "focus": "Explain formation of literary movements",
+        "studentFriendly": "I can show how writers in a time and place became connected through ideas, events, and artistic work.",
+        "know": [
+          "Historical conditions",
+          "Writer networks",
+          "Literary publications and debates"
+        ],
+        "understand": [
+          "A movement is a cultural formation, not simply a date range."
+        ],
+        "do": [
+          "Trace connections among writers and contextual factors with evidence."
+        ],
+        "targets": [
+          "Produce a sourced movement map with an explanatory paragraph."
+        ],
+        "instruction": [
+          "Compare a timeline with a network diagram.",
+          "Use contemporary periodicals or letters as evidence."
+        ],
+        "evidence": [
+          "Movement map with cited connections and context."
+        ],
+        "watchFor": [
+          "Assuming proximity in time alone proves a movement."
+        ]
+      },
+      "11.T.PM.1.b": {
+        "focus": "Compare authors, works, themes, and styles across three periods",
+        "studentFriendly": "I can identify major English and American writers and works from three literary periods and explain what changes and persists.",
+        "know": [
+          "Representative authors and texts",
+          "Theme versus stylistic feature",
+          "Period overlap"
+        ],
+        "understand": [
+          "Literary history shows both innovation and continuity."
+        ],
+        "do": [
+          "Select three periods, identify authors and works, and support a thematic/stylistic comparison with excerpts."
+        ],
+        "targets": [
+          "Compare a common theme and one formal feature in works from three periods."
+        ],
+        "instruction": [
+          "Build a three-column close-reading chart before writing.",
+          "Require specific quotations rather than general period traits."
+        ],
+        "evidence": [
+          "Comparative analysis with accurate author/work identification and textual evidence."
+        ],
+        "watchFor": [
+          "Memorized period traits substituted for close reading or omitted third period."
+        ]
+      }
+    },
+    "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability.",
+    "status": "draft — independently developed instructional guidance; educator review recommended"
+  }
   ]
 }
