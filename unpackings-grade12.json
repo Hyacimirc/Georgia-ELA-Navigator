@@ -1102,6 +1102,1373 @@
     }
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, classroom suitability, availability, permissions, and source credibility."
-}]
+}
+  ,
+{
+  "code": "12.P.EICC.4",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Writing Processes",
+  "studentFriendly": "I can adapt my writing process to plan, draft, evaluate, revise, and edit an effective text for a specific audience and purpose.",
+  "know": [
+    "Audience, purpose, rhetorical situation, and genre",
+    "Planning structures and research strategies",
+    "Drafting, feedback, global revision, and editing",
+    "Criteria for evaluating accuracy, coherence, and effectiveness"
+  ],
+  "understand": [
+    "Writing processes are recursive and adapt to context.",
+    "Substantive revision can transform meaning, not merely polish sentences.",
+    "An effective draft aligns evidence, structure, voice, and reader needs."
+  ],
+  "do": [
+    "Plan and draft a text for an authentic audience",
+    "Seek and evaluate targeted feedback",
+    "Revise content and organization substantially",
+    "Edit conventions and explain decisions"
+  ],
+  "vocabulary": [
+    {
+      "term": "rhetorical situation",
+      "definition": "The interplay of writer, audience, purpose, and context",
+      "example": "A school-board memo differs from a public editorial."
+    },
+    {
+      "term": "genre",
+      "definition": "A recognizable form with audience expectations",
+      "example": "A policy brief uses headings and concise evidence."
+    },
+    {
+      "term": "outline",
+      "definition": "A plan for sequencing and relating ideas",
+      "example": "A problem–solution outline."
+    },
+    {
+      "term": "draft",
+      "definition": "An exploratory version of a text",
+      "example": "A first draft that still needs structural revision."
+    },
+    {
+      "term": "feedback",
+      "definition": "Information about how a text functions for readers",
+      "example": "A reader cannot locate the central claim."
+    },
+    {
+      "term": "global revision",
+      "definition": "Changes to organization, ideas, and evidence",
+      "example": "Moving the counterargument ahead of the recommendation."
+    },
+    {
+      "term": "line edit",
+      "definition": "Sentence-level revision for precision and flow",
+      "example": "Replacing an ambiguous pronoun."
+    },
+    {
+      "term": "proofreading",
+      "definition": "Final correction of surface errors",
+      "example": "Checking citation punctuation."
+    }
+  ],
+  "targets": [
+    "I can justify genre and structure for an identified audience.",
+    "I can integrate multiple sources into an organized first draft.",
+    "I can use a feedback log to make substantive revisions.",
+    "I can submit an edited final text and an explanation of my process."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter",
+      "purpose": "Study a writer addressing multiple audiences and counterarguments",
+      "access": "King Institute or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How does audience change what a writer explains?",
+      "teachingPrompt": "Annotate audience cues and plan a new opening for another audience.",
+      "alignment": [
+        "12.P.EICC.4.a",
+        "12.P.EICC.4.b"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Analyze how researched information is sequenced for general readers",
+      "access": "Library or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How do you make complex research readable?",
+      "teachingPrompt": "Outline the movement between narrative and explanation.",
+      "alignment": [
+        "12.P.EICC.4.b",
+        "12.P.EICC.4.d",
+        "12.P.EICC.4.e"
+      ]
+    },
+    {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "genre": "Extended essay",
+      "purpose": "Explore developing ideas and organizational choices",
+      "access": "Verified public-domain edition or library copy",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "What makes a complex essay feel like a conversation?",
+      "teachingPrompt": "Reorganize a selected passage and justify the new sequence.",
+      "alignment": [
+        "12.P.EICC.4.c",
+        "12.P.EICC.4.d"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech transcript",
+      "purpose": "Examine revisions needed when adapting a speech to an essay",
+      "access": "Official TED transcript",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "What changes when a spoken text becomes a written one?",
+      "teachingPrompt": "Adapt a segment for a school publication.",
+      "alignment": [
+        "12.P.EICC.4.e",
+        "12.P.EICC.4.g"
+      ]
+    },
+    {
+      "title": "The Writing Life",
+      "author": "Annie Dillard",
+      "genre": "Writing-process nonfiction",
+      "purpose": "Discuss drafting, persistence, and revision decisions",
+      "access": "Library or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "What is the difference between writing and rewriting?",
+      "teachingPrompt": "Write a revision plan after reviewing a draft.",
+      "alignment": [
+        "12.P.EICC.4.f",
+        "12.P.EICC.4.g"
+      ]
+    },
+    {
+      "title": "A current local policy memo and public-facing explainer",
+      "author": "Local government or public agency",
+      "genre": "Professional informational texts",
+      "purpose": "Compare the effects of audience and purpose on structure and editing",
+      "access": "Use current official documents and check accessibility",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Why does the same information appear differently in two genres?",
+      "teachingPrompt": "Design a revision checklist for each audience.",
+      "alignment": [
+        "12.P.EICC.4.a",
+        "12.P.EICC.4.h"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "Two class periods",
+      "title": "Guided writing cycle",
+      "activity": "Draft a 250-word community announcement from a purpose-and-audience brief. Use an outline, one peer response, and two revision passes.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a genre model and paragraph organizer",
+        "Color-code purpose, evidence, and revision changes"
+      ],
+      "success": "A coherent edited announcement plus a revision log with three substantive decisions.",
+      "alignment": [
+        "12.P.EICC.4.a",
+        "12.P.EICC.4.b",
+        "12.P.EICC.4.e",
+        "12.P.EICC.4.g",
+        "12.P.EICC.4.h"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "Three class periods",
+      "title": "Publication-ready feature",
+      "activity": "Research and write a 650-word feature for a defined school audience. Collect two feedback responses, revise structure and evidence, then submit a final draft with a decision memo.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a planning conference and feedback questions",
+        "Use a citation and editing checklist"
+      ],
+      "success": "A source-supported final feature and documented changes linked to goals.",
+      "alignment": [
+        "12.P.EICC.4.a",
+        "12.P.EICC.4.c",
+        "12.P.EICC.4.d",
+        "12.P.EICC.4.f",
+        "12.P.EICC.4.g",
+        "12.P.EICC.4.h"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Four class periods",
+      "title": "Two audiences, one evidence base",
+      "activity": "Use the same research to compose a policy brief and a public op-ed. Explain changes in genre, voice, organization, and evidence while preserving accuracy.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Use a comparative genre matrix",
+        "Require a source-to-claim audit"
+      ],
+      "success": "Two effective products and a rhetorical comparison supported by annotations.",
+      "alignment": [
+        "12.P.EICC.4.a",
+        "12.P.EICC.4.b",
+        "12.P.EICC.4.c",
+        "12.P.EICC.4.d",
+        "12.P.EICC.4.e",
+        "12.P.EICC.4.f",
+        "12.P.EICC.4.g",
+        "12.P.EICC.4.h"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision best responds to feedback that a proposal lacks a clear recommendation?",
+      "answer": "B",
+      "rationale": "A specific recommendation and prioritized evidence address a global purpose problem.",
+      "alignment": [
+        "12.P.EICC.4.f",
+        "12.P.EICC.4.g"
+      ],
+      "options": [
+        "Correct the comma splices only",
+        "Move the recommendation into a clear claim and reorganize supporting evidence",
+        "Change the font and title",
+        "Add an unrelated anecdote"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how the intended audience should influence the organization and diction of a report on a community issue.",
+      "answer": "Identify a real audience, choose a logical structure, and defend at least two diction or evidence choices.",
+      "rationale": "Score reasoning about readers and rhetorical situation.",
+      "alignment": [
+        "12.P.EICC.4.a",
+        "12.P.EICC.4.b",
+        "12.P.EICC.4.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Submit a complete text with proposal, outline, annotated draft, feedback, substantive revision, final edit, and 200-word process reflection.",
+      "answer": "A coherent final product and documented purposeful decisions across all eight stages.",
+      "rationale": "Assess process evidence, substantive change, accuracy, and final effectiveness.",
+      "alignment": [
+        "12.P.EICC.4.a",
+        "12.P.EICC.4.b",
+        "12.P.EICC.4.c",
+        "12.P.EICC.4.d",
+        "12.P.EICC.4.e",
+        "12.P.EICC.4.f",
+        "12.P.EICC.4.g",
+        "12.P.EICC.4.h"
+      ]
+    }
+  ],
+  "evidence": [
+    "Audience-and-purpose brief",
+    "Organizational plan with prioritized evidence",
+    "Draft and specific feedback records",
+    "Revision comparison and edited final text"
+  ],
+  "instruction": [
+    "Model a recursive process with a visible revision history.",
+    "Differentiate global revision from sentence editing.",
+    "Use feedback protocols that ask what readers understood and needed.",
+    "Connect citation accuracy and editing to credibility."
+  ],
+  "watchFor": [
+    "Treating all writing as a fixed five-step sequence",
+    "Revising only grammar when evidence is weak",
+    "Confusing a peer preference with an audience need",
+    "Neglecting citations until the final edit"
+  ],
+  "skills": {
+    "12.P.EICC.4.a": {
+      "focus": "Purpose, goals, and audience",
+      "studentFriendly": "I can define a writing purpose, measurable goals, and a specific target audience.",
+      "know": [
+        "Meaning of purpose, goals, and audience",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about purpose, goals, and audience should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Define a writing purpose, measurable goals, and a specific target audience",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can define a writing purpose, measurable goals, and a specific target audience and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Define a writing purpose, measurable goals, and a specific target audience"
+      ],
+      "watchFor": [
+        "A vague audience such as everyone"
+      ]
+    },
+    "12.P.EICC.4.b": {
+      "focus": "Mode, genre, and structure",
+      "studentFriendly": "I can select an appropriate mode, genre, and organizational structure.",
+      "know": [
+        "Meaning of mode, genre, and structure",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about mode, genre, and structure should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Select an appropriate mode, genre, and organizational structure",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can select an appropriate mode, genre, and organizational structure and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Select an appropriate mode, genre, and organizational structure"
+      ],
+      "watchFor": [
+        "Selecting a genre only because it is familiar"
+      ]
+    },
+    "12.P.EICC.4.c": {
+      "focus": "Idea generation and inquiry",
+      "studentFriendly": "I can generate ideas using prior knowledge, texts, and discussion.",
+      "know": [
+        "Meaning of idea generation and inquiry",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about idea generation and inquiry should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Generate ideas using prior knowledge, texts, and discussion",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can generate ideas using prior knowledge, texts, and discussion and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Generate ideas using prior knowledge, texts, and discussion"
+      ],
+      "watchFor": [
+        "Treating brainstorming as sufficient research"
+      ]
+    },
+    "12.P.EICC.4.d": {
+      "focus": "Prioritizing relevant material",
+      "studentFriendly": "I can connect and prioritize evidence according to an organization plan.",
+      "know": [
+        "Meaning of prioritizing relevant material",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about prioritizing relevant material should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Connect and prioritize evidence according to an organization plan",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can connect and prioritize evidence according to an organization plan and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Connect and prioritize evidence according to an organization plan"
+      ],
+      "watchFor": [
+        "Including interesting but irrelevant information"
+      ]
+    },
+    "12.P.EICC.4.e": {
+      "focus": "Purposeful first drafts",
+      "studentFriendly": "I can integrate information, diction, syntax, and craft into a complete draft.",
+      "know": [
+        "Meaning of purposeful first drafts",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about purposeful first drafts should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Integrate information, diction, syntax, and craft into a complete draft",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can integrate information, diction, syntax, and craft into a complete draft and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Integrate information, diction, syntax, and craft into a complete draft"
+      ],
+      "watchFor": [
+        "Polishing sentences before developing ideas"
+      ]
+    },
+    "12.P.EICC.4.f": {
+      "focus": "Evaluation and feedback",
+      "studentFriendly": "I can evaluate draft effectiveness against goals and reader feedback.",
+      "know": [
+        "Meaning of evaluation and feedback",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about evaluation and feedback should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Evaluate draft effectiveness against goals and reader feedback",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can evaluate draft effectiveness against goals and reader feedback and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Evaluate draft effectiveness against goals and reader feedback"
+      ],
+      "watchFor": [
+        "Accepting feedback without considering purpose"
+      ]
+    },
+    "12.P.EICC.4.g": {
+      "focus": "Substantive revision",
+      "studentFriendly": "I can revise organization, evidence, wording, and craft based on evaluation.",
+      "know": [
+        "Meaning of substantive revision",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about substantive revision should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Revise organization, evidence, wording, and craft based on evaluation",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can revise organization, evidence, wording, and craft based on evaluation and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Revise organization, evidence, wording, and craft based on evaluation"
+      ],
+      "watchFor": [
+        "Confusing proofreading with substantive revision"
+      ]
+    },
+    "12.P.EICC.4.h": {
+      "focus": "Editing conventions",
+      "studentFriendly": "I can edit for accurate, consistent written-language conventions.",
+      "know": [
+        "Meaning of editing conventions",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about editing conventions should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Edit for accurate, consistent written-language conventions",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can edit for accurate, consistent written-language conventions and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Edit for accurate, consistent written-language conventions"
+      ],
+      "watchFor": [
+        "Changing an author’s deliberate voice without justification"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, classroom suitability, availability, permissions, and source credibility."
+},
+{
+  "code": "12.T.RA.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Curating Sources & Evidence",
+  "studentFriendly": "I can locate credible academic sources, reconcile conflicting claims, and integrate properly cited evidence to answer a meaningful question.",
+  "know": [
+    "Academic databases, scholarly publications, and source types",
+    "Currency, authority, methodology, bias, and corroboration",
+    "Paraphrase, quotation, synthesis, and attribution",
+    "Core MLA and APA in-text and works-cited conventions"
+  ],
+  "understand": [
+    "Credibility is evaluated claim by claim, not by appearance alone.",
+    "Conflicting information requires investigation of methods and contexts.",
+    "Citation enables readers to verify and build on evidence."
+  ],
+  "do": [
+    "Design a strategic source search",
+    "Cross-check claims and identify limitations",
+    "Integrate relevant evidence into an inference",
+    "Produce consistent citations and a works-cited list"
+  ],
+  "vocabulary": [
+    {
+      "term": "academic database",
+      "definition": "A searchable collection of scholarly and vetted resources",
+      "example": "GALILEO indexes journals and reference works."
+    },
+    {
+      "term": "peer review",
+      "definition": "Expert evaluation of research before publication",
+      "example": "Reviewers assess a study’s methods."
+    },
+    {
+      "term": "corroboration",
+      "definition": "Independent evidence supporting a claim",
+      "example": "Two separate datasets show a similar trend."
+    },
+    {
+      "term": "bias",
+      "definition": "A systematic influence on presentation or interpretation",
+      "example": "A sponsor shapes which results are highlighted."
+    },
+    {
+      "term": "methodology",
+      "definition": "How a study gathers and analyzes evidence",
+      "example": "A survey samples 500 respondents."
+    },
+    {
+      "term": "synthesis",
+      "definition": "Combining insights across sources into a new understanding",
+      "example": "Three studies support a qualified conclusion."
+    },
+    {
+      "term": "paraphrase",
+      "definition": "Restating source ideas accurately in new wording",
+      "example": "Summarizing a finding with attribution."
+    },
+    {
+      "term": "works cited",
+      "definition": "A list identifying sources used in a text",
+      "example": "An MLA entry for an article."
+    }
+  ],
+  "targets": [
+    "I can find at least three relevant sources including an academic database result.",
+    "I can verify a disputed claim using independent evidence and explain discrepancies.",
+    "I can distinguish source evidence from my inference.",
+    "I can cite quotations and paraphrases consistently in MLA or APA."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Investigative narrative nonfiction",
+      "purpose": "Compare a researched narrative with primary historical and scientific sources",
+      "access": "Library excerpt and institutional archives",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "What can one story reveal that a scientific report cannot?",
+      "teachingPrompt": "Trace a claim to corroborating primary material.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.b"
+      ]
+    },
+    {
+      "title": "A peer-reviewed article on adolescent sleep",
+      "author": "Researchers in a scholarly journal",
+      "genre": "Academic research article",
+      "purpose": "Practice database discovery and reading methods sections",
+      "access": "GALILEO or a library-indexed journal",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Does the headline match what the study actually measured?",
+      "teachingPrompt": "Audit sample, limitations, and conclusions.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.b"
+      ]
+    },
+    {
+      "title": "CDC public health data and a news report using those data",
+      "author": "Centers for Disease Control and Prevention; news publisher",
+      "genre": "Government dataset and journalism",
+      "purpose": "Compare source statistics with public interpretation",
+      "access": "Official CDC site and reputable news source",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Can two true statistics create misleading impressions?",
+      "teachingPrompt": "Check denominators, dates, and uncertainty.",
+      "alignment": [
+        "12.T.RA.2.b"
+      ]
+    },
+    {
+      "title": "Library of Congress primary-source collection",
+      "author": "Historical authors and curators",
+      "genre": "Primary documents",
+      "purpose": "Contrast firsthand records with later interpretations",
+      "access": "Library of Congress",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "What can a primary document prove—and not prove?",
+      "teachingPrompt": "Triangulate one historical claim.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.b"
+      ]
+    },
+    {
+      "title": "Pew Research Center survey report",
+      "author": "Pew Research Center",
+      "genre": "Survey report",
+      "purpose": "Examine methods and precise attribution",
+      "access": "Official report with methodology",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Who was surveyed, and why does that matter?",
+      "teachingPrompt": "Write an accurately qualified paraphrase with citation.",
+      "alignment": [
+        "12.T.RA.2.b",
+        "12.T.RA.2.c"
+      ]
+    },
+    {
+      "title": "A scholarly literary criticism article and the primary literary text",
+      "author": "Scholarly critic and literary author",
+      "genre": "Academic criticism / primary literature",
+      "purpose": "Practice evidence synthesis and MLA attribution",
+      "access": "GALILEO literary database and licensed text",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How does criticism alter your reading of a passage?",
+      "teachingPrompt": "Integrate a primary quotation and scholarly interpretation.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "55 minutes",
+      "title": "Source verification ladder",
+      "activity": "Search a guided database topic, classify three source types, verify one claim, and build an MLA entry with a template.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide keyword combinations and a credibility checklist",
+        "Model one in-text citation"
+      ],
+      "success": "Three annotated sources and one accurate evidence-and-citation paragraph.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.b",
+        "12.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "Two class periods",
+      "title": "Conflicting claims evidence brief",
+      "activity": "Investigate two apparently contradictory claims about a public issue using at least four sources, one from an academic database. Explain differences in methods or definitions.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a claim comparison grid",
+        "Require publication dates and original source links"
+      ],
+      "success": "A 500-word brief with a qualified conclusion and consistent MLA or APA citations.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.b",
+        "12.T.RA.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Three class periods",
+      "title": "Mini systematic source review",
+      "activity": "Develop a transparent search log, screen six scholarly and primary sources, rank evidence quality, and synthesize findings with unresolved questions.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Use a source inclusion/exclusion protocol",
+        "Encourage consultation of methods and limitations"
+      ],
+      "success": "A reproducible search log, synthesis matrix, and fully attributed review.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.b",
+        "12.T.RA.2.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Two studies report different results. What should a researcher do first?",
+      "answer": "C",
+      "rationale": "Checking samples, measures, methods, and dates is necessary before judging the disagreement.",
+      "alignment": [
+        "12.T.RA.2.b"
+      ],
+      "options": [
+        "Average their conclusions without reading",
+        "Choose the result that supports the thesis",
+        "Compare methodology, populations, definitions, and publication dates",
+        "Discard both studies"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain why an academic database result is not automatically sufficient proof of a claim.",
+      "answer": "Evaluate relevance, methods, publication status, and limitations; triangulate as needed.",
+      "rationale": "Credit source-specific scrutiny rather than blanket trust.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Write a 600-word evidence brief using at least four sources, including an academic database article, with a source comparison table and consistent MLA or APA citations.",
+      "answer": "A qualified synthesis with traceable claims, documented discrepancies, and a matching reference list.",
+      "rationale": "Score search quality, verification, relevance, integration, and attribution.",
+      "alignment": [
+        "12.T.RA.2.a",
+        "12.T.RA.2.b",
+        "12.T.RA.2.c"
+      ]
+    }
+  ],
+  "evidence": [
+    "Search log documenting database queries",
+    "Source credibility and contradiction matrix",
+    "Evidence-supported synthesis with qualified conclusions",
+    "Accurate in-text citations and corresponding works-cited entries"
+  ],
+  "instruction": [
+    "Demonstrate database search filters and subject terms.",
+    "Model lateral reading and primary-source verification.",
+    "Teach the difference between an inference and a source claim.",
+    "Check that every borrowed idea is attributed and every citation resolves."
+  ],
+  "watchFor": [
+    "Assuming peer review guarantees correctness",
+    "Treating source disagreement as a simple vote",
+    "Dropping quotations without analysis",
+    "Confusing works cited with an uncited reading list"
+  ],
+  "skills": {
+    "12.T.RA.2.a": {
+      "focus": "Academic source discovery",
+      "studentFriendly": "I can find credible print and digital sources, including academic databases.",
+      "know": [
+        "Meaning of academic source discovery",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about academic source discovery should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Find credible print and digital sources, including academic databases",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can find credible print and digital sources, including academic databases and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Find credible print and digital sources, including academic databases"
+      ],
+      "watchFor": [
+        "Using search-result rank as evidence of reliability"
+      ]
+    },
+    "12.T.RA.2.b": {
+      "focus": "Source triangulation and bias",
+      "studentFriendly": "I can verify accuracy, relevance, conflicting claims, and possible bias across sources.",
+      "know": [
+        "Meaning of source triangulation and bias",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about source triangulation and bias should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Verify accuracy, relevance, conflicting claims, and possible bias across sources",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can verify accuracy, relevance, conflicting claims, and possible bias across sources and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Verify accuracy, relevance, conflicting claims, and possible bias across sources"
+      ],
+      "watchFor": [
+        "Equating a disagreement with proof that both sources are equally sound"
+      ]
+    },
+    "12.T.RA.2.c": {
+      "focus": "MLA/APA integration and citation",
+      "studentFriendly": "I can integrate textual evidence with accurate MLA or APA attribution and works-cited entries.",
+      "know": [
+        "Meaning of mla/apa integration and citation",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about mla/apa integration and citation should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Integrate textual evidence with accurate MLA or APA attribution and works-cited entries",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can integrate textual evidence with accurate MLA or APA attribution and works-cited entries and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Integrate textual evidence with accurate MLA or APA attribution and works-cited entries"
+      ],
+      "watchFor": [
+        "Adding a bibliography without corresponding in-text citations"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, classroom suitability, availability, permissions, and source credibility."
+},
+{
+  "code": "12.T.T.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Narrative Techniques",
+  "studentFriendly": "I can compare how writers shape stories across periods and create an original narrative with complex characters, purposeful structure, and meaningful symbolism.",
+  "know": [
+    "Archetypes, point of view, plot, conflict, and characterization",
+    "Symbolism, metaphor, setting, mood, and theme",
+    "Historical and cultural influences on recurring narrative patterns",
+    "Close-reading evidence and comparative analysis"
+  ],
+  "understand": [
+    "Narrative choices guide readers’ interpretation and emotional response.",
+    "Themes evolve across cultures and time periods rather than repeating identically.",
+    "Original narrative craft makes meaning through relationships among character, setting, and symbol."
+  ],
+  "do": [
+    "Compare techniques and themes in two or more texts",
+    "Support interpretations with precise passages",
+    "Trace an archetype or story pattern across periods",
+    "Write and revise a layered narrative for a defined audience"
+  ],
+  "vocabulary": [
+    {
+      "term": "archetype",
+      "definition": "A recurring character type or narrative pattern",
+      "example": "The outsider who challenges a community."
+    },
+    {
+      "term": "focalization",
+      "definition": "The perspective through which events are perceived",
+      "example": "A scene filtered through a child’s limited knowledge."
+    },
+    {
+      "term": "nonlinear plot",
+      "definition": "A narrative sequence not told in chronological order",
+      "example": "A flashback reveals a hidden motive."
+    },
+    {
+      "term": "motif",
+      "definition": "A recurring image, idea, or detail",
+      "example": "Repeated images of locked doors."
+    },
+    {
+      "term": "symbolism",
+      "definition": "An object or action suggesting layered meaning",
+      "example": "A damaged watch evokes lost time."
+    },
+    {
+      "term": "theme",
+      "definition": "A developed insight about human experience",
+      "example": "Belonging may require resisting social expectations."
+    },
+    {
+      "term": "mood",
+      "definition": "The atmosphere a reader experiences",
+      "example": "Sparse details create unease."
+    },
+    {
+      "term": "character arc",
+      "definition": "A meaningful change or revelation in a character",
+      "example": "A cautious narrator becomes willing to act."
+    }
+  ],
+  "targets": [
+    "I can compare at least two narrative devices across texts with quotations.",
+    "I can trace a shared theme across two works and explain differences.",
+    "I can connect a recurring narrative pattern to historical context.",
+    "I can draft a story with a consequential character arc and purposeful symbol."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Odyssey",
+      "author": "Homer, translated by a credited translator",
+      "genre": "Epic poetry",
+      "purpose": "Analyze archetypes, nonlinear narration, and the journey pattern",
+      "access": "Licensed translation or public-domain translation",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Why do modern stories still borrow from this epic?",
+      "teachingPrompt": "Compare the homecoming pattern with a contemporary work.",
+      "alignment": [
+        "12.T.T.1.a",
+        "12.T.T.1.d"
+      ]
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "genre": "Contemporary myth retelling",
+      "purpose": "Contrast voice and archetype with classical myth",
+      "access": "Library or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "What changes when a sidelined figure narrates?",
+      "teachingPrompt": "Compare agency and perspective in parallel scenes.",
+      "alignment": [
+        "12.T.T.1.a",
+        "12.T.T.1.b",
+        "12.T.T.1.d"
+      ]
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "genre": "Literary novel",
+      "purpose": "Examine nonlinear structure, memory, symbolism, and historical trauma",
+      "access": "Licensed excerpt; review mature content and alternatives",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How does fragmented time represent memory?",
+      "teachingPrompt": "Trace an image through two passages and explain its evolution.",
+      "alignment": [
+        "12.T.T.1.b",
+        "12.T.T.1.c"
+      ]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Vignette novel",
+      "purpose": "Study setting, voice, recurring images, and character identity",
+      "access": "Library or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Can a neighborhood function like a character?",
+      "teachingPrompt": "Use one vignette as a model for setting-based symbolism.",
+      "alignment": [
+        "12.T.T.1.c",
+        "12.T.T.1.e"
+      ]
+    },
+    {
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "genre": "Short story",
+      "purpose": "Analyze unreliable narration, confined setting, and central symbol",
+      "access": "Project Gutenberg; contextualize historical treatment",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "When does a room become a symbol?",
+      "teachingPrompt": "Trace changes in the narrator and the wallpaper image.",
+      "alignment": [
+        "12.T.T.1.a",
+        "12.T.T.1.e"
+      ]
+    },
+    {
+      "title": "The Paper Menagerie",
+      "author": "Ken Liu",
+      "genre": "Speculative short story",
+      "purpose": "Analyze symbolic objects, emotional reversal, and cultural identity",
+      "access": "Licensed anthology or author-approved publication",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How can a small object carry a family history?",
+      "teachingPrompt": "Map the changing meaning of one object across the plot.",
+      "alignment": [
+        "12.T.T.1.b",
+        "12.T.T.1.c",
+        "12.T.T.1.e"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "55 minutes",
+      "title": "Narrative technique comparison",
+      "activity": "Read two short passages and use a guided organizer to compare narrator, conflict, and symbol. Write a claim supported by one quotation from each.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a model comparative sentence and passage glossaries",
+        "Color-code technique and reader effect"
+      ],
+      "success": "A supported comparison that explains at least one meaningful difference.",
+      "alignment": [
+        "12.T.T.1.a",
+        "12.T.T.1.b",
+        "12.T.T.1.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "Three class periods",
+      "title": "Theme across time, then craft",
+      "activity": "Compare a classical narrative excerpt with a contemporary retelling, then draft a 700-word scene that transforms an archetype through a new viewpoint and symbol.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a theme-tracking chart and plot arc planner",
+        "Workshop a character-change checkpoint"
+      ],
+      "success": "A textual comparison and a revised scene with purposeful viewpoint, mood, and symbol.",
+      "alignment": [
+        "12.T.T.1.a",
+        "12.T.T.1.c",
+        "12.T.T.1.d",
+        "12.T.T.1.e"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "Five class periods",
+      "title": "Intertextual narrative portfolio",
+      "activity": "Research the cultural context of a recurring story pattern across three periods. Produce a critical commentary and an original 1,200-word narrative that subverts the pattern intentionally.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Require credible historical context sources",
+        "Use peer critique focused on ethics of adaptation"
+      ],
+      "success": "An evidence-grounded comparison, accomplished narrative, and reflective craft rationale.",
+      "alignment": [
+        "12.T.T.1.a",
+        "12.T.T.1.b",
+        "12.T.T.1.c",
+        "12.T.T.1.d",
+        "12.T.T.1.e"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which claim best analyzes a recurring symbol in a narrative?",
+      "answer": "B",
+      "rationale": "A strong claim connects changing details to character and theme.",
+      "alignment": [
+        "12.T.T.1.a",
+        "12.T.T.1.e"
+      ],
+      "options": [
+        "The door is mentioned four times",
+        "The door shifts from a sign of safety to a sign of confinement as the narrator changes",
+        "The door is an example of imagery",
+        "The author probably likes doors"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare how two works from different periods use a similar character archetype to explore a different theme.",
+      "answer": "Identify a specific archetype, contextualize both works, and support distinct thematic claims with evidence.",
+      "rationale": "Score comparative reasoning and historically grounded analysis.",
+      "alignment": [
+        "12.T.T.1.c",
+        "12.T.T.1.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Write an 800–1,000-word original story featuring a changing character, deliberate mood, and a recurring symbol. Include a 250-word craft commentary citing two mentor-text techniques.",
+      "answer": "A coherent story whose craft choices develop a theme, plus an evidence-based rationale.",
+      "rationale": "Assess character complexity, technique integration, audience impact, and revision.",
+      "alignment": [
+        "12.T.T.1.b",
+        "12.T.T.1.e"
+      ]
+    }
+  ],
+  "evidence": [
+    "Comparative analysis with precise textual evidence",
+    "Theme map showing similarities and differences across periods",
+    "Draft and revised original narrative",
+    "Craft commentary explaining character, mood, and symbol"
+  ],
+  "instruction": [
+    "Teach comparative claims beyond device identification.",
+    "Provide historical context without flattening cultural differences.",
+    "Model a symbol changing significance across a narrative.",
+    "Workshop causal character change rather than arbitrary plot twists."
+  ],
+  "watchFor": [
+    "Equating a theme with a topic",
+    "Assuming archetypes are culturally universal in identical ways",
+    "Using symbols as decorative objects",
+    "Confusing plot summary with technique analysis"
+  ],
+  "skills": {
+    "12.T.T.1.a": {
+      "focus": "Comparative narrative devices",
+      "studentFriendly": "I can evaluate archetypes, perspectives, plot structure, and symbolism across texts.",
+      "know": [
+        "Meaning of comparative narrative devices",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about comparative narrative devices should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Evaluate archetypes, perspectives, plot structure, and symbolism across texts",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can evaluate archetypes, perspectives, plot structure, and symbolism across texts and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Evaluate archetypes, perspectives, plot structure, and symbolism across texts"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effect"
+      ]
+    },
+    "12.T.T.1.b": {
+      "focus": "Comparative craft and audience",
+      "studentFriendly": "I can compare how plot, conflict, diction, and narrative choices shape audience response.",
+      "know": [
+        "Meaning of comparative craft and audience",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about comparative craft and audience should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Compare how plot, conflict, diction, and narrative choices shape audience response",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can compare how plot, conflict, diction, and narrative choices shape audience response and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Compare how plot, conflict, diction, and narrative choices shape audience response"
+      ],
+      "watchFor": [
+        "Assuming different techniques always produce the same effect"
+      ]
+    },
+    "12.T.T.1.c": {
+      "focus": "Comparative theme analysis",
+      "studentFriendly": "I can compare development of a shared theme with precise textual evidence.",
+      "know": [
+        "Meaning of comparative theme analysis",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about comparative theme analysis should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Compare development of a shared theme with precise textual evidence",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can compare development of a shared theme with precise textual evidence and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Compare development of a shared theme with precise textual evidence"
+      ],
+      "watchFor": [
+        "Substituting a one-word topic for a thematic claim"
+      ]
+    },
+    "12.T.T.1.d": {
+      "focus": "Literary patterns across periods",
+      "studentFriendly": "I can analyze how themes, character types, and event patterns recur or change across periods.",
+      "know": [
+        "Meaning of literary patterns across periods",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about literary patterns across periods should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Analyze how themes, character types, and event patterns recur or change across periods",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can analyze how themes, character types, and event patterns recur or change across periods and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Analyze how themes, character types, and event patterns recur or change across periods"
+      ],
+      "watchFor": [
+        "Ignoring historical and cultural context"
+      ]
+    },
+    "12.T.T.1.e": {
+      "focus": "Original complex narrative craft",
+      "studentFriendly": "I can write a narrative with developing characters, mood, metaphor, symbolism, and an intentional theme.",
+      "know": [
+        "Meaning of original complex narrative craft",
+        "Criteria for effective performance",
+        "Relevant audience, context, and evidence"
+      ],
+      "understand": [
+        "Choices about original complex narrative craft should serve purpose, accuracy, and readers."
+      ],
+      "do": [
+        "Write a narrative with developing characters, mood, metaphor, symbolism, and an intentional theme",
+        "Explain why the choice works in context"
+      ],
+      "targets": [
+        "I can write a narrative with developing characters, mood, metaphor, symbolism, and an intentional theme and justify my decision."
+      ],
+      "instruction": [
+        "Model the decision with a short authentic excerpt",
+        "Use paired examples and an evidence-based revision conference"
+      ],
+      "evidence": [
+        "Annotated work sample demonstrating: Write a narrative with developing characters, mood, metaphor, symbolism, and an intentional theme"
+      ],
+      "watchFor": [
+        "Adding symbolism that has no relationship to character or theme"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, classroom suitability, availability, permissions, and source credibility."
+}
+  ]
 }
 
