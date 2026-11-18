@@ -10998,5 +10998,784 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
 }
+    ,
+{
+  "code": "11.P.ST.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Context",
+  "studentFriendly": "I can use research, discussion, and close reading to explain how historical, geographic, cultural, and social circumstances shape a text and its reception.",
+  "know": [
+    "Historical period, place, culture, and contemporary events",
+    "Credible background research and primary sources",
+    "Authorial purposes and audience expectations",
+    "Contextual evidence versus speculation"
+  ],
+  "understand": [
+    "Context illuminates choices without determining a single correct interpretation.",
+    "Different audiences may respond differently to the same text.",
+    "Relevant context supports close reading rather than replacing it."
+  ],
+  "do": [
+    "Research and prioritize contextual information",
+    "Connect context to purpose, audience, and craft",
+    "Compare interpretations across audiences",
+    "Explain uncertainties and limits of evidence"
+  ],
+  "vocabulary": [
+    {
+      "term": "context",
+      "definition": "Circumstances surrounding the creation and reception of a text",
+      "example": "The publication date changes how we interpret an argument."
+    },
+    {
+      "term": "primary source",
+      "definition": "Evidence created during the period or event studied",
+      "example": "A contemporary letter or newspaper article."
+    },
+    {
+      "term": "reception",
+      "definition": "How an audience understands or responds to a text",
+      "example": "Reviews of a novel when it was first published."
+    },
+    {
+      "term": "historical lens",
+      "definition": "An interpretive approach grounded in a time period",
+      "example": "Reading a speech alongside contemporary laws."
+    },
+    {
+      "term": "cultural context",
+      "definition": "Social practices and values relevant to a text",
+      "example": "Expectations about education in the setting."
+    },
+    {
+      "term": "audience",
+      "definition": "People for whom a text was intended or who encounter it",
+      "example": "An original audience and a present-day class."
+    },
+    {
+      "term": "authorial purpose",
+      "definition": "A plausible intended effect supported by evidence",
+      "example": "Encouraging reform through an editorial."
+    },
+    {
+      "term": "corroboration",
+      "definition": "Checking a claim against independent evidence",
+      "example": "Comparing a diary with a historical archive."
+    }
+  ],
+  "targets": [
+    "I can identify context that is relevant rather than merely interesting.",
+    "I can explain how context shapes author purpose and audience expectations.",
+    "I can support a comparison of two audience responses with text and research.",
+    "I can revise a message for a different social or historical context."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Narrative of the Life of Frederick Douglass",
+      "author": "Frederick Douglass",
+      "genre": "Autobiography",
+      "purpose": "Connect the historical context of abolition to purpose, audience, and rhetorical decisions",
+      "access": "Project Gutenberg; Library of Congress resources",
+      "readingTime": "20–30 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "How does a personal story challenge a political system?",
+      "teachingPrompt": "Compare the intended audience of an 1845 passage with a present-day classroom.",
+      "alignment": [
+        "11.P.ST.1.a",
+        "11.P.ST.1.b",
+        "11.P.ST.1.c"
+      ]
+    },
+    {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "genre": "Extended essay",
+      "purpose": "Study how women’s educational and economic conditions inform argument and audience",
+      "access": "Public-domain editions in some jurisdictions; verify local rights",
+      "readingTime": "15–20 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "Why does a writer build an argument around an imaginary room?",
+      "teachingPrompt": "Research educational access in 1929 and explain one craft choice.",
+      "alignment": [
+        "11.P.ST.1.a",
+        "11.P.ST.1.b"
+      ]
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O’Brien",
+      "genre": "Short fiction / linked stories",
+      "purpose": "Distinguish war-era context from authorial technique and reader response",
+      "access": "Library or licensed classroom copy",
+      "readingTime": "20–30 minutes (selected passage)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "What does a soldier carry that cannot be weighed?",
+      "teachingPrompt": "Separate evidence about the Vietnam War from assumptions about the narrator.",
+      "alignment": [
+        "11.P.ST.1.a",
+        "11.P.ST.1.c"
+      ]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Vignette collection",
+      "purpose": "Explore how place, language, and community affect narration and interpretation",
+      "access": "Library or licensed classroom copy",
+      "readingTime": "10–15 minutes (vignettes)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "How can one street shape a voice?",
+      "teachingPrompt": "Compare two readers’ interpretations using the same passage and contextual evidence.",
+      "alignment": [
+        "11.P.ST.1.a",
+        "11.P.ST.1.c"
+      ]
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter / argument",
+      "purpose": "Connect an urgent historical event to intended audience and rhetorical purpose",
+      "access": "King Institute or licensed excerpt; check permissions",
+      "readingTime": "20–30 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "Why write a public argument as a letter?",
+      "teachingPrompt": "Identify the immediate audience and explain how that context shapes appeals.",
+      "alignment": [
+        "11.P.ST.1.b",
+        "11.P.ST.1.c"
+      ]
+    },
+    {
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "genre": "Short story",
+      "purpose": "Explore reader ethics and historical or philosophical interpretive contexts",
+      "access": "Library or licensed classroom copy",
+      "readingTime": "20–30 minutes",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "Would you leave a seemingly perfect city?",
+      "teachingPrompt": "Compare two contextual lenses without asserting the story has only one meaning.",
+      "alignment": [
+        "11.P.ST.1.b",
+        "11.P.ST.1.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "35 minutes",
+      "title": "Context relevance sorter",
+      "activity": "Read a short excerpt and six background facts. Sort them into essential, useful, and unrelated; cite one sentence for each essential choice.",
+      "materials": [
+        "Excerpt",
+        "Context cards",
+        "Relevance chart"
+      ],
+      "scaffolds": [
+        "Provide a model example and evidence stems",
+        "Use paired discussion before independent writing"
+      ],
+      "success": "A three-item context chart with accurate source and text connections.",
+      "alignment": [
+        "11.P.ST.1.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "50 minutes",
+      "title": "Two audiences, one text",
+      "activity": "Research a text’s original circumstances, then write two short evidence-based responses: one from a historically plausible audience and one from a present-day audience.",
+      "materials": [
+        "Primary source",
+        "Secondary source",
+        "Text excerpt"
+      ],
+      "scaffolds": [
+        "Use a context-to-response organizer",
+        "Require qualifiers when evidence is limited"
+      ],
+      "success": "Two distinct interpretations grounded in both textual and contextual evidence.",
+      "alignment": [
+        "11.P.ST.1.b",
+        "11.P.ST.1.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60 minutes",
+      "title": "Recontextualize a public argument",
+      "activity": "Adapt a short historical argument for a present-day audience while retaining its core claim. Annotate what changed and why.",
+      "materials": [
+        "Historical text",
+        "Audience profile",
+        "Revision memo template"
+      ],
+      "scaffolds": [
+        "Encourage consultation of multiple scholarly perspectives",
+        "Include ethical discussion of omissions and anachronisms"
+      ],
+      "success": "An adapted text and a justified account of at least four context-sensitive changes.",
+      "alignment": [
+        "11.P.ST.1.a",
+        "11.P.ST.1.b",
+        "11.P.ST.1.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which background detail most directly helps interpret an 1845 abolitionist autobiography?",
+      "options": [
+        "The author’s favorite meal",
+        "Laws and public debates about enslavement at the time",
+        "The current price of the book",
+        "The reader’s preferred genre"
+      ],
+      "answer": "B",
+      "rationale": "The legal and political circumstances directly bear on the writer’s purpose and audience.",
+      "alignment": [
+        "11.P.ST.1.a"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Using a passage and one credible contextual source, explain how the circumstances of publication may have shaped the author’s purpose.",
+      "answer": "A strong answer identifies a supported circumstance, cites the passage and source, and makes a qualified purpose claim.",
+      "rationale": "Assess the quality of evidence and reasoning rather than unsupported certainty about intent.",
+      "alignment": [
+        "11.P.ST.1.a",
+        "11.P.ST.1.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Compare two plausible audience responses to the same passage across historical contexts; annotate a craft choice that helps explain the difference.",
+      "answer": "Provide two evidence-based responses, one precise craft analysis, and a note about uncertainty or alternative readings.",
+      "rationale": "Scoring: contextual accuracy, close reading, comparative reasoning, and evidence.",
+      "alignment": [
+        "11.P.ST.1.c"
+      ]
+    }
+  ],
+  "evidence": [
+    "Research notes with credible citations and relevance judgments",
+    "A passage annotation connecting contextual detail to author choice",
+    "A comparison of audience interpretations that acknowledges uncertainty",
+    "A short revision rationale for a changed context"
+  ],
+  "instruction": [
+    "Begin with close reading and student questions before supplying background.",
+    "Teach sourcing and corroboration explicitly; avoid presenting a single webpage as settled context.",
+    "Use historical primary sources to complicate rather than flatten interpretations.",
+    "Ask students to distinguish what the text shows, what research shows, and what they infer."
+  ],
+  "watchFor": [
+    "Context facts listed without explaining their interpretive relevance",
+    "Assumptions that all people in a historical group shared one viewpoint",
+    "Biographical determinism: treating context as proof of intent",
+    "Present-day values projected uncritically onto historical audiences"
+  ],
+  "skills": {
+    "11.P.ST.1.a": {
+      "focus": "Identify relevant context",
+      "studentFriendly": "I can research and discuss which background details matter most to a text.",
+      "know": [
+        "Historical period, location, and cultural circumstances",
+        "Primary and secondary sources",
+        "Relevant versus incidental background"
+      ],
+      "understand": [
+        "Context is selected and substantiated rather than assumed."
+      ],
+      "do": [
+        "Identify contextual questions",
+        "Research with trustworthy sources",
+        "Explain why each detail matters"
+      ],
+      "targets": [
+        "I can justify three relevant contextual details with sources."
+      ],
+      "instruction": [
+        "Model a context-question chart before research",
+        "Compare a primary document and a secondary account",
+        "Ask peers which details change their interpretation"
+      ],
+      "evidence": [
+        "Source-linked context chart with relevance rationales",
+        "Brief discussion identifying what remains uncertain"
+      ],
+      "watchFor": [
+        "Treating context as a list of trivia",
+        "Generalizing a culture or period from one source"
+      ]
+    },
+    "11.P.ST.1.b": {
+      "focus": "Context, author purpose, and audience",
+      "studentFriendly": "I can explain how circumstances shape what a writer wants and what readers expect.",
+      "know": [
+        "Author purpose",
+        "Intended and unintended audiences",
+        "Social and historical pressures"
+      ],
+      "understand": [
+        "An author’s purposes and an audience’s expectations may differ."
+      ],
+      "do": [
+        "Identify plausible purposes and audiences",
+        "Connect purposes to contextual evidence",
+        "Qualify claims where intent is uncertain"
+      ],
+      "targets": [
+        "I can explain two context-to-purpose connections."
+      ],
+      "instruction": [
+        "Contrast contemporary and historical audiences",
+        "Distinguish evidence of intent from speculation",
+        "Use sentence frames: Given ___, the author may ___"
+      ],
+      "evidence": [
+        "Evidence-based audience-and-purpose explanation",
+        "Comparison of two plausible audience readings"
+      ],
+      "watchFor": [
+        "Claiming to know private author intentions",
+        "Treating all audiences as identical"
+      ]
+    },
+    "11.P.ST.1.c": {
+      "focus": "Context shapes choices and responses",
+      "studentFriendly": "I can trace how context affects a text’s craft and how different audiences respond.",
+      "know": [
+        "Textual choices",
+        "Reception and interpretation",
+        "Changing audience norms"
+      ],
+      "understand": [
+        "The same text may be interpreted differently in different contexts."
+      ],
+      "do": [
+        "Analyze a specific author choice",
+        "Compare historically grounded audience responses",
+        "Revise an original text for a changed context"
+      ],
+      "targets": [
+        "I can support a claim about context, craft, and reception."
+      ],
+      "instruction": [
+        "Annotate a passage for contextual clues and choices",
+        "Use two audience personas with evidence, not stereotypes",
+        "Conduct a short revision experiment"
+      ],
+      "evidence": [
+        "Annotated passage and two-response comparison",
+        "Revision note explaining contextual adaptation"
+      ],
+      "watchFor": [
+        "Assuming a single universal response",
+        "Replacing close reading with biography alone"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.P.ST.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Author, Audience, & Purpose",
+  "studentFriendly": "I can analyze how writers adapt their perspectives and choices to reach particular audiences, then design my own texts for a clear purpose.",
+  "know": [
+    "Purpose, point of view, audience, and context",
+    "Criteria for judging effectiveness",
+    "Accessible organization and multimodal design",
+    "Diction, syntax, rhetorical craft, and ethical framing"
+  ],
+  "understand": [
+    "A text’s effectiveness depends on its purpose and audience, not just its accuracy or style.",
+    "Point of view is conveyed through selection, emphasis, language, and design.",
+    "Writers can revise the same core information for different audiences without distorting it."
+  ],
+  "do": [
+    "Infer and evaluate a text’s purpose",
+    "Analyze how perspective emerges from framing",
+    "Design and revise a text for a specified audience",
+    "Justify information, design, and language choices with evidence"
+  ],
+  "vocabulary": [
+    {
+      "term": "purpose",
+      "definition": "What a text is meant to accomplish",
+      "example": "Explain a policy or persuade readers to change it."
+    },
+    {
+      "term": "target audience",
+      "definition": "The specific group a text aims to reach",
+      "example": "New students rather than veteran teachers."
+    },
+    {
+      "term": "point of view",
+      "definition": "The position or perspective expressed by a text",
+      "example": "A resident’s account of a proposed development."
+    },
+    {
+      "term": "rhetorical situation",
+      "definition": "The interaction of author, audience, purpose, and context",
+      "example": "A public-health flyer during an outbreak."
+    },
+    {
+      "term": "diction",
+      "definition": "A writer’s word choices",
+      "example": "Technical terms in a specialist report."
+    },
+    {
+      "term": "accessibility",
+      "definition": "Design that makes information usable by diverse audiences",
+      "example": "Clear headings, readable contrast, and defined terms."
+    },
+    {
+      "term": "framing",
+      "definition": "How selected information shapes an issue",
+      "example": "Presenting an issue through costs or community impact."
+    },
+    {
+      "term": "craft technique",
+      "definition": "A deliberate method of shaping reader response",
+      "example": "Anecdote, contrast, or parallelism."
+    }
+  ],
+  "targets": [
+    "I can identify a purpose and evaluate its success using audience-specific criteria.",
+    "I can compare how two writers frame the same issue.",
+    "I can establish a defensible perspective in my own writing.",
+    "I can adapt information, structure, diction, and design for two audiences."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter",
+      "purpose": "Examine how a named audience and a public audience affect argument and rhetorical choices",
+      "access": "King Institute or licensed excerpt; check permissions",
+      "readingTime": "20–30 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "What changes when a letter becomes a public argument?",
+      "teachingPrompt": "Evaluate effectiveness for the letter’s immediate and broader audiences.",
+      "alignment": [
+        "11.P.ST.2.a",
+        "11.P.ST.2.b",
+        "11.P.ST.2.c"
+      ]
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical essay",
+      "purpose": "Distinguish literal claims from satirical purpose and audience assumptions",
+      "access": "Project Gutenberg",
+      "readingTime": "20–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "Why would a writer make an intentionally shocking proposal?",
+      "teachingPrompt": "Explain how an uninformed audience might misread the purpose.",
+      "alignment": [
+        "11.P.ST.2.a",
+        "11.P.ST.2.b"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "TED talk / speech",
+      "purpose": "Study how personal examples, structure, and tone serve a broad audience",
+      "access": "TED official transcript/video; verify access",
+      "readingTime": "18 minutes",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "Who gets to decide which stories are told?",
+      "teachingPrompt": "Identify two craft choices that make a complex idea accessible.",
+      "alignment": [
+        "11.P.ST.2.a",
+        "11.P.ST.2.c"
+      ]
+    },
+    {
+      "title": "The Declaration of Sentiments",
+      "author": "Elizabeth Cady Stanton and convention participants",
+      "genre": "Political declaration",
+      "purpose": "Analyze adaptation of a familiar form for a new political purpose",
+      "access": "National Park Service or historical archive",
+      "readingTime": "15–20 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "How can borrowing a famous structure strengthen a new argument?",
+      "teachingPrompt": "Compare intended audiences and deliberate structural echoes.",
+      "alignment": [
+        "11.P.ST.2.b",
+        "11.P.ST.2.c"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Analyze ethical framing of scientific information for a general audience",
+      "access": "Library or licensed classroom copy",
+      "readingTime": "20–30 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "Who owns a story about scientific discovery?",
+      "teachingPrompt": "Contrast a narrative passage with a technical summary of the same subject.",
+      "alignment": [
+        "11.P.ST.2.a",
+        "11.P.ST.2.c"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Commemorative speech",
+      "purpose": "Examine brevity, historical context, and audience-specific rhetorical craft",
+      "access": "National Archives or Library of Congress",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide an excerpt, glossary, or audio option where appropriate; check contextual and cultural framing.",
+      "interestHook": "How can a short speech redefine a national event?",
+      "teachingPrompt": "Identify omissions and emphasis and connect them to purpose.",
+      "alignment": [
+        "11.P.ST.2.a",
+        "11.P.ST.2.b",
+        "11.P.ST.2.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "35 minutes",
+      "title": "Audience and purpose detective",
+      "activity": "Compare a school announcement and a student-facing FAQ about the same policy. Mark who each addresses, what it wants, and three language/design differences.",
+      "materials": [
+        "Two short model texts",
+        "Audience-purpose chart"
+      ],
+      "scaffolds": [
+        "Model the difference between topic and purpose",
+        "Offer sentence stems linking choice to audience"
+      ],
+      "success": "A supported explanation of at least three audience-driven choices.",
+      "alignment": [
+        "11.P.ST.2.a",
+        "11.P.ST.2.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "55 minutes",
+      "title": "One issue, two audiences",
+      "activity": "Write a 200-word briefing for students and a 200-word briefing for families on the same school issue; annotate information selection, word choice, and organization.",
+      "materials": [
+        "Research notes",
+        "Two audience profiles",
+        "Revision checklist"
+      ],
+      "scaffolds": [
+        "Require factual consistency across versions",
+        "Peer-test readability and clarity"
+      ],
+      "success": "Two coherent versions and four evidence-based design rationales.",
+      "alignment": [
+        "11.P.ST.2.b",
+        "11.P.ST.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "70 minutes",
+      "title": "Rhetorical redesign audit",
+      "activity": "Select a public-facing communication and audit its effectiveness for an underserved audience. Redesign the text and justify accessibility, perspective, and ethical choices.",
+      "materials": [
+        "Public communication sample",
+        "Audience research",
+        "Accessibility checklist"
+      ],
+      "scaffolds": [
+        "Encourage authentic audience feedback when possible",
+        "Require an evidence-based critique, not a preference list"
+      ],
+      "success": "A redesigned artifact and memo evaluating purpose, perspective, and accessibility.",
+      "alignment": [
+        "11.P.ST.2.a",
+        "11.P.ST.2.b",
+        "11.P.ST.2.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A writer needs to explain a complicated enrollment process to families new to the school. Which revision best serves that audience?",
+      "options": [
+        "Add more acronyms without definitions",
+        "Use numbered steps, defined terms, and clear deadlines",
+        "Replace instructions with a decorative image",
+        "Assume readers know school-specific terminology"
+      ],
+      "answer": "B",
+      "rationale": "Clear sequence and defined terms directly support an unfamiliar audience.",
+      "alignment": [
+        "11.P.ST.2.c"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Identify the purpose and intended audience of a selected speech. Evaluate whether two specific choices help it achieve that purpose.",
+      "answer": "A strong answer names a plausible audience and purpose, cites two choices, and evaluates their effects using explicit criteria.",
+      "rationale": "Score evidence and audience-specific reasoning, not simple approval of the message.",
+      "alignment": [
+        "11.P.ST.2.a",
+        "11.P.ST.2.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create two versions of one evidence-based message for different audiences. Submit a brief memo explaining changes in information, design, diction, and craft.",
+      "answer": "Two accurate, audience-appropriate products plus a four-part design rationale and a reflection on trade-offs.",
+      "rationale": "Scoring: factual integrity, audience fit, purposeful perspective, and accessible design.",
+      "alignment": [
+        "11.P.ST.2.b",
+        "11.P.ST.2.c"
+      ]
+    }
+  ],
+  "evidence": [
+    "Purpose-and-audience analysis citing textual choices",
+    "A comparison of distinct perspectives on one issue",
+    "Two audience-specific drafts that preserve factual accuracy",
+    "An annotated rationale for information, design, diction, and craft decisions"
+  ],
+  "instruction": [
+    "Teach purpose, audience, context, and perspective as interacting choices.",
+    "Model evaluation with audience-specific criteria rather than personal preference.",
+    "Use paired authentic genres to demonstrate information selection and framing.",
+    "Build in peer testing and revision for readability, accessibility, and ethical accuracy."
+  ],
+  "watchFor": [
+    "Confusing audience with everyone who might encounter a text",
+    "Assuming that agreement with the claim proves rhetorical success",
+    "Reducing point of view to pronoun choice",
+    "Changing or omitting crucial facts to make a message more persuasive"
+  ],
+  "skills": {
+    "11.P.ST.2.a": {
+      "focus": "Determine purpose and evaluate success",
+      "studentFriendly": "I can identify a text’s purpose and judge how well it achieves it for its audience.",
+      "know": [
+        "Author and audience relationships",
+        "Context-dependent purposes",
+        "Criteria for effectiveness"
+      ],
+      "understand": [
+        "Success depends on what a text is trying to do and for whom."
+      ],
+      "do": [
+        "Infer purpose from textual evidence",
+        "Set audience-specific success criteria",
+        "Evaluate strengths and limitations"
+      ],
+      "targets": [
+        "I can support an evaluation with specific evidence and criteria."
+      ],
+      "instruction": [
+        "Compare an advocacy text with an informational text",
+        "Model a purpose/evidence/effectiveness table",
+        "Invite alternative interpretations of success"
+      ],
+      "evidence": [
+        "Criteria-based written evaluation",
+        "Revision goals linked to a specific audience"
+      ],
+      "watchFor": [
+        "Confusing topic with purpose",
+        "Calling a text effective solely because one agrees"
+      ]
+    },
+    "11.P.ST.2.b": {
+      "focus": "Establish point of view and perspective",
+      "studentFriendly": "I can explain a writer’s perspective and develop a distinct, justified perspective of my own.",
+      "know": [
+        "Point of view versus purpose",
+        "Perspective and positionality",
+        "Claims, framing, and selection"
+      ],
+      "understand": [
+        "A perspective emerges from situated choices, not merely first-person pronouns."
+      ],
+      "do": [
+        "Identify perspective in an existing text",
+        "Explain how context informs framing",
+        "Draft a purposeful and ethical perspective"
+      ],
+      "targets": [
+        "I can show how two choices communicate a defensible perspective."
+      ],
+      "instruction": [
+        "Use paired texts on one issue",
+        "Annotate what each writer foregrounds",
+        "Draft and peer-review a perspective statement"
+      ],
+      "evidence": [
+        "Comparison of framed perspectives",
+        "Original introduction with a defensible point of view"
+      ],
+      "watchFor": [
+        "Mistaking perspective for unsupported bias",
+        "Presenting one group as monolithic"
+      ]
+    },
+    "11.P.ST.2.c": {
+      "focus": "Choose content, design, language, and craft",
+      "studentFriendly": "I can tailor information, layout, language, and craft to an audience and purpose.",
+      "know": [
+        "Information selection and emphasis",
+        "Accessible text design",
+        "Diction, syntax, and craft techniques"
+      ],
+      "understand": [
+        "Audience awareness changes what writers include and how they present it."
+      ],
+      "do": [
+        "Prioritize audience-relevant information",
+        "Select accessible format and language",
+        "Explain and test rhetorical/craft choices"
+      ],
+      "targets": [
+        "I can revise a text for a new audience and justify four design decisions."
+      ],
+      "instruction": [
+        "Analyze a public information page and a specialist report",
+        "Run an audience-accessibility checklist",
+        "Compare original and revised drafts with annotations"
+      ],
+      "evidence": [
+        "Two audience-specific versions of one message",
+        "Decision memo explaining content, design, diction, and craft"
+      ],
+      "watchFor": [
+        "Equating accessibility with oversimplification",
+        "Decorative design that obscures key information"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
   ]
 }
