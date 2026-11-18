@@ -9482,5 +9482,1521 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
 }
+    ,
+{
+  "code": "11.P.CP.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Presentation",
+  "studentFriendly": "I can plan and deliver clear presentations, combine suitable media, adjust my delivery, engage listeners, and recite significant literature with understanding.",
+  "know": [
+    "Purpose, audience, and central claim",
+    "Evidence and sequencing for spoken communication",
+    "Visual, audio, and print modes",
+    "Vocal delivery, pacing, gestures, and accessibility",
+    "Audience questions and responsive dialogue",
+    "Poetry and speech recitation as interpretation"
+  ],
+  "understand": [
+    "An effective presentation is designed for a specific audience and occasion.",
+    "Delivery and multimodal choices influence understanding and credibility.",
+    "Responding to audience questions is part of communication, not an interruption.",
+    "Recitation can deepen attention to rhythm, meaning, and historical context."
+  ],
+  "do": [
+    "Plan a concise, evidence-based presentation for a defined audience",
+    "Choose visuals or other modes that clarify rather than distract",
+    "Rehearse pace, tone, and nonverbal communication",
+    "Respond thoughtfully to questions and revise from feedback",
+    "Recite and interpret a meaningful excerpt"
+  ],
+  "vocabulary": [
+    {
+      "term": "audience",
+      "definition": "Intended listeners or viewers",
+      "example": "Students at an assembly"
+    },
+    {
+      "term": "purpose",
+      "definition": "What the presentation should accomplish",
+      "example": "Explain a proposed policy"
+    },
+    {
+      "term": "multimodal",
+      "definition": "Combining modes to convey meaning",
+      "example": "Spoken explanation with an annotated chart"
+    },
+    {
+      "term": "pace",
+      "definition": "Rate of speaking",
+      "example": "Slowing at a key statistic"
+    },
+    {
+      "term": "intonation",
+      "definition": "Vocal variation that conveys meaning",
+      "example": "Rising pitch on a genuine question"
+    },
+    {
+      "term": "gesture",
+      "definition": "Purposeful movement accompanying speech",
+      "example": "Pointing to a chart trend"
+    },
+    {
+      "term": "visual hierarchy",
+      "definition": "Arrangement that signals importance",
+      "example": "One headline above a simple graph"
+    },
+    {
+      "term": "recitation",
+      "definition": "Meaningful oral performance of learned text",
+      "example": "Delivering a stanza with phrasing"
+    },
+    {
+      "term": "dialogue",
+      "definition": "Two-way exchange of ideas",
+      "example": "Responding to a skeptical question"
+    },
+    {
+      "term": "accessibility",
+      "definition": "Features enabling access",
+      "example": "Readable slides and a transcript"
+    }
+  ],
+  "targets": [
+    "I can plan a concise, evidence-based presentation for a defined audience.",
+    "I can choose visuals or other modes that clarify rather than distract.",
+    "I can rehearse pace, tone, and nonverbal communication.",
+    "I can respond thoughtfully to questions and revise from feedback.",
+    "I can recite and interpret a meaningful excerpt."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Ain’t I a Woman?",
+      "author": "Sojourner Truth",
+      "genre": "Historical speech, versions vary",
+      "purpose": "Discuss how audience and performance shape interpretation",
+      "access": "Use an authoritative edition; discuss contested transcripts",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Discuss how audience and performance shape interpretation",
+      "teachingPrompt": "What does this example reveal about presentation?",
+      "alignment": [
+        "11.P.CP.2.a",
+        "11.P.CP.2.b"
+      ]
+    },
+    {
+      "title": "The Hill We Climb",
+      "author": "Amanda Gorman",
+      "genre": "Poem and performance",
+      "purpose": "Analyze pacing, rhythm, and delivery",
+      "access": "Licensed text and official performance",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Analyze pacing, rhythm, and delivery",
+      "teachingPrompt": "What does this example reveal about presentation?",
+      "alignment": [
+        "11.P.CP.2.b",
+        "11.P.CP.2.c"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Historical speech",
+      "purpose": "Practice meaningful recitation and rhetorical pauses",
+      "access": "Public domain",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Practice meaningful recitation and rhetorical pauses",
+      "teachingPrompt": "What does this example reveal about presentation?",
+      "alignment": [
+        "11.P.CP.2.c",
+        "11.P.CP.2.d"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Recorded talk",
+      "purpose": "Evaluate audience engagement and structure",
+      "access": "Official TED video and transcript",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Evaluate audience engagement and structure",
+      "teachingPrompt": "What does this example reveal about presentation?",
+      "alignment": [
+        "11.P.CP.2.d",
+        "11.P.CP.2.e"
+      ]
+    },
+    {
+      "title": "A current NASA mission briefing",
+      "author": "NASA",
+      "genre": "Technical presentation",
+      "purpose": "Analyze the role of visuals in explaining complex information",
+      "access": "Official NASA resources",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Analyze the role of visuals in explaining complex information",
+      "teachingPrompt": "What does this example reveal about presentation?",
+      "alignment": [
+        "11.P.CP.2.e",
+        "11.P.CP.2.a"
+      ]
+    },
+    {
+      "title": "We Wear the Mask",
+      "author": "Paul Laurence Dunbar",
+      "genre": "Poem",
+      "purpose": "Rehearse voice and phrasing to interpret layered meaning",
+      "access": "Public domain",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Rehearse voice and phrasing to interpret layered meaning",
+      "teachingPrompt": "What does this example reveal about presentation?",
+      "alignment": [
+        "11.P.CP.2.a",
+        "11.P.CP.2.b"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "One-minute briefing",
+      "activity": "Present a 60-second explanation of a familiar issue with a clear opening, two supporting points, and one visual; answer a peer question.",
+      "materials": [
+        "Briefing organizer",
+        "Timer"
+      ],
+      "scaffolds": [
+        "Provide a model and rehearsal partner",
+        "Allow cue cards"
+      ],
+      "success": "Listeners can state the message and ask an informed question.",
+      "alignment": [
+        "11.P.CP.2.a",
+        "11.P.CP.2.b",
+        "11.P.CP.2.c",
+        "11.P.CP.2.d",
+        "11.P.CP.2.e"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "50 minutes",
+      "title": "Evidence-based public briefing",
+      "activity": "Deliver a four-minute proposal for a real school audience using cited evidence, one accessible visual, and a question period.",
+      "materials": [
+        "Source packet",
+        "Slide or poster",
+        "Feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a planning conference",
+        "Rehearse transitions"
+      ],
+      "success": "Clear, credible argument; purposeful delivery; accurate responses.",
+      "alignment": [
+        "11.P.CP.2.a",
+        "11.P.CP.2.b",
+        "11.P.CP.2.c",
+        "11.P.CP.2.d",
+        "11.P.CP.2.e"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60 minutes",
+      "title": "Two-audience adaptation",
+      "activity": "Present the same researched recommendation to student and adult audiences; document changes to mode, tone, pacing, and responses.",
+      "materials": [
+        "Audience profiles",
+        "Recording tool",
+        "Reflection sheet"
+      ],
+      "scaffolds": [
+        "Require comparison of audience feedback"
+      ],
+      "success": "Two effective versions and a justified adaptation memo.",
+      "alignment": [
+        "11.P.CP.2.a",
+        "11.P.CP.2.b",
+        "11.P.CP.2.c",
+        "11.P.CP.2.d",
+        "11.P.CP.2.e"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which slide choice most helps listeners follow a complex claim?",
+      "options": [
+        "A full paragraph in small type",
+        "One labeled visual with a clear takeaway",
+        "Decorative animation on every line",
+        "An image without a caption"
+      ],
+      "answer": "One labeled visual with a clear takeaway",
+      "rationale": "Visuals should clarify the central idea.",
+      "alignment": [
+        "11.P.CP.2.a",
+        "11.P.CP.2.b",
+        "11.P.CP.2.c",
+        "11.P.CP.2.d",
+        "11.P.CP.2.e"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how a speaker should adjust pace, tone, and gesture when presenting a sensitive topic to an unfamiliar audience.",
+      "answer": "Identify at least two delivery choices and explain their likely effects.",
+      "rationale": "Audience and purpose guide delivery.",
+      "alignment": [
+        "11.P.CP.2.a",
+        "11.P.CP.2.b",
+        "11.P.CP.2.c",
+        "11.P.CP.2.d",
+        "11.P.CP.2.e"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Deliver a short researched presentation, respond to two audience questions, and recite a relevant short public-domain passage with an explanation of its significance.",
+      "answer": "Assess clarity, modes, delivery, dialogue, and purposeful recitation.",
+      "rationale": "Evaluate each expectation with separate evidence.",
+      "alignment": [
+        "11.P.CP.2.a",
+        "11.P.CP.2.b",
+        "11.P.CP.2.c",
+        "11.P.CP.2.d",
+        "11.P.CP.2.e"
+      ]
+    }
+  ],
+  "evidence": [
+    "An evidence-based analysis of an authentic mentor text or communication situation.",
+    "A purposeful original or revised product that demonstrates the focus.",
+    "Annotations, process notes, or reflection that justify decisions.",
+    "Feedback and revision evidence tied to audience, purpose, and context."
+  ],
+  "instruction": [
+    "Establish an authentic audience and a clear communication or collaboration problem.",
+    "Use a brief mentor example and model the reasoning behind a successful choice.",
+    "Provide a structured, supported practice task and a more independent transfer task.",
+    "Invite feedback from the intended audience or a credible peer proxy.",
+    "Assess both the quality of the result and the student’s explanation of decisions."
+  ],
+  "watchFor": [
+    "Terminology memorization without application.",
+    "Assumptions about audiences without testing them.",
+    "Attributing a single fixed effect to a technique or design feature.",
+    "Failing to document sources, participation, or revision."
+  ],
+  "skills": {
+    "11.P.CP.2.a": {
+      "focus": "Communicate ideas and information clearly",
+      "studentFriendly": "I can communicate clearly to present ideas, information, and texts.",
+      "know": [
+        "Communicate clearly to present ideas, information, and texts",
+        "Purpose, audience, and central claim"
+      ],
+      "understand": [
+        "An effective presentation is designed for a specific audience and occasion."
+      ],
+      "do": [
+        "Communicate clearly to present ideas, information, and texts.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain communicate ideas and information clearly in context.",
+        "Apply communicate ideas and information clearly and justify the choice."
+      ],
+      "instruction": [
+        "Introduce communicate ideas and information clearly through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating communicate ideas and information clearly.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.CP.2.b": {
+      "focus": "Integrate appropriate modes and genres",
+      "studentFriendly": "I can integrate modes and genres most appropriate to purpose and audience.",
+      "know": [
+        "Integrate modes and genres most appropriate to purpose and audience",
+        "Evidence and sequencing for spoken communication"
+      ],
+      "understand": [
+        "Delivery and multimodal choices influence understanding and credibility."
+      ],
+      "do": [
+        "Integrate modes and genres most appropriate to purpose and audience.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain integrate appropriate modes and genres in context.",
+        "Apply integrate appropriate modes and genres and justify the choice."
+      ],
+      "instruction": [
+        "Introduce integrate appropriate modes and genres through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating integrate appropriate modes and genres.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.CP.2.c": {
+      "focus": "Adjust tone, pace, and gestures",
+      "studentFriendly": "I can vary tone, pace, and nonverbal gestures as appropriate to purpose and audience.",
+      "know": [
+        "Vary tone, pace, and nonverbal gestures as appropriate to purpose and audience",
+        "Visual, audio, and print modes"
+      ],
+      "understand": [
+        "Responding to audience questions is part of communication, not an interruption."
+      ],
+      "do": [
+        "Vary tone, pace, and nonverbal gestures as appropriate to purpose and audience.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain adjust tone, pace, and gestures in context.",
+        "Apply adjust tone, pace, and gestures and justify the choice."
+      ],
+      "instruction": [
+        "Introduce adjust tone, pace, and gestures through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating adjust tone, pace, and gestures.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.CP.2.d": {
+      "focus": "Engage audiences through questions and answers",
+      "studentFriendly": "I can engage in dialogue with audiences by asking and answering questions.",
+      "know": [
+        "Engage in dialogue with audiences by asking and answering questions",
+        "Vocal delivery, pacing, gestures, and accessibility"
+      ],
+      "understand": [
+        "Recitation can deepen attention to rhythm, meaning, and historical context."
+      ],
+      "do": [
+        "Engage in dialogue with audiences by asking and answering questions.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain engage audiences through questions and answers in context.",
+        "Apply engage audiences through questions and answers and justify the choice."
+      ],
+      "instruction": [
+        "Introduce engage audiences through questions and answers through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating engage audiences through questions and answers.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.CP.2.e": {
+      "focus": "Recite significant poems or speeches meaningfully",
+      "studentFriendly": "I can build background knowledge by reciting all or part of significant poems and speeches as appropriate by grade level.",
+      "know": [
+        "Build background knowledge by reciting all or part of significant poems and speeches as appropriate by grade level",
+        "Audience questions and responsive dialogue"
+      ],
+      "understand": [
+        "An effective presentation is designed for a specific audience and occasion."
+      ],
+      "do": [
+        "Build background knowledge by reciting all or part of significant poems and speeches as appropriate by grade level.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain recite significant poems or speeches meaningfully in context.",
+        "Apply recite significant poems or speeches meaningfully and justify the choice."
+      ],
+      "instruction": [
+        "Introduce recite significant poems or speeches meaningfully through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating recite significant poems or speeches meaningfully.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.P.EICC.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Reader & Writer Identity",
+  "studentFriendly": "I can set and revise reading and writing goals, explore my preferences, choose meaningful texts, use strategies independently, and contribute to a community of readers and writers.",
+  "know": [
+    "Reading and writing identity as a developing practice",
+    "Specific, measurable personal and academic goals",
+    "Genre, topic, technique, and mode preferences",
+    "Comprehension and composition strategy repertoire",
+    "Workshop feedback norms and peer communities",
+    "Self-direction, choice, and reflection"
+  ],
+  "understand": [
+    "Identity grows through repeated choices, reflection, and meaningful participation.",
+    "Preferences can guide engagement without limiting academic challenge.",
+    "Skilled readers and writers choose strategies according to the task.",
+    "Communities support growth through respectful feedback and shared reading."
+  ],
+  "do": [
+    "Set and monitor reading and writing goals using concrete evidence",
+    "Explain preferences with examples of texts and techniques",
+    "Select texts balancing interest and academic relevance",
+    "Use and evaluate multiple comprehension and drafting strategies",
+    "Offer specific feedback and act on feedback received",
+    "Demonstrate increasingly independent reading and writing decisions"
+  ],
+  "vocabulary": [
+    {
+      "term": "reader identity",
+      "definition": "How a person understands their reading habits and interests",
+      "example": "A student who seeks speculative fiction"
+    },
+    {
+      "term": "writer identity",
+      "definition": "How a person understands their writing practices",
+      "example": "A student who enjoys essays"
+    },
+    {
+      "term": "goal monitoring",
+      "definition": "Tracking progress toward a specific target",
+      "example": "Weekly reading log reflection"
+    },
+    {
+      "term": "genre",
+      "definition": "Recognizable kind of text",
+      "example": "Memoir or op-ed"
+    },
+    {
+      "term": "mode",
+      "definition": "Form through which a text communicates",
+      "example": "Audio essay"
+    },
+    {
+      "term": "metacognition",
+      "definition": "Thinking about one’s thinking",
+      "example": "Noticing when comprehension breaks down"
+    },
+    {
+      "term": "strategy repertoire",
+      "definition": "Collection of approaches available to use",
+      "example": "Annotation, rereading, and summarizing"
+    },
+    {
+      "term": "feedback protocol",
+      "definition": "Agreed method for responding to work",
+      "example": "Notice–question–suggest"
+    },
+    {
+      "term": "autonomy",
+      "definition": "Independent choice and responsibility",
+      "example": "Selecting a suitable revision strategy"
+    },
+    {
+      "term": "reading community",
+      "definition": "Group that exchanges interpretations and recommendations",
+      "example": "Peer book circle"
+    }
+  ],
+  "targets": [
+    "I can set and monitor reading and writing goals using concrete evidence.",
+    "I can explain preferences with examples of texts and techniques.",
+    "I can select texts balancing interest and academic relevance.",
+    "I can use and evaluate multiple comprehension and drafting strategies.",
+    "I can offer specific feedback and act on feedback received.",
+    "I can demonstrate increasingly independent reading and writing decisions."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Vignette collection",
+      "purpose": "Use short texts to discuss identity and style preferences",
+      "access": "School-library copy",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Use short texts to discuss identity and style preferences",
+      "teachingPrompt": "What does this example reveal about reader & writer identity?",
+      "alignment": [
+        "11.P.EICC.1.a",
+        "11.P.EICC.1.b"
+      ]
+    },
+    {
+      "title": "Born a Crime",
+      "author": "Trevor Noah",
+      "genre": "Memoir",
+      "purpose": "Examine reader interests and voice; select age-appropriate excerpts",
+      "access": "Licensed excerpts; review content",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Examine reader interests and voice; select age-appropriate excerpts",
+      "teachingPrompt": "What does this example reveal about reader & writer identity?",
+      "alignment": [
+        "11.P.EICC.1.b",
+        "11.P.EICC.1.c"
+      ]
+    },
+    {
+      "title": "Brown Girl Dreaming",
+      "author": "Jacqueline Woodson",
+      "genre": "Verse memoir",
+      "purpose": "Reflect on writing identity and modes",
+      "access": "School-library copy",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Reflect on writing identity and modes",
+      "teachingPrompt": "What does this example reveal about reader & writer identity?",
+      "alignment": [
+        "11.P.EICC.1.c",
+        "11.P.EICC.1.d"
+      ]
+    },
+    {
+      "title": "The Poet X",
+      "author": "Elizabeth Acevedo",
+      "genre": "Verse novel",
+      "purpose": "Explore how spoken and written modes shape identity",
+      "access": "School-library copy; review content",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Explore how spoken and written modes shape identity",
+      "teachingPrompt": "What does this example reveal about reader & writer identity?",
+      "alignment": [
+        "11.P.EICC.1.d",
+        "11.P.EICC.1.e"
+      ]
+    },
+    {
+      "title": "A student-selected independent reading book",
+      "author": "Student choice",
+      "genre": "Any genre",
+      "purpose": "Support independent selection and personal reading goals",
+      "access": "Library collection",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Support independent selection and personal reading goals",
+      "teachingPrompt": "What does this example reveal about reader & writer identity?",
+      "alignment": [
+        "11.P.EICC.1.e",
+        "11.P.EICC.1.f"
+      ]
+    },
+    {
+      "title": "A student writing portfolio",
+      "author": "Student-created",
+      "genre": "Portfolio",
+      "purpose": "Compare early and revised work to document growth",
+      "access": "Classroom originals with consent",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Compare early and revised work to document growth",
+      "teachingPrompt": "What does this example reveal about reader & writer identity?",
+      "alignment": [
+        "11.P.EICC.1.f",
+        "11.P.EICC.1.a"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Reading and writing snapshot",
+      "activity": "Use a short interest inventory, select one accessible text, and set a two-week goal with one tracking measure.",
+      "materials": [
+        "Interest inventory",
+        "Choice set",
+        "Goal sheet"
+      ],
+      "scaffolds": [
+        "Offer high-interest text previews",
+        "Model a realistic goal"
+      ],
+      "success": "Goal identifies an action, timeline, and evidence of progress.",
+      "alignment": [
+        "11.P.EICC.1.a",
+        "11.P.EICC.1.b",
+        "11.P.EICC.1.c",
+        "11.P.EICC.1.d",
+        "11.P.EICC.1.e",
+        "11.P.EICC.1.f"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Strategy and identity portfolio",
+      "activity": "Build a portfolio with a text choice rationale, reading response, revised paragraph, feedback exchange, and reflection on two strategies.",
+      "materials": [
+        "Choice texts",
+        "Portfolio template",
+        "Feedback protocol"
+      ],
+      "scaffolds": [
+        "Provide examples of reflective commentary"
+      ],
+      "success": "Portfolio shows choice, strategy use, feedback, and growth.",
+      "alignment": [
+        "11.P.EICC.1.a",
+        "11.P.EICC.1.b",
+        "11.P.EICC.1.c",
+        "11.P.EICC.1.d",
+        "11.P.EICC.1.e",
+        "11.P.EICC.1.f"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "55 minutes",
+      "title": "Independent reading community",
+      "activity": "Design and facilitate a peer book exchange with diverse genre pathways, a feedback protocol, and a personal goal-revision conference.",
+      "materials": [
+        "Library catalog",
+        "Discussion protocol",
+        "Reflection log"
+      ],
+      "scaffolds": [
+        "Require inclusive text options"
+      ],
+      "success": "Evidence of autonomous decisions and constructive community participation.",
+      "alignment": [
+        "11.P.EICC.1.a",
+        "11.P.EICC.1.b",
+        "11.P.EICC.1.c",
+        "11.P.EICC.1.d",
+        "11.P.EICC.1.e",
+        "11.P.EICC.1.f"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which reading goal is easiest to monitor and revise?",
+      "options": [
+        "Read more books",
+        "Read 15 minutes four evenings weekly and record one insight",
+        "Become a better reader",
+        "Always choose challenging novels"
+      ],
+      "answer": "Read 15 minutes four evenings weekly and record one insight",
+      "rationale": "Specific actions and evidence support monitoring.",
+      "alignment": [
+        "11.P.EICC.1.a",
+        "11.P.EICC.1.b",
+        "11.P.EICC.1.c",
+        "11.P.EICC.1.d",
+        "11.P.EICC.1.e",
+        "11.P.EICC.1.f"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Describe a reading or writing preference, cite a specific text or technique, and explain how that preference can guide—but not limit—your next selection.",
+      "answer": "Identify preference, evidence, and an intentional stretch choice.",
+      "rationale": "Reflection should inform autonomy.",
+      "alignment": [
+        "11.P.EICC.1.a",
+        "11.P.EICC.1.b",
+        "11.P.EICC.1.c",
+        "11.P.EICC.1.d",
+        "11.P.EICC.1.e",
+        "11.P.EICC.1.f"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Submit a two-week reader–writer portfolio documenting a goal, two text choices, strategy use, peer feedback, revision, and an evidence-based reflection.",
+      "answer": "Assess goals, preferences, selection, strategies, community, and independence.",
+      "rationale": "Portfolio captures growth rather than volume alone.",
+      "alignment": [
+        "11.P.EICC.1.a",
+        "11.P.EICC.1.b",
+        "11.P.EICC.1.c",
+        "11.P.EICC.1.d",
+        "11.P.EICC.1.e",
+        "11.P.EICC.1.f"
+      ]
+    }
+  ],
+  "evidence": [
+    "An evidence-based analysis of an authentic mentor text or communication situation.",
+    "A purposeful original or revised product that demonstrates the focus.",
+    "Annotations, process notes, or reflection that justify decisions.",
+    "Feedback and revision evidence tied to audience, purpose, and context."
+  ],
+  "instruction": [
+    "Establish an authentic audience and a clear communication or collaboration problem.",
+    "Use a brief mentor example and model the reasoning behind a successful choice.",
+    "Provide a structured, supported practice task and a more independent transfer task.",
+    "Invite feedback from the intended audience or a credible peer proxy.",
+    "Assess both the quality of the result and the student’s explanation of decisions."
+  ],
+  "watchFor": [
+    "Terminology memorization without application.",
+    "Assumptions about audiences without testing them.",
+    "Attributing a single fixed effect to a technique or design feature.",
+    "Failing to document sources, participation, or revision."
+  ],
+  "skills": {
+    "11.P.EICC.1.a": {
+      "focus": "Set and revise reading and writing goals",
+      "studentFriendly": "I can generate, understand, monitor, and discuss personal and academic reading and writing goals, revising as appropriate.",
+      "know": [
+        "Generate, understand, monitor, and discuss personal and academic reading and writing goals, revising as appropriate",
+        "Reading and writing identity as a developing practice"
+      ],
+      "understand": [
+        "Identity grows through repeated choices, reflection, and meaningful participation."
+      ],
+      "do": [
+        "Generate, understand, monitor, and discuss personal and academic reading and writing goals, revising as appropriate.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain set and revise reading and writing goals in context.",
+        "Apply set and revise reading and writing goals and justify the choice."
+      ],
+      "instruction": [
+        "Introduce set and revise reading and writing goals through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating set and revise reading and writing goals.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.1.b": {
+      "focus": "Explain personal and academic preferences",
+      "studentFriendly": "I can discuss or write about personal and academic reading and writing preferences, referring to specific techniques, topics, modes, and genres that resonate most.",
+      "know": [
+        "Discuss or write about personal and academic reading and writing preferences, referring to specific techniques, topics, modes, and genres that resonate most",
+        "Specific, measurable personal and academic goals"
+      ],
+      "understand": [
+        "Preferences can guide engagement without limiting academic challenge."
+      ],
+      "do": [
+        "Discuss or write about personal and academic reading and writing preferences, referring to specific techniques, topics, modes, and genres that resonate most.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain explain personal and academic preferences in context.",
+        "Apply explain personal and academic preferences and justify the choice."
+      ],
+      "instruction": [
+        "Introduce explain personal and academic preferences through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating explain personal and academic preferences.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.1.c": {
+      "focus": "Select personally meaningful and academically relevant texts",
+      "studentFriendly": "I can select, read, and write texts of personal interest and academic relevance to grade-level texts and topics.",
+      "know": [
+        "Select, read, and write texts of personal interest and academic relevance to grade-level texts and topics",
+        "Genre, topic, technique, and mode preferences"
+      ],
+      "understand": [
+        "Skilled readers and writers choose strategies according to the task."
+      ],
+      "do": [
+        "Select, read, and write texts of personal interest and academic relevance to grade-level texts and topics.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain select personally meaningful and academically relevant texts in context.",
+        "Apply select personally meaningful and academically relevant texts and justify the choice."
+      ],
+      "instruction": [
+        "Introduce select personally meaningful and academically relevant texts through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating select personally meaningful and academically relevant texts.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.1.d": {
+      "focus": "Choose strategies for comprehension and composition",
+      "studentFriendly": "I can build a repertoire of comprehension and composition skills, strategies, and techniques, drawing from them as needed to aid the interpretation and construction of texts.",
+      "know": [
+        "Build a repertoire of comprehension and composition skills, strategies, and techniques, drawing from them as needed to aid the interpretation and construction of texts",
+        "Comprehension and composition strategy repertoire"
+      ],
+      "understand": [
+        "Communities support growth through respectful feedback and shared reading."
+      ],
+      "do": [
+        "Build a repertoire of comprehension and composition skills, strategies, and techniques, drawing from them as needed to aid the interpretation and construction of texts.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain choose strategies for comprehension and composition in context.",
+        "Apply choose strategies for comprehension and composition and justify the choice."
+      ],
+      "instruction": [
+        "Introduce choose strategies for comprehension and composition through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating choose strategies for comprehension and composition.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.1.e": {
+      "focus": "Participate responsibly in reading and writing communities",
+      "studentFriendly": "I can participate in a community of readers and writers by developing group norms, discussing texts, sharing individual writing, listening as others share their writing, and offering and responding to feedback.",
+      "know": [
+        "Participate in a community of readers and writers by developing group norms, discussing texts, sharing individual writing, listening as others share their writing, and offering and responding to feedback",
+        "Workshop feedback norms and peer communities"
+      ],
+      "understand": [
+        "Identity grows through repeated choices, reflection, and meaningful participation."
+      ],
+      "do": [
+        "Participate in a community of readers and writers by developing group norms, discussing texts, sharing individual writing, listening as others share their writing, and offering and responding to feedback.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain participate responsibly in reading and writing communities in context.",
+        "Apply participate responsibly in reading and writing communities and justify the choice."
+      ],
+      "instruction": [
+        "Introduce participate responsibly in reading and writing communities through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating participate responsibly in reading and writing communities.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.1.f": {
+      "focus": "Demonstrate independence and autonomy",
+      "studentFriendly": "I can develop independence and autonomy as a reader and writer.",
+      "know": [
+        "Develop independence and autonomy as a reader and writer",
+        "Self-direction, choice, and reflection"
+      ],
+      "understand": [
+        "Preferences can guide engagement without limiting academic challenge."
+      ],
+      "do": [
+        "Develop independence and autonomy as a reader and writer.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain demonstrate independence and autonomy in context.",
+        "Apply demonstrate independence and autonomy and justify the choice."
+      ],
+      "instruction": [
+        "Introduce demonstrate independence and autonomy through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating demonstrate independence and autonomy.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.P.EICC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Engagement & Intention",
+  "studentFriendly": "I can read, discuss, and create texts deliberately to share stories, learn, explain, analyze ideas, and solve problems or influence decisions.",
+  "know": [
+    "Purposes for consuming and producing texts",
+    "Narrative as a way to share experience",
+    "Informational texts for inquiry and decision-making",
+    "Explanation of concepts and processes",
+    "Analysis and evaluation using evidence",
+    "Problem-solving and persuasive communication"
+  ],
+  "understand": [
+    "Texts serve multiple purposes that may overlap in a single work.",
+    "Intentional readers and writers select approaches that fit the task and audience.",
+    "Narrative, explanation, analysis, and argument can each contribute to informed action."
+  ],
+  "do": [
+    "Interpret and compose a short narrative for a defined purpose",
+    "Use credible texts to investigate a question and make a decision",
+    "Explain a complex concept or process accurately",
+    "Analyze and evaluate competing ideas with evidence",
+    "Produce a text intended to address a problem or influence a decision"
+  ],
+  "vocabulary": [
+    {
+      "term": "intention",
+      "definition": "Deliberate reason for engaging with a text",
+      "example": "Reading to make a decision"
+    },
+    {
+      "term": "narrative",
+      "definition": "Account of connected experiences or events",
+      "example": "Personal essay"
+    },
+    {
+      "term": "inquiry",
+      "definition": "Systematic investigation of a question",
+      "example": "Researching transit access"
+    },
+    {
+      "term": "explanation",
+      "definition": "Clarification of how or why something works",
+      "example": "Guide to voting registration"
+    },
+    {
+      "term": "analysis",
+      "definition": "Breaking ideas into parts to understand relationships",
+      "example": "Comparing two arguments"
+    },
+    {
+      "term": "evaluation",
+      "definition": "Judgment based on stated criteria and evidence",
+      "example": "Assessing source reliability"
+    },
+    {
+      "term": "synthesis",
+      "definition": "Integrating information from sources",
+      "example": "Combining interview and survey findings"
+    },
+    {
+      "term": "stakeholder",
+      "definition": "Person affected by a decision",
+      "example": "Students using a school bus route"
+    },
+    {
+      "term": "argument",
+      "definition": "Claim supported by reasons and evidence",
+      "example": "Editorial recommending a policy"
+    },
+    {
+      "term": "transfer",
+      "definition": "Using learning in a new setting",
+      "example": "Applying source checks to a new claim"
+    }
+  ],
+  "targets": [
+    "I can interpret and compose a short narrative for a defined purpose.",
+    "I can use credible texts to investigate a question and make a decision.",
+    "I can explain a complex concept or process accurately.",
+    "I can analyze and evaluate competing ideas with evidence.",
+    "I can produce a text intended to address a problem or influence a decision."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Literary vignettes",
+      "purpose": "Examine how short stories share experience and perspective",
+      "access": "Licensed excerpt",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Examine how short stories share experience and perspective",
+      "teachingPrompt": "What does this example reveal about engagement & intention?",
+      "alignment": [
+        "11.P.EICC.2.a",
+        "11.P.EICC.2.b"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Discuss how story and scientific explanation work together",
+      "access": "Licensed excerpts; review content",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Discuss how story and scientific explanation work together",
+      "teachingPrompt": "What does this example reveal about engagement & intention?",
+      "alignment": [
+        "11.P.EICC.2.b",
+        "11.P.EICC.2.c"
+      ]
+    },
+    {
+      "title": "A current CDC public health explainer",
+      "author": "CDC",
+      "genre": "Informational explanation",
+      "purpose": "Analyze how concepts and processes are explained",
+      "access": "Official CDC resource",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Analyze how concepts and processes are explained",
+      "teachingPrompt": "What does this example reveal about engagement & intention?",
+      "alignment": [
+        "11.P.EICC.2.c",
+        "11.P.EICC.2.d"
+      ]
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Persuasive letter",
+      "purpose": "Evaluate how analysis and argument aim to influence decisions",
+      "access": "Licensed excerpt",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Evaluate how analysis and argument aim to influence decisions",
+      "teachingPrompt": "What does this example reveal about engagement & intention?",
+      "alignment": [
+        "11.P.EICC.2.d",
+        "11.P.EICC.2.e"
+      ]
+    },
+    {
+      "title": "A current local school-board agenda",
+      "author": "Local district",
+      "genre": "Civic information",
+      "purpose": "Use texts to investigate a decision affecting students",
+      "access": "Official district publication",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Use texts to investigate a decision affecting students",
+      "teachingPrompt": "What does this example reveal about engagement & intention?",
+      "alignment": [
+        "11.P.EICC.2.e",
+        "11.P.EICC.2.a"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Talk and transcript",
+      "purpose": "Connect narrative to analysis of cultural assumptions",
+      "access": "Official TED transcript",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Connect narrative to analysis of cultural assumptions",
+      "teachingPrompt": "What does this example reveal about engagement & intention?",
+      "alignment": [
+        "11.P.EICC.2.a",
+        "11.P.EICC.2.b"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Five purposes sort",
+      "activity": "Sort short text excerpts by primary purpose—story, inform, explain, analyze, or persuade—and justify each with one clue.",
+      "materials": [
+        "Five short excerpts",
+        "Purpose chart"
+      ],
+      "scaffolds": [
+        "Model two categories",
+        "Allow overlapping labels"
+      ],
+      "success": "Correctly justify at least four choices using textual evidence.",
+      "alignment": [
+        "11.P.EICC.2.a",
+        "11.P.EICC.2.b",
+        "11.P.EICC.2.c",
+        "11.P.EICC.2.d",
+        "11.P.EICC.2.e"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "50 minutes",
+      "title": "One issue, three texts",
+      "activity": "Investigate a school issue using an informational source, an explanatory text, and a stakeholder story; write a recommendation grounded in all three.",
+      "materials": [
+        "Source packet",
+        "Synthesis organizer"
+      ],
+      "scaffolds": [
+        "Offer a claim-evidence frame"
+      ],
+      "success": "Accurate synthesis and actionable, supported recommendation.",
+      "alignment": [
+        "11.P.EICC.2.a",
+        "11.P.EICC.2.b",
+        "11.P.EICC.2.c",
+        "11.P.EICC.2.d",
+        "11.P.EICC.2.e"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60 minutes",
+      "title": "Community decision dossier",
+      "activity": "Create a multimodal dossier combining personal narrative, concept explanation, source evaluation, and an evidence-based proposal for a real audience.",
+      "materials": [
+        "Interviews or public sources",
+        "Citation tracker",
+        "Design checklist"
+      ],
+      "scaffolds": [
+        "Require ethical representation and source verification"
+      ],
+      "success": "Each text component has a justified purpose and contributes to a defensible decision.",
+      "alignment": [
+        "11.P.EICC.2.a",
+        "11.P.EICC.2.b",
+        "11.P.EICC.2.c",
+        "11.P.EICC.2.d",
+        "11.P.EICC.2.e"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A student wants the school to improve pedestrian safety. Which text most directly supports influencing a decision?",
+      "options": [
+        "A fictional scene without a recommendation",
+        "A proposal with crash data, stakeholder testimony, and a specific action",
+        "A glossary of traffic terms only",
+        "A diary entry unrelated to the location"
+      ],
+      "answer": "A proposal with crash data, stakeholder testimony, and a specific action",
+      "rationale": "Decision-focused writing combines credible evidence and a clear request.",
+      "alignment": [
+        "11.P.EICC.2.a",
+        "11.P.EICC.2.b",
+        "11.P.EICC.2.c",
+        "11.P.EICC.2.d",
+        "11.P.EICC.2.e"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how a personal story and a factual report might serve different but complementary purposes in examining a community problem.",
+      "answer": "Identify narrative and informational purposes and explain a specific connection.",
+      "rationale": "Purpose can overlap while remaining distinguishable.",
+      "alignment": [
+        "11.P.EICC.2.a",
+        "11.P.EICC.2.b",
+        "11.P.EICC.2.c",
+        "11.P.EICC.2.d",
+        "11.P.EICC.2.e"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Produce a set of connected texts: a short narrative, an explanation, an analysis of evidence, and a recommendation for a defined audience.",
+      "answer": "Assess story, knowledge-building, explanation, analysis, and decision influence.",
+      "rationale": "Products should share a coherent inquiry question.",
+      "alignment": [
+        "11.P.EICC.2.a",
+        "11.P.EICC.2.b",
+        "11.P.EICC.2.c",
+        "11.P.EICC.2.d",
+        "11.P.EICC.2.e"
+      ]
+    }
+  ],
+  "evidence": [
+    "An evidence-based analysis of an authentic mentor text or communication situation.",
+    "A purposeful original or revised product that demonstrates the focus.",
+    "Annotations, process notes, or reflection that justify decisions.",
+    "Feedback and revision evidence tied to audience, purpose, and context."
+  ],
+  "instruction": [
+    "Establish an authentic audience and a clear communication or collaboration problem.",
+    "Use a brief mentor example and model the reasoning behind a successful choice.",
+    "Provide a structured, supported practice task and a more independent transfer task.",
+    "Invite feedback from the intended audience or a credible peer proxy.",
+    "Assess both the quality of the result and the student’s explanation of decisions."
+  ],
+  "watchFor": [
+    "Terminology memorization without application.",
+    "Assumptions about audiences without testing them.",
+    "Attributing a single fixed effect to a technique or design feature.",
+    "Failing to document sources, participation, or revision."
+  ],
+  "skills": {
+    "11.P.EICC.2.a": {
+      "focus": "Share experience through stories",
+      "studentFriendly": "I can share real or imagined experiences by interpreting and constructing texts that tell or include stories.",
+      "know": [
+        "Share real or imagined experiences by interpreting and constructing texts that tell or include stories",
+        "Purposes for consuming and producing texts"
+      ],
+      "understand": [
+        "Texts serve multiple purposes that may overlap in a single work."
+      ],
+      "do": [
+        "Share real or imagined experiences by interpreting and constructing texts that tell or include stories.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain share experience through stories in context.",
+        "Apply share experience through stories and justify the choice."
+      ],
+      "instruction": [
+        "Introduce share experience through stories through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating share experience through stories.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.2.b": {
+      "focus": "Use texts to build knowledge and inform decisions",
+      "studentFriendly": "I can make use of texts to build knowledge, develop skills, make informed decisions, and share information and ideas.",
+      "know": [
+        "Make use of texts to build knowledge, develop skills, make informed decisions, and share information and ideas",
+        "Narrative as a way to share experience"
+      ],
+      "understand": [
+        "Intentional readers and writers select approaches that fit the task and audience."
+      ],
+      "do": [
+        "Make use of texts to build knowledge, develop skills, make informed decisions, and share information and ideas.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain use texts to build knowledge and inform decisions in context.",
+        "Apply use texts to build knowledge and inform decisions and justify the choice."
+      ],
+      "instruction": [
+        "Introduce use texts to build knowledge and inform decisions through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating use texts to build knowledge and inform decisions.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.2.c": {
+      "focus": "Explain concepts and processes",
+      "studentFriendly": "I can explain and learn concepts and processes by interpreting and constructing texts.",
+      "know": [
+        "Explain and learn concepts and processes by interpreting and constructing texts",
+        "Informational texts for inquiry and decision-making"
+      ],
+      "understand": [
+        "Narrative, explanation, analysis, and argument can each contribute to informed action."
+      ],
+      "do": [
+        "Explain and learn concepts and processes by interpreting and constructing texts.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain explain concepts and processes in context.",
+        "Apply explain concepts and processes and justify the choice."
+      ],
+      "instruction": [
+        "Introduce explain concepts and processes through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating explain concepts and processes.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.2.d": {
+      "focus": "Analyze and evaluate texts and ideas",
+      "studentFriendly": "I can interpret and construct texts to aid the analysis and evaluation of texts and ideas.",
+      "know": [
+        "Interpret and construct texts to aid the analysis and evaluation of texts and ideas",
+        "Explanation of concepts and processes"
+      ],
+      "understand": [
+        "Texts serve multiple purposes that may overlap in a single work."
+      ],
+      "do": [
+        "Interpret and construct texts to aid the analysis and evaluation of texts and ideas.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain analyze and evaluate texts and ideas in context.",
+        "Apply analyze and evaluate texts and ideas and justify the choice."
+      ],
+      "instruction": [
+        "Introduce analyze and evaluate texts and ideas through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating analyze and evaluate texts and ideas.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.EICC.2.e": {
+      "focus": "Use texts to solve problems or influence decisions",
+      "studentFriendly": "I can consume and produce texts in order to solve problems or influence decisions.",
+      "know": [
+        "Consume and produce texts in order to solve problems or influence decisions",
+        "Analysis and evaluation using evidence"
+      ],
+      "understand": [
+        "Intentional readers and writers select approaches that fit the task and audience."
+      ],
+      "do": [
+        "Consume and produce texts in order to solve problems or influence decisions.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain use texts to solve problems or influence decisions in context.",
+        "Apply use texts to solve problems or influence decisions and justify the choice."
+      ],
+      "instruction": [
+        "Introduce use texts to solve problems or influence decisions through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating use texts to solve problems or influence decisions.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
   ]
 }
