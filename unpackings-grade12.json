@@ -1,6 +1,1107 @@
 
 {
   "about": "Georgia ELA Navigator — Grade 12",
-  "unpackings": []
+  "unpackings": [{
+  "code": "12.L.GC.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Grammar, Usage, & Mechanics",
+  "studentFriendly": "I can evaluate and intentionally use Standard English conventions to make complex ideas clear, credible, and appropriate for my purpose and audience.",
+  "know": [
+    "Conventions of Standard English grammar, usage, punctuation, and capitalization",
+    "Sentence boundaries, coordination, subordination, and agreement",
+    "Relationships among syntax, emphasis, clarity, tone, and audience",
+    "Differences between purposeful language variation and accidental errors"
+  ],
+  "understand": [
+    "Conventions are tools for meaning and credibility rather than isolated rules.",
+    "Effective editors diagnose how a choice affects a real reader.",
+    "A writer can respect language variation while meeting expectations for a formal context."
+  ],
+  "do": [
+    "Analyze conventions in authentic published passages",
+    "Explain the effect of a grammatical or punctuation choice",
+    "Edit original prose for clarity, correctness, and intended effect",
+    "Defend purposeful choices in an editorial rationale"
+  ],
+  "vocabulary": [
+    {
+      "term": "syntax",
+      "definition": "The arrangement of words and clauses in sentences",
+      "example": "A periodic sentence delays the main clause for emphasis."
+    },
+    {
+      "term": "agreement",
+      "definition": "Correspondence between subjects and verbs or pronouns and antecedents",
+      "example": "The results show, not the results shows."
+    },
+    {
+      "term": "modifier",
+      "definition": "A word or phrase that describes another element",
+      "example": "Walking to school, Maya noticed the mural."
+    },
+    {
+      "term": "parallelism",
+      "definition": "Matching grammatical forms for comparable ideas",
+      "example": "To investigate, to evaluate, and to communicate."
+    },
+    {
+      "term": "semicolon",
+      "definition": "Punctuation linking closely related independent clauses",
+      "example": "The evidence was limited; the conclusion remained tentative."
+    },
+    {
+      "term": "register",
+      "definition": "Language choices appropriate to a situation",
+      "example": "A research abstract uses a more formal register than a group chat."
+    },
+    {
+      "term": "usage",
+      "definition": "Conventional choices of words and structures in context",
+      "example": "Distinguishing affect from effect."
+    },
+    {
+      "term": "mechanics",
+      "definition": "Conventions of spelling, punctuation, and capitalization",
+      "example": "Capitalizing a proper noun in a bibliography."
+    }
+  ],
+  "targets": [
+    "I can diagnose and correct sentence-boundary and agreement errors in context.",
+    "I can compare two grammatical versions and explain their effects on clarity and tone.",
+    "I can edit an authentic paragraph without changing the author’s intended meaning.",
+    "I can defend at least three editorial decisions using evidence about readers and purpose."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech",
+      "purpose": "Examine deliberate punctuation, balanced structures, and compact syntax",
+      "access": "Library of Congress or National Archives",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How can so few words carry such force?",
+      "teachingPrompt": "Re-punctuate one sentence, then compare the change in emphasis.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    },
+    {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "genre": "Literary essay",
+      "purpose": "Analyze sentence length and parenthetical structures as vehicles for reasoning",
+      "access": "Licensed or verified public-domain excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "What happens when a writer thinks aloud on the page?",
+      "teachingPrompt": "Revise one winding sentence into two and discuss the tradeoff.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Study shifts in register and sentence design for general readers",
+      "access": "Library or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How can scientific ideas remain readable without losing accuracy?",
+      "teachingPrompt": "Compare a technical summary with a narrative passage.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    },
+    {
+      "title": "Narrative of the Life of Frederick Douglass",
+      "author": "Frederick Douglass",
+      "genre": "Autobiography",
+      "purpose": "Examine parallel syntax and punctuation in an argument",
+      "access": "Project Gutenberg or Library of Congress",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How does sentence structure make a claim more forceful?",
+      "teachingPrompt": "Mark repetitions and discuss the effects of editing them away.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech transcript",
+      "purpose": "Compare spoken conventions and edited prose",
+      "access": "TED official transcript",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Why does speech sound different on a page?",
+      "teachingPrompt": "Edit a transcript excerpt for publication without flattening voice.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    },
+    {
+      "title": "On Writing Well",
+      "author": "William Zinsser",
+      "genre": "Writing craft nonfiction",
+      "purpose": "Examine revision for concision and precision",
+      "access": "Licensed excerpt or library copy",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "When is cutting a word an improvement?",
+      "teachingPrompt": "Produce an annotated before-and-after revision.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "45 minutes",
+      "title": "Editing with a reason",
+      "activity": "In a 150-word paragraph containing six marked issues, identify sentence fragments, run-ons, agreement problems, and punctuation choices. Revise and explain each correction.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a mini-lesson and a color-coded error guide",
+        "Model one diagnosis aloud"
+      ],
+      "success": "At least five accurate corrections with a meaning-based explanation for three.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "55 minutes",
+      "title": "Two edits, two effects",
+      "activity": "Edit a student editorial for conventions, then make a second pass that deliberately varies sentence structures for emphasis. Annotate at least five choices.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a purpose-and-audience statement",
+        "Use partner read-aloud for clarity"
+      ],
+      "success": "A clean draft and five annotations distinguishing correctness from style.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "70 minutes",
+      "title": "Professional copyedit simulation",
+      "activity": "Copyedit a 400-word research feature, preserving quotations and voice; submit an editorial memo defending ten choices and identifying two instances where the author should decide.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Use a style-sheet template",
+        "Encourage consultation of a reliable usage guide"
+      ],
+      "success": "A consistent edited feature and a nuanced, audience-aware rationale.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision most clearly corrects the misplaced modifier in “After reviewing the evidence, the conclusion seemed weak”?",
+      "answer": "B",
+      "rationale": "The person reviewing evidence must be the grammatical subject of the introductory phrase.",
+      "alignment": [
+        "12.L.GC.1"
+      ],
+      "options": [
+        "After reviewing the evidence, the weak conclusion appeared.",
+        "After reviewing the evidence, the researchers found the conclusion weak.",
+        "The conclusion, after reviewing the evidence, seemed weak.",
+        "The conclusion seemed weak, reviewing the evidence."
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare “The study was completed. Its findings were disputed.” with “Although the study was completed, its findings were disputed.” Explain how syntax changes the relationship between ideas.",
+      "answer": "A strong response identifies the subordinate clause and explains that the revision foregrounds the contrast between completion and dispute.",
+      "rationale": "Credit explanation of meaning and emphasis, not merely naming a complex sentence.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Edit a 200–300-word argument for grammar, usage, and mechanics; include an editorial memo explaining five decisions and one purposeful choice you retained.",
+      "answer": "A corrected, readable draft and a memo distinguishing convention errors from stylistic choices.",
+      "rationale": "Score accuracy, preservation of meaning, and audience-specific justification.",
+      "alignment": [
+        "12.L.GC.1"
+      ]
+    }
+  ],
+  "evidence": [
+    "Edited draft with conventions applied consistently",
+    "Annotated comparisons showing how punctuation or syntax changes meaning",
+    "Editorial memo justifying corrections and retained stylistic choices"
+  ],
+  "instruction": [
+    "Teach conventions in the context of authentic writing, not isolated worksheets alone.",
+    "Use read-aloud and sentence-combining to make grammatical effects audible.",
+    "Compare formal edited prose with purposeful speech and dialect without treating language variety as deficiency.",
+    "Separate correction for correctness from revision for rhetorical effect."
+  ],
+  "watchFor": [
+    "Correcting purposeful voice without considering context",
+    "Confusing grammatical terminology with editing competence",
+    "Introducing errors while attempting concision",
+    "Focusing on minor mechanics while overlooking sentence clarity"
+  ],
+  "skills": {},
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, classroom suitability, availability, permissions, and source credibility."
+},
+{
+  "code": "12.T.C.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Authors & Speakers",
+  "studentFriendly": "I can evaluate how authors’ perspectives shape texts, verify questionable claims at their original sources, and synthesize credible evidence across perspectives.",
+  "know": [
+    "Perspective, purpose, audience, and framing",
+    "Original-source tracing and lateral reading",
+    "Historical, disciplinary, and personal context",
+    "Credible synthesis and responsible attribution"
+  ],
+  "understand": [
+    "Writers’ circumstances influence their choices without making interpretation automatic.",
+    "A claim can circulate widely while remaining poorly sourced.",
+    "Strong synthesis weighs competing evidence instead of merely listing positions."
+  ],
+  "do": [
+    "Compare how two texts develop different perspectives",
+    "Trace a contested claim to its source and assess context",
+    "Explain how perspective shapes theme and style",
+    "Synthesize credible sources to answer a focused question"
+  ],
+  "vocabulary": [
+    {
+      "term": "perspective",
+      "definition": "A situated way of interpreting an issue",
+      "example": "A scientist and a patient describe the same treatment differently."
+    },
+    {
+      "term": "framing",
+      "definition": "How a writer selects and emphasizes information",
+      "example": "A headline emphasizes cost instead of access."
+    },
+    {
+      "term": "provenance",
+      "definition": "The origin and history of a claim or document",
+      "example": "Locating the original survey behind a statistic."
+    },
+    {
+      "term": "lateral reading",
+      "definition": "Checking a source by consulting independent information",
+      "example": "Opening other reputable sources to verify an organization."
+    },
+    {
+      "term": "corroboration",
+      "definition": "Independent support for a claim",
+      "example": "Two separate primary records confirm a date."
+    },
+    {
+      "term": "synthesis",
+      "definition": "A new conclusion drawn by relating evidence from multiple sources",
+      "example": "Reconciling three studies with different findings."
+    },
+    {
+      "term": "disciplinary lens",
+      "definition": "The assumptions and methods of a field",
+      "example": "A historian and an economist evaluate a policy differently."
+    },
+    {
+      "term": "credibility",
+      "definition": "Trustworthiness judged by evidence, expertise, and context",
+      "example": "A published dataset with transparent methods."
+    }
+  ],
+  "targets": [
+    "I can analyze how two authors construct competing perspectives.",
+    "I can locate the original source behind a questionable quotation or statistic.",
+    "I can connect historical or disciplinary context to a specific stylistic or thematic choice.",
+    "I can synthesize at least three credible sources with accurate attribution."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Analyze how anecdote and personal experience construct a perspective",
+      "access": "TED official transcript/video",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Whose stories become the default?",
+      "teachingPrompt": "Compare the talk with a second perspective on representation.",
+      "alignment": [
+        "12.T.C.2.a",
+        "12.T.C.2.c"
+      ]
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter",
+      "purpose": "Examine how context and multiple audiences shape rhetoric",
+      "access": "King Institute or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How does a letter answer critics while speaking to a nation?",
+      "teachingPrompt": "Link two stylistic choices to audience and historical context.",
+      "alignment": [
+        "12.T.C.2.a",
+        "12.T.C.2.c"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Compare scientific, family, and journalistic perspectives",
+      "access": "Library or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Who gets to tell the story of a medical discovery?",
+      "teachingPrompt": "Build a source matrix separating perspectives and evidence.",
+      "alignment": [
+        "12.T.C.2.a",
+        "12.T.C.2.d"
+      ]
+    },
+    {
+      "title": "The 1619 Project: A New Origin Story",
+      "author": "Nikole Hannah-Jones and contributors",
+      "genre": "Historical essays",
+      "purpose": "Practice contextual evaluation and source-based comparison of disputed historical claims",
+      "access": "Licensed selections and primary-source archive materials",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How can the same historical evidence support different interpretations?",
+      "teachingPrompt": "Trace a contested claim to primary documents and scholarly responses.",
+      "alignment": [
+        "12.T.C.2.b",
+        "12.T.C.2.c",
+        "12.T.C.2.d"
+      ]
+    },
+    {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "genre": "Literary essay",
+      "purpose": "Examine how personal and historical circumstances shape themes",
+      "access": "Licensed or verified public-domain excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How do material circumstances shape who can write?",
+      "teachingPrompt": "Compare a claim with a historical primary source.",
+      "alignment": [
+        "12.T.C.2.c",
+        "12.T.C.2.d"
+      ]
+    },
+    {
+      "title": "A selected fact-check with its cited primary report",
+      "author": "Reputable fact-checking outlet and original publisher",
+      "genre": "Fact-check / source documents",
+      "purpose": "Practice original-source tracing and evaluating what the evidence supports",
+      "access": "Use an up-to-date fact-check and its directly linked original source",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Did the viral claim survive its trip from source to social media?",
+      "teachingPrompt": "Create a provenance map, noting changes in wording or context.",
+      "alignment": [
+        "12.T.C.2.b",
+        "12.T.C.2.d"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "45 minutes",
+      "title": "Perspective and provenance lab",
+      "activity": "Compare two 250-word passages on one issue; annotate claims and framing. Trace one shared statistic to its original report and record what it actually says.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide two curated passages and a verified source trail",
+        "Model author, date, and claim checks"
+      ],
+      "success": "A comparison identifying two framing choices and a correct source citation.",
+      "alignment": [
+        "12.T.C.2.a",
+        "12.T.C.2.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "60 minutes",
+      "title": "Source-tracing research brief",
+      "activity": "Investigate a contested claim. Trace it to an original document, compare two commentators’ interpretations, and write a 350-word synthesis with citations.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Use a claim-evidence-source matrix",
+        "Require at least one primary source"
+      ],
+      "success": "A nuanced synthesis distinguishing original evidence from interpretation.",
+      "alignment": [
+        "12.T.C.2.a",
+        "12.T.C.2.b",
+        "12.T.C.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75 minutes",
+      "title": "Three-lens historiography inquiry",
+      "activity": "Examine one historical event through a primary source and two scholarly disciplinary perspectives. Analyze how the authors’ assumptions affect theme, style, and conclusions.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Require disciplinary-method notes",
+        "Encourage counterevidence and uncertainty"
+      ],
+      "success": "A 600-word comparative synthesis with transparent source limitations.",
+      "alignment": [
+        "12.T.C.2.c",
+        "12.T.C.2.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A viral post quotes a study but gives no link. What is the strongest next step?",
+      "answer": "C",
+      "rationale": "Tracing the quotation to the original study allows context, methods, and exact wording to be evaluated.",
+      "alignment": [
+        "12.T.C.2.b"
+      ],
+      "options": [
+        "Count how many accounts reposted it",
+        "Trust the post if its author is well known",
+        "Locate the original study and compare the claim with its findings",
+        "Choose whichever summary agrees with your position"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare how two authors on the same topic use evidence selection and language to develop different perspectives.",
+      "answer": "A strong answer identifies each perspective, quotes or paraphrases relevant choices, and explains how those choices shape interpretation.",
+      "rationale": "Score explanation of construction, not merely a statement that the authors disagree.",
+      "alignment": [
+        "12.T.C.2.a",
+        "12.T.C.2.c"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Investigate a debatable claim using an original source and at least two additional credible sources. Produce a synthesis that addresses one disagreement and identifies remaining uncertainty.",
+      "answer": "A source-trail record, accurately attributed synthesis, and evidence-based conclusion with qualifications.",
+      "rationale": "Score provenance, credibility reasoning, synthesis, and accurate attribution.",
+      "alignment": [
+        "12.T.C.2.b",
+        "12.T.C.2.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "Paired-text comparison with analysis of framing",
+    "Source-trail log linking a disputed claim to original evidence",
+    "Contextual interpretation grounded in both text and research",
+    "Synthesis with corroboration, conflict, and citations"
+  ],
+  "instruction": [
+    "Teach lateral reading and provenance tracing before assigning open-ended web research.",
+    "Use one authentic contested claim with an accessible primary source.",
+    "Require students to distinguish what a document says from how commentators interpret it.",
+    "Model synthesis paragraphs that integrate sources by idea rather than one paragraph per source."
+  ],
+  "watchFor": [
+    "Equating popularity with credibility",
+    "Treating an aggregator as the original source",
+    "Conflating perspective with deliberate deception",
+    "Using context as a substitute for close textual analysis"
+  ],
+  "skills": {
+    "12.T.C.2.a": {
+      "focus": "Compare perspectives across texts",
+      "studentFriendly": "I can explain how different texts build perspectives and influence readers.",
+      "know": [
+        "Perspective, framing, selection, and emphasis",
+        "Textual evidence from multiple genres"
+      ],
+      "understand": [
+        "Perspectives are constructed through evidence and craft choices."
+      ],
+      "do": [
+        "Compare two perspectives on the same issue",
+        "Trace two choices that shape reader perception"
+      ],
+      "targets": [
+        "I can compare perspective and its development with evidence."
+      ],
+      "instruction": [
+        "Use a two-column comparison chart",
+        "Contrast omission, sequence, and diction"
+      ],
+      "evidence": [
+        "Comparative paragraph with paired quotations"
+      ],
+      "watchFor": [
+        "Summarizing positions without explaining construction"
+      ]
+    },
+    "12.T.C.2.b": {
+      "focus": "Trace questionable content to its original source",
+      "studentFriendly": "I can find the earliest credible source of a questionable claim and assess its reliability.",
+      "know": [
+        "Primary versus secondary sourcing",
+        "Reverse-search and lateral-reading strategies",
+        "Provenance, context, and corroboration"
+      ],
+      "understand": [
+        "Repetition of a claim is not independent verification."
+      ],
+      "do": [
+        "Trace a quotation or statistic to its origin",
+        "Check date, author, context, and supporting evidence"
+      ],
+      "targets": [
+        "I can document a claim’s source trail and limitations."
+      ],
+      "instruction": [
+        "Model lateral reading and source tracing",
+        "Compare a viral excerpt with its full source"
+      ],
+      "evidence": [
+        "Source-trail log with credibility judgment"
+      ],
+      "watchFor": [
+        "Treating a search-result snippet as the original source"
+      ]
+    },
+    "12.T.C.2.c": {
+      "focus": "Analyze how perspective shapes craft",
+      "studentFriendly": "I can explain how historical, disciplinary, or personal viewpoints influence an author’s style and themes.",
+      "know": [
+        "Historical context and disciplinary conventions",
+        "Style, theme, and authorial choices"
+      ],
+      "understand": [
+        "Perspective may affect both what an author argues and how the argument is constructed."
+      ],
+      "do": [
+        "Identify relevant context",
+        "Connect perspective to specific stylistic and thematic choices"
+      ],
+      "targets": [
+        "I can support two context-to-craft claims with evidence."
+      ],
+      "instruction": [
+        "Pair primary texts with brief contextual research",
+        "Separate supported interpretation from speculation"
+      ],
+      "evidence": [
+        "Evidence-based context-and-craft analysis"
+      ],
+      "watchFor": [
+        "Assuming biography alone determines meaning"
+      ]
+    },
+    "12.T.C.2.d": {
+      "focus": "Synthesize credible sources",
+      "studentFriendly": "I can combine credible sources to answer a research question with a nuanced conclusion.",
+      "know": [
+        "Synthesis versus source-by-source summary",
+        "Credibility, corroboration, and citation"
+      ],
+      "understand": [
+        "A sound synthesis acknowledges agreement, disagreement, and uncertainty."
+      ],
+      "do": [
+        "Research a focused question",
+        "Integrate evidence across sources",
+        "Cite and qualify conclusions"
+      ],
+      "targets": [
+        "I can write a synthesis using three sources and address one conflict."
+      ],
+      "instruction": [
+        "Use a source matrix by claim",
+        "Model attribution and qualification"
+      ],
+      "evidence": [
+        "Synthesis paragraph and source matrix"
+      ],
+      "watchFor": [
+        "Stringing together quotations without a new conclusion"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, classroom suitability, availability, permissions, and source credibility."
+},
+{
+  "code": "12.T.T.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Argumentative Techniques",
+  "studentFriendly": "I can critique arguments and deliberately combine evidence, reasoning, rhetorical language, and audience-aware appeals to create ethical, persuasive texts.",
+  "know": [
+    "Claims, warrants, evidence, counterarguments, and rebuttals",
+    "Argumentative structures and multimodal design",
+    "Rhetorical devices and appeals",
+    "Ethical persuasion, accuracy, and audience expectations"
+  ],
+  "understand": [
+    "An argument’s design affects what audiences notice and believe.",
+    "Persuasion is strongest when rhetorical technique supports valid evidence and reasoning.",
+    "A powerful rhetorical appeal can also mislead; critique requires ethical evaluation."
+  ],
+  "do": [
+    "Analyze techniques and design in diverse arguments",
+    "Evaluate rhetorical language for effect and ethical limits",
+    "Draft and revise an evidence-based argument",
+    "Integrate several devices and appeals strategically"
+  ],
+  "vocabulary": [
+    {
+      "term": "claim",
+      "definition": "A defensible position advanced by an argument",
+      "example": "Schools should publish accessible course guides."
+    },
+    {
+      "term": "warrant",
+      "definition": "The reasoning connecting evidence to a claim",
+      "example": "Clear information supports informed course decisions."
+    },
+    {
+      "term": "counterargument",
+      "definition": "A credible competing claim or objection",
+      "example": "Publishing detailed guides requires staff time."
+    },
+    {
+      "term": "rebuttal",
+      "definition": "A reasoned response to a counterargument",
+      "example": "Templates can reduce the ongoing workload."
+    },
+    {
+      "term": "ethos",
+      "definition": "Appeal grounded in credibility or trust",
+      "example": "A qualified researcher explains the method."
+    },
+    {
+      "term": "pathos",
+      "definition": "Appeal engaging audience values or emotions",
+      "example": "A student describes the consequences of confusion."
+    },
+    {
+      "term": "logos",
+      "definition": "Appeal to evidence and reasoning",
+      "example": "Enrollment data show the size of the problem."
+    },
+    {
+      "term": "parallelism",
+      "definition": "Repeated grammatical structure used for emphasis",
+      "example": "We research, we question, we revise."
+    },
+    {
+      "term": "rhetorical question",
+      "definition": "A question posed to shape thinking rather than obtain an answer",
+      "example": "Who benefits when information is hard to find?"
+    },
+    {
+      "term": "argument design",
+      "definition": "The structure and presentation of persuasive content",
+      "example": "An infographic highlights one statistic with a large chart."
+    }
+  ],
+  "targets": [
+    "I can identify and critique argumentative techniques in two different genres.",
+    "I can explain how rhetorical language influences meaning and audience response.",
+    "I can revise an argument to strengthen evidence, counterargument, and audience fit.",
+    "I can integrate three rhetorical moves and justify their ethical use."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter",
+      "purpose": "Analyze layered appeals, rebuttal, and audience awareness",
+      "access": "King Institute or licensed excerpt",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How does a writer persuade both critics and supporters?",
+      "teachingPrompt": "Annotate a passage for claim, rebuttal, and appeals.",
+      "alignment": [
+        "12.T.T.3.a",
+        "12.T.T.3.b",
+        "12.T.T.3.d"
+      ]
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical essay",
+      "purpose": "Distinguish satire and deliberately unsettling rhetoric from literal advocacy",
+      "access": "Project Gutenberg",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "When is a persuasive argument not meant literally?",
+      "teachingPrompt": "Explain how irony affects central idea and reader response.",
+      "alignment": [
+        "12.T.T.3.a",
+        "12.T.T.3.b"
+      ]
+    },
+    {
+      "title": "The Declaration of Sentiments",
+      "author": "Elizabeth Cady Stanton and convention participants",
+      "genre": "Political declaration",
+      "purpose": "Study parallelism and adaptation of a familiar argumentative form",
+      "access": "National Park Service or historical archive",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How can an old form strengthen a new demand?",
+      "teachingPrompt": "Compare rhetorical structure with its historical model.",
+      "alignment": [
+        "12.T.T.3.a",
+        "12.T.T.3.d"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech",
+      "purpose": "Evaluate compressed reasoning, parallel syntax, and civic appeal",
+      "access": "National Archives or Library of Congress",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "How can brevity intensify an argument?",
+      "teachingPrompt": "Identify an implied warrant and one layered appeal.",
+      "alignment": [
+        "12.T.T.3.b",
+        "12.T.T.3.d"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Study the combination of personal narrative and generalized argument",
+      "access": "TED official transcript/video",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Can a story function as evidence?",
+      "teachingPrompt": "Evaluate what narrative supports and what requires corroboration.",
+      "alignment": [
+        "12.T.T.3.a",
+        "12.T.T.3.c",
+        "12.T.T.3.d"
+      ]
+    },
+    {
+      "title": "A contemporary editorial and a data visualization on the same issue",
+      "author": "Two reputable publishers",
+      "genre": "Editorial / infographic",
+      "purpose": "Compare argumentative structure, visual emphasis, and evidence transparency",
+      "access": "Choose current licensed or freely accessible sources with cited data",
+      "readingTime": "15–25 minutes (excerpt)",
+      "highInterest": true,
+      "accessibility": "Provide a short annotated excerpt, audio, glossary, or alternative format as needed.",
+      "interestHook": "Does the graphic tell the same story as the article?",
+      "teachingPrompt": "Identify one design decision that might distort the evidence.",
+      "alignment": [
+        "12.T.T.3.a",
+        "12.T.T.3.b",
+        "12.T.T.3.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "45 minutes",
+      "title": "Rhetorical move sort",
+      "activity": "Annotate a short editorial to label claim, evidence, counterargument, and ethos/pathos/logos. Revise one unsupported appeal to include relevant evidence.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide color-coded labels and a worked example",
+        "Use sentence frames linking device to effect"
+      ],
+      "success": "A correctly annotated passage and one evidence-supported revision.",
+      "alignment": [
+        "12.T.T.3.a",
+        "12.T.T.3.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "60 minutes",
+      "title": "Argument with a rhetorical decision log",
+      "activity": "Write a 450-word argument on a school or community issue, including credible evidence, a fair counterargument, and three deliberate rhetorical moves. Annotate why each fits the audience.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Provide a claim-evidence-warrant organizer",
+        "Require one peer critique of ethical implications"
+      ],
+      "success": "A coherent argument with three justified rhetorical choices and a credible rebuttal.",
+      "alignment": [
+        "12.T.T.3.c",
+        "12.T.T.3.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "75 minutes",
+      "title": "Ethical persuasion redesign",
+      "activity": "Compare a persuasive infographic and editorial on a disputed issue. Critique potential distortions, then redesign one for a different audience while preserving source accuracy.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation or drafting template",
+        "Peer-feedback checklist"
+      ],
+      "scaffolds": [
+        "Require direct inspection of underlying data",
+        "Include a transparency and accessibility checklist"
+      ],
+      "success": "A comparative critique, redesigned artifact, and evidence-based ethics memo.",
+      "alignment": [
+        "12.T.T.3.a",
+        "12.T.T.3.b",
+        "12.T.T.3.c",
+        "12.T.T.3.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision best combines a credible appeal and sound reasoning?",
+      "answer": "D",
+      "rationale": "A sourced finding paired with a clear explanation supports logos and ethos without substituting emotion for proof.",
+      "alignment": [
+        "12.T.T.3.c",
+        "12.T.T.3.d"
+      ],
+      "options": [
+        "Everyone knows the policy is terrible",
+        "Only a fool would disagree with the policy change",
+        "Imagine how angry people will be; no evidence is needed",
+        "The district’s published survey reports the problem, and the proposed change addresses its most common cause"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Analyze two rhetorical choices in a selected speech and explain how each affects meaning, audience response, and ethical credibility.",
+      "answer": "A strong answer cites two precise choices, explains their different effects, and considers whether the choices fairly represent evidence.",
+      "rationale": "Award credit for analysis of function and ethical implications, not just device labels.",
+      "alignment": [
+        "12.T.T.3.a",
+        "12.T.T.3.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Write or record an evidence-based argument for a defined audience. Include a counterargument and at least three integrated rhetorical devices or appeals. Submit an annotated decision log.",
+      "answer": "A persuasive artifact with credible evidence, fair rebuttal, and three justified rhetorical decisions.",
+      "rationale": "Score reasoning, source accuracy, audience fit, rhetorical integration, and ethical judgment.",
+      "alignment": [
+        "12.T.T.3.c",
+        "12.T.T.3.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated argument identifying techniques and their effects",
+    "Comparative critique of rhetorical language and design",
+    "Revised argument with evidence, counterargument, and integrated appeals",
+    "Decision log explaining ethical and audience-aware choices"
+  ],
+  "instruction": [
+    "Teach students to evaluate argument quality before decorating prose with devices.",
+    "Model how to infer warrants and assess the credibility of evidence.",
+    "Compare written, spoken, and visual arguments to expose design choices.",
+    "Require rhetorical annotations and ethical review after drafting."
+  ],
+  "watchFor": [
+    "Naming ethos/pathos/logos without showing how they operate",
+    "Treating every emotional appeal as invalid",
+    "Confusing a counterargument with a straw man",
+    "Using striking visual design to obscure uncertain data"
+  ],
+  "skills": {
+    "12.T.T.3.a": {
+      "focus": "Critique argumentative technique and design",
+      "studentFriendly": "I can analyze how an argument’s techniques and presentation affect its central idea and implications.",
+      "know": [
+        "Claims, evidence, warrants, counterclaims",
+        "Argument design and ethical implications"
+      ],
+      "understand": [
+        "Technique and format can amplify or distort a claim."
+      ],
+      "do": [
+        "Identify strategies in two arguments",
+        "Evaluate how arrangement and design shape meaning"
+      ],
+      "targets": [
+        "I can critique two techniques with evidence and consequences."
+      ],
+      "instruction": [
+        "Annotate claims and supporting moves",
+        "Compare a written editorial with an infographic"
+      ],
+      "evidence": [
+        "Evidence-based rhetorical critique"
+      ],
+      "watchFor": [
+        "Listing devices without analyzing effects"
+      ]
+    },
+    "12.T.T.3.b": {
+      "focus": "Evaluate rhetorical language",
+      "studentFriendly": "I can evaluate how language choices influence credibility, emotion, and reasoning.",
+      "know": [
+        "Diction, repetition, analogy, rhetorical questions",
+        "Ethos, pathos, logos, and ethical limitations"
+      ],
+      "understand": [
+        "A rhetorical device may be effective yet misleading."
+      ],
+      "do": [
+        "Identify rhetorical language",
+        "Explain its intended effect and limitations"
+      ],
+      "targets": [
+        "I can evaluate two devices with textual evidence."
+      ],
+      "instruction": [
+        "Contrast ethical and manipulative examples",
+        "Test revisions with a peer audience"
+      ],
+      "evidence": [
+        "Short critique explaining effect and ethical risk"
+      ],
+      "watchFor": [
+        "Assuming emotional language is always a fallacy"
+      ]
+    },
+    "12.T.T.3.c": {
+      "focus": "Apply argumentative techniques strategically",
+      "studentFriendly": "I can choose and revise techniques that strengthen a reasoned argument for a real audience.",
+      "know": [
+        "Audience and purpose",
+        "Claim-evidence-reasoning structures",
+        "Counterargument and rebuttal"
+      ],
+      "understand": [
+        "A strong argument uses techniques in service of sound reasoning."
+      ],
+      "do": [
+        "Draft a defensible claim",
+        "Select evidence and counterarguments",
+        "Revise for audience and purpose"
+      ],
+      "targets": [
+        "I can justify three strategic argumentative choices."
+      ],
+      "instruction": [
+        "Model rhetorical decision logs",
+        "Use peer feedback focused on audience"
+      ],
+      "evidence": [
+        "Argument draft and revision memo"
+      ],
+      "watchFor": [
+        "Using persuasive language to conceal weak evidence"
+      ]
+    },
+    "12.T.T.3.d": {
+      "focus": "Integrate rhetorical devices and appeals",
+      "studentFriendly": "I can combine multiple rhetorical appeals and devices without sacrificing accuracy or fairness.",
+      "know": [
+        "Ethos, pathos, logos",
+        "Parallelism, analogy, and narrative example",
+        "Ethical persuasion"
+      ],
+      "understand": [
+        "Multiple appeals work best when coherent and evidence-grounded."
+      ],
+      "do": [
+        "Combine appeals purposefully",
+        "Explain how each serves the claim",
+        "Revise misleading or redundant moves"
+      ],
+      "targets": [
+        "I can integrate and justify three complementary rhetorical moves."
+      ],
+      "instruction": [
+        "Analyze a speech for layered appeals",
+        "Revise one paragraph to balance story, data, and credibility"
+      ],
+      "evidence": [
+        "Annotated persuasive passage with rationale"
+      ],
+      "watchFor": [
+        "Stacking devices without clear reasoning"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, classroom suitability, availability, permissions, and source credibility."
+}]
 }
 
