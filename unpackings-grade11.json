@@ -8138,5 +8138,1349 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
 }
+    ,
+{
+  "code": "11.P.AC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Writing like a Reader",
+  "studentFriendly": "I can make deliberate choices about language, sentences, and structure based on what readers need and how I want them to respond.",
+  "know": [
+    "Audience expectations and prior knowledge",
+    "Rhetorical and literary appeals",
+    "Diction, tone, and connotation",
+    "Sentence structure, pacing, and emphasis",
+    "Accessibility features and text organization"
+  ],
+  "understand": [
+    "Effective writing anticipates how real readers will encounter and interpret a text.",
+    "Craft choices should serve a defined audience and purpose, not merely sound sophisticated.",
+    "Accessible organization helps audiences locate and use information."
+  ],
+  "do": [
+    "Analyze a target audience and articulate a specific desired response",
+    "Revise language and syntax for that audience",
+    "Choose a structure and features that support navigation and meaning",
+    "Explain the effect of choices using evidence from reader feedback"
+  ],
+  "vocabulary": [
+    {
+      "term": "audience",
+      "definition": "People a text is intended to reach",
+      "example": "Parents reading a school policy"
+    },
+    {
+      "term": "rhetorical appeal",
+      "definition": "A persuasive approach to readers",
+      "example": "Credible evidence supports an appeal to logos"
+    },
+    {
+      "term": "diction",
+      "definition": "Purposeful word choice",
+      "example": "Concern versus crisis"
+    },
+    {
+      "term": "syntax",
+      "definition": "Arrangement of words and clauses",
+      "example": "Short sentence for urgency"
+    },
+    {
+      "term": "register",
+      "definition": "Level of formality",
+      "example": "Academic versus conversational"
+    },
+    {
+      "term": "accessibility",
+      "definition": "Design that allows audiences to use content",
+      "example": "Descriptive headings and alt text"
+    },
+    {
+      "term": "call to action",
+      "definition": "Specific response requested of readers",
+      "example": "Register before Friday"
+    },
+    {
+      "term": "coherence",
+      "definition": "Logical connection among ideas",
+      "example": "Transitions connect reasons"
+    },
+    {
+      "term": "connotation",
+      "definition": "Associated emotional meaning",
+      "example": "Home versus residence"
+    },
+    {
+      "term": "reader feedback",
+      "definition": "Response from intended users",
+      "example": "A peer cannot locate the deadline"
+    }
+  ],
+  "targets": [
+    "I can analyze a target audience and articulate a specific desired response.",
+    "I can revise language and syntax for that audience.",
+    "I can choose a structure and features that support navigation and meaning.",
+    "I can explain the effect of choices using evidence from reader feedback."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter",
+      "purpose": "Examine how rhetorical appeals reach multiple audiences",
+      "access": "Licensed excerpt or school database",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Examine how rhetorical appeals reach multiple audiences",
+      "teachingPrompt": "What does this example reveal about writing like a reader?",
+      "alignment": [
+        "11.P.AC.2.a",
+        "11.P.AC.2.b"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech",
+      "purpose": "Compare sentence length and collective appeals",
+      "access": "Public domain",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Compare sentence length and collective appeals",
+      "teachingPrompt": "What does this example reveal about writing like a reader?",
+      "alignment": [
+        "11.P.AC.2.b",
+        "11.P.AC.2.c"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Talk and transcript",
+      "purpose": "Analyze word choice for an international audience",
+      "access": "Official TED transcript",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Analyze word choice for an international audience",
+      "teachingPrompt": "What does this example reveal about writing like a reader?",
+      "alignment": [
+        "11.P.AC.2.c",
+        "11.P.AC.2.d"
+      ]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Vignette",
+      "purpose": "Explore diction, rhythm, and reader positioning",
+      "access": "Licensed classroom excerpt",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Explore diction, rhythm, and reader positioning",
+      "teachingPrompt": "What does this example reveal about writing like a reader?",
+      "alignment": [
+        "11.P.AC.2.d",
+        "11.P.AC.2.a"
+      ]
+    },
+    {
+      "title": "A student-facing financial aid guide",
+      "author": "Federal Student Aid",
+      "genre": "Informational website",
+      "purpose": "Audit headings, sequence, and usability",
+      "access": "studentaid.gov",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Audit headings, sequence, and usability",
+      "teachingPrompt": "What does this example reveal about writing like a reader?",
+      "alignment": [
+        "11.P.AC.2.a",
+        "11.P.AC.2.b"
+      ]
+    },
+    {
+      "title": "A public library event announcement",
+      "author": "Local library",
+      "genre": "Multimodal notice",
+      "purpose": "Compare audience-specific calls to action",
+      "access": "Current official library notice",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Compare audience-specific calls to action",
+      "teachingPrompt": "What does this example reveal about writing like a reader?",
+      "alignment": [
+        "11.P.AC.2.b",
+        "11.P.AC.2.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Reader-response revision",
+      "activity": "Revise a confusing announcement for a specific student audience; use an audience checklist and test whether a peer finds the key action.",
+      "materials": [
+        "Sample announcement",
+        "Audience checklist"
+      ],
+      "scaffolds": [
+        "Provide a model revision",
+        "Highlight key facts"
+      ],
+      "success": "Reader identifies purpose, action, and deadline without prompting.",
+      "alignment": [
+        "11.P.AC.2.a",
+        "11.P.AC.2.b",
+        "11.P.AC.2.c",
+        "11.P.AC.2.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "Two audiences, one message",
+      "activity": "Write two versions of the same 180-word message for different audiences; annotate diction, syntax, and organization choices.",
+      "materials": [
+        "Audience profiles",
+        "Drafting tool"
+      ],
+      "scaffolds": [
+        "Compare two mentor openings",
+        "Peer feedback"
+      ],
+      "success": "At least six justified audience-specific choices.",
+      "alignment": [
+        "11.P.AC.2.a",
+        "11.P.AC.2.b",
+        "11.P.AC.2.c",
+        "11.P.AC.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "55 minutes",
+      "title": "Accessible advocacy package",
+      "activity": "Design a short letter and companion web notice on one issue; conduct usability feedback and revise the text structures.",
+      "materials": [
+        "Issue evidence",
+        "Accessibility checklist"
+      ],
+      "scaffolds": [
+        "Require feedback from two readers"
+      ],
+      "success": "Two aligned texts with an evidence-based revision memo.",
+      "alignment": [
+        "11.P.AC.2.a",
+        "11.P.AC.2.b",
+        "11.P.AC.2.c",
+        "11.P.AC.2.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A school announcement has a long paragraph containing its registration deadline. Which revision most directly helps busy readers?",
+      "options": [
+        "Add a metaphor",
+        "Move the deadline into a descriptive heading and concise opening",
+        "Use longer sentences",
+        "Remove all details"
+      ],
+      "answer": "Move the deadline into a descriptive heading and concise opening",
+      "rationale": "Scannable organization makes essential information accessible.",
+      "alignment": [
+        "11.P.AC.2.a",
+        "11.P.AC.2.b",
+        "11.P.AC.2.c",
+        "11.P.AC.2.d"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare two sentences addressing the same issue but using different tone and syntax. Explain which better suits a specified audience and why.",
+      "answer": "Identify audience, cite specific diction/syntax, and justify predicted response.",
+      "rationale": "The response must explain an effect, not simply identify a technique.",
+      "alignment": [
+        "11.P.AC.2.a",
+        "11.P.AC.2.b",
+        "11.P.AC.2.c",
+        "11.P.AC.2.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a 200-word audience-specific informational text and annotate four deliberate craft choices, including an accessibility feature.",
+      "answer": "Evaluate purpose, audience fit, language, syntax, organization, and explanation.",
+      "rationale": "The writer should anticipate the reader’s experience.",
+      "alignment": [
+        "11.P.AC.2.a",
+        "11.P.AC.2.b",
+        "11.P.AC.2.c",
+        "11.P.AC.2.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "An evidence-based analysis of an authentic mentor text or communication situation.",
+    "A purposeful original or revised product that demonstrates the focus.",
+    "Annotations, process notes, or reflection that justify decisions.",
+    "Feedback and revision evidence tied to audience, purpose, and context."
+  ],
+  "instruction": [
+    "Establish an authentic audience and a clear communication or collaboration problem.",
+    "Use a brief mentor example and model the reasoning behind a successful choice.",
+    "Provide a structured, supported practice task and a more independent transfer task.",
+    "Invite feedback from the intended audience or a credible peer proxy.",
+    "Assess both the quality of the result and the student’s explanation of decisions."
+  ],
+  "watchFor": [
+    "Terminology memorization without application.",
+    "Assumptions about audiences without testing them.",
+    "Attributing a single fixed effect to a technique or design feature.",
+    "Failing to document sources, participation, or revision."
+  ],
+  "skills": {
+    "11.P.AC.2.a": {
+      "focus": "Integrate rhetorical and literary elements",
+      "studentFriendly": "I can integrate literary, expository, and opinion (grades K-5) or rhetorical (grades 6-12) elements to appeal to target audiences and achieve specific purposes.",
+      "know": [
+        "Integrate literary, expository, and opinion (grades K-5) or rhetorical (grades 6-12) elements to appeal to target audiences and achieve specific purposes",
+        "Audience expectations and prior knowledge"
+      ],
+      "understand": [
+        "Effective writing anticipates how real readers will encounter and interpret a text."
+      ],
+      "do": [
+        "Integrate literary, expository, and opinion (grades K-5) or rhetorical (grades 6-12) elements to appeal to target audiences and achieve specific purposes.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain integrate rhetorical and literary elements in context.",
+        "Apply integrate rhetorical and literary elements and justify the choice."
+      ],
+      "instruction": [
+        "Introduce integrate rhetorical and literary elements through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating integrate rhetorical and literary elements.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.AC.2.b": {
+      "focus": "Craft words and phrases for audience response",
+      "studentFriendly": "I can craft words and phrases in order to influence the responses, thoughts, decisions, and questions of the target audience and achieve a specific purpose.",
+      "know": [
+        "Craft words and phrases in order to influence the responses, thoughts, decisions, and questions of the target audience and achieve a specific purpose",
+        "Rhetorical and literary appeals"
+      ],
+      "understand": [
+        "Craft choices should serve a defined audience and purpose, not merely sound sophisticated."
+      ],
+      "do": [
+        "Craft words and phrases in order to influence the responses, thoughts, decisions, and questions of the target audience and achieve a specific purpose.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain craft words and phrases for audience response in context.",
+        "Apply craft words and phrases for audience response and justify the choice."
+      ],
+      "instruction": [
+        "Introduce craft words and phrases for audience response through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating craft words and phrases for audience response.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.AC.2.c": {
+      "focus": "Shape sentence structure for audience",
+      "studentFriendly": "I can make decisions about sentence structure and syntax in order to accommodate and influence the audience and achieve a specific purpose.",
+      "know": [
+        "Make decisions about sentence structure and syntax in order to accommodate and influence the audience and achieve a specific purpose",
+        "Diction, tone, and connotation"
+      ],
+      "understand": [
+        "Accessible organization helps audiences locate and use information."
+      ],
+      "do": [
+        "Make decisions about sentence structure and syntax in order to accommodate and influence the audience and achieve a specific purpose.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain shape sentence structure for audience in context.",
+        "Apply shape sentence structure for audience and justify the choice."
+      ],
+      "instruction": [
+        "Introduce shape sentence structure for audience through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating shape sentence structure for audience.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.AC.2.d": {
+      "focus": "Organize formats and features for access",
+      "studentFriendly": "I can organize texts by incorporating specific formats, structures, patterns, and features to influence the audience, facilitate accessibility, and support the text’s purpose.",
+      "know": [
+        "Organize texts by incorporating specific formats, structures, patterns, and features to influence the audience, facilitate accessibility, and support the text’s purpose",
+        "Sentence structure, pacing, and emphasis"
+      ],
+      "understand": [
+        "Effective writing anticipates how real readers will encounter and interpret a text."
+      ],
+      "do": [
+        "Organize texts by incorporating specific formats, structures, patterns, and features to influence the audience, facilitate accessibility, and support the text’s purpose.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain organize formats and features for access in context.",
+        "Apply organize formats and features for access and justify the choice."
+      ],
+      "instruction": [
+        "Introduce organize formats and features for access through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating organize formats and features for access.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.P.AC.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Text Design",
+  "studentFriendly": "I can evaluate how genre, medium, and design shape meaning, and create accessible multimodal texts for a particular audience and purpose.",
+  "know": [
+    "Modes: print, audio, visual, digital, and mixed",
+    "Genre conventions and audience expectations",
+    "Typography, headings, captions, layout, and navigation",
+    "Sequencing and hierarchy of information",
+    "Multimodal composition and accessibility"
+  ],
+  "understand": [
+    "Design choices contribute to meaning and tone rather than merely decorating a text.",
+    "Different modes and genres permit different kinds of evidence and expression.",
+    "Combining modes requires deliberate integration and accessibility."
+  ],
+  "do": [
+    "Compare the effect of the same message in two modes",
+    "Select genre-specific content and organizational structures",
+    "Create a coherent multimodal text with accessible features",
+    "Justify design decisions based on audience testing"
+  ],
+  "vocabulary": [
+    {
+      "term": "mode",
+      "definition": "Channel used to communicate",
+      "example": "Audio, print, or video"
+    },
+    {
+      "term": "genre",
+      "definition": "Recognizable type of text",
+      "example": "Editorial or infographic"
+    },
+    {
+      "term": "multimodal",
+      "definition": "Combining two or more communicative modes",
+      "example": "Article with audio and diagrams"
+    },
+    {
+      "term": "visual hierarchy",
+      "definition": "Ordering information by visual prominence",
+      "example": "Large heading followed by subheads"
+    },
+    {
+      "term": "caption",
+      "definition": "Text explaining a visual",
+      "example": "Source and meaning beneath a graph"
+    },
+    {
+      "term": "alt text",
+      "definition": "Description of a meaningful image",
+      "example": "A concise description of a chart"
+    },
+    {
+      "term": "affordance",
+      "definition": "What a medium makes possible",
+      "example": "Audio conveys pace and intonation"
+    },
+    {
+      "term": "layout",
+      "definition": "Spatial arrangement of content",
+      "example": "Two-column comparison"
+    },
+    {
+      "term": "navigation",
+      "definition": "How readers move through information",
+      "example": "Descriptive linked headings"
+    },
+    {
+      "term": "contrast",
+      "definition": "Difference that improves distinction",
+      "example": "Readable text against background"
+    }
+  ],
+  "targets": [
+    "I can compare the effect of the same message in two modes.",
+    "I can select genre-specific content and organizational structures.",
+    "I can create a coherent multimodal text with accessible features.",
+    "I can justify design decisions based on audience testing."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "A contemporary science infographic",
+      "author": "NASA",
+      "genre": "Infographic",
+      "purpose": "Analyze what visuals explain better than prose",
+      "access": "nasa.gov educational resources",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Analyze what visuals explain better than prose",
+      "teachingPrompt": "What does this example reveal about text design?",
+      "alignment": [
+        "11.P.AC.3.a",
+        "11.P.AC.3.b"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech and print",
+      "purpose": "Compare spoken and printed modes",
+      "access": "Public domain",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Compare spoken and printed modes",
+      "teachingPrompt": "What does this example reveal about text design?",
+      "alignment": [
+        "11.P.AC.3.b",
+        "11.P.AC.3.c"
+      ]
+    },
+    {
+      "title": "A current data-driven news story",
+      "author": "Associated Press or school database",
+      "genre": "Digital news",
+      "purpose": "Analyze captions, charts, and source placement",
+      "access": "Licensed news/database access",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Analyze captions, charts, and source placement",
+      "teachingPrompt": "What does this example reveal about text design?",
+      "alignment": [
+        "11.P.AC.3.c",
+        "11.P.AC.3.d"
+      ]
+    },
+    {
+      "title": "The Arrival",
+      "author": "Shaun Tan",
+      "genre": "Wordless graphic narrative",
+      "purpose": "Explore sequencing and visual storytelling",
+      "access": "School-library copy",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Explore sequencing and visual storytelling",
+      "teachingPrompt": "What does this example reveal about text design?",
+      "alignment": [
+        "11.P.AC.3.d",
+        "11.P.AC.3.a"
+      ]
+    },
+    {
+      "title": "A podcast transcript and audio segment",
+      "author": "NPR or public radio",
+      "genre": "Audio and transcript",
+      "purpose": "Compare voice with transcript navigation",
+      "access": "Official transcript and audio",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Compare voice with transcript navigation",
+      "teachingPrompt": "What does this example reveal about text design?",
+      "alignment": [
+        "11.P.AC.3.a",
+        "11.P.AC.3.b"
+      ]
+    },
+    {
+      "title": "A museum digital exhibition",
+      "author": "Smithsonian Institution",
+      "genre": "Digital exhibit",
+      "purpose": "Assess navigation, media, and accessibility",
+      "access": "si.edu digital collections",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Assess navigation, media, and accessibility",
+      "teachingPrompt": "What does this example reveal about text design?",
+      "alignment": [
+        "11.P.AC.3.b",
+        "11.P.AC.3.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Design detective",
+      "activity": "Annotate a one-page infographic for title, captions, sequence, and visual hierarchy; propose two changes to improve comprehension.",
+      "materials": [
+        "Infographic",
+        "Design checklist"
+      ],
+      "scaffolds": [
+        "Provide annotated model",
+        "Use feature labels"
+      ],
+      "success": "Two design changes with clear reader-centered reasons.",
+      "alignment": [
+        "11.P.AC.3.a",
+        "11.P.AC.3.b",
+        "11.P.AC.3.c",
+        "11.P.AC.3.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "45 minutes",
+      "title": "One idea, two modes",
+      "activity": "Translate a short researched article into a narrated slide or infographic; explain what information was retained, removed, and restructured.",
+      "materials": [
+        "Short article",
+        "Storyboard",
+        "Citation notes"
+      ],
+      "scaffolds": [
+        "Use a content-priority organizer"
+      ],
+      "success": "Accurate multimodal product with justified choices.",
+      "alignment": [
+        "11.P.AC.3.a",
+        "11.P.AC.3.b",
+        "11.P.AC.3.c",
+        "11.P.AC.3.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60 minutes",
+      "title": "Accessible exhibit redesign",
+      "activity": "Redesign a dense digital exhibit page for mobile readers, incorporating headings, captions, alt text, and a transparent source trail.",
+      "materials": [
+        "Source page",
+        "Wireframe",
+        "Accessibility checklist"
+      ],
+      "scaffolds": [
+        "Test with a peer on a small screen"
+      ],
+      "success": "Evidence-based redesign and documented usability improvements.",
+      "alignment": [
+        "11.P.AC.3.a",
+        "11.P.AC.3.b",
+        "11.P.AC.3.c",
+        "11.P.AC.3.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Why might a complex data comparison work better as a labeled chart than as a single dense paragraph?",
+      "options": [
+        "Charts always contain more facts",
+        "Visual organization can reveal patterns and relationships quickly",
+        "Charts eliminate the need for sources",
+        "Paragraphs cannot communicate evidence"
+      ],
+      "answer": "Visual organization can reveal patterns and relationships quickly",
+      "rationale": "Mode choice should serve the information and audience.",
+      "alignment": [
+        "11.P.AC.3.a",
+        "11.P.AC.3.b",
+        "11.P.AC.3.c",
+        "11.P.AC.3.d"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare the organization and meaning of a news story and its companion infographic. Explain one benefit and one limitation of each mode.",
+      "answer": "Use specific evidence and address audience, purpose, and accuracy.",
+      "rationale": "Different modes provide different affordances and constraints.",
+      "alignment": [
+        "11.P.AC.3.a",
+        "11.P.AC.3.b",
+        "11.P.AC.3.c",
+        "11.P.AC.3.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a short accessible multimodal explanation of a local issue with two modes, citations, and a design rationale.",
+      "answer": "Score accurate content, integration, navigation, accessibility, and audience fit.",
+      "rationale": "Design is evaluated as meaning-making.",
+      "alignment": [
+        "11.P.AC.3.a",
+        "11.P.AC.3.b",
+        "11.P.AC.3.c",
+        "11.P.AC.3.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "An evidence-based analysis of an authentic mentor text or communication situation.",
+    "A purposeful original or revised product that demonstrates the focus.",
+    "Annotations, process notes, or reflection that justify decisions.",
+    "Feedback and revision evidence tied to audience, purpose, and context."
+  ],
+  "instruction": [
+    "Establish an authentic audience and a clear communication or collaboration problem.",
+    "Use a brief mentor example and model the reasoning behind a successful choice.",
+    "Provide a structured, supported practice task and a more independent transfer task.",
+    "Invite feedback from the intended audience or a credible peer proxy.",
+    "Assess both the quality of the result and the student’s explanation of decisions."
+  ],
+  "watchFor": [
+    "Terminology memorization without application.",
+    "Assumptions about audiences without testing them.",
+    "Attributing a single fixed effect to a technique or design feature.",
+    "Failing to document sources, participation, or revision."
+  ],
+  "skills": {
+    "11.P.AC.3.a": {
+      "focus": "Analyze features across modes and genres",
+      "studentFriendly": "I can explore and create texts in various modes and genres, developing and applying knowledge of how specific features impact meaning, tone, style, purpose, and audience.",
+      "know": [
+        "Explore and create texts in various modes and genres, developing and applying knowledge of how specific features impact meaning, tone, style, purpose, and audience",
+        "Modes: print, audio, visual, digital, and mixed"
+      ],
+      "understand": [
+        "Design choices contribute to meaning and tone rather than merely decorating a text."
+      ],
+      "do": [
+        "Explore and create texts in various modes and genres, developing and applying knowledge of how specific features impact meaning, tone, style, purpose, and audience.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain analyze features across modes and genres in context.",
+        "Apply analyze features across modes and genres and justify the choice."
+      ],
+      "instruction": [
+        "Introduce analyze features across modes and genres through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating analyze features across modes and genres.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.AC.3.b": {
+      "focus": "Select content appropriate to mode and genre",
+      "studentFriendly": "I can apply knowledge of how mode and genre impact what kinds of ideas and information are included in texts.",
+      "know": [
+        "Apply knowledge of how mode and genre impact what kinds of ideas and information are included in texts",
+        "Genre conventions and audience expectations"
+      ],
+      "understand": [
+        "Different modes and genres permit different kinds of evidence and expression."
+      ],
+      "do": [
+        "Apply knowledge of how mode and genre impact what kinds of ideas and information are included in texts.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain select content appropriate to mode and genre in context.",
+        "Apply select content appropriate to mode and genre and justify the choice."
+      ],
+      "instruction": [
+        "Introduce select content appropriate to mode and genre through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating select content appropriate to mode and genre.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.AC.3.c": {
+      "focus": "Structure information to fit mode and genre",
+      "studentFriendly": "I can apply knowledge of how mode and genre impact how ideas and information are structured and arranged in texts.",
+      "know": [
+        "Apply knowledge of how mode and genre impact how ideas and information are structured and arranged in texts",
+        "Typography, headings, captions, layout, and navigation"
+      ],
+      "understand": [
+        "Combining modes requires deliberate integration and accessibility."
+      ],
+      "do": [
+        "Apply knowledge of how mode and genre impact how ideas and information are structured and arranged in texts.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain structure information to fit mode and genre in context.",
+        "Apply structure information to fit mode and genre and justify the choice."
+      ],
+      "instruction": [
+        "Introduce structure information to fit mode and genre through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating structure information to fit mode and genre.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.AC.3.d": {
+      "focus": "Integrate modes and craft to influence readers",
+      "studentFriendly": "I can consume and produce multimodal texts, integrating a variety of genres, text features, and craft techniques to influence target audiences and achieve specific purposes.",
+      "know": [
+        "Consume and produce multimodal texts, integrating a variety of genres, text features, and craft techniques to influence target audiences and achieve specific purposes",
+        "Sequencing and hierarchy of information"
+      ],
+      "understand": [
+        "Design choices contribute to meaning and tone rather than merely decorating a text."
+      ],
+      "do": [
+        "Consume and produce multimodal texts, integrating a variety of genres, text features, and craft techniques to influence target audiences and achieve specific purposes.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain integrate modes and craft to influence readers in context.",
+        "Apply integrate modes and craft to influence readers and justify the choice."
+      ],
+      "instruction": [
+        "Introduce integrate modes and craft to influence readers through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating integrate modes and craft to influence readers.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.P.CP.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Collaboration",
+  "studentFriendly": "I can prepare for group work, establish useful norms, listen and contribute thoughtfully, and help a team investigate and create a shared product.",
+  "know": [
+    "Preparation and evidence-based discussion",
+    "Group norms, roles, milestones, and decision procedures",
+    "Active listening, turn-taking, and constructive feedback",
+    "Shared inquiry, problem-solving, and collaborative writing",
+    "Documentation and equitable accountability"
+  ],
+  "understand": [
+    "Productive collaboration requires both individual preparation and collective responsibility.",
+    "Norms and roles should support participation rather than silence dissent.",
+    "Disagreement can strengthen a project when participants use evidence and respectful feedback."
+  ],
+  "do": [
+    "Arrive with notes, questions, and relevant evidence",
+    "Negotiate norms, goals, responsibilities, and checkpoints",
+    "Build on peers’ ideas and offer actionable feedback",
+    "Create and evaluate a shared text or solution"
+  ],
+  "vocabulary": [
+    {
+      "term": "collaboration",
+      "definition": "Working together toward a shared goal",
+      "example": "Coauthoring a research brief"
+    },
+    {
+      "term": "group norm",
+      "definition": "Agreed behavior guiding work",
+      "example": "Invite every voice"
+    },
+    {
+      "term": "consensus",
+      "definition": "Broad agreement after deliberation",
+      "example": "Team accepts a plan"
+    },
+    {
+      "term": "facilitation",
+      "definition": "Helping a group work productively",
+      "example": "Summarizing and inviting input"
+    },
+    {
+      "term": "active listening",
+      "definition": "Attentive listening with responsive questions",
+      "example": "Paraphrasing a peer"
+    },
+    {
+      "term": "feedback",
+      "definition": "Specific information to improve work",
+      "example": "The claim needs a source"
+    },
+    {
+      "term": "accountability",
+      "definition": "Responsibility for agreed work",
+      "example": "Completing a research task"
+    },
+    {
+      "term": "milestone",
+      "definition": "Checkpoint in a project",
+      "example": "Draft due Thursday"
+    },
+    {
+      "term": "synthesis",
+      "definition": "Combining perspectives into a coherent result",
+      "example": "Shared conclusion"
+    },
+    {
+      "term": "conflict resolution",
+      "definition": "Constructive handling of disagreement",
+      "example": "Testing options against criteria"
+    }
+  ],
+  "targets": [
+    "I can arrive with notes, questions, and relevant evidence.",
+    "I can negotiate norms, goals, responsibilities, and checkpoints.",
+    "I can build on peers’ ideas and offer actionable feedback.",
+    "I can create and evaluate a shared text or solution."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "A student editorial board meeting",
+      "author": "Teacher-created scenario",
+      "genre": "Meeting simulation",
+      "purpose": "Practice preparation and feedback",
+      "access": "Original classroom scenario",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Practice preparation and feedback",
+      "teachingPrompt": "What does this example reveal about collaboration?",
+      "alignment": [
+        "11.P.CP.1.a",
+        "11.P.CP.1.b"
+      ]
+    },
+    {
+      "title": "A local planning commission agenda",
+      "author": "Local government",
+      "genre": "Civic agenda",
+      "purpose": "Analyze preparation and decision procedures",
+      "access": "Official public records",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Analyze preparation and decision procedures",
+      "teachingPrompt": "What does this example reveal about collaboration?",
+      "alignment": [
+        "11.P.CP.1.b",
+        "11.P.CP.1.c"
+      ]
+    },
+    {
+      "title": "A scientific team research abstract",
+      "author": "Open-access journal",
+      "genre": "Research abstract",
+      "purpose": "Identify shared inquiry and roles",
+      "access": "Open-access publication",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Identify shared inquiry and roles",
+      "teachingPrompt": "What does this example reveal about collaboration?",
+      "alignment": [
+        "11.P.CP.1.c",
+        "11.P.CP.1.d"
+      ]
+    },
+    {
+      "title": "The Crucible",
+      "author": "Arthur Miller",
+      "genre": "Drama",
+      "purpose": "Examine group pressure and dissent",
+      "access": "Licensed excerpt",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Examine group pressure and dissent",
+      "teachingPrompt": "What does this example reveal about collaboration?",
+      "alignment": [
+        "11.P.CP.1.d",
+        "11.P.CP.1.a"
+      ]
+    },
+    {
+      "title": "A Model United Nations resolution",
+      "author": "Student-created or public sample",
+      "genre": "Collaborative proposal",
+      "purpose": "Practice negotiated drafting and consensus",
+      "access": "School resources",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": false,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Practice negotiated drafting and consensus",
+      "teachingPrompt": "What does this example reveal about collaboration?",
+      "alignment": [
+        "11.P.CP.1.a",
+        "11.P.CP.1.b"
+      ]
+    },
+    {
+      "title": "A collaborative oral-history project",
+      "author": "Library of Congress",
+      "genre": "Oral-history archive",
+      "purpose": "Plan ethical shared inquiry",
+      "access": "loc.gov collections",
+      "readingTime": "10–20 minutes (selection-dependent)",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt or alternative mode when appropriate.",
+      "interestHook": "Plan ethical shared inquiry",
+      "teachingPrompt": "What does this example reveal about collaboration?",
+      "alignment": [
+        "11.P.CP.1.b",
+        "11.P.CP.1.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Discussion roles rehearsal",
+      "activity": "Use a short evidence packet and assigned roles to solve a concrete problem; practice paraphrasing before disagreeing.",
+      "materials": [
+        "Evidence packet",
+        "Role cards",
+        "Discussion stems"
+      ],
+      "scaffolds": [
+        "Model paraphrase",
+        "Use turn tracker"
+      ],
+      "success": "Every member contributes one evidence-based idea and one response.",
+      "alignment": [
+        "11.P.CP.1.a",
+        "11.P.CP.1.b",
+        "11.P.CP.1.c",
+        "11.P.CP.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "50 minutes",
+      "title": "Editorial board challenge",
+      "activity": "In teams, research a school issue, establish norms, assign roles, and draft a jointly edited recommendation with meeting notes.",
+      "materials": [
+        "Research links",
+        "Team charter",
+        "Shared document"
+      ],
+      "scaffolds": [
+        "Midpoint check-in",
+        "Feedback protocol"
+      ],
+      "success": "Documented preparation, equitable contributions, and coherent recommendation.",
+      "alignment": [
+        "11.P.CP.1.a",
+        "11.P.CP.1.b",
+        "11.P.CP.1.c",
+        "11.P.CP.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60 minutes",
+      "title": "Stakeholder consensus lab",
+      "activity": "Represent different stakeholder perspectives, investigate competing evidence, negotiate trade-offs, and produce a consensus statement with a minority-view note.",
+      "materials": [
+        "Stakeholder briefs",
+        "Source log",
+        "Consensus protocol"
+      ],
+      "scaffolds": [
+        "Rotate facilitator",
+        "Track unresolved issues"
+      ],
+      "success": "Transparent process, evidence-supported agreement, and fair representation.",
+      "alignment": [
+        "11.P.CP.1.a",
+        "11.P.CP.1.b",
+        "11.P.CP.1.c",
+        "11.P.CP.1.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A team member disagrees with a proposed conclusion. Which response best supports collaboration?",
+      "options": [
+        "Vote immediately without discussion",
+        "Ask for their evidence and compare it with agreed criteria",
+        "Remove the member from drafting",
+        "Ignore the concern to save time"
+      ],
+      "answer": "Ask for their evidence and compare it with agreed criteria",
+      "rationale": "Evidence-based dialogue strengthens shared decisions.",
+      "alignment": [
+        "11.P.CP.1.a",
+        "11.P.CP.1.b",
+        "11.P.CP.1.c",
+        "11.P.CP.1.d"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Describe two group norms that would improve equitable participation in a research team and explain how each could be monitored.",
+      "answer": "Provide two actionable norms with concrete monitoring strategies.",
+      "rationale": "Norms must be observable and purposeful.",
+      "alignment": [
+        "11.P.CP.1.a",
+        "11.P.CP.1.b",
+        "11.P.CP.1.c",
+        "11.P.CP.1.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Complete a collaborative inquiry project with a team charter, annotated source notes, contribution log, shared product, and reflection.",
+      "answer": "Assess preparation, norms, listening, feedback, shared inquiry, and final quality.",
+      "rationale": "Both process and product provide evidence.",
+      "alignment": [
+        "11.P.CP.1.a",
+        "11.P.CP.1.b",
+        "11.P.CP.1.c",
+        "11.P.CP.1.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "An evidence-based analysis of an authentic mentor text or communication situation.",
+    "A purposeful original or revised product that demonstrates the focus.",
+    "Annotations, process notes, or reflection that justify decisions.",
+    "Feedback and revision evidence tied to audience, purpose, and context."
+  ],
+  "instruction": [
+    "Establish an authentic audience and a clear communication or collaboration problem.",
+    "Use a brief mentor example and model the reasoning behind a successful choice.",
+    "Provide a structured, supported practice task and a more independent transfer task.",
+    "Invite feedback from the intended audience or a credible peer proxy.",
+    "Assess both the quality of the result and the student’s explanation of decisions."
+  ],
+  "watchFor": [
+    "Terminology memorization without application.",
+    "Assumptions about audiences without testing them.",
+    "Attributing a single fixed effect to a technique or design feature.",
+    "Failing to document sources, participation, or revision."
+  ],
+  "skills": {
+    "11.P.CP.1.a": {
+      "focus": "Prepare for collaborative work",
+      "studentFriendly": "I can arrive to group discussions and collaborative meetings prepared to be an active participant in the work.",
+      "know": [
+        "Arrive to group discussions and collaborative meetings prepared to be an active participant in the work",
+        "Preparation and evidence-based discussion"
+      ],
+      "understand": [
+        "Productive collaboration requires both individual preparation and collective responsibility."
+      ],
+      "do": [
+        "Arrive to group discussions and collaborative meetings prepared to be an active participant in the work.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain prepare for collaborative work in context.",
+        "Apply prepare for collaborative work and justify the choice."
+      ],
+      "instruction": [
+        "Introduce prepare for collaborative work through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating prepare for collaborative work.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.CP.1.b": {
+      "focus": "Set norms, goals, and procedures",
+      "studentFriendly": "I can collaborate with others to determine group norms, establish goals and procedures, and facilitate productivity when working on shared projects.",
+      "know": [
+        "Collaborate with others to determine group norms, establish goals and procedures, and facilitate productivity when working on shared projects",
+        "Group norms, roles, milestones, and decision procedures"
+      ],
+      "understand": [
+        "Norms and roles should support participation rather than silence dissent."
+      ],
+      "do": [
+        "Collaborate with others to determine group norms, establish goals and procedures, and facilitate productivity when working on shared projects.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain set norms, goals, and procedures in context.",
+        "Apply set norms, goals, and procedures and justify the choice."
+      ],
+      "instruction": [
+        "Introduce set norms, goals, and procedures through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating set norms, goals, and procedures.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.CP.1.c": {
+      "focus": "Contribute, listen, and provide feedback",
+      "studentFriendly": "I can contribute to discussions and shared projects by offering ideas, listening to the ideas of others, and providing feedback.",
+      "know": [
+        "Contribute to discussions and shared projects by offering ideas, listening to the ideas of others, and providing feedback",
+        "Active listening, turn-taking, and constructive feedback"
+      ],
+      "understand": [
+        "Disagreement can strengthen a project when participants use evidence and respectful feedback."
+      ],
+      "do": [
+        "Contribute to discussions and shared projects by offering ideas, listening to the ideas of others, and providing feedback.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain contribute, listen, and provide feedback in context.",
+        "Apply contribute, listen, and provide feedback and justify the choice."
+      ],
+      "instruction": [
+        "Introduce contribute, listen, and provide feedback through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating contribute, listen, and provide feedback.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    },
+    "11.P.CP.1.d": {
+      "focus": "Investigate, solve, and create together",
+      "studentFriendly": "I can work with others to discuss topics, investigate questions, solve problems, and explore and create texts.",
+      "know": [
+        "Work with others to discuss topics, investigate questions, solve problems, and explore and create texts",
+        "Shared inquiry, problem-solving, and collaborative writing"
+      ],
+      "understand": [
+        "Productive collaboration requires both individual preparation and collective responsibility."
+      ],
+      "do": [
+        "Work with others to discuss topics, investigate questions, solve problems, and explore and create texts.",
+        "Demonstrate this skill with a text, product, or discussion record."
+      ],
+      "targets": [
+        "Identify and explain investigate, solve, and create together in context.",
+        "Apply investigate, solve, and create together and justify the choice."
+      ],
+      "instruction": [
+        "Introduce investigate, solve, and create together through a concrete mentor example.",
+        "Model a think-aloud using audience, purpose, and evidence.",
+        "Provide guided comparison followed by independent transfer.",
+        "Gather formative feedback and require a purposeful revision."
+      ],
+      "evidence": [
+        "Annotated example demonstrating investigate, solve, and create together.",
+        "Student-created work or documented discussion with a justification."
+      ],
+      "watchFor": [
+        "Listing features without explaining their effects.",
+        "Mistaking participation for substantive contribution or analysis.",
+        "Failing to consider audience, context, and accessibility."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
   ]
 }
