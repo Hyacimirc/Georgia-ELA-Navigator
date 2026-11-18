@@ -6784,5 +6784,1359 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
 }
+    ,
+{
+  "code": "11.L.V.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Word Analysis",
+  "studentFriendly": "I can break unfamiliar words into meaningful parts, use grammar and context to confirm their meanings, and build precise words for my own writing.",
+  "know": [
+    "Greek and Latin roots, prefixes, suffixes, and word families",
+    "Etymology and the difference between a plausible guess and verified meaning",
+    "How noun, verb, adjective, and adverb functions constrain meaning",
+    "How affixes can change meaning, word class, and tone",
+    "Why context and a dictionary check matter after morphological analysis"
+  ],
+  "understand": [
+    "Word parts offer evidence, not a guarantee, of meaning.",
+    "Syntax and grammatical function help readers select the correct sense of a word.",
+    "Writers can make more exact choices by understanding how words are built."
+  ],
+  "do": [
+    "Annotate morphemes and propose a contextual definition",
+    "Test a meaning against the sentence and a reliable reference",
+    "Create and use derived words in authentic sentences",
+    "Revise sentences for precise part-of-speech and word-form choices"
+  ],
+  "vocabulary": [
+    {
+      "term": "morpheme",
+      "definition": "Smallest meaningful unit of language",
+      "example": "un-believ-able"
+    },
+    {
+      "term": "etymology",
+      "definition": "History of a word and its development",
+      "example": "telegraph from Greek roots"
+    },
+    {
+      "term": "affix",
+      "definition": "Prefix or suffix attached to a base",
+      "example": "re- in reconsider"
+    },
+    {
+      "term": "root",
+      "definition": "Meaning-bearing core of a word",
+      "example": "scrib/script: write"
+    },
+    {
+      "term": "derivation",
+      "definition": "Formation of a new word from an existing base",
+      "example": "analyze to analysis"
+    },
+    {
+      "term": "inflection",
+      "definition": "Grammatical change to a word",
+      "example": "argue to argued"
+    },
+    {
+      "term": "part of speech",
+      "definition": "Grammatical function of a word",
+      "example": "record as a noun or verb"
+    },
+    {
+      "term": "context clue",
+      "definition": "Surrounding information that helps establish meaning",
+      "example": "The sentence signals a contrast"
+    },
+    {
+      "term": "register",
+      "definition": "Language level appropriate to context",
+      "example": "technical versus conversational"
+    },
+    {
+      "term": "polysemy",
+      "definition": "Multiple related senses of one word",
+      "example": "draft of a paper; draft of air"
+    }
+  ],
+  "targets": [
+    "I can explain the role of word analysis in reading and composing.",
+    "I can annotate morphemes and propose a contextual definition.",
+    "I can test a meaning against the sentence and a reliable reference.",
+    "I can create and use derived words in authentic sentences.",
+    "I can revise sentences for precise part-of-speech and word-form choices."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Trace biomedical roots in a real ethical debate",
+      "access": "Library excerpt; check permissions",
+      "readingTime": "12–18 min",
+      "highInterest": true,
+      "accessibility": "Accessible excerpts with vocabulary support",
+      "interestHook": "How scientific language affects consent",
+      "teachingPrompt": "Find morphemes and verify meanings",
+      "alignment": [
+        "11.L.V.2.a",
+        "11.L.V.2.b"
+      ]
+    },
+    {
+      "title": "Ain’t I a Woman?",
+      "author": "Sojourner Truth",
+      "genre": "Speech (versions vary)",
+      "purpose": "Analyze word class and rhetorical meaning",
+      "access": "Public-domain versions; discuss transcription history",
+      "readingTime": "5–8 min",
+      "highInterest": true,
+      "accessibility": "Short text; contextualize versions",
+      "interestHook": "How grammatical choices shape emphasis",
+      "teachingPrompt": "Compare two documented versions cautiously",
+      "alignment": [
+        "11.L.V.2.b",
+        "11.L.V.2.c"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "TED talk/transcript",
+      "purpose": "Study academic and everyday word families",
+      "access": "Official TED transcript/video",
+      "readingTime": "12–18 min",
+      "highInterest": true,
+      "accessibility": "Audio plus transcript",
+      "interestHook": "Why labels matter",
+      "teachingPrompt": "Identify word-family choices",
+      "alignment": [
+        "11.L.V.2.c",
+        "11.L.V.2.d"
+      ]
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Decode Latinate academic diction",
+      "access": "Authorized excerpt via school resources",
+      "readingTime": "12–20 min",
+      "highInterest": true,
+      "accessibility": "Chunk dense sentences",
+      "interestHook": "Precision in a moral argument",
+      "teachingPrompt": "Analyze root-based words in context",
+      "alignment": [
+        "11.L.V.2.d",
+        "11.L.V.2.a"
+      ]
+    },
+    {
+      "title": "The Federalist No. 10",
+      "author": "James Madison",
+      "genre": "Political essay",
+      "purpose": "Examine historical roots and noun/verb forms",
+      "access": "Public domain",
+      "readingTime": "15–20 min",
+      "highInterest": false,
+      "accessibility": "Provide glossary",
+      "interestHook": "Why does faction mean what it means?",
+      "teachingPrompt": "Check etymology against context",
+      "alignment": [
+        "11.L.V.2.a",
+        "11.L.V.2.b"
+      ]
+    },
+    {
+      "title": "A contemporary science-news explainer",
+      "author": "Student-selected credible outlet",
+      "genre": "Expository article",
+      "purpose": "Transfer morphology to current technical vocabulary",
+      "access": "School database or reputable science outlet",
+      "readingTime": "10–15 min",
+      "highInterest": true,
+      "accessibility": "Student choice and glossaries",
+      "interestHook": "Decode an unfamiliar headline",
+      "teachingPrompt": "Construct accurate technical sentences",
+      "alignment": [
+        "11.L.V.2.b",
+        "11.L.V.2.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Root-and-context laboratory",
+      "activity": "Color-code prefixes, roots, and suffixes in eight words from a short article; hypothesize meanings; underline sentence clues; verify each meaning.",
+      "materials": [
+        "Eight-word excerpt",
+        "Morpheme reference sheet",
+        "Dictionary"
+      ],
+      "scaffolds": [
+        "Model two examples",
+        "Supply a root bank",
+        "Use a guess-check-revise chart"
+      ],
+      "success": "At least six verified meanings with context evidence.",
+      "alignment": [
+        "11.L.V.2.a",
+        "11.L.V.2.b",
+        "11.L.V.2.c",
+        "11.L.V.2.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "35 minutes",
+      "title": "Word-family revision studio",
+      "activity": "Extract six complex words from two genres, identify word class, create legitimate derivatives, and revise a paragraph for exact meaning.",
+      "materials": [
+        "Two excerpts",
+        "Dictionary",
+        "Revision draft"
+      ],
+      "scaffolds": [
+        "Partner morphology check",
+        "Require sentence-level explanation"
+      ],
+      "success": "Six analyses and three justified revisions.",
+      "alignment": [
+        "11.L.V.2.a",
+        "11.L.V.2.b",
+        "11.L.V.2.c",
+        "11.L.V.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "45 minutes",
+      "title": "Etymology myth-buster",
+      "activity": "Investigate three commonly misinterpreted roots or folk etymologies; distinguish credible word histories from guesses and create an annotated mini-guide.",
+      "materials": [
+        "Etymological dictionary",
+        "Source log",
+        "Presentation template"
+      ],
+      "scaffolds": [
+        "Compare two independent references",
+        "Require a counterexample"
+      ],
+      "success": "Evidence-backed guide with citations and usage examples.",
+      "alignment": [
+        "11.L.V.2.a",
+        "11.L.V.2.b",
+        "11.L.V.2.c",
+        "11.L.V.2.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "In “The committee will record the testimony,” which clue most strongly establishes the function of record?",
+      "options": [
+        "The article “The”",
+        "The auxiliary “will” before record",
+        "The plural noun “committee”",
+        "The noun “testimony”"
+      ],
+      "answer": "The auxiliary “will” before record",
+      "rationale": "A modal auxiliary precedes a base-form verb.",
+      "alignment": [
+        "11.L.V.2.a",
+        "11.L.V.2.b",
+        "11.L.V.2.c",
+        "11.L.V.2.d"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Break down “misinterpretation,” explain each meaningful part, and verify its meaning in a sentence of your own.",
+      "answer": "Look for mis- + interpret + -ation, accurate definition, and a meaningful contextual sentence.",
+      "rationale": "Word-part analysis must be checked against actual usage.",
+      "alignment": [
+        "11.L.V.2.a",
+        "11.L.V.2.b",
+        "11.L.V.2.c",
+        "11.L.V.2.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Revise a 100-word informational paragraph containing five imprecise or malformed word choices; annotate how roots, affixes, and grammatical roles informed each change.",
+      "answer": "Score accuracy of five revisions, grammatical fit, and explanations.",
+      "rationale": "Transfer from decoding to composition.",
+      "alignment": [
+        "11.L.V.2.a",
+        "11.L.V.2.b",
+        "11.L.V.2.c",
+        "11.L.V.2.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "Accurate annotation or analysis of word analysis in an authentic text.",
+    "A written or spoken explanation that cites specific evidence.",
+    "A revised or original composition that applies the target skill.",
+    "A short reflection connecting choices to audience and purpose."
+  ],
+  "instruction": [
+    "Begin with a short authentic mentor text and an explicit purpose for reading.",
+    "Use think-alouds to show how to test interpretations against evidence.",
+    "Pair comparative analysis with deliberate practice in original composition.",
+    "Provide an accessible excerpt, glossaries, and multiple response modes as needed.",
+    "Assess explanation and transfer, not terminology memorization alone."
+  ],
+  "watchFor": [
+    "Correct labels without evidence or explanation.",
+    "Treating isolated examples as sufficient without context.",
+    "Assuming one technique has the same effect for every audience.",
+    "Unverified or fabricated quotations.",
+    "Confusing analysis with copying a mentor text."
+  ],
+  "skills": {
+    "11.L.V.2.a": {
+      "focus": "Deconstruct unfamiliar words",
+      "studentFriendly": "I can deconstruct unknown words or phrases using etymology knowledge, common Greek and Latin roots, root words, and/or affixes to determine meaning as used in grade-level texts.",
+      "know": [
+        "The official expectation focuses on: Deconstruct unknown words or phrases using etymology knowledge, common Greek and Latin roots, root words, and/or affixes to determine meaning as used in grade-level texts.",
+        "Greek and Latin roots, prefixes, suffixes, and word families"
+      ],
+      "understand": [
+        "Word parts offer evidence, not a guarantee, of meaning."
+      ],
+      "do": [
+        "Deconstruct unknown words or phrases using etymology knowledge, common Greek and Latin roots, root words, and/or affixes to determine meaning as used in grade-level texts.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate deconstruct unfamiliar words using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model deconstruct unfamiliar words with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating deconstruct unfamiliar words.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.L.V.2.b": {
+      "focus": "Use grammatical function to infer meaning",
+      "studentFriendly": "I can determine the meanings of words and phrases in context by analyzing the function of parts of speech.",
+      "know": [
+        "The official expectation focuses on: Determine the meanings of words and phrases in context by analyzing the function of parts of speech.",
+        "Etymology and the difference between a plausible guess and verified meaning"
+      ],
+      "understand": [
+        "Syntax and grammatical function help readers select the correct sense of a word."
+      ],
+      "do": [
+        "Determine the meanings of words and phrases in context by analyzing the function of parts of speech.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate use grammatical function to infer meaning using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model use grammatical function to infer meaning with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating use grammatical function to infer meaning.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.L.V.2.c": {
+      "focus": "Construct derived words",
+      "studentFriendly": "I can construct words based on Greek and Latin roots, root words, and/or affixes and use those words appropriately in context.",
+      "know": [
+        "The official expectation focuses on: Construct words based on Greek and Latin roots, root words, and/or affixes and use those words appropriately in context.",
+        "How noun, verb, adjective, and adverb functions constrain meaning"
+      ],
+      "understand": [
+        "Writers can make more exact choices by understanding how words are built."
+      ],
+      "do": [
+        "Construct words based on Greek and Latin roots, root words, and/or affixes and use those words appropriately in context.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate construct derived words using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model construct derived words with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating construct derived words.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.L.V.2.d": {
+      "focus": "Select precise word forms",
+      "studentFriendly": "I can use knowledge of parts of speech to determine precise and effective words and phrases when constructing texts.",
+      "know": [
+        "The official expectation focuses on: Use knowledge of parts of speech to determine precise and effective words and phrases when constructing texts.",
+        "How affixes can change meaning, word class, and tone"
+      ],
+      "understand": [
+        "Word parts offer evidence, not a guarantee, of meaning."
+      ],
+      "do": [
+        "Use knowledge of parts of speech to determine precise and effective words and phrases when constructing texts.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate select precise word forms using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model select precise word forms with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating select precise word forms.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.L.V.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Meaning & Purpose",
+  "studentFriendly": "I can compare the shades of meaning among related words, check uncertain meanings using reliable references, and choose language that achieves my purpose.",
+  "know": [
+    "Denotation and connotation are distinct but interacting dimensions of meaning",
+    "Synonyms can differ in intensity, implication, register, or cultural association",
+    "Reference works provide usage notes, examples, and pronunciation",
+    "Context affects which sense of a polysemous word is intended",
+    "Strategic diction depends on audience, genre, and ethical representation"
+  ],
+  "understand": [
+    "Near-synonyms are rarely interchangeable in every context.",
+    "Connotation can shape audience response even when denotation remains similar.",
+    "Writers must verify nuanced meanings rather than assume a thesaurus synonym is suitable."
+  ],
+  "do": [
+    "Compare denotative definitions and connotative effects",
+    "Explain how a word choice changes an interpretation",
+    "Cross-check ambiguous meanings in reputable references",
+    "Revise diction to match audience and purpose with an explicit rationale"
+  ],
+  "vocabulary": [
+    {
+      "term": "denotation",
+      "definition": "Direct referential meaning of a word",
+      "example": "residence: a place to live"
+    },
+    {
+      "term": "connotation",
+      "definition": "Emotional or cultural associations of a word",
+      "example": "home suggests belonging"
+    },
+    {
+      "term": "nuance",
+      "definition": "Subtle difference in meaning or effect",
+      "example": "assertive versus aggressive"
+    },
+    {
+      "term": "register",
+      "definition": "Language appropriate to situation and audience",
+      "example": "formal policy memo"
+    },
+    {
+      "term": "semantic field",
+      "definition": "Related vocabulary in a conceptual area",
+      "example": "journey, route, destination"
+    },
+    {
+      "term": "diction",
+      "definition": "Writer’s deliberate word choices",
+      "example": "insist versus suggest"
+    },
+    {
+      "term": "collocation",
+      "definition": "Words that commonly appear together",
+      "example": "strong evidence"
+    },
+    {
+      "term": "usage note",
+      "definition": "Reference guidance about meaning or context",
+      "example": "formal or offensive labels"
+    },
+    {
+      "term": "euphemism",
+      "definition": "Milder wording for a sensitive idea",
+      "example": "passed away"
+    },
+    {
+      "term": "ambiguity",
+      "definition": "More than one plausible interpretation",
+      "example": "a light sentence"
+    }
+  ],
+  "targets": [
+    "I can explain the role of meaning & purpose in reading and composing.",
+    "I can compare denotative definitions and connotative effects.",
+    "I can explain how a word choice changes an interpretation.",
+    "I can cross-check ambiguous meanings in reputable references.",
+    "I can revise diction to match audience and purpose with an explicit rationale."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "We Real Cool",
+      "author": "Gwendolyn Brooks",
+      "genre": "Poem",
+      "purpose": "Examine the consequences of compressed diction",
+      "access": "Licensed anthology or authorized text",
+      "readingTime": "5–8 min",
+      "highInterest": true,
+      "accessibility": "Short text; discuss context",
+      "interestHook": "What can a single pronoun imply?",
+      "teachingPrompt": "Compare connotations of identity terms",
+      "alignment": [
+        "11.L.V.3.b"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech",
+      "purpose": "Analyze word-choice intensity and civic associations",
+      "access": "Public domain",
+      "readingTime": "5–8 min",
+      "highInterest": true,
+      "accessibility": "Brief with historical context",
+      "interestHook": "Why “dedicated” rather than “assigned”?",
+      "teachingPrompt": "Study near-synonym substitution",
+      "alignment": [
+        "11.L.V.3.b",
+        "11.L.V.3.c"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Talk/transcript",
+      "purpose": "Investigate how labels shape perceptions",
+      "access": "Official TED transcript",
+      "readingTime": "12–18 min",
+      "highInterest": true,
+      "accessibility": "Audio and captions",
+      "interestHook": "How does a label change a story?",
+      "teachingPrompt": "Track connotative labels",
+      "alignment": [
+        "11.L.V.3.c",
+        "11.L.V.3.d"
+      ]
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Vignettes",
+      "purpose": "Compare imagery and connotations of place",
+      "access": "School-library excerpt",
+      "readingTime": "10–15 min",
+      "highInterest": true,
+      "accessibility": "Short vignette selections",
+      "interestHook": "Home versus house",
+      "teachingPrompt": "Revise a descriptive passage",
+      "alignment": [
+        "11.L.V.3.d",
+        "11.L.V.3.e"
+      ]
+    },
+    {
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "genre": "Short fiction",
+      "purpose": "Analyze moral language and euphemism",
+      "access": "Licensed anthology",
+      "readingTime": "20–30 min",
+      "highInterest": true,
+      "accessibility": "Provide content context",
+      "interestHook": "How does language soften harm?",
+      "teachingPrompt": "Examine euphemistic diction",
+      "alignment": [
+        "11.L.V.3.e"
+      ]
+    },
+    {
+      "title": "A current public-health advisory and news headline",
+      "author": "Government agency and reputable news source",
+      "genre": "Public information",
+      "purpose": "Compare technical precision and audience effect",
+      "access": "Public web documents",
+      "readingTime": "10–15 min",
+      "highInterest": true,
+      "accessibility": "Authentic contemporary examples",
+      "interestHook": "How does framing alter risk?",
+      "teachingPrompt": "Verify nuanced terms in references",
+      "alignment": [
+        "11.L.V.3.b"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Connotation continuum",
+      "activity": "Place six near-synonyms on a positive-to-negative and mild-to-intense scale, using definitions and example sentences to defend placement.",
+      "materials": [
+        "Word cards",
+        "Dictionary entries",
+        "Scale template"
+      ],
+      "scaffolds": [
+        "Model “confident/assertive/aggressive”",
+        "Allow paired discussion"
+      ],
+      "success": "Defensible placements with evidence for four words.",
+      "alignment": [
+        "11.L.V.3.b",
+        "11.L.V.3.c",
+        "11.L.V.3.d",
+        "11.L.V.3.e"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "35 minutes",
+      "title": "Same facts, different framing",
+      "activity": "Write two 120-word descriptions of the same event for different audiences; highlight eight word choices and explain connotative effects.",
+      "materials": [
+        "Scenario",
+        "Audience cards",
+        "Reference tools"
+      ],
+      "scaffolds": [
+        "Supply a diction comparison chart"
+      ],
+      "success": "Both versions retain facts while tone changes purposefully.",
+      "alignment": [
+        "11.L.V.3.b",
+        "11.L.V.3.c",
+        "11.L.V.3.d",
+        "11.L.V.3.e"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "45 minutes",
+      "title": "Diction ethics audit",
+      "activity": "Compare two headlines on one issue; identify euphemism, loaded wording, and ambiguity; verify meanings and produce an ethically precise rewrite.",
+      "materials": [
+        "Two sourced headlines",
+        "Usage dictionaries",
+        "Source log"
+      ],
+      "scaffolds": [
+        "Require context notes and source dates"
+      ],
+      "success": "Nuanced analysis plus accurate rewrite.",
+      "alignment": [
+        "11.L.V.3.b",
+        "11.L.V.3.c",
+        "11.L.V.3.d",
+        "11.L.V.3.e"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which word most strongly suggests disapproval in “The leader was ___ about the proposal”?",
+      "options": [
+        "careful",
+        "deliberate",
+        "calculating",
+        "thoughtful"
+      ],
+      "answer": "calculating",
+      "rationale": "Calculating can suggest cold self-interest, unlike the more neutral alternatives.",
+      "alignment": [
+        "11.L.V.3.b",
+        "11.L.V.3.c",
+        "11.L.V.3.d",
+        "11.L.V.3.e"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare the denotation and connotation of “persistent,” “stubborn,” and “resolute” in a school recommendation letter.",
+      "answer": "Define shared idea of not giving up, explain distinct evaluative associations, and choose for audience.",
+      "rationale": "Meaning and rhetorical effect both matter.",
+      "alignment": [
+        "11.L.V.3.b",
+        "11.L.V.3.c",
+        "11.L.V.3.d",
+        "11.L.V.3.e"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Revise a neutral announcement for two audiences, documenting five diction decisions with reference evidence.",
+      "answer": "Score semantic accuracy, audience fit, and reference-based rationale.",
+      "rationale": "Verification should support the final language.",
+      "alignment": [
+        "11.L.V.3.b",
+        "11.L.V.3.c",
+        "11.L.V.3.d",
+        "11.L.V.3.e"
+      ]
+    }
+  ],
+  "evidence": [
+    "Accurate annotation or analysis of meaning & purpose in an authentic text.",
+    "A written or spoken explanation that cites specific evidence.",
+    "A revised or original composition that applies the target skill.",
+    "A short reflection connecting choices to audience and purpose."
+  ],
+  "instruction": [
+    "Begin with a short authentic mentor text and an explicit purpose for reading.",
+    "Use think-alouds to show how to test interpretations against evidence.",
+    "Pair comparative analysis with deliberate practice in original composition.",
+    "Provide an accessible excerpt, glossaries, and multiple response modes as needed.",
+    "Assess explanation and transfer, not terminology memorization alone."
+  ],
+  "watchFor": [
+    "Correct labels without evidence or explanation.",
+    "Treating dictionary definitions as sufficient without context.",
+    "Assuming one technique has the same effect for every audience.",
+    "Unverified or fabricated quotations.",
+    "Assessing an inactive progression note as if it were a new requirement."
+  ],
+  "skills": {
+    "11.L.V.3.a": {
+      "focus": "Progression note: transition to b",
+      "studentFriendly": "This is a progression note, not a separate grade-11 performance expectation.",
+      "know": [
+        "The source says this progression transitions to 9-12.L.V.3.b."
+      ],
+      "understand": [
+        "Instruction should center on active expectations b–e."
+      ],
+      "do": [
+        "Locate and explain the progression note."
+      ],
+      "targets": [
+        "Identify the transition to expectation b without inventing a separate skill."
+      ],
+      "instruction": [
+        "Preserve the progression note in planning; do not assign a fabricated assessment."
+      ],
+      "evidence": [
+        "Accurately identifies the progression transition."
+      ],
+      "watchFor": [
+        "Do not treat this note as a substantive new requirement."
+      ]
+    },
+    "11.L.V.3.b": {
+      "focus": "Compare denotation and connotation",
+      "studentFriendly": "I can analyze relationships between words to determine connotative and denotative meanings for words and/or phrases across a variety of contexts.",
+      "know": [
+        "The official expectation focuses on: Analyze relationships between words to determine connotative and denotative meanings for words and/or phrases across a variety of contexts.",
+        "Synonyms can differ in intensity, implication, register, or cultural association"
+      ],
+      "understand": [
+        "Connotation can shape audience response even when denotation remains similar."
+      ],
+      "do": [
+        "Analyze relationships between words to determine connotative and denotative meanings for words and/or phrases across a variety of contexts.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate compare denotation and connotation using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model compare denotation and connotation with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating compare denotation and connotation.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.L.V.3.c": {
+      "focus": "Analyze nuances among near-synonyms",
+      "studentFriendly": "I can analyze the nuances in connotative meaning of words that share a similar denotation.",
+      "know": [
+        "The official expectation focuses on: Analyze the nuances in connotative meaning of words that share a similar denotation.",
+        "Reference works provide usage notes, examples, and pronunciation"
+      ],
+      "understand": [
+        "Writers must verify nuanced meanings rather than assume a thesaurus synonym is suitable."
+      ],
+      "do": [
+        "Analyze the nuances in connotative meaning of words that share a similar denotation.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate analyze nuances among near-synonyms using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model analyze nuances among near-synonyms with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating analyze nuances among near-synonyms.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.L.V.3.d": {
+      "focus": "Verify meanings using references",
+      "studentFriendly": "I can use available print and/or digital resources, including reference materials, style guides, digital tools (e.g., online searches, embedded word processing features) to determine, clarify, or verify the meaning of unknown or multiple-meaning words and phrases.",
+      "know": [
+        "The official expectation focuses on: Use available print and/or digital resources, including reference materials, style guides, digital tools (e.g., online searches, embedded word processing features) to determine, clarify, or verify the meaning of unknown or multiple-meaning words and phrases.",
+        "Context affects which sense of a polysemous word is intended"
+      ],
+      "understand": [
+        "Near-synonyms are rarely interchangeable in every context."
+      ],
+      "do": [
+        "Use available print and/or digital resources, including reference materials, style guides, digital tools (e.g., online searches, embedded word processing features) to determine, clarify, or verify the meaning of unknown or multiple-meaning words and phrases.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate verify meanings using references using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model verify meanings using references with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating verify meanings using references.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.L.V.3.e": {
+      "focus": "Make strategic diction choices",
+      "studentFriendly": "I can make strategic language decisions when writing or speaking by determining, clarifying, or verifying the nuanced meanings of closely related words or phrases using available print and/or digital resources.",
+      "know": [
+        "The official expectation focuses on: Make strategic language decisions when writing or speaking by determining, clarifying, or verifying the nuanced meanings of closely related words or phrases using available print and/or digital resources.",
+        "Strategic diction depends on audience, genre, and ethical representation"
+      ],
+      "understand": [
+        "Connotation can shape audience response even when denotation remains similar."
+      ],
+      "do": [
+        "Make strategic language decisions when writing or speaking by determining, clarifying, or verifying the nuanced meanings of closely related words or phrases using available print and/or digital resources.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate make strategic diction choices using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model make strategic diction choices with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating make strategic diction choices.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.P.AC.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Reading like a Writer",
+  "studentFriendly": "I can study how an author builds a text—its techniques, language, sentences, and design—and explain how those choices influence readers; then I can try effective moves in my own writing.",
+  "know": [
+    "Rhetorical and literary elements serve purpose and audience",
+    "Diction and imagery carry tone and stance",
+    "Syntax, pacing, and sentence variation shape reader attention",
+    "Organization, headings, whitespace, and multimodal design affect access",
+    "Analysis requires specific evidence and a claim about effect, not just device identification"
+  ],
+  "understand": [
+    "Writers make connected choices about content, language, sentence structure, and design.",
+    "A craft technique succeeds only relative to its intended readers and purpose.",
+    "Reading analytically can generate transferable strategies for composing."
+  ],
+  "do": [
+    "Annotate a mentor text for rhetorical or literary moves",
+    "Explain how particular words influence intended readers",
+    "Compare the effects of sentence-level choices",
+    "Evaluate organization and accessibility",
+    "Imitate a technique and reflect on its effectiveness"
+  ],
+  "vocabulary": [
+    {
+      "term": "rhetorical situation",
+      "definition": "Interaction of writer, audience, purpose, and context",
+      "example": "public-service campaign"
+    },
+    {
+      "term": "craft move",
+      "definition": "Deliberate compositional technique",
+      "example": "an opening anecdote"
+    },
+    {
+      "term": "syntax",
+      "definition": "Arrangement of words and clauses",
+      "example": "short sentence after long one"
+    },
+    {
+      "term": "parallelism",
+      "definition": "Repeated grammatical pattern",
+      "example": "we learn, we question, we act"
+    },
+    {
+      "term": "pacing",
+      "definition": "Speed at which information unfolds",
+      "example": "brief paragraphs quicken reading"
+    },
+    {
+      "term": "framing",
+      "definition": "How a text establishes perspective",
+      "example": "opening with a personal story"
+    },
+    {
+      "term": "text feature",
+      "definition": "Design element supporting navigation",
+      "example": "heading or caption"
+    },
+    {
+      "term": "accessibility",
+      "definition": "Ease of access for diverse readers",
+      "example": "clear headings and alt text"
+    },
+    {
+      "term": "rhetorical appeal",
+      "definition": "Method of persuading an audience",
+      "example": "credibility or emotion"
+    },
+    {
+      "term": "mentor text",
+      "definition": "Model studied for craft",
+      "example": "published op-ed"
+    }
+  ],
+  "targets": [
+    "I can explain the role of reading like a writer in reading and composing.",
+    "I can annotate a mentor text for rhetorical or literary moves.",
+    "I can explain how particular words influence intended readers.",
+    "I can compare the effects of sentence-level choices.",
+    "I can evaluate organization and accessibility.",
+    "I can imitate a technique and reflect on its effectiveness."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Persuasive letter",
+      "purpose": "Examine rhetorical elements and parallel syntax",
+      "access": "Licensed excerpt through library",
+      "readingTime": "15–20 min",
+      "highInterest": true,
+      "accessibility": "Chunk dense prose",
+      "interestHook": "How does the writer answer critics?",
+      "teachingPrompt": "Trace appeals, diction, syntax, and organization",
+      "alignment": [
+        "11.P.AC.1.a",
+        "11.P.AC.1.b"
+      ]
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O’Brien",
+      "genre": "Literary fiction",
+      "purpose": "Study repetition and sentence rhythm",
+      "access": "Library excerpt",
+      "readingTime": "12–18 min",
+      "highInterest": true,
+      "accessibility": "Content advisory for war",
+      "interestHook": "How can repetition carry weight?",
+      "teachingPrompt": "Analyze patterned sentences",
+      "alignment": [
+        "11.P.AC.1.b",
+        "11.P.AC.1.c"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Talk/transcript",
+      "purpose": "Study anecdotal framing and audience shifts",
+      "access": "Official TED transcript",
+      "readingTime": "12–18 min",
+      "highInterest": true,
+      "accessibility": "Video and transcript",
+      "interestHook": "How does the opening hook work?",
+      "teachingPrompt": "Map structure and word choice",
+      "alignment": [
+        "11.P.AC.1.c",
+        "11.P.AC.1.d"
+      ]
+    },
+    {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "genre": "Literary essay",
+      "purpose": "Examine extended metaphor and paragraph design",
+      "access": "Public-domain status varies by country; use licensed edition",
+      "readingTime": "12–18 min",
+      "highInterest": false,
+      "accessibility": "Provide historical context",
+      "interestHook": "Why frame an argument as a room?",
+      "teachingPrompt": "Study figurative craft",
+      "alignment": [
+        "11.P.AC.1.d",
+        "11.P.AC.1.a"
+      ]
+    },
+    {
+      "title": "The Hill We Climb",
+      "author": "Amanda Gorman",
+      "genre": "Occasional poem",
+      "purpose": "Analyze parallelism and sound for public audience",
+      "access": "Licensed authorized excerpt",
+      "readingTime": "8–12 min",
+      "highInterest": true,
+      "accessibility": "Video with captions",
+      "interestHook": "How does rhythm shape impact?",
+      "teachingPrompt": "Track syntax and rhetorical effects",
+      "alignment": [
+        "11.P.AC.1.a",
+        "11.P.AC.1.b"
+      ]
+    },
+    {
+      "title": "A student-selected magazine feature",
+      "author": "Credible magazine",
+      "genre": "Feature article",
+      "purpose": "Study headlines, subheads, images, and reading path",
+      "access": "School databases",
+      "readingTime": "10–15 min",
+      "highInterest": true,
+      "accessibility": "Choice and multimodal access",
+      "interestHook": "What does design tell you first?",
+      "teachingPrompt": "Evaluate navigability and purpose",
+      "alignment": [
+        "11.P.AC.1.b",
+        "11.P.AC.1.c"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30 minutes",
+      "title": "Notice–name–effect annotation",
+      "activity": "Mark one passage for a craft move, quote evidence, and complete “The author uses __ so readers __ because __.”",
+      "materials": [
+        "Short mentor excerpt",
+        "Annotation key",
+        "Sentence frames"
+      ],
+      "scaffolds": [
+        "Model one full claim",
+        "Provide a move menu"
+      ],
+      "success": "Three evidence-based effect statements.",
+      "alignment": [
+        "11.P.AC.1.a",
+        "11.P.AC.1.b",
+        "11.P.AC.1.c",
+        "11.P.AC.1.d"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "Craft transfer workshop",
+      "activity": "Compare openings from a literary and an informational text; evaluate word choice, sentence rhythm, and layout; draft an original opening borrowing two moves.",
+      "materials": [
+        "Two mentor excerpts",
+        "Craft comparison chart",
+        "Draft space"
+      ],
+      "scaffolds": [
+        "Partner feedback with audience criteria"
+      ],
+      "success": "Comparison and annotated 150-word original opening.",
+      "alignment": [
+        "11.P.AC.1.a",
+        "11.P.AC.1.b",
+        "11.P.AC.1.c",
+        "11.P.AC.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "50 minutes",
+      "title": "Accessible redesign critique",
+      "activity": "Analyze a published multimodal article for design, syntax, and rhetorical impact; propose a redesigned reading path for a defined audience, explaining trade-offs.",
+      "materials": [
+        "Article",
+        "Accessibility checklist",
+        "Wireframe template"
+      ],
+      "scaffolds": [
+        "Require evidence of audience needs"
+      ],
+      "success": "Justified redesign with four craft decisions.",
+      "alignment": [
+        "11.P.AC.1.a",
+        "11.P.AC.1.b",
+        "11.P.AC.1.c",
+        "11.P.AC.1.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "A writer follows a long, cumulative sentence with “Enough.” What is the most defensible analysis?",
+      "options": [
+        "The writer avoids transitions",
+        "The abrupt sentence may intensify a turning point",
+        "The writer has changed genre",
+        "The short sentence guarantees agreement"
+      ],
+      "answer": "The abrupt sentence may intensify a turning point",
+      "rationale": "Sentence contrast can create emphasis; effect must still be interpreted in context.",
+      "alignment": [
+        "11.P.AC.1.a",
+        "11.P.AC.1.b",
+        "11.P.AC.1.c",
+        "11.P.AC.1.d"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Choose a short paragraph and explain how one specific diction choice and one syntactic choice influence its intended audience.",
+      "answer": "Require quotation, identification of both choices, audience, and reasoned effects.",
+      "rationale": "Identification without explanation is incomplete.",
+      "alignment": [
+        "11.P.AC.1.a",
+        "11.P.AC.1.b",
+        "11.P.AC.1.c",
+        "11.P.AC.1.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create a 200-word mentor-text imitation for a named audience and annotate four borrowed craft moves, including one design choice.",
+      "answer": "Score transfer, audience alignment, and accurate commentary on effects.",
+      "rationale": "Purposeful imitation demonstrates applied analysis.",
+      "alignment": [
+        "11.P.AC.1.a",
+        "11.P.AC.1.b",
+        "11.P.AC.1.c",
+        "11.P.AC.1.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "Accurate annotation or analysis of reading like a writer in an authentic text.",
+    "A written or spoken explanation that cites specific evidence.",
+    "A revised or original composition that applies the target skill.",
+    "A short reflection connecting choices to audience and purpose."
+  ],
+  "instruction": [
+    "Begin with a short authentic mentor text and an explicit purpose for reading.",
+    "Use think-alouds to show how to test interpretations against evidence.",
+    "Pair comparative analysis with deliberate practice in original composition.",
+    "Provide an accessible excerpt, glossaries, and multiple response modes as needed.",
+    "Assess explanation and transfer, not terminology memorization alone."
+  ],
+  "watchFor": [
+    "Correct labels without evidence or explanation.",
+    "Treating isolated examples as sufficient without context.",
+    "Assuming one technique has the same effect for every audience.",
+    "Unverified or fabricated quotations.",
+    "Confusing analysis with copying a mentor text."
+  ],
+  "skills": {
+    "11.P.AC.1.a": {
+      "focus": "Analyze rhetorical and literary elements",
+      "studentFriendly": "I can identify, apply, and analyze the literary, expository, and opinion (grades K-5) or rhetorical (grades 6-12) elements in texts, explaining or evaluating how specific elements affect the target audience and support the text’s purpose.",
+      "know": [
+        "The official expectation focuses on: Identify, apply, and analyze the literary, expository, and opinion (grades K-5) or rhetorical (grades 6-12) elements in texts, explaining or evaluating how specific elements affect the target audience and support the text’s purpose.",
+        "Rhetorical and literary elements serve purpose and audience"
+      ],
+      "understand": [
+        "Writers make connected choices about content, language, sentence structure, and design."
+      ],
+      "do": [
+        "Identify, apply, and analyze the literary, expository, and opinion (grades K-5) or rhetorical (grades 6-12) elements in texts, explaining or evaluating how specific elements affect the target audience and support the text’s purpose.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate analyze rhetorical and literary elements using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model analyze rhetorical and literary elements with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating analyze rhetorical and literary elements.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.P.AC.1.b": {
+      "focus": "Evaluate deliberate language choices",
+      "studentFriendly": "I can identify, apply, and analyze important, interesting, or effective uses of language, explaining or evaluating how specific word choices affect the target audience and support the text’s purpose.",
+      "know": [
+        "The official expectation focuses on: Identify, apply, and analyze important, interesting, or effective uses of language, explaining or evaluating how specific word choices affect the target audience and support the text’s purpose.",
+        "Diction and imagery carry tone and stance"
+      ],
+      "understand": [
+        "A craft technique succeeds only relative to its intended readers and purpose."
+      ],
+      "do": [
+        "Identify, apply, and analyze important, interesting, or effective uses of language, explaining or evaluating how specific word choices affect the target audience and support the text’s purpose.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate evaluate deliberate language choices using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model evaluate deliberate language choices with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating evaluate deliberate language choices.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.P.AC.1.c": {
+      "focus": "Evaluate sentence structure and syntax",
+      "studentFriendly": "I can explain, analyze, and evaluate how the author’s use of sentence structure and syntax affects the target audience and supports the text’s purpose.",
+      "know": [
+        "The official expectation focuses on: Explain, analyze, and evaluate how the author’s use of sentence structure and syntax affects the target audience and supports the text’s purpose.",
+        "Syntax, pacing, and sentence variation shape reader attention"
+      ],
+      "understand": [
+        "Reading analytically can generate transferable strategies for composing."
+      ],
+      "do": [
+        "Explain, analyze, and evaluate how the author’s use of sentence structure and syntax affects the target audience and supports the text’s purpose.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate evaluate sentence structure and syntax using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model evaluate sentence structure and syntax with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating evaluate sentence structure and syntax.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    },
+    "11.P.AC.1.d": {
+      "focus": "Evaluate design, organization, and accessibility",
+      "studentFriendly": "I can describe, analyze, and evaluate the design and organization of the text, explaining how specific formats, structures, patterns, and features influence the audience, contribute to the text’s accessibility, and support the text’s purpose.",
+      "know": [
+        "The official expectation focuses on: Describe, analyze, and evaluate the design and organization of the text, explaining how specific formats, structures, patterns, and features influence the audience, contribute to the text’s accessibility, and support the text’s purpose.",
+        "Organization, headings, whitespace, and multimodal design affect access"
+      ],
+      "understand": [
+        "Writers make connected choices about content, language, sentence structure, and design."
+      ],
+      "do": [
+        "Describe, analyze, and evaluate the design and organization of the text, explaining how specific formats, structures, patterns, and features influence the audience, contribute to the text’s accessibility, and support the text’s purpose.",
+        "Use evidence from a text or original composition to demonstrate the move."
+      ],
+      "targets": [
+        "Explain and demonstrate evaluate design, organization, and accessibility using a grade-appropriate text.",
+        "Justify choices with context, evidence, and purpose."
+      ],
+      "instruction": [
+        "Model evaluate design, organization, and accessibility with an authentic mentor excerpt.",
+        "Think aloud about the reasoning, not just the label; have students compare a weak and strong response.",
+        "Release responsibility through a short independent transfer task."
+      ],
+      "evidence": [
+        "Annotated example and explanation demonstrating evaluate design, organization, and accessibility.",
+        "Independent application or revision with a brief rationale."
+      ],
+      "watchFor": [
+        "Device naming without explaining meaning or effect.",
+        "Overgeneralizing from a single word without context."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
   ]
 }
