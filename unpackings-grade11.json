@@ -5988,5 +5988,801 @@
     "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability.",
     "status": "draft — independently developed instructional guidance; educator review recommended"
   }
+    ,
+{
+  "code": "11.L.GC.2",
+  "focus": "Syntax",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "studentFriendly": "I can explain how sentence structures shape meaning, revise my sentences for rhythm and clarity, and make intentional choices about parallelism, voice, tense, and detail.",
+  "know": [
+    "Syntax describes the arrangement and relationship of words, phrases, and clauses.",
+    "Parallel structure uses matching grammatical forms for coordinated ideas.",
+    "Verb tense, aspect, and mood convey time, completion, and stance.",
+    "Active and passive voice direct readers’ attention differently.",
+    "Elaboration adds purposeful details rather than length for its own sake."
+  ],
+  "understand": [
+    "A syntactic choice changes emphasis, pace, tone, and what readers notice.",
+    "Consistency supports coherence, but deliberate departures may create meaning.",
+    "Parallelism works within sentences and across paragraphs or sections."
+  ],
+  "do": [
+    "Annotate sentence patterns and explain their effects in a literary or informational excerpt.",
+    "Rewrite sentences using varied structures while preserving intended meaning.",
+    "Edit voice and verb forms according to audience, purpose, and discipline.",
+    "Revise a paragraph using purposeful elaboration and cross-paragraph parallelism."
+  ],
+  "vocabulary": [
+    {
+      "term": "syntax",
+      "definition": "The arrangement of words and clauses into sentences.",
+      "example": "A short independent clause can create urgency."
+    },
+    {
+      "term": "parallel structure",
+      "definition": "Matching grammatical forms for ideas with equivalent roles.",
+      "example": "The speaker came to listen, to learn, and to lead."
+    },
+    {
+      "term": "independent clause",
+      "definition": "A subject-and-verb unit that can stand alone.",
+      "example": "The audience waited."
+    },
+    {
+      "term": "subordinate clause",
+      "definition": "A clause that depends on another clause to form a complete sentence.",
+      "example": "Although the audience waited, the speaker continued."
+    },
+    {
+      "term": "active voice",
+      "definition": "A construction in which the grammatical subject performs the action.",
+      "example": "The committee revised the policy."
+    },
+    {
+      "term": "passive voice",
+      "definition": "A construction in which the subject receives the action.",
+      "example": "The policy was revised by the committee."
+    },
+    {
+      "term": "verb aspect",
+      "definition": "A verb feature indicating how an action unfolds or is completed.",
+      "example": "She has been studying."
+    },
+    {
+      "term": "verb mood",
+      "definition": "A verb form expressing statement, command, possibility, or hypothetical meaning.",
+      "example": "If I were the editor, I would shorten this."
+    },
+    {
+      "term": "periodic sentence",
+      "definition": "A sentence that delays its main clause or point.",
+      "example": "After a long debate and several revisions, the board voted."
+    },
+    {
+      "term": "elaboration",
+      "definition": "Relevant detail that develops an idea for readers.",
+      "example": "Name the specific evidence and explain its significance."
+    }
+  ],
+  "targets": [
+    "I can identify parallelism and explain its rhetorical effect.",
+    "I can deliberately vary sentence length and structure.",
+    "I can maintain appropriate tense, aspect, mood, and voice.",
+    "I can elaborate without obscuring the main idea.",
+    "I can build parallel patterns across paragraphs."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Ain’t I a Woman?",
+      "author": "Sojourner Truth (versions attributed to her)",
+      "genre": "historical speech",
+      "purpose": "Compare published versions and analyze repeated syntactic patterns.",
+      "access": "Use a reliable historical archive; explain that versions differ and should not be treated as a single verbatim transcript.",
+      "readingTime": "10–15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "Repetition transforms a question into a challenge.",
+      "teachingPrompt": "How do parallel questions shape the audience’s response?",
+      "alignment": [
+        "11.L.GC.2.a",
+        "11.L.GC.2.e"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "speech",
+      "purpose": "Analyze balance, parallelism, and sentence length in public rhetoric.",
+      "access": "National Archives or Library of Congress transcript.",
+      "readingTime": "10 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "A brief speech has a carefully engineered rhythm.",
+      "teachingPrompt": "Mark three coordinated phrases and describe their effect.",
+      "alignment": [
+        "11.L.GC.2.a",
+        "11.L.GC.2.e"
+      ]
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "short story",
+      "purpose": "Examine sentence length and subordinate clauses during shifts in perception.",
+      "access": "Public-domain text through Project Gutenberg.",
+      "readingTime": "20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "A single hour changes how the protagonist sees her life.",
+      "teachingPrompt": "Where does the prose slow or accelerate, and why?",
+      "alignment": [
+        "11.L.GC.2.a",
+        "11.L.GC.2.b"
+      ]
+    },
+    {
+      "title": "Letter from Birmingham Jail (excerpt)",
+      "author": "Martin Luther King Jr.",
+      "genre": "argumentative letter",
+      "purpose": "Study deliberate accumulation, parallel structures, and rhetorical emphasis.",
+      "access": "Use an authorized excerpt via a licensed classroom resource.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "The writer answers critics through powerful syntax.",
+      "teachingPrompt": "What changes if a long cumulative sentence becomes three short sentences?",
+      "alignment": [
+        "11.L.GC.2.a",
+        "11.L.GC.2.d",
+        "11.L.GC.2.e"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks (excerpt)",
+      "author": "Rebecca Skloot",
+      "genre": "narrative nonfiction",
+      "purpose": "Compare elaboration and passive constructions in scientific storytelling.",
+      "access": "School-library or licensed excerpt; contextualize medical ethics.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "Who is named as an actor in a scientific story?",
+      "teachingPrompt": "How does changing passive to active voice alter responsibility?",
+      "alignment": [
+        "11.L.GC.2.c",
+        "11.L.GC.2.d"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story (transcript excerpt)",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "TED talk transcript",
+      "purpose": "Analyze purposeful repetition, contrast, and sentence pacing.",
+      "access": "Use official TED transcript with attribution and appropriate classroom access.",
+      "readingTime": "15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "One repeated phrase changes the central argument.",
+      "teachingPrompt": "Identify a repeated structure and revise it without repetition; compare the effect.",
+      "alignment": [
+        "11.L.GC.2.a",
+        "11.L.GC.2.b",
+        "11.L.GC.2.e"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Sentence surgery",
+      "activity": "Give students a color-coded paragraph with run-ons, mismatched parallel lists, and tense shifts. Model one correction; partners revise and orally explain the meaning preserved.",
+      "materials": [
+        "Color-coded sentence strips",
+        "Editing checklist"
+      ],
+      "scaffolds": [
+        "Provide parallel-form sentence frames",
+        "Limit initial choices to two alternatives"
+      ],
+      "success": "Student corrects four of five targeted errors and explains one effect.",
+      "alignment": [
+        "11.L.GC.2.a",
+        "11.L.GC.2.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "One claim, three syntactic designs",
+      "activity": "Students write a claim and evidence paragraph, then create versions for a formal report, an advocacy speech, and a narrative reflection. Annotate changes to voice, pacing, and elaboration.",
+      "materials": [
+        "Short source excerpt",
+        "Audience cards",
+        "Revision log"
+      ],
+      "scaffolds": [
+        "Use a voice-and-purpose decision chart",
+        "Peer-conference before final revision"
+      ],
+      "success": "Three versions preserve the claim and each includes an explained, purposeful syntactic choice.",
+      "alignment": [
+        "11.L.GC.2.b",
+        "11.L.GC.2.c",
+        "11.L.GC.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "50 minutes",
+      "title": "Architecture across paragraphs",
+      "activity": "Analyze parallel structures across sections of a public speech or essay. Compose a three-paragraph response with intentionally mirrored openings and a deliberate break in pattern; justify the break.",
+      "materials": [
+        "Mentor speech",
+        "Annotation key",
+        "Writer’s memo template"
+      ],
+      "scaffolds": [
+        "Compare a version with and without the pattern",
+        "Invite counterarguments to the design"
+      ],
+      "success": "Writer’s memo identifies the parallel pattern and connects it to audience impact.",
+      "alignment": [
+        "11.L.GC.2.a",
+        "11.L.GC.2.e"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "Which revision best preserves parallel structure in “The project requires gathering evidence, to interview witnesses, and a written summary”?",
+      "answer": "Gathering evidence, interviewing witnesses, and writing a summary.",
+      "rationale": "All three items use matching gerund phrases.",
+      "alignment": [
+        "11.L.GC.2.a",
+        "11.L.GC.2.e"
+      ],
+      "options": [
+        "Gathering evidence, interviewing witnesses, and writing a summary.",
+        "To gather evidence, interviewing witnesses, and a summary.",
+        "Evidence gathering, to interview witnesses, and writing a summary.",
+        "Gathering evidence, witnesses are interviewed, and a summary."
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Compare “The results were altered” and “The research team altered the results.” Explain when each voice might be appropriate.",
+      "answer": "A strong response explains that passive voice foregrounds results or omits the actor, while active voice names responsibility; appropriateness depends on purpose and evidence.",
+      "rationale": "Evaluate the rhetorical choice, not a blanket rule that passive voice is always wrong.",
+      "alignment": [
+        "11.L.GC.2.c"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Revise a 150-word paragraph to improve sentence variation, purposeful detail, and cross-paragraph parallelism; attach a four-sentence writer’s memo.",
+      "answer": "Score for preserved meaning, deliberate sentence structures, consistent verb forms, useful elaboration, and an accurate rationale.",
+      "rationale": "Revision and explanation together demonstrate transfer.",
+      "alignment": [
+        "11.L.GC.2.b",
+        "11.L.GC.2.d",
+        "11.L.GC.2.e"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated mentor passage linking a syntax choice to a specific effect.",
+    "Before-and-after paragraph with highlighted edits and rationale.",
+    "Consistent verb forms and voice choices in a polished text.",
+    "Parallel paragraph openings that serve a stated purpose."
+  ],
+  "instruction": [
+    "Model how syntax influences meaning before asking students to correct errors.",
+    "Teach sentence combining and sentence decombining with a meaning-preservation check.",
+    "Compare active and passive constructions in authentic disciplinary texts.",
+    "Use a revision log: original, revised, intended effect, audience.",
+    "Teach parallelism at sentence and paragraph levels."
+  ],
+  "watchFor": [
+    "Mechanical variation that makes a sentence harder to understand.",
+    "Unintentional tense or mood shifts.",
+    "Treating passive voice as universally incorrect.",
+    "Added details that are vivid but irrelevant.",
+    "Parallel phrasing that obscures meaningful distinctions."
+  ],
+  "skills": {
+    "11.L.GC.2.a": {
+      "focus": "Analyzing syntax and parallel structure",
+      "studentFriendly": "I can analyze how sentence patterns and parallelism affect meaning.",
+      "know": [
+        "Independent/dependent clauses",
+        "Parallel form"
+      ],
+      "understand": [
+        "Structure influences emphasis and readability."
+      ],
+      "do": [
+        "Annotate and evaluate patterns in two texts."
+      ],
+      "targets": [
+        "I can explain the effect of a parallel phrase using evidence."
+      ],
+      "instruction": [
+        "Compare paired sentences with and without parallelism."
+      ],
+      "evidence": [
+        "Annotated analysis cites wording and rhetorical effect."
+      ],
+      "watchFor": [
+        "Naming the device without explaining its effect."
+      ],
+      "officialWording": "Apply understandings of syntax to comprehend, analyze, and evaluate a wide variety of texts, including evaluating instances of parallel structure. (I)"
+    },
+    "11.L.GC.2.b": {
+      "focus": "Crafting varied syntax and consistent verb forms",
+      "studentFriendly": "I can vary sentences while keeping tense, aspect, and mood consistent.",
+      "know": [
+        "Sentence types",
+        "Tense, aspect, and mood"
+      ],
+      "understand": [
+        "Variation should serve a deliberate stylistic purpose."
+      ],
+      "do": [
+        "Combine, split, and reorder sentences."
+      ],
+      "targets": [
+        "I can justify two revisions for audience and effect."
+      ],
+      "instruction": [
+        "Use a before/after revision chart and verb-form audit."
+      ],
+      "evidence": [
+        "Polished paragraph plus two written explanations."
+      ],
+      "watchFor": [
+        "Random sentence variation or unintended shifts."
+      ],
+      "officialWording": "Compose texts with varied syntax, reshaping sentences for style and effect while maintaining consistency of verb tenses, aspects, and moods. (C)"
+    },
+    "11.L.GC.2.c": {
+      "focus": "Choosing active or passive voice",
+      "studentFriendly": "I can choose and sustain a voice appropriate for my purpose and discipline.",
+      "know": [
+        "Active and passive constructions"
+      ],
+      "understand": [
+        "Voice controls which agent or action is foregrounded."
+      ],
+      "do": [
+        "Compare disciplinary examples and revise a passage."
+      ],
+      "targets": [
+        "I can explain when passive voice is useful."
+      ],
+      "instruction": [
+        "Contrast a scientific methods paragraph and a civic accountability report."
+      ],
+      "evidence": [
+        "Consistent voice with a purpose-based rationale."
+      ],
+      "watchFor": [
+        "Assuming passive voice is always an error."
+      ],
+      "officialWording": "Maintain consistent use of active or passive voice throughout a text, as determined by the purpose, audience, and discipline. (C)"
+    },
+    "11.L.GC.2.d": {
+      "focus": "Elaborating ideas with purposeful detail",
+      "studentFriendly": "I can expand ideas with details that help my audience understand.",
+      "know": [
+        "Relevant examples",
+        "Explanatory detail"
+      ],
+      "understand": [
+        "Useful elaboration develops, rather than merely lengthens, an idea."
+      ],
+      "do": [
+        "Add concrete evidence and explanation to a thin paragraph."
+      ],
+      "targets": [
+        "I can connect each added detail to a claim."
+      ],
+      "instruction": [
+        "Use a claim-evidence-explanation ladder and delete irrelevant additions."
+      ],
+      "evidence": [
+        "Revised paragraph with relevant, explained details."
+      ],
+      "watchFor": [
+        "Stacking adjectives or facts without explaining significance."
+      ],
+      "officialWording": "Expand and enrich ideas and information, incorporating details and descriptions to achieve specific purposes and facilitate engagement. (C)"
+    },
+    "11.L.GC.2.e": {
+      "focus": "Parallel structure across paragraphs",
+      "studentFriendly": "I can create and revise parallel patterns across sections to connect ideas.",
+      "know": [
+        "Parallel openings",
+        "Section-level symmetry"
+      ],
+      "understand": [
+        "Recurring structure can unify a multi-paragraph argument."
+      ],
+      "do": [
+        "Draft two or three parallel section openings."
+      ],
+      "targets": [
+        "I can explain how the structure helps readers compare ideas."
+      ],
+      "instruction": [
+        "Analyze mirrored paragraphs in speeches, then imitate and adapt."
+      ],
+      "evidence": [
+        "Multi-paragraph draft and structural annotation."
+      ],
+      "watchFor": [
+        "Forcing identical patterns where ideas are not equivalent."
+      ],
+      "officialWording": "Use and revise parallel structure across paragraphs or sections to create symmetry and convey a congruence of ideas. (C)"
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "11.L.V.1",
+  "focus": "General, Academic, & Specialized Vocabulary",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "studentFriendly": "I can learn precise words from texts and conversations, then choose vocabulary that fits the topic, audience, and setting.",
+  "know": [
+    "General vocabulary is widely used; academic vocabulary crosses disciplines; specialized terms belong to particular fields.",
+    "A term’s meaning and appropriateness depend on context, register, and discipline.",
+    "Morphology, context, and reference tools support independent vocabulary learning.",
+    "Precision requires using terms accurately, not merely using difficult words."
+  ],
+  "understand": [
+    "Vocabulary growth is cumulative and requires meaningful encounters and use.",
+    "A word appropriate for a laboratory report may need definition or translation for a public audience.",
+    "Precise language improves reasoning, collaboration, and credibility."
+  ],
+  "do": [
+    "Collect unfamiliar words from varied grade-level sources and verify meanings.",
+    "Classify terms by context and discipline, noting multiple meanings.",
+    "Use new words accurately in explanations, discussion, and professional communication.",
+    "Revise a technical passage for a different audience without distorting meaning."
+  ],
+  "vocabulary": [
+    {
+      "term": "general vocabulary",
+      "definition": "Words used across everyday situations.",
+      "example": "Discuss, revise, and evidence are common outside one specialty."
+    },
+    {
+      "term": "academic vocabulary",
+      "definition": "Words used across school subjects and analytical work.",
+      "example": "Interpret, infer, and evaluate."
+    },
+    {
+      "term": "disciplinary vocabulary",
+      "definition": "Terms used with specific meanings in a subject.",
+      "example": "Theme in literature; variable in mathematics."
+    },
+    {
+      "term": "technical vocabulary",
+      "definition": "Terms naming specialized tools, processes, or systems.",
+      "example": "Polymerase chain reaction in biotechnology."
+    },
+    {
+      "term": "register",
+      "definition": "Language choices suited to a social or professional setting.",
+      "example": "A lab report uses a more formal register than a text to a friend."
+    },
+    {
+      "term": "connotation",
+      "definition": "Associations a word carries beyond its literal meaning.",
+      "example": "Assertive and aggressive suggest different judgments."
+    },
+    {
+      "term": "morphology",
+      "definition": "Study of meaningful word parts.",
+      "example": "Bio- means life; -logy refers to study."
+    },
+    {
+      "term": "collocation",
+      "definition": "Words that conventionally occur together.",
+      "example": "Draw a conclusion, not make a conclusion in many academic contexts."
+    },
+    {
+      "term": "precision",
+      "definition": "Choosing language that conveys the intended meaning exactly.",
+      "example": "Specify correlation instead of saying proof when causation is not established."
+    },
+    {
+      "term": "audience adaptation",
+      "definition": "Adjusting explanations and vocabulary for readers or listeners.",
+      "example": "Define a specialist term in a public health flyer."
+    }
+  ],
+  "targets": [
+    "I can infer and verify unfamiliar words in context.",
+    "I can distinguish everyday, academic, and specialized uses.",
+    "I can apply new words correctly in speaking and writing.",
+    "I can adjust vocabulary and explanations for a new audience."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks (excerpt)",
+      "author": "Rebecca Skloot",
+      "genre": "science narrative nonfiction",
+      "purpose": "Track specialized scientific terms and how the author explains them to general readers.",
+      "access": "Licensed classroom or library excerpt.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "Scientific vocabulary is tied to a person’s story.",
+      "teachingPrompt": "Which terms are defined, contextualized, or left for readers to infer?",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story (transcript excerpt)",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "public talk",
+      "purpose": "Examine abstract academic terms alongside accessible everyday language.",
+      "access": "Official TED transcript.",
+      "readingTime": "15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "How can an idea be intellectually complex yet widely understandable?",
+      "teachingPrompt": "Replace three general words with more precise alternatives without changing the register.",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    },
+    {
+      "title": "NASA climate science explainer (current article)",
+      "author": "NASA",
+      "genre": "scientific informational article",
+      "purpose": "Distinguish specialized scientific vocabulary from broad academic language.",
+      "access": "NASA official education or science website; choose an age-appropriate current page.",
+      "readingTime": "15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "A common word such as model has a specialized scientific use.",
+      "teachingPrompt": "Build a glossary with technical definitions and public-facing paraphrases.",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    },
+    {
+      "title": "Federal Reserve educational explainer on inflation",
+      "author": "Federal Reserve Education",
+      "genre": "economics informational article",
+      "purpose": "Analyze terms whose technical meanings differ from everyday usage.",
+      "access": "Federal Reserve education website; verify current access.",
+      "readingTime": "15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "Words such as inflation and rate influence real-world decisions.",
+      "teachingPrompt": "Explain two economics terms for a family newsletter.",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    },
+    {
+      "title": "A Modest Proposal (excerpt)",
+      "author": "Jonathan Swift",
+      "genre": "satirical essay",
+      "purpose": "Study how seemingly neutral economic vocabulary functions ironically.",
+      "access": "Public-domain text; provide historical and content context for disturbing satire.",
+      "readingTime": "15–20 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "Formal vocabulary can conceal an outrageous argument.",
+      "teachingPrompt": "How does the specialized register contribute to satire?",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    },
+    {
+      "title": "A local job posting and professional email sample",
+      "author": "Authentic employer posting and teacher-created model",
+      "genre": "workplace documents",
+      "purpose": "Compare job-specific terminology and adjust word choice for professional communication.",
+      "access": "Use a publicly available job posting; remove personal details and use teacher-created email.",
+      "readingTime": "15 minutes",
+      "highInterest": true,
+      "accessibility": "Provide a short excerpt, read-aloud, or annotated copy when needed.",
+      "interestHook": "Vocabulary changes between an application and a conversation.",
+      "teachingPrompt": "Rewrite a casual inquiry as a precise professional email.",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25 minutes",
+      "title": "Context-to-definition ladder",
+      "activity": "Students identify six words in a short disciplinary passage, mark context clues, sort general/academic/specialized terms, verify meanings, and write a sentence for each.",
+      "materials": [
+        "Short annotated passage",
+        "Vocabulary sort cards",
+        "Dictionary access"
+      ],
+      "scaffolds": [
+        "Preteach two high-utility words",
+        "Provide morphology hints and sentence frames"
+      ],
+      "success": "At least five of six words are defined and used appropriately.",
+      "alignment": [
+        "11.L.V.1.a"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40 minutes",
+      "title": "Two audiences, one concept",
+      "activity": "Students read a science or economics explainer, collect eight terms, then write a 150-word specialist summary and a 150-word public-facing explanation with definitions.",
+      "materials": [
+        "Two authentic mentor excerpts",
+        "Audience profiles",
+        "Revision checklist"
+      ],
+      "scaffolds": [
+        "Model a technical-to-public rewrite",
+        "Require a glossary with citations to the source"
+      ],
+      "success": "Both versions are accurate and appropriately precise for their audiences.",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "45 minutes",
+      "title": "Disciplinary translation lab",
+      "activity": "Pairs investigate a word with different meanings in two disciplines, interview or consult credible discipline-specific sources, and build a brief multimedia explainer with examples and nonexamples.",
+      "materials": [
+        "Reference databases",
+        "Discipline glossaries",
+        "Presentation template"
+      ],
+      "scaffolds": [
+        "Require source notes for each definition",
+        "Peer review for misleading simplifications"
+      ],
+      "success": "Explainer accurately distinguishes meanings and anticipates novice misconceptions.",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Multiple Choice",
+      "prompt": "In a scientific article, what is the strongest first step when the word “model” seems to mean something different from everyday usage?",
+      "answer": "Use context to infer its disciplinary meaning, then verify with a reliable scientific reference.",
+      "rationale": "Disciplinary context determines meaning; a familiar everyday definition may mislead.",
+      "alignment": [
+        "11.L.V.1.a"
+      ],
+      "options": [
+        "Use context to infer its disciplinary meaning, then verify with a reliable scientific reference.",
+        "Assume it means a person who poses for photographs.",
+        "Skip the term because technical words are unnecessary.",
+        "Replace every instance with the word example."
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "Explain how you would define “correlation” for an eleventh-grade statistics class and then for a community newsletter.",
+      "answer": "A strong response defines a relationship between variables without claiming causation, then adjusts examples and terminology for each audience.",
+      "rationale": "Assess both conceptual accuracy and audience-appropriate register.",
+      "alignment": [
+        "11.L.V.1.b"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Choose a short disciplinary text. Create an eight-term annotated glossary and a 200-word explanation for an audience outside that discipline.",
+      "answer": "Score correct meanings, contextual evidence, precise use, appropriate register, and clear definitions of specialized terms.",
+      "rationale": "The product shows acquisition and purposeful application of vocabulary.",
+      "alignment": [
+        "11.L.V.1.a",
+        "11.L.V.1.b"
+      ]
+    }
+  ],
+  "evidence": [
+    "Source-based glossary with context, verification, and original examples.",
+    "Correct specialized terminology in a short disciplinary explanation.",
+    "Two versions of the same message adapted to distinct audiences.",
+    "Reflection explaining why three vocabulary choices changed."
+  ],
+  "instruction": [
+    "Teach word-learning routines with authentic disciplinary texts rather than isolated memorization.",
+    "Model how one word shifts meaning across subjects.",
+    "Require students to use new words in speech and writing after reading.",
+    "Compare technical and public-facing communication for precision and accessibility.",
+    "Use credible dictionaries, glossaries, and primary disciplinary sources to verify definitions."
+  ],
+  "watchFor": [
+    "Equating advanced vocabulary with effective communication.",
+    "Using a correct dictionary definition in the wrong disciplinary context.",
+    "Overloading a public-facing text with unexplained jargon.",
+    "Misusing related terms such as correlation and causation.",
+    "Treating vocabulary study as a one-time quiz rather than repeated use."
+  ],
+  "skills": {
+    "11.L.V.1.a": {
+      "focus": "Acquiring vocabulary from varied texts",
+      "studentFriendly": "I can learn and verify general, academic, and specialized vocabulary in print, digital, and multimodal texts.",
+      "know": [
+        "Context clues",
+        "Morphology",
+        "Reliable reference sources"
+      ],
+      "understand": [
+        "Different disciplines can assign different meanings to familiar words."
+      ],
+      "do": [
+        "Record words, infer meanings, verify, and reuse them."
+      ],
+      "targets": [
+        "I can explain and correctly use new words from two disciplines."
+      ],
+      "instruction": [
+        "Model a vocabulary log with context quotation, inference, verified meaning, and example."
+      ],
+      "evidence": [
+        "Eight-term annotated vocabulary log using credible sources."
+      ],
+      "watchFor": [
+        "Copying definitions without interpreting context."
+      ],
+      "officialWording": "Acquire a range of general, academic, disciplinary, technical, and professional vocabulary through grade-level print, digital, and/or multimodal texts or content. (I)"
+    },
+    "11.L.V.1.b": {
+      "focus": "Using precise vocabulary for context and audience",
+      "studentFriendly": "I can select and explain vocabulary that fits a professional, academic, or public audience.",
+      "know": [
+        "Register",
+        "Disciplinary precision",
+        "Audience needs"
+      ],
+      "understand": [
+        "Precision and accessibility are complementary, not competing, goals."
+      ],
+      "do": [
+        "Rewrite a message for two settings and explain choices."
+      ],
+      "targets": [
+        "I can justify three audience-based vocabulary decisions."
+      ],
+      "instruction": [
+        "Use paired professional and public explanations; peer test for clarity and accuracy."
+      ],
+      "evidence": [
+        "Two accurate audience-adapted versions and a rationale."
+      ],
+      "watchFor": [
+        "Unexplained jargon or oversimplification that changes meaning."
+      ],
+      "officialWording": "Use grade-level general, academic, disciplinary, technical, and professional vocabulary to communicate clearly and precisely, adjusting style as appropriate in a variety of settings. (C)"
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
   ]
 }
