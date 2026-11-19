@@ -5623,6 +5623,1020 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age-appropriate context before assigning."
 }
+    ,
+{
+  "code": "12.L.V.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "General, Academic, & Specialized Vocabulary",
+  "officialStandard": "**General, Academic, & Specialized Vocabulary** Use expanding vocabulary knowledge to interpret texts and to craft effective communications across a wide variety of real-life, academic, disciplinary, technical, and professional contexts.",
+  "studentFriendly": "I can learn specialized vocabulary from complex sources and choose accurate language for academic, workplace, and public audiences.",
+  "know": [
+    "register",
+    "disciplinary vocabulary",
+    "technical terminology",
+    "academic vocabulary",
+    "precision",
+    "collocation",
+    "audience",
+    "context clues"
+  ],
+  "understand": [
+    "A term may carry a specialized meaning within a discipline that differs from everyday use.",
+    "Precision and accessibility must be balanced for the reader or listener.",
+    "Vocabulary grows through repeated, purposeful use in authentic contexts."
+  ],
+  "do": [
+    "Build and verify a discipline-specific lexicon from credible sources.",
+    "Translate a technical explanation into accessible language without distorting meaning.",
+    "Choose precise terminology for a professional audience and explain the choices."
+  ],
+  "vocabulary": [
+    {
+      "term": "register",
+      "definition": "The level and style of language suited to a particular situation and audience.",
+      "example": "Locate or apply “register” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "disciplinary vocabulary",
+      "definition": "Terms with specific meanings within a field of study.",
+      "example": "Locate or apply “disciplinary vocabulary” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "technical terminology",
+      "definition": "Specialized labels for tools, methods, or concepts in a profession.",
+      "example": "Locate or apply “technical terminology” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "academic vocabulary",
+      "definition": "Cross-disciplinary language used to explain and evaluate ideas.",
+      "example": "Locate or apply “academic vocabulary” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "precision",
+      "definition": "The quality of conveying an exact intended meaning.",
+      "example": "Locate or apply “precision” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "collocation",
+      "definition": "Words that commonly occur together in conventional usage.",
+      "example": "Locate or apply “collocation” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "audience",
+      "definition": "The people a communication is designed to reach.",
+      "example": "Locate or apply “audience” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "context clues",
+      "definition": "Information around a term that helps establish its meaning.",
+      "example": "Locate or apply “context clues” in a passage and justify the interpretation using context."
+    }
+  ],
+  "targets": [
+    "I can build and verify a discipline-specific lexicon from credible sources.",
+    "I can translate a technical explanation into accessible language without distorting meaning.",
+    "I can choose precise terminology for a professional audience and explain the choices."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Literary nonfiction",
+      "purpose": "Contrast medical terminology with explanations written for general readers.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "genre": "Science nonfiction",
+      "purpose": "Trace disciplinary vocabulary in environmental reporting.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "The Federalist No. 10",
+      "author": "James Madison",
+      "genre": "Political essay",
+      "purpose": "Explore how civic vocabulary shapes a formal argument.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "The Code Breaker",
+      "author": "Walter Isaacson",
+      "genre": "Science biography",
+      "purpose": "Compare specialized genetics terminology with explanatory context.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "genre": "Popular science",
+      "purpose": "Study strategies for explaining technical concepts to nonexperts.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "A current peer-reviewed abstract in a student-selected discipline",
+      "author": "Various scholars",
+      "genre": "Research abstract",
+      "purpose": "Identify and accurately define terms used by specialists.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "25 minutes",
+      "title": "Vocabulary field guide — remediation",
+      "activity": "Explain five essential terms from a short, annotated source using a provided glossary and sentence frames.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Model and word bank",
+      "success": "Collect twelve terms from two credible texts in one field; quote context, explain each term accurately, and note where meanings shift across audiences.",
+      "alignment": [
+        "12.L.V.1.a",
+        "12.L.V.1.b"
+      ]
+    },
+    {
+      "level": "on-level",
+      "time": "40 minutes",
+      "title": "Vocabulary field guide — on-level",
+      "activity": "Annotate a technical passage, check definitions against a discipline-specific glossary, and build a field guide with contextual examples.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Peer feedback and source checklist",
+      "success": "Collect twelve terms from two credible texts in one field; quote context, explain each term accurately, and note where meanings shift across audiences.",
+      "alignment": [
+        "12.L.V.1.a",
+        "12.L.V.1.b"
+      ]
+    },
+    {
+      "level": "enrichment",
+      "time": "50 minutes",
+      "title": "Vocabulary field guide — enrichment",
+      "activity": "Compare how two disciplines use the same term differently; interview a practitioner or review an expert publication and defend translation choices.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Independent source evaluation and authentic audience",
+      "success": "Collect twelve terms from two credible texts in one field; quote context, explain each term accurately, and note where meanings shift across audiences.",
+      "alignment": [
+        "12.L.V.1.a",
+        "12.L.V.1.b"
+      ]
+    },
+    {
+      "level": "remediation",
+      "time": "25 minutes",
+      "title": "Audience-specific communication — remediation",
+      "activity": "Use a two-column vocabulary bank and audience checklist to revise a model explanation for clarity.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Model and word bank",
+      "success": "Explain one disciplinary concept to a specialist and to a community audience, preserving accuracy in both versions.",
+      "alignment": [
+        "12.L.V.1.a",
+        "12.L.V.1.b"
+      ]
+    },
+    {
+      "level": "on-level",
+      "time": "40 minutes",
+      "title": "Audience-specific communication — on-level",
+      "activity": "Draft a professional abstract and a 200-word public explanation, then annotate eight intentional vocabulary choices.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Peer feedback and source checklist",
+      "success": "Explain one disciplinary concept to a specialist and to a community audience, preserving accuracy in both versions.",
+      "alignment": [
+        "12.L.V.1.a",
+        "12.L.V.1.b"
+      ]
+    },
+    {
+      "level": "enrichment",
+      "time": "50 minutes",
+      "title": "Audience-specific communication — enrichment",
+      "activity": "Test both drafts with readers, document misunderstandings, and revise based on evidence.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Independent source evaluation and authentic audience",
+      "success": "Explain one disciplinary concept to a specialist and to a community audience, preserving accuracy in both versions.",
+      "alignment": [
+        "12.L.V.1.a",
+        "12.L.V.1.b"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can collect words from substantive print, digital, and multimodal disciplinary sources. Support your explanation with specific language evidence.",
+      "answer": "A sourced vocabulary notebook showing accurate domain-specific meanings.",
+      "rationale": "Use an evidence log with source quotation, contextual meaning, verified definition, and an original example.",
+      "alignment": [
+        "12.L.V.1.a"
+      ]
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can adapt specialized language to the needs of academic, technical, and public audiences. Support your explanation with specific language evidence.",
+      "answer": "Two versions that remain accurate while differing appropriately in diction and explanation.",
+      "rationale": "Revise one explanation for two audiences and annotate decisions about terminology, register, and necessary definitions.",
+      "alignment": [
+        "12.L.V.1.b"
+      ]
+    },
+    {
+      "type": "transfer task",
+      "prompt": "Create or revise a 200–300 word text for a specified audience, applying general, academic, & specialized vocabulary. Annotate three consequential choices and cite references used to verify them.",
+      "answer": "The response shows accurate vocabulary and meaning, deliberate adaptation to audience, specific annotation, and traceable verification.",
+      "rationale": "Authentic production tests transfer beyond recognition in a multiple-choice item.",
+      "alignment": [
+        "12.L.V.1.a",
+        "12.L.V.1.b"
+      ]
+    }
+  ],
+  "evidence": [
+    "A close-reading annotation with precise citations to words or passages.",
+    "An original communication or revision demonstrating transfer to a specified audience.",
+    "A brief reflection explaining how verified language choices serve meaning and purpose."
+  ],
+  "instruction": [
+    "Begin with a short authentic mentor excerpt and an explicit think-aloud.",
+    "Have students test language hypotheses against syntax, context, and reputable references.",
+    "Use partner comparison, independent revision, and evidence-based feedback before assessing transfer."
+  ],
+  "watchFor": [
+    "Do not substitute word lists for authentic reading, writing, and speaking contexts.",
+    "Teach the difference between plausible inference and verified meaning.",
+    "Do not represent the suggested instructional activities as official Georgia Department of Education guidance."
+  ],
+  "skills": {
+    "12.L.V.1.a": {
+      "focus": "Vocabulary acquisition",
+      "studentFriendly": "I can collect words from substantive print, digital, and multimodal disciplinary sources.",
+      "know": [
+        "register",
+        "disciplinary vocabulary"
+      ],
+      "understand": [
+        "A term may carry a specialized meaning within a discipline that differs from everyday use."
+      ],
+      "do": [
+        "Collect words from substantive print, digital, and multimodal disciplinary sources."
+      ],
+      "targets": [
+        "I can collect words from substantive print, digital, and multimodal disciplinary sources."
+      ],
+      "instruction": "Use an evidence log with source quotation, contextual meaning, verified definition, and an original example.",
+      "evidence": "A sourced vocabulary notebook showing accurate domain-specific meanings.",
+      "watchFor": "Treating an isolated dictionary definition as sufficient without reading its context."
+    },
+    "12.L.V.1.b": {
+      "focus": "Precise communication",
+      "studentFriendly": "I can adapt specialized language to the needs of academic, technical, and public audiences.",
+      "know": [
+        "register",
+        "disciplinary vocabulary"
+      ],
+      "understand": [
+        "A term may carry a specialized meaning within a discipline that differs from everyday use."
+      ],
+      "do": [
+        "Adapt specialized language to the needs of academic, technical, and public audiences."
+      ],
+      "targets": [
+        "I can adapt specialized language to the needs of academic, technical, and public audiences."
+      ],
+      "instruction": "Revise one explanation for two audiences and annotate decisions about terminology, register, and necessary definitions.",
+      "evidence": "Two versions that remain accurate while differing appropriately in diction and explanation.",
+      "watchFor": "Replacing accurate technical language with vague everyday words or overwhelming lay readers with jargon."
+    }
+  },
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+},
+{
+  "code": "12.L.V.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Word Analysis",
+  "officialStandard": "**Word Analysis** Use word knowledge and word analysis skills to determine the meaning of unfamiliar words and phrases and to communicate effectively for a variety of purposes.",
+  "studentFriendly": "I can analyze roots, affixes, grammatical functions, and context to interpret unfamiliar words and choose precise language in my own writing.",
+  "know": [
+    "etymology",
+    "Greek and Latin roots",
+    "prefix",
+    "suffix",
+    "morpheme",
+    "part of speech",
+    "syntactic function",
+    "word family"
+  ],
+  "understand": [
+    "A word’s history and parts offer hypotheses about meaning that must be tested against context.",
+    "A word’s grammatical role can change its meaning and the relationships it creates in a sentence.",
+    "Purposeful word formation and grammatical choices improve precision."
+  ],
+  "do": [
+    "Analyze an unfamiliar technical term using morphemes, etymology, and its sentence context.",
+    "Explain how a word’s grammatical function shapes meaning in two passages.",
+    "Create and correctly use derived words in a discipline-specific explanation."
+  ],
+  "vocabulary": [
+    {
+      "term": "etymology",
+      "definition": "The documented origin and historical development of a word.",
+      "example": "Locate or apply “etymology” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "Greek and Latin roots",
+      "definition": "Base elements from classical languages that contribute meaning to many English words.",
+      "example": "Locate or apply “Greek and Latin roots” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "prefix",
+      "definition": "An affix placed before a base or root.",
+      "example": "Locate or apply “prefix” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "suffix",
+      "definition": "An affix placed after a base or root.",
+      "example": "Locate or apply “suffix” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "morpheme",
+      "definition": "The smallest meaningful element in a word.",
+      "example": "Locate or apply “morpheme” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "part of speech",
+      "definition": "A grammatical category such as noun, verb, adjective, or adverb.",
+      "example": "Locate or apply “part of speech” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "syntactic function",
+      "definition": "The role a word or phrase plays in a sentence.",
+      "example": "Locate or apply “syntactic function” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "word family",
+      "definition": "A group of words sharing a base or root and related meanings.",
+      "example": "Locate or apply “word family” in a passage and justify the interpretation using context."
+    }
+  ],
+  "targets": [
+    "I can analyze an unfamiliar technical term using morphemes, etymology, and its sentence context.",
+    "I can explain how a word’s grammatical function shapes meaning in two passages.",
+    "I can create and correctly use derived words in a discipline-specific explanation."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Novel",
+      "purpose": "Analyze Latinate scientific diction and shifts in grammatical function.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "On the Origin of Species",
+      "author": "Charles Darwin",
+      "genre": "Scientific prose",
+      "purpose": "Examine technical word families and historical scientific vocabulary.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "The Souls of Black Folk",
+      "author": "W. E. B. Du Bois",
+      "genre": "Essays",
+      "purpose": "Study how abstract nouns and modifiers shape complex arguments.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "genre": "Environmental nonfiction",
+      "purpose": "Deconstruct specialized words in scientific explanation.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "A contemporary medical or engineering glossary",
+      "author": "Professional reference editors",
+      "genre": "Reference text",
+      "purpose": "Verify roots and precise meanings of discipline-specific terms.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "A current scientific news article and its source abstract",
+      "author": "Science journalists and researchers",
+      "genre": "Paired informational texts",
+      "purpose": "Compare how derived terms function in specialist and general prose.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "25 minutes",
+      "title": "Word detective portfolio — remediation",
+      "activity": "Use a teacher-selected passage, root bank, and worked example to analyze four terms with partners.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Model and word bank",
+      "success": "Investigate eight unfamiliar terms, documenting morphology, grammatical role, contextual meaning, and verification.",
+      "alignment": [
+        "12.L.V.2.a",
+        "12.L.V.2.b",
+        "12.L.V.2.c",
+        "12.L.V.2.d"
+      ]
+    },
+    {
+      "level": "on-level",
+      "time": "40 minutes",
+      "title": "Word detective portfolio — on-level",
+      "activity": "Annotate authentic passages; chart morphemes, possible meanings, and evidence that confirms or rejects each inference.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Peer feedback and source checklist",
+      "success": "Investigate eight unfamiliar terms, documenting morphology, grammatical role, contextual meaning, and verification.",
+      "alignment": [
+        "12.L.V.2.a",
+        "12.L.V.2.b",
+        "12.L.V.2.c",
+        "12.L.V.2.d"
+      ]
+    },
+    {
+      "level": "enrichment",
+      "time": "50 minutes",
+      "title": "Word detective portfolio — enrichment",
+      "activity": "Compare historical and modern uses of two terms using etymological references and explain semantic change.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Independent source evaluation and authentic audience",
+      "success": "Investigate eight unfamiliar terms, documenting morphology, grammatical role, contextual meaning, and verification.",
+      "alignment": [
+        "12.L.V.2.a",
+        "12.L.V.2.b",
+        "12.L.V.2.c",
+        "12.L.V.2.d"
+      ]
+    },
+    {
+      "level": "remediation",
+      "time": "25 minutes",
+      "title": "Precision through word formation — remediation",
+      "activity": "Use word-family cards and a parts-of-speech checklist to compose six accurate sentences.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Model and word bank",
+      "success": "Construct and revise a short disciplinary explanation using derived words and deliberate parts of speech.",
+      "alignment": [
+        "12.L.V.2.a",
+        "12.L.V.2.b",
+        "12.L.V.2.c",
+        "12.L.V.2.d"
+      ]
+    },
+    {
+      "level": "on-level",
+      "time": "40 minutes",
+      "title": "Precision through word formation — on-level",
+      "activity": "Create a 250-word explanation containing six verified derived forms; annotate grammatical functions and revise ambiguous diction.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Peer feedback and source checklist",
+      "success": "Construct and revise a short disciplinary explanation using derived words and deliberate parts of speech.",
+      "alignment": [
+        "12.L.V.2.a",
+        "12.L.V.2.b",
+        "12.L.V.2.c",
+        "12.L.V.2.d"
+      ]
+    },
+    {
+      "level": "enrichment",
+      "time": "50 minutes",
+      "title": "Precision through word formation — enrichment",
+      "activity": "Analyze how nominalization versus verb-centered syntax changes agency, clarity, and tone in two versions.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Independent source evaluation and authentic audience",
+      "success": "Construct and revise a short disciplinary explanation using derived words and deliberate parts of speech.",
+      "alignment": [
+        "12.L.V.2.a",
+        "12.L.V.2.b",
+        "12.L.V.2.c",
+        "12.L.V.2.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can break complex terms into meaningful elements and check the resulting inference against the passage. Support your explanation with specific language evidence.",
+      "answer": "Annotated word analyses with plausible meanings confirmed by contextual evidence.",
+      "rationale": "Model a root/affix breakdown, consult an etymological source, then test the proposed definition against the full sentence.",
+      "alignment": [
+        "12.L.V.2.a"
+      ]
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can use part of speech and sentence structure to distinguish possible meanings. Support your explanation with specific language evidence.",
+      "answer": "Sentence annotations identifying grammatical roles and context-supported meanings.",
+      "rationale": "Compare an unfamiliar word used as a noun and as a verb; mark grammatical signals and justify interpretation.",
+      "alignment": [
+        "12.L.V.2.b"
+      ]
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can form words with roots and affixes and use them accurately in context. Support your explanation with specific language evidence.",
+      "answer": "Accurate constructed forms used naturally in a coherent passage.",
+      "rationale": "Build a word-family map, verify forms in a reputable dictionary, and apply selected forms to an original explanation.",
+      "alignment": [
+        "12.L.V.2.c"
+      ]
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can select parts of speech to improve clarity, precision, and rhetorical effect. Support your explanation with specific language evidence.",
+      "answer": "Before-and-after revisions with reasoned commentary on diction and syntax.",
+      "rationale": "Revise a paragraph by testing noun, verb, and modifier alternatives; explain how each affects emphasis and readability.",
+      "alignment": [
+        "12.L.V.2.d"
+      ]
+    },
+    {
+      "type": "transfer task",
+      "prompt": "Create or revise a 200–300 word text for a specified audience, applying word analysis. Annotate three consequential choices and cite references used to verify them.",
+      "answer": "The response shows accurate vocabulary and meaning, deliberate adaptation to audience, specific annotation, and traceable verification.",
+      "rationale": "Authentic production tests transfer beyond recognition in a multiple-choice item.",
+      "alignment": [
+        "12.L.V.2.a",
+        "12.L.V.2.b",
+        "12.L.V.2.c",
+        "12.L.V.2.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "A close-reading annotation with precise citations to words or passages.",
+    "An original communication or revision demonstrating transfer to a specified audience.",
+    "A brief reflection explaining how verified language choices serve meaning and purpose."
+  ],
+  "instruction": [
+    "Begin with a short authentic mentor excerpt and an explicit think-aloud.",
+    "Have students test language hypotheses against syntax, context, and reputable references.",
+    "Use partner comparison, independent revision, and evidence-based feedback before assessing transfer."
+  ],
+  "watchFor": [
+    "Do not substitute word lists for authentic reading, writing, and speaking contexts.",
+    "Teach the difference between plausible inference and verified meaning.",
+    "Do not represent the suggested instructional activities as official Georgia Department of Education guidance."
+  ],
+  "skills": {
+    "12.L.V.2.a": {
+      "focus": "Morphology and etymology",
+      "studentFriendly": "I can break complex terms into meaningful elements and check the resulting inference against the passage.",
+      "know": [
+        "etymology",
+        "Greek and Latin roots"
+      ],
+      "understand": [
+        "A word’s history and parts offer hypotheses about meaning that must be tested against context."
+      ],
+      "do": [
+        "Break complex terms into meaningful elements and check the resulting inference against the passage."
+      ],
+      "targets": [
+        "I can break complex terms into meaningful elements and check the resulting inference against the passage."
+      ],
+      "instruction": "Model a root/affix breakdown, consult an etymological source, then test the proposed definition against the full sentence.",
+      "evidence": "Annotated word analyses with plausible meanings confirmed by contextual evidence.",
+      "watchFor": "Assuming the modern meaning always equals the sum of historical word parts."
+    },
+    "12.L.V.2.b": {
+      "focus": "Grammatical clues to meaning",
+      "studentFriendly": "I can use part of speech and sentence structure to distinguish possible meanings.",
+      "know": [
+        "etymology",
+        "Greek and Latin roots"
+      ],
+      "understand": [
+        "A word’s history and parts offer hypotheses about meaning that must be tested against context."
+      ],
+      "do": [
+        "Use part of speech and sentence structure to distinguish possible meanings."
+      ],
+      "targets": [
+        "I can use part of speech and sentence structure to distinguish possible meanings."
+      ],
+      "instruction": "Compare an unfamiliar word used as a noun and as a verb; mark grammatical signals and justify interpretation.",
+      "evidence": "Sentence annotations identifying grammatical roles and context-supported meanings.",
+      "watchFor": "Guessing a definition from a familiar spelling while ignoring syntax."
+    },
+    "12.L.V.2.c": {
+      "focus": "Construct derived words",
+      "studentFriendly": "I can form words with roots and affixes and use them accurately in context.",
+      "know": [
+        "etymology",
+        "Greek and Latin roots"
+      ],
+      "understand": [
+        "A word’s history and parts offer hypotheses about meaning that must be tested against context."
+      ],
+      "do": [
+        "Form words with roots and affixes and use them accurately in context."
+      ],
+      "targets": [
+        "I can form words with roots and affixes and use them accurately in context."
+      ],
+      "instruction": "Build a word-family map, verify forms in a reputable dictionary, and apply selected forms to an original explanation.",
+      "evidence": "Accurate constructed forms used naturally in a coherent passage.",
+      "watchFor": "Producing plausible-looking but nonexistent or inappropriate derivatives."
+    },
+    "12.L.V.2.d": {
+      "focus": "Purposeful grammatical choices",
+      "studentFriendly": "I can select parts of speech to improve clarity, precision, and rhetorical effect.",
+      "know": [
+        "etymology",
+        "Greek and Latin roots"
+      ],
+      "understand": [
+        "A word’s history and parts offer hypotheses about meaning that must be tested against context."
+      ],
+      "do": [
+        "Select parts of speech to improve clarity, precision, and rhetorical effect."
+      ],
+      "targets": [
+        "I can select parts of speech to improve clarity, precision, and rhetorical effect."
+      ],
+      "instruction": "Revise a paragraph by testing noun, verb, and modifier alternatives; explain how each affects emphasis and readability.",
+      "evidence": "Before-and-after revisions with reasoned commentary on diction and syntax.",
+      "watchFor": "Replacing precise verbs with excessive nominalizations or introducing grammatical errors."
+    }
+  },
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+},
+{
+  "code": "12.L.V.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Meaning & Purpose",
+  "officialStandard": "**Meaning & Purpose** Analyze and craft nuanced words and phrases in a variety of texts and for a variety of purposes.",
+  "studentFriendly": "I can interpret literal and implied meanings, distinguish subtle shades of meaning, verify word choices, and use language deliberately for different purposes.",
+  "know": [
+    "denotation",
+    "connotation",
+    "semantic nuance",
+    "tone",
+    "register",
+    "polysemy",
+    "usage guide",
+    "lexical choice"
+  ],
+  "understand": [
+    "Words that share a dictionary definition can communicate different attitudes, degrees, and social associations.",
+    "Context, audience, and purpose influence which connotations matter.",
+    "Responsible writers verify subtle distinctions rather than relying on a thesaurus substitution."
+  ],
+  "do": [
+    "Compare the denotations and connotations of closely related words in context.",
+    "Explain how subtle diction choices shape a text’s tone and audience response.",
+    "Consult authoritative references to justify and revise nuanced language choices."
+  ],
+  "vocabulary": [
+    {
+      "term": "denotation",
+      "definition": "A word’s direct or conventional reference or definition.",
+      "example": "Locate or apply “denotation” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "connotation",
+      "definition": "The feelings, associations, or judgments a word suggests beyond its direct meaning.",
+      "example": "Locate or apply “connotation” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "semantic nuance",
+      "definition": "A fine distinction in meaning or implication.",
+      "example": "Locate or apply “semantic nuance” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "tone",
+      "definition": "A speaker’s or writer’s attitude as conveyed through language.",
+      "example": "Locate or apply “tone” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "register",
+      "definition": "Language style suited to a social or communicative situation.",
+      "example": "Locate or apply “register” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "polysemy",
+      "definition": "The existence of several related meanings for one word.",
+      "example": "Locate or apply “polysemy” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "usage guide",
+      "definition": "A reference explaining accepted usage and distinctions among expressions.",
+      "example": "Locate or apply “usage guide” in a passage and justify the interpretation using context."
+    },
+    {
+      "term": "lexical choice",
+      "definition": "A deliberate selection of words to achieve meaning and effect.",
+      "example": "Locate or apply “lexical choice” in a passage and justify the interpretation using context."
+    }
+  ],
+  "targets": [
+    "I can compare the denotations and connotations of closely related words in context.",
+    "I can explain how subtle diction choices shape a text’s tone and audience response.",
+    "I can consult authoritative references to justify and revise nuanced language choices."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Their Eyes Were Watching God",
+      "author": "Zora Neale Hurston",
+      "genre": "Novel",
+      "purpose": "Analyze how dialect, diction, and figurative language create layered meanings.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "genre": "Novel",
+      "purpose": "Examine emotionally charged diction and its shifting connotations.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Novel",
+      "purpose": "Trace how near-synonyms shape social judgment and tone.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "genre": "Extended essay",
+      "purpose": "Explore nuance in rhetorical choices about identity and power.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Compare ethical and evaluative connotations in public argument.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    },
+    {
+      "title": "A pair of contrasting editorials on the same current issue",
+      "author": "Various editorial writers",
+      "genre": "Paired arguments",
+      "purpose": "Identify framing effects created by competing word choices.",
+      "access": "Use a licensed library copy, authorized excerpt, or lawful open-access edition as appropriate."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "25 minutes",
+      "title": "Connotation audit — remediation",
+      "activity": "Sort four pairs of near-synonyms using tone labels and sentence frames; verify meanings with an accessible dictionary.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Model and word bank",
+      "success": "Compare near-synonyms in two arguments, showing how each affects interpretation, tone, and credibility.",
+      "alignment": [
+        "12.L.V.3.b",
+        "12.L.V.3.c",
+        "12.L.V.3.d",
+        "12.L.V.3.e"
+      ]
+    },
+    {
+      "level": "on-level",
+      "time": "40 minutes",
+      "title": "Connotation audit — on-level",
+      "activity": "Annotate two passages, construct a connotation spectrum for eight words, and support each judgment with textual context.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Peer feedback and source checklist",
+      "success": "Compare near-synonyms in two arguments, showing how each affects interpretation, tone, and credibility.",
+      "alignment": [
+        "12.L.V.3.b",
+        "12.L.V.3.c",
+        "12.L.V.3.d",
+        "12.L.V.3.e"
+      ]
+    },
+    {
+      "level": "enrichment",
+      "time": "50 minutes",
+      "title": "Connotation audit — enrichment",
+      "activity": "Investigate how word choices frame the same issue across media outlets, noting audience and ethical implications.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Independent source evaluation and authentic audience",
+      "success": "Compare near-synonyms in two arguments, showing how each affects interpretation, tone, and credibility.",
+      "alignment": [
+        "12.L.V.3.b",
+        "12.L.V.3.c",
+        "12.L.V.3.d",
+        "12.L.V.3.e"
+      ]
+    },
+    {
+      "level": "remediation",
+      "time": "25 minutes",
+      "title": "Evidence-based diction workshop — remediation",
+      "activity": "Revise a model paragraph with a word bank, connotation chart, and peer feedback checklist.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Model and word bank",
+      "success": "Revise an original paragraph for a defined audience, verifying four close word choices with reference tools.",
+      "alignment": [
+        "12.L.V.3.b",
+        "12.L.V.3.c",
+        "12.L.V.3.d",
+        "12.L.V.3.e"
+      ]
+    },
+    {
+      "level": "on-level",
+      "time": "40 minutes",
+      "title": "Evidence-based diction workshop — on-level",
+      "activity": "Draft, consult dictionary and usage references, revise, and annotate four choices with citations to reference entries.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Peer feedback and source checklist",
+      "success": "Revise an original paragraph for a defined audience, verifying four close word choices with reference tools.",
+      "alignment": [
+        "12.L.V.3.b",
+        "12.L.V.3.c",
+        "12.L.V.3.d",
+        "12.L.V.3.e"
+      ]
+    },
+    {
+      "level": "enrichment",
+      "time": "50 minutes",
+      "title": "Evidence-based diction workshop — enrichment",
+      "activity": "Produce three audience-specific versions and defend choices against plausible alternative words.",
+      "materials": "Selected mentor passage, annotation sheet, dictionary/disciplinary glossary, and student writing",
+      "scaffolds": "Independent source evaluation and authentic audience",
+      "success": "Revise an original paragraph for a defined audience, verifying four close word choices with reference tools.",
+      "alignment": [
+        "12.L.V.3.b",
+        "12.L.V.3.c",
+        "12.L.V.3.d",
+        "12.L.V.3.e"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can analyze how related words communicate both referential and implied meanings in different contexts. Support your explanation with specific language evidence.",
+      "answer": "Comparative annotations supported by specific phrasing and context.",
+      "rationale": "Place candidate words in authentic sentences and separate dictionary meaning from contextual associations.",
+      "alignment": [
+        "12.L.V.3.b"
+      ]
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can distinguish intensity, emotional coloring, and social implications among near-synonyms. Support your explanation with specific language evidence.",
+      "answer": "A defensible comparison of subtle semantic differences.",
+      "rationale": "Build a nuanced word continuum and test substitutions in a passage, explaining the effect on tone.",
+      "alignment": [
+        "12.L.V.3.c"
+      ]
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can use trustworthy print and digital references to resolve unfamiliar or multiple meanings. Support your explanation with specific language evidence.",
+      "answer": "A short reference log that identifies verified senses and sources.",
+      "rationale": "Cross-check a dictionary, usage guide, and original passage; document which sense best fits and why.",
+      "alignment": [
+        "12.L.V.3.d"
+      ]
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a passage or original draft, demonstrate: I can choose words deliberately for audience and purpose after verifying nuanced meanings. Support your explanation with specific language evidence.",
+      "answer": "Purposeful revisions with accurate references and audience-based justification.",
+      "rationale": "Revise a consequential message for two audiences; annotate and source decisions about four closely related expressions.",
+      "alignment": [
+        "12.L.V.3.e"
+      ]
+    },
+    {
+      "type": "transfer task",
+      "prompt": "Create or revise a 200–300 word text for a specified audience, applying meaning & purpose. Annotate three consequential choices and cite references used to verify them.",
+      "answer": "The response shows accurate vocabulary and meaning, deliberate adaptation to audience, specific annotation, and traceable verification.",
+      "rationale": "Authentic production tests transfer beyond recognition in a multiple-choice item.",
+      "alignment": [
+        "12.L.V.3.b",
+        "12.L.V.3.c",
+        "12.L.V.3.d",
+        "12.L.V.3.e"
+      ]
+    }
+  ],
+  "evidence": [
+    "A close-reading annotation with precise citations to words or passages.",
+    "An original communication or revision demonstrating transfer to a specified audience.",
+    "A brief reflection explaining how verified language choices serve meaning and purpose."
+  ],
+  "instruction": [
+    "Begin with a short authentic mentor excerpt and an explicit think-aloud.",
+    "Have students test language hypotheses against syntax, context, and reputable references.",
+    "Use partner comparison, independent revision, and evidence-based feedback before assessing transfer."
+  ],
+  "watchFor": [
+    "Do not substitute word lists for authentic reading, writing, and speaking contexts.",
+    "Teach the difference between plausible inference and verified meaning.",
+    "Do not represent the suggested instructional activities as official Georgia Department of Education guidance."
+  ],
+  "skills": {
+    "12.L.V.3.b": {
+      "focus": "Connotation and denotation",
+      "studentFriendly": "I can analyze how related words communicate both referential and implied meanings in different contexts.",
+      "know": [
+        "denotation",
+        "connotation"
+      ],
+      "understand": [
+        "Words that share a dictionary definition can communicate different attitudes, degrees, and social associations."
+      ],
+      "do": [
+        "Analyze how related words communicate both referential and implied meanings in different contexts."
+      ],
+      "targets": [
+        "I can analyze how related words communicate both referential and implied meanings in different contexts."
+      ],
+      "instruction": "Place candidate words in authentic sentences and separate dictionary meaning from contextual associations.",
+      "evidence": "Comparative annotations supported by specific phrasing and context.",
+      "watchFor": "Treating a word as universally positive or negative regardless of audience and setting."
+    },
+    "12.L.V.3.c": {
+      "focus": "Fine shades of meaning",
+      "studentFriendly": "I can distinguish intensity, emotional coloring, and social implications among near-synonyms.",
+      "know": [
+        "denotation",
+        "connotation"
+      ],
+      "understand": [
+        "Words that share a dictionary definition can communicate different attitudes, degrees, and social associations."
+      ],
+      "do": [
+        "Distinguish intensity, emotional coloring, and social implications among near-synonyms."
+      ],
+      "targets": [
+        "I can distinguish intensity, emotional coloring, and social implications among near-synonyms."
+      ],
+      "instruction": "Build a nuanced word continuum and test substitutions in a passage, explaining the effect on tone.",
+      "evidence": "A defensible comparison of subtle semantic differences.",
+      "watchFor": "Claiming synonyms are interchangeable because their dictionary definitions overlap."
+    },
+    "12.L.V.3.d": {
+      "focus": "Reference verification",
+      "studentFriendly": "I can use trustworthy print and digital references to resolve unfamiliar or multiple meanings.",
+      "know": [
+        "denotation",
+        "connotation"
+      ],
+      "understand": [
+        "Words that share a dictionary definition can communicate different attitudes, degrees, and social associations."
+      ],
+      "do": [
+        "Use trustworthy print and digital references to resolve unfamiliar or multiple meanings."
+      ],
+      "targets": [
+        "I can use trustworthy print and digital references to resolve unfamiliar or multiple meanings."
+      ],
+      "instruction": "Cross-check a dictionary, usage guide, and original passage; document which sense best fits and why.",
+      "evidence": "A short reference log that identifies verified senses and sources.",
+      "watchFor": "Using a search snippet or thesaurus result as conclusive evidence of appropriate usage."
+    },
+    "12.L.V.3.e": {
+      "focus": "Strategic diction",
+      "studentFriendly": "I can choose words deliberately for audience and purpose after verifying nuanced meanings.",
+      "know": [
+        "denotation",
+        "connotation"
+      ],
+      "understand": [
+        "Words that share a dictionary definition can communicate different attitudes, degrees, and social associations."
+      ],
+      "do": [
+        "Choose words deliberately for audience and purpose after verifying nuanced meanings."
+      ],
+      "targets": [
+        "I can choose words deliberately for audience and purpose after verifying nuanced meanings."
+      ],
+      "instruction": "Revise a consequential message for two audiences; annotate and source decisions about four closely related expressions.",
+      "evidence": "Purposeful revisions with accurate references and audience-based justification.",
+      "watchFor": "Choosing elevated-sounding vocabulary that changes the intended claim."
+    },
+    "12.L.V.3.a": {
+      "focus": "Progression note — not an active Grade 12 expectation",
+      "studentFriendly": "This source entry directs educators to a different progression rather than adding a new Grade 12 skill.",
+      "know": [],
+      "understand": [],
+      "do": [],
+      "targets": [],
+      "instruction": "Preserve the source progression note: This progression transitions to 9-12.L.V.3.b.",
+      "evidence": "No separate Grade 12 assessment is required for this progression note.",
+      "watchFor": "Do not invent an additional active skill from this note."
+    }
+  },
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+}
   ]
 }
 
