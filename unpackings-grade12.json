@@ -4726,6 +4726,903 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
 }
+    ,
+{
+  "code": "12.T.RA.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Research & Inquiry",
+  "officialStandard": "**Research & Inquiry**  Conduct research, generating questions to guide investigations of complex topics of interest and using credible sources to support analyses.",
+  "studentFriendly": "I can investigate a complex question, evaluate credible sources, synthesize a defensible thesis, and integrate evidence with accurate MLA or APA citations.",
+  "know": [
+    "inquiry questions",
+    "research scope",
+    "source credibility",
+    "primary and secondary sources",
+    "synthesis",
+    "central thesis",
+    "paraphrase",
+    "quotation integration",
+    "MLA and APA attribution"
+  ],
+  "understand": [
+    "A useful research question is focused enough to investigate but complex enough to invite competing evidence.",
+    "Synthesis creates an original explanation from relationships among sources rather than assembling summaries.",
+    "Accurate citation allows readers to trace claims and distinguish original thinking from borrowed material."
+  ],
+  "do": [
+    "Refine a broad issue into a researchable question and a provisional thesis.",
+    "Compare credible sources and synthesize convergences, contradictions, and gaps.",
+    "Blend quoted, paraphrased, and summarized evidence with MLA or APA citations."
+  ],
+  "vocabulary": [
+    {
+      "term": "inquiry questions",
+      "definition": "A key concept for analyzing and producing work involving inquiry questions.",
+      "example": "Identify inquiry questions in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "research scope",
+      "definition": "A key concept for analyzing and producing work involving research scope.",
+      "example": "Identify research scope in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "source credibility",
+      "definition": "A key concept for analyzing and producing work involving source credibility.",
+      "example": "Identify source credibility in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "primary and secondary sources",
+      "definition": "A key concept for analyzing and producing work involving primary and secondary sources.",
+      "example": "Identify primary and secondary sources in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "synthesis",
+      "definition": "Combining and interpreting relationships among sources to produce an original conclusion.",
+      "example": "Identify synthesis in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "central thesis",
+      "definition": "The main defensible claim supported by a research argument.",
+      "example": "Identify central thesis in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "paraphrase",
+      "definition": "A faithful restatement of source meaning in genuinely new wording with attribution.",
+      "example": "Identify paraphrase in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "quotation integration",
+      "definition": "A key concept for analyzing and producing work involving quotation integration.",
+      "example": "Identify quotation integration in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "MLA and APA attribution",
+      "definition": "A key concept for analyzing and producing work involving MLA and APA attribution.",
+      "example": "Identify MLA and APA attribution in a mentor example and explain its effect on meaning or purpose."
+    }
+  ],
+  "targets": [
+    "I can refine a broad issue into a researchable question and a provisional thesis.",
+    "I can compare credible sources and synthesize convergences, contradictions, and gaps.",
+    "I can blend quoted, paraphrased, and summarized evidence with MLA or APA citations."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Literary nonfiction",
+      "purpose": "Trace how reporting, interviews, and scientific sources support an ethical inquiry.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "genre": "Expository nonfiction",
+      "purpose": "Study the integration of research evidence into a sustained argument.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "genre": "Science journalism",
+      "purpose": "Analyze how evidence from multiple disciplines is synthesized.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "The New Jim Crow",
+      "author": "Michelle Alexander",
+      "genre": "Argumentative nonfiction",
+      "purpose": "Evaluate the relationship between central claims, data, and citations.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical essay",
+      "purpose": "Contrast satirical argument with the standards of evidence required for research.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Speech",
+      "purpose": "Use the talk to generate questions about representation and source selection.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30–45 minutes",
+      "title": "Question-to-source ladder",
+      "activity": "Provide a model question, two short vetted sources, a credibility checklist, and a color-coded claim/evidence/citation frame. Students refine one question and write a sourced paragraph.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Teacher modeling and evidence organizers",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.T.RA.1"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–65 minutes",
+      "title": "Source conversation matrix",
+      "activity": "Investigate a contemporary issue with at least four credible sources; chart agreements and disagreements; draft a thesis and a paragraph with integrated MLA or APA citations.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Peer discussion and a criteria checklist",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.T.RA.1"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Competing explanations research brief",
+      "activity": "Research an unresolved issue using contrasting disciplinary perspectives and at least one primary source; explain limitations, synthesize findings, and defend citation choices.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Independent source selection and reflection",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.T.RA.1"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "How does synthesizing three sources differ from summarizing them one at a time?",
+      "answer": "A synthesis identifies relationships, tensions, and a new inference supported by multiple sources.",
+      "rationale": "Look for a specific explanation grounded in textual or compositional evidence.",
+      "alignment": [
+        "12.T.RA.1"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "How can a writer integrate paraphrased evidence without misrepresenting the source?",
+      "answer": "Retain the source meaning, use original phrasing, contextualize its role, and cite the source.",
+      "rationale": "Look for a specific explanation grounded in textual or compositional evidence.",
+      "alignment": [
+        "12.T.RA.1"
+      ]
+    }
+  ],
+  "evidence": [
+    "Research question revision log and source credibility annotations",
+    "Synthesis matrix connecting at least three sources to a thesis",
+    "Evidence-based paragraph with traceable MLA or APA citations"
+  ],
+  "instruction": [
+    "Model the transformation from topic to question to arguable thesis.",
+    "Think aloud through lateral source verification and conflicting evidence.",
+    "Demonstrate quote sandwiches, precise paraphrase, and in-text citations with a matching references list."
+  ],
+  "watchFor": [
+    "A broad topic is not a research question.",
+    "Domain endings and polished design alone do not prove credibility.",
+    "Changing a few words does not create an adequate paraphrase."
+  ],
+  "skills": {
+    "12.T.RA.1.a": {
+      "focus": "Developing and refining complex research questions",
+      "studentFriendly": "I can developing and refining complex research questions using specific evidence and purposeful choices.",
+      "know": [
+        "inquiry questions",
+        "research scope"
+      ],
+      "understand": [
+        "A useful research question is focused enough to investigate but complex enough to invite competing evidence."
+      ],
+      "do": [
+        "Explain how developing and refining complex research questions works in a model text.",
+        "Apply developing and refining complex research questions in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate developing and refining complex research questions with accurate evidence."
+      ],
+      "instruction": [
+        "Model the transformation from topic to question to arguable thesis.",
+        "Use the official expectation as the checklist: Generate questions to guide research, make connections between complex topics, explore creative solutions, narrow focus, and/or refine text creation. (I)"
+      ],
+      "evidence": [
+        "Research question revision log and source credibility annotations"
+      ],
+      "watchFor": [
+        "A broad topic is not a research question."
+      ]
+    },
+    "12.T.RA.1.b": {
+      "focus": "Synthesizing credible sources to support a central thesis",
+      "studentFriendly": "I can synthesizing credible sources to support a central thesis using specific evidence and purposeful choices.",
+      "know": [
+        "research scope",
+        "source credibility"
+      ],
+      "understand": [
+        "Synthesis creates an original explanation from relationships among sources rather than assembling summaries."
+      ],
+      "do": [
+        "Explain how synthesizing credible sources to support a central thesis works in a model text.",
+        "Apply synthesizing credible sources to support a central thesis in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate synthesizing credible sources to support a central thesis with accurate evidence."
+      ],
+      "instruction": [
+        "Think aloud through lateral source verification and conflicting evidence.",
+        "Use the official expectation as the checklist: *Synthesize information from a variety of credible sources to support a central thesis, citing appropriately.* (I)"
+      ],
+      "evidence": [
+        "Synthesis matrix connecting at least three sources to a thesis"
+      ],
+      "watchFor": [
+        "Domain endings and polished design alone do not prove credibility."
+      ]
+    },
+    "12.T.RA.1.c": {
+      "focus": "Integrating and attributing evidence in MLA or APA style",
+      "studentFriendly": "I can integrating and attributing evidence in MLA or APA style using specific evidence and purposeful choices.",
+      "know": [
+        "source credibility",
+        "primary and secondary sources"
+      ],
+      "understand": [
+        "Accurate citation allows readers to trace claims and distinguish original thinking from borrowed material."
+      ],
+      "do": [
+        "Explain how integrating and attributing evidence in mla or apa style works in a model text.",
+        "Apply integrating and attributing evidence in mla or apa style in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate integrating and attributing evidence in mla or apa style with accurate evidence."
+      ],
+      "instruction": [
+        "Demonstrate quote sandwiches, precise paraphrase, and in-text citations with a matching references list.",
+        "Use the official expectation as the checklist: *Integrate paraphrased, summarized, and quoted material into original texts in various ways for intended purposes that strengthen the writing, citing the sources of ideas following the guidelines of Modern Language Association (MLA) format or American Psychological Association (APA) format.* (C)"
+      ],
+      "evidence": [
+        "Evidence-based paragraph with traceable MLA or APA citations"
+      ],
+      "watchFor": [
+        "Changing a few words does not create an adequate paraphrase."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age-appropriate context before assigning."
+},
+{
+  "code": "12.T.PM.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Literary Periods & Movements",
+  "officialStandard": "Demonstrate knowledge of dominant themes, genres, and verbal styles of literature from a particular time period.",
+  "studentFriendly": "I can compare writers and artists within a literary movement and analyze how themes and styles connect and differ across major periods of English and American literature.",
+  "know": [
+    "literary period",
+    "literary movement",
+    "historical context",
+    "genre",
+    "theme",
+    "verbal style",
+    "Romanticism",
+    "Realism",
+    "Modernism",
+    "transatlantic literary traditions"
+  ],
+  "understand": [
+    "Literary periods are interpretive categories, not rigid boundaries or identical author viewpoints.",
+    "Artists in the same movement may respond differently to shared historical and aesthetic concerns.",
+    "Comparison across periods reveals both changes and continuities in form, theme, and cultural assumptions."
+  ],
+  "do": [
+    "Compare two works associated with one movement using specific textual and artistic evidence.",
+    "Compare authors and works from three English or American literary periods.",
+    "Explain how historical context and formal choices shape the similarities and differences."
+  ],
+  "vocabulary": [
+    {
+      "term": "literary period",
+      "definition": "A key concept for analyzing and producing work involving literary period.",
+      "example": "Identify literary period in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "literary movement",
+      "definition": "A group of artistic practices or concerns associated with a time and cultural context.",
+      "example": "Identify literary movement in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "historical context",
+      "definition": "A key concept for analyzing and producing work involving historical context.",
+      "example": "Identify historical context in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "genre",
+      "definition": "A key concept for analyzing and producing work involving genre.",
+      "example": "Identify genre in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "theme",
+      "definition": "A key concept for analyzing and producing work involving theme.",
+      "example": "Identify theme in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "verbal style",
+      "definition": "Distinctive patterns of diction, syntax, imagery, and voice.",
+      "example": "Identify verbal style in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "Romanticism",
+      "definition": "A key concept for analyzing and producing work involving Romanticism.",
+      "example": "Identify Romanticism in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "Realism",
+      "definition": "A key concept for analyzing and producing work involving Realism.",
+      "example": "Identify Realism in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "Modernism",
+      "definition": "A key concept for analyzing and producing work involving Modernism.",
+      "example": "Identify Modernism in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "transatlantic literary traditions",
+      "definition": "A key concept for analyzing and producing work involving transatlantic literary traditions.",
+      "example": "Identify transatlantic literary traditions in a mentor example and explain its effect on meaning or purpose."
+    }
+  ],
+  "targets": [
+    "I can compare two works associated with one movement using specific textual and artistic evidence.",
+    "I can compare authors and works from three English or American literary periods.",
+    "I can explain how historical context and formal choices shape the similarities and differences."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Lines Composed a Few Miles above Tintern Abbey",
+      "author": "William Wordsworth",
+      "genre": "Romantic poem",
+      "purpose": "Analyze memory, nature, and Romantic subjectivity.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "Ode to a Nightingale",
+      "author": "John Keats",
+      "genre": "Romantic poem",
+      "purpose": "Compare imaginative escape and poetic voice within Romanticism.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "genre": "Realist short story",
+      "purpose": "Examine psychological realism and social constraint.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "The Open Boat",
+      "author": "Stephen Crane",
+      "genre": "Naturalist short story",
+      "purpose": "Compare realist/naturalist assumptions about environment and agency.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "The Love Song of J. Alfred Prufrock",
+      "author": "T. S. Eliot",
+      "genre": "Modernist poem",
+      "purpose": "Analyze fragmentation, allusion, and modernist uncertainty.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "A Rose for Emily",
+      "author": "William Faulkner",
+      "genre": "Modernist short story",
+      "purpose": "Examine nonlinear chronology and cultural transition.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30–45 minutes",
+      "title": "Period comparison cards",
+      "activity": "Give students brief historical context cards and excerpts from three periods. Highlight imagery, narrative voice, and theme, then complete a supported comparison chart.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Teacher modeling and evidence organizers",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.T.PM.1"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–65 minutes",
+      "title": "Three-period literary seminar",
+      "activity": "Select one representative work from each of three periods; compare historical context, dominant themes, and stylistic features in a cited seminar and comparative essay.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Peer discussion and a criteria checklist",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.T.PM.1"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Movement boundaries exhibition",
+      "activity": "Curate a small exhibit of texts and visual art within one movement; analyze divergent responses, then challenge a simplistic timeline with cross-period comparisons.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Independent source selection and reflection",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.T.PM.1"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "Why might two writers in the same movement use different techniques to address a shared concern?",
+      "answer": "They may differ in genre, personal experience, audience, or artistic priorities despite shared context.",
+      "rationale": "Look for a specific explanation grounded in textual or compositional evidence.",
+      "alignment": [
+        "12.T.PM.1"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "How does a comparison across three periods reveal both continuity and change?",
+      "answer": "It traces a recurring concern while identifying differences in style, worldview, and historical context.",
+      "rationale": "Look for a specific explanation grounded in textual or compositional evidence.",
+      "alignment": [
+        "12.T.PM.1"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated within-movement comparison with textual evidence",
+    "Three-period comparison chart naming themes and verbal style",
+    "Comparative essay or exhibit labels with specific quotations"
+  ],
+  "instruction": [
+    "Explain that movement labels are useful analytical lenses rather than fixed membership tests.",
+    "Model close reading of a short Romantic, Realist, and Modernist passage.",
+    "Require paired quotations and explicit commentary on stylistic choices, not only historical summaries."
+  ],
+  "watchFor": [
+    "Students may treat all writers in a period as stylistically identical.",
+    "Students may list historical events without connecting them to the text.",
+    "Students may confuse a recurring topic with an arguable thematic claim."
+  ],
+  "skills": {
+    "12.T.PM.1.a": {
+      "focus": "Comparing artists within a literary movement",
+      "studentFriendly": "I can comparing artists within a literary movement using specific evidence and purposeful choices.",
+      "know": [
+        "literary period",
+        "literary movement"
+      ],
+      "understand": [
+        "Literary periods are interpretive categories, not rigid boundaries or identical author viewpoints."
+      ],
+      "do": [
+        "Explain how comparing artists within a literary movement works in a model text.",
+        "Apply comparing artists within a literary movement in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate comparing artists within a literary movement with accurate evidence."
+      ],
+      "instruction": [
+        "Explain that movement labels are useful analytical lenses rather than fixed membership tests.",
+        "Use the official expectation as the checklist: Compare and contrast the works of writers and artists who are part of a specific movement during a particular time period. (I)"
+      ],
+      "evidence": [
+        "Annotated within-movement comparison with textual evidence"
+      ],
+      "watchFor": [
+        "Students may treat all writers in a period as stylistically identical."
+      ]
+    },
+    "12.T.PM.1.b": {
+      "focus": "Comparing authors and works across three English and American literary periods",
+      "studentFriendly": "I can comparing authors and works across three English and American literary periods using specific evidence and purposeful choices.",
+      "know": [
+        "literary movement",
+        "historical context"
+      ],
+      "understand": [
+        "Artists in the same movement may respond differently to shared historical and aesthetic concerns."
+      ],
+      "do": [
+        "Explain how comparing authors and works across three english and american literary periods works in a model text.",
+        "Apply comparing authors and works across three english and american literary periods in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate comparing authors and works across three english and american literary periods with accurate evidence."
+      ],
+      "instruction": [
+        "Model close reading of a short Romantic, Realist, and Modernist passage.",
+        "Use the official expectation as the checklist: Compare and contrast major authors and works of three periods of English and American literary history, including key themes and stylistic features. (I)"
+      ],
+      "evidence": [
+        "Three-period comparison chart naming themes and verbal style"
+      ],
+      "watchFor": [
+        "Students may list historical events without connecting them to the text."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age-appropriate context before assigning."
+},
+{
+  "code": "12.L.GC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Syntax",
+  "officialStandard": "**Syntax** Apply understanding of syntax to comprehend, analyze, evaluate, craft, and reshape sentences to achieve desired effects.",
+  "studentFriendly": "I can analyze how sentence structure shapes meaning and revise my own sentences for clarity, rhythm, emphasis, grammatical consistency, and deliberate effects.",
+  "know": [
+    "syntax",
+    "parallel structure",
+    "sentence variety",
+    "verb tense",
+    "verb aspect",
+    "verb mood",
+    "active voice",
+    "passive voice",
+    "modifiers",
+    "cohesion"
+  ],
+  "understand": [
+    "Sentence structure shapes what readers notice, how quickly they read, and how ideas relate.",
+    "Parallelism creates grammatical and rhetorical symmetry when the compared ideas truly align.",
+    "Voice and verb choices should be consistent when consistency supports the audience, discipline, and purpose."
+  ],
+  "do": [
+    "Analyze syntax and parallelism in a demanding passage.",
+    "Revise sentences to vary rhythm while controlling tense, aspect, and mood.",
+    "Select active or passive voice deliberately and sustain a coherent choice.",
+    "Expand key ideas with relevant detail and precise descriptions.",
+    "Revise parallel structure across paragraphs to connect corresponding claims."
+  ],
+  "vocabulary": [
+    {
+      "term": "syntax",
+      "definition": "The arrangement of words, phrases, and clauses in sentences.",
+      "example": "Identify syntax in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "parallel structure",
+      "definition": "Repeating corresponding grammatical forms to connect ideas and create balance.",
+      "example": "Identify parallel structure in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "sentence variety",
+      "definition": "A key concept for analyzing and producing work involving sentence variety.",
+      "example": "Identify sentence variety in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "verb tense",
+      "definition": "A key concept for analyzing and producing work involving verb tense.",
+      "example": "Identify verb tense in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "verb aspect",
+      "definition": "The way a verb represents an action as completed, ongoing, or repeated.",
+      "example": "Identify verb aspect in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "verb mood",
+      "definition": "A key concept for analyzing and producing work involving verb mood.",
+      "example": "Identify verb mood in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "active voice",
+      "definition": "A clause pattern in which the subject performs the verb’s action.",
+      "example": "Identify active voice in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "passive voice",
+      "definition": "A clause pattern in which the subject receives the verb’s action.",
+      "example": "Identify passive voice in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "modifiers",
+      "definition": "A key concept for analyzing and producing work involving modifiers.",
+      "example": "Identify modifiers in a mentor example and explain its effect on meaning or purpose."
+    },
+    {
+      "term": "cohesion",
+      "definition": "A key concept for analyzing and producing work involving cohesion.",
+      "example": "Identify cohesion in a mentor example and explain its effect on meaning or purpose."
+    }
+  ],
+  "targets": [
+    "I can analyze syntax and parallelism in a demanding passage.",
+    "I can revise sentences to vary rhythm while controlling tense, aspect, and mood.",
+    "I can select active or passive voice deliberately and sustain a coherent choice.",
+    "I can expand key ideas with relevant detail and precise descriptions.",
+    "I can revise parallel structure across paragraphs to connect corresponding claims."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Ain’t I a Woman?",
+      "author": "Sojourner Truth (historically variable transcriptions)",
+      "genre": "Speech",
+      "purpose": "Discuss rhetorical repetition and the need to verify transcription history.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Argumentative letter",
+      "purpose": "Analyze parallel syntax, cumulative sentences, and emphasis.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech",
+      "purpose": "Analyze parallel clauses and rhetorical balance.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "The Death of the Moth",
+      "author": "Virginia Woolf",
+      "genre": "Literary essay",
+      "purpose": "Study sentence rhythm and expanding descriptive detail.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "Notes of a Native Son",
+      "author": "James Baldwin",
+      "genre": "Literary essay",
+      "purpose": "Examine complex syntax, qualification, and voice.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O’Brien",
+      "genre": "Fiction",
+      "purpose": "Analyze repetition, listing, and sentence variation for emotional effect.",
+      "access": "Use a licensed library edition, authorized excerpt, or legitimate public-domain version where applicable."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30–45 minutes",
+      "title": "Sentence surgery",
+      "activity": "Color-code subjects, verbs, parallel items, and tense shifts in short mentor sentences; repair three examples and explain one improvement.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Teacher modeling and evidence organizers",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.L.GC.2"
+      ]
+    },
+    {
+      "level": "On-level",
+      "time": "45–65 minutes",
+      "title": "Purposeful revision lab",
+      "activity": "Analyze syntax in a mentor passage; revise an original paragraph for sentence variety, voice consistency, and parallelism; submit before/after annotations.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Peer discussion and a criteria checklist",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.L.GC.2"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Rhetorical syntax portfolio",
+      "activity": "Compose two versions of a complex argument for different audiences; use intentional passive voice, syntactic pacing, and cross-paragraph parallel structure; justify each choice.",
+      "materials": "Mentor excerpts, annotation tools, student writing and relevant source materials",
+      "scaffolds": "Independent source selection and reflection",
+      "success": "Student submits evidence-based work demonstrating the named standard.",
+      "alignment": [
+        "12.L.GC.2"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "How can parallel structure improve an argument across paragraphs?",
+      "answer": "Repeated grammatical patterns clarify the relationship among related claims and give them comparable emphasis.",
+      "rationale": "Look for a specific explanation grounded in textual or compositional evidence.",
+      "alignment": [
+        "12.L.GC.2"
+      ]
+    },
+    {
+      "type": "Constructed Response",
+      "prompt": "When might passive voice serve a legitimate purpose?",
+      "answer": "When the action or affected subject matters more than the actor, or when the actor is unknown or deliberately deemphasized.",
+      "rationale": "Look for a specific explanation grounded in textual or compositional evidence.",
+      "alignment": [
+        "12.L.GC.2"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated syntax analysis of mentor passages",
+    "Before/after revision showing tense, mood, and voice control",
+    "Paragraph sequence demonstrating purposeful parallel structure"
+  ],
+  "instruction": [
+    "Read mentor sentences aloud to make rhythm and emphasis audible.",
+    "Use a side-by-side revision protocol that distinguishes intentional shifts from accidental inconsistency.",
+    "Model parallelism at the sentence and paragraph level with evidence of rhetorical effect."
+  ],
+  "watchFor": [
+    "Sentence length alone does not determine quality.",
+    "Passive voice is not inherently wrong; unexplained inconsistency is the concern.",
+    "Parallelism requires matching grammatical forms, not just repeating words."
+  ],
+  "skills": {
+    "12.L.GC.2.a": {
+      "focus": "Analyzing syntax and parallel structure",
+      "studentFriendly": "I can analyzing syntax and parallel structure using specific evidence and purposeful choices.",
+      "know": [
+        "syntax",
+        "parallel structure"
+      ],
+      "understand": [
+        "Sentence structure shapes what readers notice, how quickly they read, and how ideas relate."
+      ],
+      "do": [
+        "Explain how analyzing syntax and parallel structure works in a model text.",
+        "Apply analyzing syntax and parallel structure in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate analyzing syntax and parallel structure with accurate evidence."
+      ],
+      "instruction": [
+        "Read mentor sentences aloud to make rhythm and emphasis audible.",
+        "Use the official expectation as the checklist: Apply understandings of syntax to comprehend, analyze, and evaluate a wide variety of texts, including evaluating instances of parallel structure. (I)"
+      ],
+      "evidence": [
+        "Annotated syntax analysis of mentor passages"
+      ],
+      "watchFor": [
+        "Sentence length alone does not determine quality."
+      ]
+    },
+    "12.L.GC.2.b": {
+      "focus": "Varying syntax while maintaining verb tense, aspect, and mood",
+      "studentFriendly": "I can varying syntax while maintaining verb tense, aspect, and mood using specific evidence and purposeful choices.",
+      "know": [
+        "parallel structure",
+        "sentence variety"
+      ],
+      "understand": [
+        "Parallelism creates grammatical and rhetorical symmetry when the compared ideas truly align."
+      ],
+      "do": [
+        "Explain how varying syntax while maintaining verb tense, aspect, and mood works in a model text.",
+        "Apply varying syntax while maintaining verb tense, aspect, and mood in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate varying syntax while maintaining verb tense, aspect, and mood with accurate evidence."
+      ],
+      "instruction": [
+        "Use a side-by-side revision protocol that distinguishes intentional shifts from accidental inconsistency.",
+        "Use the official expectation as the checklist: Compose texts with varied syntax, reshaping sentences for style and effect while maintaining consistency of verb tenses, aspects, and moods. (C)"
+      ],
+      "evidence": [
+        "Before/after revision showing tense, mood, and voice control"
+      ],
+      "watchFor": [
+        "Passive voice is not inherently wrong; unexplained inconsistency is the concern."
+      ]
+    },
+    "12.L.GC.2.c": {
+      "focus": "Maintaining purpose-driven active or passive voice",
+      "studentFriendly": "I can maintaining purpose-driven active or passive voice using specific evidence and purposeful choices.",
+      "know": [
+        "sentence variety",
+        "verb tense"
+      ],
+      "understand": [
+        "Voice and verb choices should be consistent when consistency supports the audience, discipline, and purpose."
+      ],
+      "do": [
+        "Explain how maintaining purpose-driven active or passive voice works in a model text.",
+        "Apply maintaining purpose-driven active or passive voice in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate maintaining purpose-driven active or passive voice with accurate evidence."
+      ],
+      "instruction": [
+        "Model parallelism at the sentence and paragraph level with evidence of rhetorical effect.",
+        "Use the official expectation as the checklist: Maintain consistent use of active or passive voice throughout a text, as determined by the purpose, audience, and discipline. (C)"
+      ],
+      "evidence": [
+        "Paragraph sequence demonstrating purposeful parallel structure"
+      ],
+      "watchFor": [
+        "Parallelism requires matching grammatical forms, not just repeating words."
+      ]
+    },
+    "12.L.GC.2.d": {
+      "focus": "Expanding ideas with purposeful detail",
+      "studentFriendly": "I can expanding ideas with purposeful detail using specific evidence and purposeful choices.",
+      "know": [
+        "verb tense",
+        "verb aspect"
+      ],
+      "understand": [
+        "Sentence structure shapes what readers notice, how quickly they read, and how ideas relate."
+      ],
+      "do": [
+        "Explain how expanding ideas with purposeful detail works in a model text.",
+        "Apply expanding ideas with purposeful detail in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate expanding ideas with purposeful detail with accurate evidence."
+      ],
+      "instruction": [
+        "Read mentor sentences aloud to make rhythm and emphasis audible.",
+        "Use the official expectation as the checklist: Expand and enrich ideas and information, incorporating details and descriptions to achieve specific purposes and facilitate engagement. (C)"
+      ],
+      "evidence": [
+        "Annotated syntax analysis of mentor passages"
+      ],
+      "watchFor": [
+        "Sentence length alone does not determine quality."
+      ]
+    },
+    "12.L.GC.2.e": {
+      "focus": "Using parallel structure across paragraphs",
+      "studentFriendly": "I can using parallel structure across paragraphs using specific evidence and purposeful choices.",
+      "know": [
+        "verb aspect",
+        "verb mood"
+      ],
+      "understand": [
+        "Parallelism creates grammatical and rhetorical symmetry when the compared ideas truly align."
+      ],
+      "do": [
+        "Explain how using parallel structure across paragraphs works in a model text.",
+        "Apply using parallel structure across paragraphs in an original response and justify the decisions."
+      ],
+      "targets": [
+        "I can demonstrate using parallel structure across paragraphs with accurate evidence."
+      ],
+      "instruction": [
+        "Use a side-by-side revision protocol that distinguishes intentional shifts from accidental inconsistency.",
+        "Use the official expectation as the checklist: Use and revise parallel structure across paragraphs or sections to create symmetry and convey a congruence of ideas. (C)"
+      ],
+      "evidence": [
+        "Before/after revision showing tense, mood, and voice control"
+      ],
+      "watchFor": [
+        "Passive voice is not inherently wrong; unexplained inconsistency is the concern."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age-appropriate context before assigning."
+}
   ]
 }
 
