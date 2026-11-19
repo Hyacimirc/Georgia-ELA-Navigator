@@ -3522,6 +3522,1210 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
 }
+    ,
+{
+  "code": "12.P.EICC.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Comprehension Strategies",
+  "officialStandard": "**Comprehension Strategies** Engage with a range of complex texts for a variety of tasks and purposes, accessing and using strategies for comprehension* before, during, and after reading as part of the meaning-making process.",
+  "studentFriendly": "I can read demanding texts with a clear purpose, monitor my understanding, and deliberately change strategies to make and defend meaning.",
+  "know": [
+    "reading purpose",
+    "metacognition",
+    "text structure",
+    "background knowledge",
+    "summary",
+    "visualization",
+    "prediction",
+    "inference",
+    "morpheme"
+  ],
+  "understand": [
+    "Skilled readers change strategies according to text, task, and evidence.",
+    "A plausible inference requires evidence and may need revision as new details appear.",
+    "Prior knowledge supports comprehension but must be checked against the text."
+  ],
+  "do": [
+    "Set a reading goal and monitor it at planned checkpoints.",
+    "Skim structures, summarize sections, and update predictions with evidence.",
+    "Make defensible inferences and resolve unfamiliar language through context and morphology."
+  ],
+  "vocabulary": [
+    {
+      "term": "reading purpose",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how reading purpose operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "metacognition",
+      "definition": "Awareness of and control over one’s own thinking.",
+      "example": "Identify how metacognition operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "text structure",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how text structure operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "background knowledge",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how background knowledge operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "summary",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how summary operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "visualization",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how visualization operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "prediction",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how prediction operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "inference",
+      "definition": "An interpretation supported by textual clues and reasoning.",
+      "example": "Identify how inference operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "morpheme",
+      "definition": "A meaningful word part such as a root, prefix, or suffix.",
+      "example": "Identify how morpheme operates in a mentor text, then explain its effect."
+    }
+  ],
+  "targets": [
+    "I can set a reading goal and monitor it at planned checkpoints.",
+    "I can skim structures, summarize sections, and update predictions with evidence.",
+    "I can make defensible inferences and resolve unfamiliar language through context and morphology."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "genre": "Short story",
+      "purpose": "Use predictions and revisions to track how the ethical dilemma develops.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "Talk/transcript",
+      "purpose": "Compare prior knowledge and new evidence; summarize the central claim.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The Federalist No. 10",
+      "author": "James Madison",
+      "genre": "Historical argument",
+      "purpose": "Use skimming, paragraph summaries, and context to navigate complex syntax.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction excerpt",
+      "purpose": "Track scientific and ethical concepts and revise inferences.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The Lottery",
+      "author": "Shirley Jackson",
+      "genre": "Short story",
+      "purpose": "Monitor predictions and separate textual clues from assumptions.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "Ain’t I a Woman?",
+      "author": "Sojourner Truth",
+      "genre": "Historical speech (versions vary)",
+      "purpose": "Evaluate textual variants and infer the intended audience from language.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30–40 minutes",
+      "title": "Remediation: Comprehension Strategies workshop",
+      "activity": "Use a purpose-and-monitoring bookmark and a chunked text; stop after each paragraph to paraphrase, circle confusion, and use context clues for two unfamiliar terms.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Chunked text",
+        "Teacher think-aloud",
+        "Sentence frames and vocabulary cues"
+      ],
+      "success": "A three-column record of goal, confusion/strategy, and revised understanding.",
+      "alignment": [
+        "12.P.EICC.3.a",
+        "12.P.EICC.3.b",
+        "12.P.EICC.3.c",
+        "12.P.EICC.3.d",
+        "12.P.EICC.3.e",
+        "12.P.EICC.3.f",
+        "12.P.EICC.3.g"
+      ]
+    },
+    {
+      "level": "On Level",
+      "time": "45–60 minutes",
+      "title": "On Level: Comprehension Strategies workshop",
+      "activity": "Read two contrasting sections independently; skim headings or structural cues, annotate predictions and inferences, and summarize how new evidence changed the initial interpretation.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Optional outline",
+        "Peer conference and targeted feedback"
+      ],
+      "success": "An annotated text plus a 150-word synthesis with two evidence-based revisions.",
+      "alignment": [
+        "12.P.EICC.3.a",
+        "12.P.EICC.3.b",
+        "12.P.EICC.3.c",
+        "12.P.EICC.3.d",
+        "12.P.EICC.3.e",
+        "12.P.EICC.3.f",
+        "12.P.EICC.3.g"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Enrichment: Comprehension Strategies workshop",
+      "activity": "Compare how two genres require different comprehension strategies; test competing interpretations and defend a revised conclusion in a brief metacognitive commentary.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Multiple sources or media",
+        "Independent source verification",
+        "Audience-testing conference"
+      ],
+      "success": "A comparative strategy audit with cited passages and a justified interpretation.",
+      "alignment": [
+        "12.P.EICC.3.a",
+        "12.P.EICC.3.b",
+        "12.P.EICC.3.c",
+        "12.P.EICC.3.d",
+        "12.P.EICC.3.e",
+        "12.P.EICC.3.f",
+        "12.P.EICC.3.g"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "How did a new detail force you to revise an earlier prediction or inference? Quote the before-and-after evidence.",
+      "answer": "Identifies the initial inference, new evidence, and a defensible revision.",
+      "rationale": "Assesses evidence-based interpretation or purposeful application rather than recall.",
+      "alignment": [
+        "12.P.EICC.3.a",
+        "12.P.EICC.3.b",
+        "12.P.EICC.3.c",
+        "12.P.EICC.3.d",
+        "12.P.EICC.3.e",
+        "12.P.EICC.3.f",
+        "12.P.EICC.3.g"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Which comprehension strategy did you change when the text became difficult, and what specific passage shows that it worked?",
+      "answer": "Names a strategy, a textual obstacle, and evidence of improved understanding.",
+      "rationale": "Assesses evidence-based interpretation or purposeful application rather than recall.",
+      "alignment": [
+        "12.P.EICC.3.a",
+        "12.P.EICC.3.b",
+        "12.P.EICC.3.c",
+        "12.P.EICC.3.d",
+        "12.P.EICC.3.e",
+        "12.P.EICC.3.f",
+        "12.P.EICC.3.g"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated mentor-text evidence and reflection",
+    "Independent application or revised composition",
+    "Explanation of decisions in relation to audience, purpose, and evidence"
+  ],
+  "instruction": [
+    "Model a think-aloud that explicitly notices confusion and switches strategies.",
+    "Distinguish a summary of stated ideas from an inference that must be supported.",
+    "Use authentic complex texts and brief check-ins rather than treating each strategy as an isolated worksheet."
+  ],
+  "watchFor": [
+    "Students may confuse prediction with inference or assert either without evidence.",
+    "Prior knowledge can become an unsupported assumption.",
+    "A fluent-sounding paraphrase can hide misunderstanding."
+  ],
+  "skills": {
+    "12.P.EICC.3.a": {
+      "focus": "Purpose, goals, monitoring, adjustment",
+      "officialExpectation": "Establish a purpose and set goals for reading, monitor comprehension, and adjust as needed. (I)",
+      "studentFriendly": "I can purpose, goals, monitoring, adjustment and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Purpose, goals, monitoring, adjustment",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice purpose, goals, monitoring, adjustment in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate purpose, goals, monitoring, adjustment in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model purpose, goals, monitoring, adjustment with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating purpose, goals, monitoring, adjustment."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.P.EICC.3.b": {
+      "focus": "Skimming and scanning structure",
+      "officialExpectation": "Scan and skim the text, making note of structures and sections that might be most useful. (I)",
+      "studentFriendly": "I can skimming and scanning structure and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Skimming and scanning structure",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice skimming and scanning structure in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate skimming and scanning structure in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model skimming and scanning structure with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating skimming and scanning structure."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.P.EICC.3.c": {
+      "focus": "Integrating and testing prior knowledge",
+      "officialExpectation": "Draw from, compare, build, and integrate prior knowledge with the material in the text, addressing inconsistencies or gaps and adding to knowledge repertoires as appropriate. (I)",
+      "studentFriendly": "I can integrating and testing prior knowledge and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Integrating and testing prior knowledge",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice integrating and testing prior knowledge in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate integrating and testing prior knowledge in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model integrating and testing prior knowledge with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating integrating and testing prior knowledge."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.P.EICC.3.d": {
+      "focus": "Summarizing and visualizing",
+      "officialExpectation": "Summarize and visualize sections of the text to maintain understanding. (I)",
+      "studentFriendly": "I can summarizing and visualizing and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Summarizing and visualizing",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice summarizing and visualizing in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate summarizing and visualizing in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model summarizing and visualizing with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating summarizing and visualizing."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.P.EICC.3.e": {
+      "focus": "Tracking and revising predictions",
+      "officialExpectation": "Make and track predictions about the events and information likely to come next. (I)",
+      "studentFriendly": "I can tracking and revising predictions and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Tracking and revising predictions",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice tracking and revising predictions in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate tracking and revising predictions in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model tracking and revising predictions with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating tracking and revising predictions."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.P.EICC.3.f": {
+      "focus": "Supporting and revising inferences",
+      "officialExpectation": "Make, track, and support inferences about different levels of meaning within the text. (I)",
+      "studentFriendly": "I can supporting and revising inferences and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Supporting and revising inferences",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice supporting and revising inferences in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate supporting and revising inferences in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model supporting and revising inferences with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating supporting and revising inferences."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.P.EICC.3.g": {
+      "focus": "Context, academic vocabulary, and word parts",
+      "officialExpectation": "Determine the meanings of unfamiliar words and concepts by applying knowledge of context and of academic vocabulary and word parts. (I)",
+      "studentFriendly": "I can context, academic vocabulary, and word parts and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Context, academic vocabulary, and word parts",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice context, academic vocabulary, and word parts in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate context, academic vocabulary, and word parts in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model context, academic vocabulary, and word parts with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating context, academic vocabulary, and word parts."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "12.T.SS.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Organization",
+  "officialStandard": "**Organization** Analyze, evaluate, and use organizational structures and style to shape thoughts across genres.",
+  "studentFriendly": "I can evaluate how a text is organized and combine structures, transitions, and strategic details to influence a particular audience.",
+  "know": [
+    "organizational structure",
+    "cause and effect",
+    "problem–solution",
+    "comparison",
+    "sequence",
+    "cohesion",
+    "transition",
+    "multimodal composition",
+    "rhetorical placement"
+  ],
+  "understand": [
+    "Organization guides what an audience notices, trusts, and remembers.",
+    "Complex writing often blends structures rather than using a single formula.",
+    "Transitions must clarify logical relationships, not merely decorate sentences."
+  ],
+  "do": [
+    "Evaluate how a text’s arrangement meets its audience and purpose.",
+    "Blend organizational patterns to strengthen a central message.",
+    "Compose and revise a cohesive multimodal argument with strategically placed evidence and a compelling conclusion."
+  ],
+  "vocabulary": [
+    {
+      "term": "organizational structure",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how organizational structure operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "cause and effect",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how cause and effect operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "problem–solution",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how problem–solution operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "comparison",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how comparison operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "sequence",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how sequence operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "cohesion",
+      "definition": "Clear connections among ideas throughout a text.",
+      "example": "Identify how cohesion operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "transition",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how transition operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "multimodal composition",
+      "definition": "A text combining modes such as written language, images, audio, or data.",
+      "example": "Identify how multimodal composition operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "rhetorical placement",
+      "definition": "Deliberate positioning of ideas to influence audience response.",
+      "example": "Identify how rhetorical placement operates in a mentor text, then explain its effect."
+    }
+  ],
+  "targets": [
+    "I can evaluate how a text’s arrangement meets its audience and purpose.",
+    "I can blend organizational patterns to strengthen a central message.",
+    "I can compose and revise a cohesive multimodal argument with strategically placed evidence and a compelling conclusion."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter",
+      "purpose": "Map the sequence of objections, responses, examples, and appeals.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction excerpt",
+      "purpose": "Trace shifts between biography, science, and ethical explanation.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The New Jim Crow",
+      "author": "Michelle Alexander",
+      "genre": "Argumentative nonfiction excerpt",
+      "purpose": "Examine how claim, context, and evidence are sequenced for readers.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech",
+      "purpose": "Analyze the movement from past to present to future obligations.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "genre": "Expository argument excerpt",
+      "purpose": "Compare vivid opening, explanation, and evidence placement.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "A Talk to Teachers",
+      "author": "James Baldwin",
+      "genre": "Essay",
+      "purpose": "Analyze the progression from problem to social critique and call to action.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30–40 minutes",
+      "title": "Remediation: Organization workshop",
+      "activity": "Color-code the introduction, central claim, examples, transitions, and conclusion in a short model; reorder a scrambled paragraph set and justify the sequence.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Chunked text",
+        "Teacher think-aloud",
+        "Sentence frames and vocabulary cues"
+      ],
+      "success": "An annotated structure map and a 200-word revised passage.",
+      "alignment": [
+        "12.T.SS.1.a",
+        "12.T.SS.1.b",
+        "12.T.SS.1.c",
+        "12.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "On Level",
+      "time": "45–60 minutes",
+      "title": "On Level: Organization workshop",
+      "activity": "Compare two organizational patterns in a mentor text; draft an advocacy piece that blends problem–solution with cause–effect and includes clear transitions.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Optional outline",
+        "Peer conference and targeted feedback"
+      ],
+      "success": "A 500-word audience-specific piece with an annotated outline.",
+      "alignment": [
+        "12.T.SS.1.a",
+        "12.T.SS.1.b",
+        "12.T.SS.1.c",
+        "12.T.SS.1.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Enrichment: Organization workshop",
+      "activity": "Redesign an argument for two audiences in different media, changing the opening, placement of evidence, transitions, and closing; explain likely effects.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Multiple sources or media",
+        "Independent source verification",
+        "Audience-testing conference"
+      ],
+      "success": "Two contrasting multimodal outlines and a rhetorical rationale.",
+      "alignment": [
+        "12.T.SS.1.a",
+        "12.T.SS.1.b",
+        "12.T.SS.1.c",
+        "12.T.SS.1.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "Why does the author place this example before the counterargument rather than afterward? Cite specific passages.",
+      "answer": "Connects sequence to audience needs, claim development, and likely effect.",
+      "rationale": "Assesses evidence-based interpretation or purposeful application rather than recall.",
+      "alignment": [
+        "12.T.SS.1.a",
+        "12.T.SS.1.b",
+        "12.T.SS.1.c",
+        "12.T.SS.1.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "How would you blend two structures to make this message more persuasive for a different audience?",
+      "answer": "Proposes a coherent structure, transitions, and evidence placement with rationale.",
+      "rationale": "Assesses evidence-based interpretation or purposeful application rather than recall.",
+      "alignment": [
+        "12.T.SS.1.a",
+        "12.T.SS.1.b",
+        "12.T.SS.1.c",
+        "12.T.SS.1.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated mentor-text evidence and reflection",
+    "Independent application or revised composition",
+    "Explanation of decisions in relation to audience, purpose, and evidence"
+  ],
+  "instruction": [
+    "Use reverse outlines to reveal a writer’s actual structure before discussing effectiveness.",
+    "Model blended structures, such as narrative opening followed by cause–effect analysis and problem–solution proposal.",
+    "Ask students to test transitions by naming the exact relationship they signal."
+  ],
+  "watchFor": [
+    "Students may identify a structure without evaluating its effectiveness.",
+    "Blending structures can become disjointed without a controlling message.",
+    "Decorative transitions do not guarantee coherence."
+  ],
+  "skills": {
+    "12.T.SS.1.a": {
+      "focus": "Evaluate organizational effectiveness",
+      "officialExpectation": "Analyze and evaluate the effectiveness of a text’s organizational structure to meet the needs and expectations of the target audience or serve a specific purpose. (I)",
+      "studentFriendly": "I can evaluate organizational effectiveness and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Evaluate organizational effectiveness",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice evaluate organizational effectiveness in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate evaluate organizational effectiveness in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model evaluate organizational effectiveness with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating evaluate organizational effectiveness."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.T.SS.1.b": {
+      "focus": "Blend organizational structures",
+      "officialExpectation": "Blend multiple organizational structures to support and enhance a text’s central message. (C)",
+      "studentFriendly": "I can blend organizational structures and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Blend organizational structures",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice blend organizational structures in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate blend organizational structures in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model blend organizational structures with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating blend organizational structures."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.T.SS.1.c": {
+      "focus": "Guide readers through multimodal transitions",
+      "officialExpectation": "Guide the audience through texts using varied transitions in cohesive multimodal texts, as appropriate for purpose, audience, and design. (C)",
+      "studentFriendly": "I can guide readers through multimodal transitions and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Guide readers through multimodal transitions",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice guide readers through multimodal transitions in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate guide readers through multimodal transitions in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model guide readers through multimodal transitions with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating guide readers through multimodal transitions."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.T.SS.1.d": {
+      "focus": "Construct influential and strategically organized texts",
+      "officialExpectation": "Apply knowledge of text structure and organization to create influential texts with an introduction that guides the focus and promotes a viewpoint; strategically positioned facts, reasons, explanations, details, descriptions, and/or events to shape audience reception; and a compelling conclusion. (C)",
+      "studentFriendly": "I can construct influential and strategically organized texts and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Construct influential and strategically organized texts",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice construct influential and strategically organized texts in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate construct influential and strategically organized texts in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model construct influential and strategically organized texts with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating construct influential and strategically organized texts."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "12.T.T.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Expository Techniques",
+  "officialStandard": "**Expository Techniques** Evaluate and apply expository techniques to enhance text’s appeal to audiences or achieve specific purposes.",
+  "studentFriendly": "I can critique how explanations clarify ideas, evaluate disagreements between sources, and write coherent explanations suited to my audience.",
+  "know": [
+    "exposition",
+    "clarity",
+    "definition",
+    "classification",
+    "comparison",
+    "cause and effect",
+    "conflicting accounts",
+    "fact versus interpretation",
+    "tone",
+    "cohesion"
+  ],
+  "understand": [
+    "An effective explanation makes relationships among complex ideas visible.",
+    "Two sources can disagree about verified facts, interpretation, framing, or evidence quality.",
+    "Writers choose information types, structures, and tone for particular readers."
+  ],
+  "do": [
+    "Evaluate whether explanatory choices improve clarity and serve the audience.",
+    "Identify and verify the precise factual or interpretive disagreement between two sources.",
+    "Write a cohesive explanation using varied information, multiple structures, and audience-appropriate tone."
+  ],
+  "vocabulary": [
+    {
+      "term": "exposition",
+      "definition": "Writing intended primarily to explain or inform.",
+      "example": "Identify how exposition operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "clarity",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how clarity operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "definition",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how definition operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "classification",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how classification operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "comparison",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how comparison operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "cause and effect",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how cause and effect operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "conflicting accounts",
+      "definition": "Sources presenting claims that cannot both be accepted without qualification.",
+      "example": "Identify how conflicting accounts operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "fact versus interpretation",
+      "definition": "The distinction between verifiable assertions and explanations of what those facts mean.",
+      "example": "Identify how fact versus interpretation operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "tone",
+      "definition": "A concept used to analyze and create purposeful, evidence-based texts.",
+      "example": "Identify how tone operates in a mentor text, then explain its effect."
+    },
+    {
+      "term": "cohesion",
+      "definition": "Clear connections among ideas throughout a text.",
+      "example": "Identify how cohesion operates in a mentor text, then explain its effect."
+    }
+  ],
+  "targets": [
+    "I can evaluate whether explanatory choices improve clarity and serve the audience.",
+    "I can identify and verify the precise factual or interpretive disagreement between two sources.",
+    "I can write a cohesive explanation using varied information, multiple structures, and audience-appropriate tone."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "genre": "Science nonfiction excerpt",
+      "purpose": "Assess how examples and scientific explanations work together.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction excerpt",
+      "purpose": "Analyze how technical concepts are defined through human stories.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The Warmth of Other Suns",
+      "author": "Isabel Wilkerson",
+      "genre": "Historical nonfiction excerpt",
+      "purpose": "Compare chronology, testimony, and context as explanatory techniques.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson",
+      "genre": "Popular science excerpt",
+      "purpose": "Evaluate analogy and accessible explanation for general readers.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "The 1619 Project",
+      "author": "The New York Times Magazine contributors",
+      "genre": "Historical journalism (selected excerpt)",
+      "purpose": "Compare a claim with a separately sourced historical account; distinguish fact from interpretation.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": true,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    },
+    {
+      "title": "NASA climate evidence explainer",
+      "author": "NASA",
+      "genre": "Public science explainer",
+      "purpose": "Assess the role of graphics, definitions, and data in clarity.",
+      "access": "Use a licensed library copy, authorized excerpt, or reputable institutional source; verify edition, rights, and suitability.",
+      "readingTime": "15–35 minutes for a selected excerpt",
+      "highInterest": false,
+      "accessibility": "Provide a short chunked excerpt, vocabulary support, and audio where authorized."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "30–40 minutes",
+      "title": "Remediation: Expository Techniques workshop",
+      "activity": "Use two short explanations of one topic; highlight definitions, examples, and transitions, then rewrite a confusing paragraph for a younger reader.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Chunked text",
+        "Teacher think-aloud",
+        "Sentence frames and vocabulary cues"
+      ],
+      "success": "A before-and-after paragraph with notes on three clarity improvements.",
+      "alignment": [
+        "12.T.T.2.a",
+        "12.T.T.2.b",
+        "12.T.T.2.d"
+      ]
+    },
+    {
+      "level": "On Level",
+      "time": "45–60 minutes",
+      "title": "On Level: Expository Techniques workshop",
+      "activity": "Compare two credible sources that disagree; create a fact-versus-interpretation chart and write a structured explanatory synthesis with citations.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Optional outline",
+        "Peer conference and targeted feedback"
+      ],
+      "success": "A source comparison chart and a 500-word explanation.",
+      "alignment": [
+        "12.T.T.2.a",
+        "12.T.T.2.b",
+        "12.T.T.2.d"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "60–90 minutes",
+      "title": "Enrichment: Expository Techniques workshop",
+      "activity": "Evaluate a contested public claim using primary and secondary evidence; create two versions of a nuanced explanation for distinct audiences, defending tone and structure choices.",
+      "materials": [
+        "Mentor-text excerpts",
+        "Annotation and evidence organizer",
+        "Revision or reflection checklist"
+      ],
+      "scaffolds": [
+        "Multiple sources or media",
+        "Independent source verification",
+        "Audience-testing conference"
+      ],
+      "success": "A documented source audit and two audience-specific explanatory drafts.",
+      "alignment": [
+        "12.T.T.2.a",
+        "12.T.T.2.b",
+        "12.T.T.2.d"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "What exactly do these two sources disagree about: a checkable fact, an interpretation, or both? Support your classification.",
+      "answer": "Quotes the competing claims, identifies the disagreement, and checks evidence quality.",
+      "rationale": "Assesses evidence-based interpretation or purposeful application rather than recall.",
+      "alignment": [
+        "12.T.T.2.a",
+        "12.T.T.2.b",
+        "12.T.T.2.d"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "How does the writer combine definition, example, and organizational pattern to clarify a difficult idea?",
+      "answer": "Explains at least two techniques and their effect on a defined audience.",
+      "rationale": "Assesses evidence-based interpretation or purposeful application rather than recall.",
+      "alignment": [
+        "12.T.T.2.a",
+        "12.T.T.2.b",
+        "12.T.T.2.d"
+      ]
+    }
+  ],
+  "evidence": [
+    "Annotated mentor-text evidence and reflection",
+    "Independent application or revised composition",
+    "Explanation of decisions in relation to audience, purpose, and evidence"
+  ],
+  "instruction": [
+    "Teach students to quote the exact conflicting claims before evaluating which is better supported.",
+    "Separate evidence verification from disagreement about interpretation or values.",
+    "Use mentor explanations to demonstrate how multiple structures and tone can work together."
+  ],
+  "watchFor": [
+    "Students may label differing emphasis as a factual contradiction.",
+    "A balanced-sounding synthesis can conceal unequal evidence quality.",
+    "Students may overuse technical vocabulary without defining it for readers."
+  ],
+  "skills": {
+    "12.T.T.2.a": {
+      "focus": "Critique expository techniques and clarity",
+      "officialExpectation": "Evaluate and critique expository techniques and organizational patterns and their effect; evaluate and critique clarity of information and its impact. (I)",
+      "studentFriendly": "I can critique expository techniques and clarity and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Critique expository techniques and clarity",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice critique expository techniques and clarity in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate critique expository techniques and clarity in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model critique expository techniques and clarity with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating critique expository techniques and clarity."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.T.T.2.b": {
+      "focus": "Evaluate conflicting information and viewpoints",
+      "officialExpectation": "*Analyze and evaluate texts with conflicting information or opposing viewpoints and determine where the texts disagree on matters of fact or interpretations.* (I)",
+      "studentFriendly": "I can evaluate conflicting information and viewpoints and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Evaluate conflicting information and viewpoints",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice evaluate conflicting information and viewpoints in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate evaluate conflicting information and viewpoints in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model evaluate conflicting information and viewpoints with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating evaluate conflicting information and viewpoints."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    },
+    "12.T.T.2.c": {
+      "focus": "Progression note (not an active Grade 12 expectation)",
+      "officialExpectation": "This progression ends in 5th grade.",
+      "studentFriendly": "This is a progression note, not a separate active Grade 12 skill.",
+      "know": [
+        "Progression note (not an active Grade 12 expectation)",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "This expectation is marked as a progression note in the official source."
+      ],
+      "do": [
+        "Do not assign a new Grade 12 mastery target for this progression note."
+      ],
+      "targets": [
+        "Recognize the progression note without treating it as an assessable expectation."
+      ],
+      "instruction": [
+        "Retain the official note; align instruction and scoring to the active expectations."
+      ],
+      "evidence": [
+        "Official progression note; no separate Grade 12 product required."
+      ],
+      "watchFor": [
+        "Mistaking the progression note for a newly assessable expectation."
+      ]
+    },
+    "12.T.T.2.d": {
+      "focus": "Compose cohesive, audience-specific exposition",
+      "officialExpectation": "*Apply expository techniques to develop a cohesive text, organized in a way that clarifies the relationship between ideas, includes multiple and varied types of information, uses multiple text structures, and adjusts tone for a variety of audiences and purposes*. (C)",
+      "studentFriendly": "I can compose cohesive, audience-specific exposition and explain my decisions with relevant textual evidence.",
+      "know": [
+        "Compose cohesive, audience-specific exposition",
+        "The official wording and any I/C performance designation"
+      ],
+      "understand": [
+        "Choices and interpretations should be justified using purpose, audience, and evidence."
+      ],
+      "do": [
+        "Practice compose cohesive, audience-specific exposition in a grade-appropriate text or original composition.",
+        "Explain what the evidence shows and why the choice matters."
+      ],
+      "targets": [
+        "I can demonstrate compose cohesive, audience-specific exposition in an authentic reading or writing task."
+      ],
+      "instruction": [
+        "Model compose cohesive, audience-specific exposition with a brief mentor passage; require students to name specific evidence and evaluate the result."
+      ],
+      "evidence": [
+        "Annotated or composed evidence demonstrating compose cohesive, audience-specific exposition."
+      ],
+      "watchFor": [
+        "Identifying a technique without explaining its function or impact."
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
   ]
 }
 
