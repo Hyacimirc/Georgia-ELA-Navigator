@@ -7666,6 +7666,935 @@
   },
   "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
 }
+    ,
+{
+  "code": "12.P.ST.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Author, Audience, & Purpose",
+  "officialStandard": "**Author, Audience, & Purpose** Interpret and construct texts by developing and applying knowledge of the strategies and techniques authors use to accommodate the target audience and achieve the text’s purpose.",
+  "studentFriendly": "I can analyze and create texts that account for who is communicating, whom they are addressing, and what they want to accomplish.",
+  "know": [
+    "rhetorical situation",
+    "intended audience",
+    "authorial purpose",
+    "point of view",
+    "context",
+    "selection of evidence",
+    "audience expectations",
+    "rhetorical choice"
+  ],
+  "understand": [
+    "Authors make decisions about purposes and positions in response to particular audiences and contexts.",
+    "A text’s information, emphasis, and omissions influence how an audience understands its message.",
+    "A responsible writer anticipates what readers know, need, value, and may question."
+  ],
+  "do": [
+    "Identify an author’s purpose and point of view using evidence from a text and its context.",
+    "Evaluate why an author includes, excludes, or emphasizes particular information for an audience.",
+    "Plan and revise a text to meet the knowledge, expectations, and needs of a specified audience."
+  ],
+  "vocabulary": [
+    {
+      "term": "rhetorical situation",
+      "definition": "The situation, purpose, audience, and circumstances shaping communication.",
+      "example": "In a mentor text or student draft, identify a concrete example of rhetorical situation and explain its effect."
+    },
+    {
+      "term": "intended audience",
+      "definition": "The readers or listeners a creator seeks to reach.",
+      "example": "In a mentor text or student draft, identify a concrete example of intended audience and explain its effect."
+    },
+    {
+      "term": "authorial purpose",
+      "definition": "The effect or outcome an author intends.",
+      "example": "In a mentor text or student draft, identify a concrete example of authorial purpose and explain its effect."
+    },
+    {
+      "term": "point of view",
+      "definition": "The perspective or position expressed in a text.",
+      "example": "In a mentor text or student draft, identify a concrete example of point of view and explain its effect."
+    },
+    {
+      "term": "context",
+      "definition": "Relevant circumstances surrounding a text.",
+      "example": "In a mentor text or student draft, identify a concrete example of context and explain its effect."
+    },
+    {
+      "term": "selection of evidence",
+      "definition": "Choosing facts and examples to meet a communication purpose.",
+      "example": "In a mentor text or student draft, identify a concrete example of selection of evidence and explain its effect."
+    },
+    {
+      "term": "audience expectations",
+      "definition": "What an audience anticipates or needs from a text.",
+      "example": "In a mentor text or student draft, identify a concrete example of audience expectations and explain its effect."
+    },
+    {
+      "term": "rhetorical choice",
+      "definition": "A deliberate language or structure decision made for an effect.",
+      "example": "In a mentor text or student draft, identify a concrete example of rhetorical choice and explain its effect."
+    }
+  ],
+  "targets": [
+    "I can identify an author’s purpose and point of view using evidence from a text and its context.",
+    "I can evaluate why an author includes, excludes, or emphasizes particular information for an audience.",
+    "I can plan and revise a text to meet the knowledge, expectations, and needs of a specified audience."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Public letter",
+      "purpose": "Study how direct and wider audiences shape purpose, argument, and examples.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Ain’t I a Woman?",
+      "author": "Sojourner Truth",
+      "genre": "Historical speech (version-dependent)",
+      "purpose": "Compare surviving transcriptions and discuss how transmission shapes audience interpretation.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical essay",
+      "purpose": "Explain how irony and a particular political audience shape what is said and withheld.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Fire Next Time",
+      "author": "James Baldwin",
+      "genre": "Essay and letter",
+      "purpose": "Examine shifts in direct address and the implied audience.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "genre": "Environmental nonfiction",
+      "purpose": "Analyze how scientific examples are selected for public understanding.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Just Mercy",
+      "author": "Bryan Stevenson",
+      "genre": "Memoir and advocacy",
+      "purpose": "Examine the relationship between testimony, intended audience, and a reform argument.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "30 minutes",
+      "title": "Audience and purpose sort",
+      "activity": "Compare two brief texts about the same issue written for different readers; highlight clues to purpose, perspective, and information choices.",
+      "materials": "Two paired excerpts; color-coded annotation guide",
+      "scaffolds": "Model one comparison and supply author/audience/purpose sentence stems.",
+      "success": "Identify the audience and purpose of each text and cite two distinguishing choices.",
+      "alignment": "12.P.ST.2"
+    },
+    {
+      "level": "on-level",
+      "time": "50–70 minutes",
+      "title": "Audience-sensitive revision",
+      "activity": "Write a 400-word explanation for a general audience, then revise it for a specific stakeholder group and annotate at least four changes.",
+      "materials": "Issue source packet; two audience profiles; drafting tool",
+      "scaffolds": "Audience-needs checklist and partner feedback.",
+      "success": "Defend changes in purpose, point of view, examples, and terminology with textual evidence.",
+      "alignment": "12.P.ST.2"
+    },
+    {
+      "level": "enrichment",
+      "time": "Two class periods plus independent work",
+      "title": "Rhetorical situation case study",
+      "activity": "Analyze a public statement and its reception in two audience communities, then compose an ethically grounded response for one audience.",
+      "materials": "Primary statement; verified contextual sources; response records",
+      "scaffolds": "Evidence audit to separate documented response from inference.",
+      "success": "Explain how contextual evidence informs rhetorical choices without claiming to know private motives.",
+      "alignment": "12.P.ST.2"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can use evidence about an author, audience, and context to explain a text’s purpose, then establish a purpose for your own text. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Use evidence about an author, audience, and context to explain a text’s purpose, then establish a purpose for your own text.",
+      "rationale": "Assesses 12.P.ST.2.a by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.ST.2.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can determine a text’s perspective and explain how author, audience, and context shape that stance; state your own defensible perspective. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Determine a text’s perspective and explain how author, audience, and context shape that stance; state your own defensible perspective.",
+      "rationale": "Assesses 12.P.ST.2.b by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.ST.2.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can explain why a creator selects and organizes certain details for a particular audience; select appropriate details for your own audience. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Explain why a creator selects and organizes certain details for a particular audience; select appropriate details for your own audience.",
+      "rationale": "Assesses 12.P.ST.2.c by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.ST.2.c"
+    }
+  ],
+  "skills": {
+    "12.P.ST.2.a": {
+      "focus": "Purpose in context",
+      "studentFriendly": "I can use evidence about an author, audience, and context to explain a text’s purpose, then establish a purpose for your own text.",
+      "know": [
+        "rhetorical situation",
+        "intended audience",
+        "authorial purpose"
+      ],
+      "understand": [
+        "Authors make decisions about purposes and positions in response to particular audiences and contexts."
+      ],
+      "do": [
+        "Use evidence about an author, audience, and context to explain a text’s purpose, then establish a purpose for your own text."
+      ],
+      "targets": [
+        "I can use evidence about an author, audience, and context to explain a text’s purpose, then establish a purpose for your own text."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Develop and apply knowledge of author, audience, and context to discern and establish the purpose of texts being interpreted or constructed and to evaluate the extent to which those texts achieve those purposes. (I/C)",
+        "Model purpose in context in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Use evidence about an author, audience, and context to explain a text’s purpose, then establish a purpose for your own text."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Use evidence about an author, audience, and context to explain a text’s purpose, then establish a purpose for your own text.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    },
+    "12.P.ST.2.b": {
+      "focus": "Point of view",
+      "studentFriendly": "I can determine a text’s perspective and explain how author, audience, and context shape that stance; state your own defensible perspective.",
+      "know": [
+        "rhetorical situation",
+        "intended audience",
+        "authorial purpose"
+      ],
+      "understand": [
+        "Authors make decisions about purposes and positions in response to particular audiences and contexts."
+      ],
+      "do": [
+        "Determine a text’s perspective and explain how author, audience, and context shape that stance; state your own defensible perspective."
+      ],
+      "targets": [
+        "I can determine a text’s perspective and explain how author, audience, and context shape that stance; state your own defensible perspective."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Draw from knowledge of author, audience, and context to discern and establish a clear point of view or unique perspective when interpreting and constructing texts. (I/C)",
+        "Model point of view in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Determine a text’s perspective and explain how author, audience, and context shape that stance; state your own defensible perspective."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Determine a text’s perspective and explain how author, audience, and context shape that stance; state your own defensible perspective.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    },
+    "12.P.ST.2.c": {
+      "focus": "Information selection",
+      "studentFriendly": "I can explain why a creator selects and organizes certain details for a particular audience; select appropriate details for your own audience.",
+      "know": [
+        "rhetorical situation",
+        "intended audience",
+        "authorial purpose"
+      ],
+      "understand": [
+        "Authors make decisions about purposes and positions in response to particular audiences and contexts."
+      ],
+      "do": [
+        "Explain why a creator selects and organizes certain details for a particular audience; select appropriate details for your own audience."
+      ],
+      "targets": [
+        "I can explain why a creator selects and organizes certain details for a particular audience; select appropriate details for your own audience."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Draw from knowledge of how authors consider context and audience to determine which information and ideas to highlight, which text design is most accessible, which word choices and language structures are most effective, and which craft techniques are most impactful. (I/C)",
+        "Model information selection in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Explain why a creator selects and organizes certain details for a particular audience; select appropriate details for your own audience."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Explain why a creator selects and organizes certain details for a particular audience; select appropriate details for your own audience.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    }
+  },
+  "evidence": [
+    "A close reading or planning document with precise textual or contextual evidence.",
+    "An original analysis or composition demonstrating the standard’s craft decisions.",
+    "A reflection explaining how purpose, audience, and evidence informed choices."
+  ],
+  "instruction": [
+    "Model analysis of one brief mentor text, making purpose and audience explicit.",
+    "Move from guided identification to independent analysis and application.",
+    "Use targeted reader feedback to support revision and evidence-based explanation."
+  ],
+  "watchFor": [
+    "Do not confuse identifying a technique with explaining its effect.",
+    "Check that evidence and claims are grounded in the actual text and context.",
+    "These are independently developed suggestions, not official Georgia Department of Education instructional guidance."
+  ],
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+},
+{
+  "code": "12.P.AC.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Reading like a Writer",
+  "officialStandard": "**Reading like a Writer** Interpret texts through the author’s lens by identifying, analyzing, and evaluating craft techniques that are connected to the responses, thoughts, decisions, and questions triggered by the text.",
+  "studentFriendly": "I can read with an author’s eye, identify craft decisions, and explain how those decisions shape readers’ experiences and interpretations.",
+  "know": [
+    "close reading",
+    "literary technique",
+    "rhetorical technique",
+    "diction",
+    "syntax",
+    "tone",
+    "text organization",
+    "reader response"
+  ],
+  "understand": [
+    "Writers choose techniques, words, sentences, and structures to influence readers.",
+    "The effectiveness of a craft choice depends on purpose, context, and intended audience.",
+    "A strong craft analysis identifies specific textual evidence and explains its effect rather than merely naming a device."
+  ],
+  "do": [
+    "Annotate and analyze techniques in a literary or rhetorical text.",
+    "Explain the effects of diction and syntax on meaning, pace, and audience response.",
+    "Evaluate how organization and design reinforce or complicate a text’s purpose."
+  ],
+  "vocabulary": [
+    {
+      "term": "close reading",
+      "definition": "Examining specific language and structure to develop an interpretation.",
+      "example": "In a mentor text or student draft, identify a concrete example of close reading and explain its effect."
+    },
+    {
+      "term": "literary technique",
+      "definition": "A deliberate narrative, poetic, or dramatic device.",
+      "example": "In a mentor text or student draft, identify a concrete example of literary technique and explain its effect."
+    },
+    {
+      "term": "rhetorical technique",
+      "definition": "A technique used to influence an audience’s thinking or response.",
+      "example": "In a mentor text or student draft, identify a concrete example of rhetorical technique and explain its effect."
+    },
+    {
+      "term": "diction",
+      "definition": "An author’s purposeful word choice.",
+      "example": "In a mentor text or student draft, identify a concrete example of diction and explain its effect."
+    },
+    {
+      "term": "syntax",
+      "definition": "The arrangement and relationship of words and clauses.",
+      "example": "In a mentor text or student draft, identify a concrete example of syntax and explain its effect."
+    },
+    {
+      "term": "tone",
+      "definition": "The attitude conveyed by language and structure.",
+      "example": "In a mentor text or student draft, identify a concrete example of tone and explain its effect."
+    },
+    {
+      "term": "text organization",
+      "definition": "The arrangement of sections and ideas in a text.",
+      "example": "In a mentor text or student draft, identify a concrete example of text organization and explain its effect."
+    },
+    {
+      "term": "reader response",
+      "definition": "The thoughts or feelings a text elicits from readers.",
+      "example": "In a mentor text or student draft, identify a concrete example of reader response and explain its effect."
+    }
+  ],
+  "targets": [
+    "I can annotate and analyze techniques in a literary or rhetorical text.",
+    "I can explain the effects of diction and syntax on meaning, pace, and audience response.",
+    "I can evaluate how organization and design reinforce or complicate a text’s purpose."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "genre": "Novel",
+      "purpose": "Analyze shifting chronology, sentence patterns, and memory as craft.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O’Brien",
+      "genre": "Linked stories",
+      "purpose": "Study repetition, direct address, and tensions between truth and storytelling.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Their Eyes Were Watching God",
+      "author": "Zora Neale Hurston",
+      "genre": "Novel",
+      "purpose": "Examine narrative voice, dialogue, and metaphor.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Novel",
+      "purpose": "Trace imagery, selective narration, and structural framing.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech",
+      "purpose": "Analyze parallel structure, concision, and rhetorical progression.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "We Real Cool",
+      "author": "Gwendolyn Brooks",
+      "genre": "Poem",
+      "purpose": "Study line breaks, sound, and implied audience; verify authorized access.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "30 minutes",
+      "title": "Name it, quote it, explain it",
+      "activity": "Annotate a short passage for one technique, one striking phrase, and one sentence pattern; use a three-column chart to explain the effect.",
+      "materials": "Accessible passage; annotated model; technique-effect chart",
+      "scaffolds": "Teacher think-aloud, targeted examples, and explanation frames.",
+      "success": "Support three craft observations with quoted details and a plausible reader effect.",
+      "alignment": "12.P.AC.1"
+    },
+    {
+      "level": "on-level",
+      "time": "50–70 minutes",
+      "title": "Craft move comparative analysis",
+      "activity": "Compare two authors addressing a shared theme or issue; write a craft analysis of diction, syntax, technique, and structure.",
+      "materials": "Two excerpts; annotation tools; comparison organizer",
+      "scaffolds": "Evidence-selection conference and peer feedback on causal explanations.",
+      "success": "Make a defensible comparative claim supported by at least four precise textual details.",
+      "alignment": "12.P.AC.1"
+    },
+    {
+      "level": "enrichment",
+      "time": "Two class periods plus independent work",
+      "title": "Reverse-engineer a mentor text",
+      "activity": "Analyze a sophisticated passage, imitate two of its craft moves in an original composition, and write a commentary on intended and actual effects.",
+      "materials": "Mentor passage; drafts; peer response protocol",
+      "scaffolds": "Optional genre and audience constraints; revision workshop.",
+      "success": "Distinguish imitation from copying and evaluate how two specific choices affected readers.",
+      "alignment": "12.P.AC.1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can identify and evaluate literary or rhetorical techniques and explain how they shape a reader’s response. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Identify and evaluate literary or rhetorical techniques and explain how they shape a reader’s response.",
+      "rationale": "Assesses 12.P.AC.1.a by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.AC.1.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can analyze striking words and phrases and explain how diction affects meaning and audience experience. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Analyze striking words and phrases and explain how diction affects meaning and audience experience.",
+      "rationale": "Assesses 12.P.AC.1.b by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.AC.1.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can evaluate how syntax, sentence length, and arrangement shape emphasis, rhythm, and interpretation. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Evaluate how syntax, sentence length, and arrangement shape emphasis, rhythm, and interpretation.",
+      "rationale": "Assesses 12.P.AC.1.c by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.AC.1.c"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can analyze how a text’s sequence, structure, and features contribute to its purpose and effects. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Analyze how a text’s sequence, structure, and features contribute to its purpose and effects.",
+      "rationale": "Assesses 12.P.AC.1.d by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.AC.1.d"
+    }
+  ],
+  "skills": {
+    "12.P.AC.1.a": {
+      "focus": "Craft techniques",
+      "studentFriendly": "I can identify and evaluate literary or rhetorical techniques and explain how they shape a reader’s response.",
+      "know": [
+        "close reading",
+        "literary technique",
+        "rhetorical technique"
+      ],
+      "understand": [
+        "Writers choose techniques, words, sentences, and structures to influence readers."
+      ],
+      "do": [
+        "Identify and evaluate literary or rhetorical techniques and explain how they shape a reader’s response."
+      ],
+      "targets": [
+        "I can identify and evaluate literary or rhetorical techniques and explain how they shape a reader’s response."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Identify, apply, and analyze the literary, expository, and opinion (grades K-5) or rhetorical (grades 6-12) elements in texts, explaining or evaluating how specific elements affect the target audience and support the text’s purpose. (I/C)",
+        "Model craft techniques in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Identify and evaluate literary or rhetorical techniques and explain how they shape a reader’s response."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Identify and evaluate literary or rhetorical techniques and explain how they shape a reader’s response.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    },
+    "12.P.AC.1.b": {
+      "focus": "Language choices",
+      "studentFriendly": "I can analyze striking words and phrases and explain how diction affects meaning and audience experience.",
+      "know": [
+        "close reading",
+        "literary technique",
+        "rhetorical technique"
+      ],
+      "understand": [
+        "Writers choose techniques, words, sentences, and structures to influence readers."
+      ],
+      "do": [
+        "Analyze striking words and phrases and explain how diction affects meaning and audience experience."
+      ],
+      "targets": [
+        "I can analyze striking words and phrases and explain how diction affects meaning and audience experience."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Identify, apply, and analyze important, interesting, or effective uses of language, explaining or evaluating how specific word choices affect the target audience and support the text’s purpose. (I/C)",
+        "Model language choices in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Analyze striking words and phrases and explain how diction affects meaning and audience experience."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Analyze striking words and phrases and explain how diction affects meaning and audience experience.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    },
+    "12.P.AC.1.c": {
+      "focus": "Sentence structure",
+      "studentFriendly": "I can evaluate how syntax, sentence length, and arrangement shape emphasis, rhythm, and interpretation.",
+      "know": [
+        "close reading",
+        "literary technique",
+        "rhetorical technique"
+      ],
+      "understand": [
+        "Writers choose techniques, words, sentences, and structures to influence readers."
+      ],
+      "do": [
+        "Evaluate how syntax, sentence length, and arrangement shape emphasis, rhythm, and interpretation."
+      ],
+      "targets": [
+        "I can evaluate how syntax, sentence length, and arrangement shape emphasis, rhythm, and interpretation."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Explain, analyze, and evaluate how the author’s use of sentence structure and syntax affects the target audience and supports the text’s purpose. (I/C)",
+        "Model sentence structure in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Evaluate how syntax, sentence length, and arrangement shape emphasis, rhythm, and interpretation."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Evaluate how syntax, sentence length, and arrangement shape emphasis, rhythm, and interpretation.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    },
+    "12.P.AC.1.d": {
+      "focus": "Design and organization",
+      "studentFriendly": "I can analyze how a text’s sequence, structure, and features contribute to its purpose and effects.",
+      "know": [
+        "close reading",
+        "literary technique",
+        "rhetorical technique"
+      ],
+      "understand": [
+        "Writers choose techniques, words, sentences, and structures to influence readers."
+      ],
+      "do": [
+        "Analyze how a text’s sequence, structure, and features contribute to its purpose and effects."
+      ],
+      "targets": [
+        "I can analyze how a text’s sequence, structure, and features contribute to its purpose and effects."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Describe, analyze, and evaluate the design and organization of the text, explaining how specific formats, structures, patterns, and features influence the audience, contribute to the text’s accessibility, and support the text’s purpose. (I/C)",
+        "Model design and organization in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Analyze how a text’s sequence, structure, and features contribute to its purpose and effects."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Analyze how a text’s sequence, structure, and features contribute to its purpose and effects.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    }
+  },
+  "evidence": [
+    "A close reading or planning document with precise textual or contextual evidence.",
+    "An original analysis or composition demonstrating the standard’s craft decisions.",
+    "A reflection explaining how purpose, audience, and evidence informed choices."
+  ],
+  "instruction": [
+    "Model analysis of one brief mentor text, making purpose and audience explicit.",
+    "Move from guided identification to independent analysis and application.",
+    "Use targeted reader feedback to support revision and evidence-based explanation."
+  ],
+  "watchFor": [
+    "Do not confuse identifying a technique with explaining its effect.",
+    "Check that evidence and claims are grounded in the actual text and context.",
+    "These are independently developed suggestions, not official Georgia Department of Education instructional guidance."
+  ],
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+},
+{
+  "code": "12.P.AC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Writing like a Reader",
+  "officialStandard": "**Writing like a Reader** Construct texts with the audience’s experience in mind, basing decisions about craft techniques on context and purpose.",
+  "studentFriendly": "I can make deliberate choices about technique, word choice, sentences, and structure to create a particular experience for my readers.",
+  "know": [
+    "audience awareness",
+    "rhetorical strategy",
+    "narrative technique",
+    "diction",
+    "syntax",
+    "cohesion",
+    "text structure",
+    "revision rationale"
+  ],
+  "understand": [
+    "A writer can anticipate reader responses by choosing techniques that suit genre and purpose.",
+    "Specific language and sentence choices influence clarity, emphasis, mood, and credibility.",
+    "Structure and design guide readers through ideas and can be revised based on evidence of reader understanding."
+  ],
+  "do": [
+    "Select and use literary or rhetorical techniques suited to an intended audience.",
+    "Revise words and sentence patterns to achieve a precise effect.",
+    "Organize a complete text and explain how its features support purpose and reader experience."
+  ],
+  "vocabulary": [
+    {
+      "term": "audience awareness",
+      "definition": "Considering what readers know, expect, and need.",
+      "example": "In a mentor text or student draft, identify a concrete example of audience awareness and explain its effect."
+    },
+    {
+      "term": "rhetorical strategy",
+      "definition": "A planned persuasive or explanatory choice.",
+      "example": "In a mentor text or student draft, identify a concrete example of rhetorical strategy and explain its effect."
+    },
+    {
+      "term": "narrative technique",
+      "definition": "A storytelling move that shapes readers’ experience.",
+      "example": "In a mentor text or student draft, identify a concrete example of narrative technique and explain its effect."
+    },
+    {
+      "term": "diction",
+      "definition": "Intentional word choice.",
+      "example": "In a mentor text or student draft, identify a concrete example of diction and explain its effect."
+    },
+    {
+      "term": "syntax",
+      "definition": "Sentence structure and arrangement.",
+      "example": "In a mentor text or student draft, identify a concrete example of syntax and explain its effect."
+    },
+    {
+      "term": "cohesion",
+      "definition": "The connections that make a text understandable as a whole.",
+      "example": "In a mentor text or student draft, identify a concrete example of cohesion and explain its effect."
+    },
+    {
+      "term": "text structure",
+      "definition": "The overall arrangement of ideas and sections.",
+      "example": "In a mentor text or student draft, identify a concrete example of text structure and explain its effect."
+    },
+    {
+      "term": "revision rationale",
+      "definition": "An evidence-based explanation of why a draft was changed.",
+      "example": "In a mentor text or student draft, identify a concrete example of revision rationale and explain its effect."
+    }
+  ],
+  "targets": [
+    "I can select and use literary or rhetorical techniques suited to an intended audience.",
+    "I can revise words and sentence patterns to achieve a precise effect.",
+    "I can organize a complete text and explain how its features support purpose and reader experience."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Vignette novel",
+      "purpose": "Model compressed scenes, imagery, and purposeful sentence rhythm.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Between the World and Me",
+      "author": "Ta-Nehisi Coates",
+      "genre": "Epistolary nonfiction",
+      "purpose": "Study direct address and structure for a defined audience.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Book of Delights",
+      "author": "Ross Gay",
+      "genre": "Personal essays",
+      "purpose": "Model concrete observation, voice, and paragraph progression.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Study transitions between explanation and personal narrative.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "A Raisin in the Sun",
+      "author": "Lorraine Hansberry",
+      "genre": "Drama",
+      "purpose": "Explore dialogue and scene structure as tools for audience engagement.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Hill We Climb",
+      "author": "Amanda Gorman",
+      "genre": "Occasional poem",
+      "purpose": "Analyze rhythm and repetition before writing an original audience-specific piece.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "30 minutes",
+      "title": "One paragraph, three revisions",
+      "activity": "Draft a short paragraph for a defined audience; revise one word choice, one sentence pattern, and one organizational move.",
+      "materials": "Short mentor excerpt; audience card; revision checklist",
+      "scaffolds": "Teacher model, sentence combining options, and color-coded revisions.",
+      "success": "Explain how each of three revisions changes the intended reader experience.",
+      "alignment": "12.P.AC.2"
+    },
+    {
+      "level": "on-level",
+      "time": "50–70 minutes",
+      "title": "Reader-centered writing workshop",
+      "activity": "Draft an op-ed, personal essay, or explanatory feature for a specified audience; test clarity with peer readers and revise at least four craft decisions.",
+      "materials": "Genre mentor texts; research where appropriate; peer feedback form",
+      "scaffolds": "Peer review prompts tied to technique, diction, syntax, and structure.",
+      "success": "Submit a polished text and a revision memo citing specific reader feedback.",
+      "alignment": "12.P.AC.2"
+    },
+    {
+      "level": "enrichment",
+      "time": "Two class periods plus independent work",
+      "title": "Multigenre audience challenge",
+      "activity": "Communicate one complex issue in two different genres for different audiences; run a small reader-response study and compare the effects of craft choices.",
+      "materials": "Audience profiles; model texts; ethical feedback protocol",
+      "scaffolds": "Conference on audience assumptions and evidence of effects.",
+      "success": "Justify distinct craft choices and identify where actual audience feedback challenges expectations.",
+      "alignment": "12.P.AC.2"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can use appropriate literary or rhetorical elements to engage readers and accomplish a specific purpose. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Use appropriate literary or rhetorical elements to engage readers and accomplish a specific purpose.",
+      "rationale": "Assesses 12.P.AC.2.a by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.AC.2.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can choose and revise words and phrases to influence readers’ understanding, questions, and responses. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Choose and revise words and phrases to influence readers’ understanding, questions, and responses.",
+      "rationale": "Assesses 12.P.AC.2.b by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.AC.2.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can adjust sentence structures deliberately to influence rhythm, clarity, emphasis, and audience response. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Adjust sentence structures deliberately to influence rhythm, clarity, emphasis, and audience response.",
+      "rationale": "Assesses 12.P.AC.2.c by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.AC.2.c"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text or your own draft, show how you can select and revise organizational patterns and text features to guide a target audience through the message. Quote or describe precise evidence.",
+      "answer": "A strong response demonstrates this skill with specific evidence and an explanation of effects: Select and revise organizational patterns and text features to guide a target audience through the message.",
+      "rationale": "Assesses 12.P.AC.2.d by requiring analysis or purposeful composition rather than simple identification.",
+      "alignment": "12.P.AC.2.d"
+    }
+  ],
+  "skills": {
+    "12.P.AC.2.a": {
+      "focus": "Techniques for readers",
+      "studentFriendly": "I can use appropriate literary or rhetorical elements to engage readers and accomplish a specific purpose.",
+      "know": [
+        "audience awareness",
+        "rhetorical strategy",
+        "narrative technique"
+      ],
+      "understand": [
+        "A writer can anticipate reader responses by choosing techniques that suit genre and purpose."
+      ],
+      "do": [
+        "Use appropriate literary or rhetorical elements to engage readers and accomplish a specific purpose."
+      ],
+      "targets": [
+        "I can use appropriate literary or rhetorical elements to engage readers and accomplish a specific purpose."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Integrate literary, expository, and opinion (grades K-5) or rhetorical (grades 6-12) elements to appeal to target audiences and achieve specific purposes. (I/C)",
+        "Model techniques for readers in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Use appropriate literary or rhetorical elements to engage readers and accomplish a specific purpose."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Use appropriate literary or rhetorical elements to engage readers and accomplish a specific purpose.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    },
+    "12.P.AC.2.b": {
+      "focus": "Diction and effect",
+      "studentFriendly": "I can choose and revise words and phrases to influence readers’ understanding, questions, and responses.",
+      "know": [
+        "audience awareness",
+        "rhetorical strategy",
+        "narrative technique"
+      ],
+      "understand": [
+        "A writer can anticipate reader responses by choosing techniques that suit genre and purpose."
+      ],
+      "do": [
+        "Choose and revise words and phrases to influence readers’ understanding, questions, and responses."
+      ],
+      "targets": [
+        "I can choose and revise words and phrases to influence readers’ understanding, questions, and responses."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Craft words and phrases in order to influence the responses, thoughts, decisions, and questions of the target audience and achieve a specific purpose. (I/C)",
+        "Model diction and effect in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Choose and revise words and phrases to influence readers’ understanding, questions, and responses."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Choose and revise words and phrases to influence readers’ understanding, questions, and responses.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    },
+    "12.P.AC.2.c": {
+      "focus": "Syntax and emphasis",
+      "studentFriendly": "I can adjust sentence structures deliberately to influence rhythm, clarity, emphasis, and audience response.",
+      "know": [
+        "audience awareness",
+        "rhetorical strategy",
+        "narrative technique"
+      ],
+      "understand": [
+        "A writer can anticipate reader responses by choosing techniques that suit genre and purpose."
+      ],
+      "do": [
+        "Adjust sentence structures deliberately to influence rhythm, clarity, emphasis, and audience response."
+      ],
+      "targets": [
+        "I can adjust sentence structures deliberately to influence rhythm, clarity, emphasis, and audience response."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Make decisions about sentence structure and syntax in order to accommodate and influence the audience and achieve a specific purpose. (I/C)",
+        "Model syntax and emphasis in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Adjust sentence structures deliberately to influence rhythm, clarity, emphasis, and audience response."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Adjust sentence structures deliberately to influence rhythm, clarity, emphasis, and audience response.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    },
+    "12.P.AC.2.d": {
+      "focus": "Structure and features",
+      "studentFriendly": "I can select and revise organizational patterns and text features to guide a target audience through the message.",
+      "know": [
+        "audience awareness",
+        "rhetorical strategy",
+        "narrative technique"
+      ],
+      "understand": [
+        "A writer can anticipate reader responses by choosing techniques that suit genre and purpose."
+      ],
+      "do": [
+        "Select and revise organizational patterns and text features to guide a target audience through the message."
+      ],
+      "targets": [
+        "I can select and revise organizational patterns and text features to guide a target audience through the message."
+      ],
+      "instruction": [
+        "Begin with the official expectation: Organize texts by incorporating specific formats, structures, patterns, and features to influence the audience, facilitate accessibility, and support the text’s purpose. (I/C)",
+        "Model structure and features in a short, authentic passage and verbalize the reason for each observation or choice.",
+        "Have students practice independently and justify how their evidence demonstrates: Select and revise organizational patterns and text features to guide a target audience through the message."
+      ],
+      "evidence": [
+        "Annotated text or original draft demonstrating: Select and revise organizational patterns and text features to guide a target audience through the message.",
+        "A brief explanation of the relationship among the choice, audience, and intended effect."
+      ],
+      "watchFor": [
+        "Naming a device without explaining its function is not sufficient.",
+        "Avoid treating an inferred reader response as a documented fact."
+      ]
+    }
+  },
+  "evidence": [
+    "A close reading or planning document with precise textual or contextual evidence.",
+    "An original analysis or composition demonstrating the standard’s craft decisions.",
+    "A reflection explaining how purpose, audience, and evidence informed choices."
+  ],
+  "instruction": [
+    "Model analysis of one brief mentor text, making purpose and audience explicit.",
+    "Move from guided identification to independent analysis and application.",
+    "Use targeted reader feedback to support revision and evidence-based explanation."
+  ],
+  "watchFor": [
+    "Do not confuse identifying a technique with explaining its effect.",
+    "Check that evidence and claims are grounded in the actual text and context.",
+    "These are independently developed suggestions, not official Georgia Department of Education instructional guidance."
+  ],
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+}
   ]
 }
 
