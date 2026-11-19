@@ -8595,6 +8595,1011 @@
   ],
   "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
 }
+    ,
+{
+  "code": "12.P.AC.3",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Text Design",
+  "officialStandard": "**Text Design** Consider the impact of text design on audience and purpose when consuming and producing texts across modes and genres.",
+  "studentFriendly": "I can analyze and create texts whose genre, structure, visuals, and other modes help a particular audience understand and respond.",
+  "know": [
+    "mode",
+    "genre",
+    "multimodal text",
+    "layout and hierarchy",
+    "visual rhetoric",
+    "affordance",
+    "genre convention",
+    "accessibility"
+  ],
+  "understand": [
+    "A mode or genre makes some kinds of evidence, organization, and emotional appeals more effective than others.",
+    "Design is a rhetorical decision: layout, sequence, and media change what audiences notice and infer.",
+    "Accessible design strengthens communication rather than merely decorating a message."
+  ],
+  "do": [
+    "Compare how a print essay, infographic, and short video communicate the same claim.",
+    "Choose a mode and genre to fit a real audience and explain what information belongs in it.",
+    "Produce and revise a multimodal text with deliberate arrangement, evidence, and accessibility."
+  ],
+  "vocabulary": [
+    {
+      "term": "mode",
+      "definition": "The medium or channel through which meaning is conveyed.",
+      "example": "Identify a specific instance of mode in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "genre",
+      "definition": "A recognizable type of text with conventions for content and form.",
+      "example": "Identify a specific instance of genre in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "multimodal text",
+      "definition": "A text that combines forms such as words, images, audio, and movement.",
+      "example": "Identify a specific instance of multimodal text in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "layout and hierarchy",
+      "definition": "A concept used to analyze or produce effective text design; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of layout and hierarchy in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "visual rhetoric",
+      "definition": "A concept used to analyze or produce effective text design; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of visual rhetoric in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "affordance",
+      "definition": "A concept used to analyze or produce effective text design; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of affordance in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "genre convention",
+      "definition": "A concept used to analyze or produce effective text design; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of genre convention in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "accessibility",
+      "definition": "A concept used to analyze or produce effective text design; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of accessibility in a mentor text or student work and explain its effect."
+    }
+  ],
+  "targets": [
+    "I can compare how a print essay, infographic, and short video communicate the same claim.",
+    "I can choose a mode and genre to fit a real audience and explain what information belongs in it.",
+    "I can produce and revise a multimodal text with deliberate arrangement, evidence, and accessibility."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The New York Times “Snow Fall”",
+      "author": "John Branch",
+      "genre": "Multimedia journalism",
+      "purpose": "Analyze the relationship among scrolling narrative, images, maps, and video.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "The Arrival",
+      "author": "Shaun Tan",
+      "genre": "Wordless graphic novel",
+      "purpose": "Study how visual sequencing and framing build meaning without conventional prose.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "Persepolis",
+      "author": "Marjane Satrapi",
+      "genre": "Graphic memoir",
+      "purpose": "Examine how panels, contrast, and captions shape tone and audience response.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "The 1619 Project (selected multimedia feature)",
+      "author": "The New York Times Magazine contributors",
+      "genre": "Multimedia journalism",
+      "purpose": "Compare photography, essays, and visual design while checking source framing.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "March: Book One",
+      "author": "John Lewis, Andrew Aydin, and Nate Powell",
+      "genre": "Graphic memoir",
+      "purpose": "Study the impact of panel size, pacing, and black-and-white composition.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "The Elements of Style (selected illustrated edition or design comparison)",
+      "author": "William Strunk Jr. and E. B. White",
+      "genre": "Reference text",
+      "purpose": "Contrast typography, headings, and page design across editions.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "25–35 minutes",
+      "title": "Genre and design detectives",
+      "activity": "Compare a one-page article and an infographic on the same topic; label headline, evidence, image, caption, and reading path.",
+      "materials": "Two short accessible mentor texts; annotation template",
+      "scaffolds": "Provide a completed model and a word bank for feature/function language.",
+      "success": "Explain two features and their effects on a reader.",
+      "alignment": "12.P.AC.3"
+    },
+    {
+      "level": "on-level",
+      "time": "50–75 minutes",
+      "title": "One claim, two modes",
+      "activity": "Turn a 450-word evidence-based explanation into a one-page visual explainer for younger students; submit a 200-word rationale.",
+      "materials": "Draft; citations; layout tool or paper",
+      "scaffolds": "Use a design checklist for hierarchy, captions, source attribution, and accessibility.",
+      "success": "Both versions retain accurate evidence while changing organization for the audience.",
+      "alignment": "12.P.AC.3"
+    },
+    {
+      "level": "enrichment",
+      "time": "2–3 class periods",
+      "title": "Community information campaign",
+      "activity": "Design a coordinated web article, 60-second storyboard, and accessible infographic addressing a documented local issue; test with intended readers.",
+      "materials": "Source packet; peer feedback; design software",
+      "scaffolds": "Require a comparative genre rationale and accessibility audit.",
+      "success": "Explain tradeoffs among modes and revise based on reader feedback.",
+      "alignment": "12.P.AC.3"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Analyze how genre and mode features change meaning, tone, style, and audience response. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates feature and effect with specific evidence: Annotate three deliberate design choices and justify their effects.",
+      "rationale": "Assesses 12.P.AC.3.a by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.AC.3.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Decide which ideas and evidence belong in a particular mode and genre. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates information selection with specific evidence: Explain why two facts are featured and another is linked or omitted.",
+      "rationale": "Assesses 12.P.AC.3.b by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.AC.3.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Organize information using sequence, hierarchy, and navigation appropriate to a genre. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates information arrangement with specific evidence: Produce a labeled wireframe and defend its reading path.",
+      "rationale": "Assesses 12.P.AC.3.c by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.AC.3.c"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Combine genres, media, and craft techniques to influence a specific audience ethically. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates multimodal composition with specific evidence: Submit an accessible multimodal artifact and audience-testing revision log.",
+      "rationale": "Assesses 12.P.AC.3.d by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.AC.3.d"
+    }
+  ],
+  "skills": {
+    "12.P.AC.3.a": {
+      "focus": "Feature and effect",
+      "studentFriendly": "I can analyze how genre and mode features change meaning, tone, style, and audience response.",
+      "officialExpectation": "Explore and create texts in various modes and genres, developing and applying knowledge of how specific features impact meaning, tone, style, purpose, and audience. (I/C)",
+      "know": [
+        "mode",
+        "genre",
+        "multimodal text",
+        "layout and hierarchy"
+      ],
+      "understand": [
+        "A mode or genre makes some kinds of evidence, organization, and emotional appeals more effective than others."
+      ],
+      "do": [
+        "Analyze how genre and mode features change meaning, tone, style, and audience response."
+      ],
+      "targets": [
+        "I can analyze how genre and mode features change meaning, tone, style, and audience response."
+      ],
+      "instruction": [
+        "Model feature and effect using a short shared mentor text or authentic task.",
+        "Have students practice: Analyze how genre and mode features change meaning, tone, style, and audience response.",
+        "Use feedback to check: Annotate three deliberate design choices and justify their effects."
+      ],
+      "evidence": [
+        "Annotate three deliberate design choices and justify their effects."
+      ],
+      "watchFor": [
+        "Students list features without connecting them to interpretation."
+      ]
+    },
+    "12.P.AC.3.b": {
+      "focus": "Information selection",
+      "studentFriendly": "I can decide which ideas and evidence belong in a particular mode and genre.",
+      "officialExpectation": "Apply knowledge of how mode and genre impact what kinds of ideas and information are included in texts. (I/C)",
+      "know": [
+        "mode",
+        "genre",
+        "multimodal text",
+        "layout and hierarchy"
+      ],
+      "understand": [
+        "A mode or genre makes some kinds of evidence, organization, and emotional appeals more effective than others."
+      ],
+      "do": [
+        "Decide which ideas and evidence belong in a particular mode and genre."
+      ],
+      "targets": [
+        "I can decide which ideas and evidence belong in a particular mode and genre."
+      ],
+      "instruction": [
+        "Model information selection using a short shared mentor text or authentic task.",
+        "Have students practice: Decide which ideas and evidence belong in a particular mode and genre.",
+        "Use feedback to check: Explain why two facts are featured and another is linked or omitted."
+      ],
+      "evidence": [
+        "Explain why two facts are featured and another is linked or omitted."
+      ],
+      "watchFor": [
+        "Students omit essential qualifications when shortening content."
+      ]
+    },
+    "12.P.AC.3.c": {
+      "focus": "Information arrangement",
+      "studentFriendly": "I can organize information using sequence, hierarchy, and navigation appropriate to a genre.",
+      "officialExpectation": "Apply knowledge of how mode and genre impact how ideas and information are structured and arranged in texts. (I/C)",
+      "know": [
+        "mode",
+        "genre",
+        "multimodal text",
+        "layout and hierarchy"
+      ],
+      "understand": [
+        "A mode or genre makes some kinds of evidence, organization, and emotional appeals more effective than others."
+      ],
+      "do": [
+        "Organize information using sequence, hierarchy, and navigation appropriate to a genre."
+      ],
+      "targets": [
+        "I can organize information using sequence, hierarchy, and navigation appropriate to a genre."
+      ],
+      "instruction": [
+        "Model information arrangement using a short shared mentor text or authentic task.",
+        "Have students practice: Organize information using sequence, hierarchy, and navigation appropriate to a genre.",
+        "Use feedback to check: Produce a labeled wireframe and defend its reading path."
+      ],
+      "evidence": [
+        "Produce a labeled wireframe and defend its reading path."
+      ],
+      "watchFor": [
+        "Students equate decorative visual appeal with clear organization."
+      ]
+    },
+    "12.P.AC.3.d": {
+      "focus": "Multimodal composition",
+      "studentFriendly": "I can combine genres, media, and craft techniques to influence a specific audience ethically.",
+      "officialExpectation": "Consume and produce multimodal texts, integrating a variety of genres, text features, and craft techniques to influence target audiences and achieve specific purposes. (I/C)",
+      "know": [
+        "mode",
+        "genre",
+        "multimodal text",
+        "layout and hierarchy"
+      ],
+      "understand": [
+        "A mode or genre makes some kinds of evidence, organization, and emotional appeals more effective than others."
+      ],
+      "do": [
+        "Combine genres, media, and craft techniques to influence a specific audience ethically."
+      ],
+      "targets": [
+        "I can combine genres, media, and craft techniques to influence a specific audience ethically."
+      ],
+      "instruction": [
+        "Model multimodal composition using a short shared mentor text or authentic task.",
+        "Have students practice: Combine genres, media, and craft techniques to influence a specific audience ethically.",
+        "Use feedback to check: Submit an accessible multimodal artifact and audience-testing revision log."
+      ],
+      "evidence": [
+        "Submit an accessible multimodal artifact and audience-testing revision log."
+      ],
+      "watchFor": [
+        "Students add media without a rhetorical purpose or source credit."
+      ]
+    }
+  },
+  "evidence": [
+    "An annotated mentor text, plan, or rehearsal documenting choices in text design.",
+    "A completed product with relevant evidence and a clear audience or purpose.",
+    "A short reflection identifying a concrete revision and its effect."
+  ],
+  "instruction": [
+    "Model a high-quality example of text design and think aloud about its choices.",
+    "Use a brief guided practice task before independent application.",
+    "Assess the product and the explanation of choices, with actionable feedback."
+  ],
+  "watchFor": [
+    "Evaluate purposeful communication, not merely surface polish.",
+    "Confirm evidence, attribution, and accessibility as appropriate.",
+    "These suggestions are independently developed, not official Georgia Department of Education guidance."
+  ],
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+},
+{
+  "code": "12.P.CP.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Collaboration",
+  "officialStandard": "**Collaboration** Collaborate with others to accomplish shared goals and projects.",
+  "studentFriendly": "I can prepare, contribute, listen, negotiate, and share responsibility to produce stronger work with others.",
+  "know": [
+    "collaborative norms",
+    "agenda",
+    "role allocation",
+    "active listening",
+    "constructive feedback",
+    "consensus",
+    "accountability",
+    "shared authorship"
+  ],
+  "understand": [
+    "Effective collaboration requires preparation and transparent responsibility, not just dividing tasks.",
+    "Disagreement can strengthen reasoning when participants use evidence and respectful discussion.",
+    "A group product should reflect integration and revision of ideas, not simply assembled individual sections."
+  ],
+  "do": [
+    "Arrive with annotations, questions, and a contribution plan.",
+    "Agree on norms, goals, milestones, and equitable roles; revisit them when needed.",
+    "Synthesize contrasting ideas, offer actionable feedback, and document how the group improved a shared text."
+  ],
+  "vocabulary": [
+    {
+      "term": "collaborative norms",
+      "definition": "A concept used to analyze or produce effective collaboration; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of collaborative norms in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "agenda",
+      "definition": "A concept used to analyze or produce effective collaboration; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of agenda in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "role allocation",
+      "definition": "A concept used to analyze or produce effective collaboration; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of role allocation in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "active listening",
+      "definition": "A concept used to analyze or produce effective collaboration; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of active listening in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "constructive feedback",
+      "definition": "A concept used to analyze or produce effective collaboration; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of constructive feedback in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "consensus",
+      "definition": "A concept used to analyze or produce effective collaboration; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of consensus in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "accountability",
+      "definition": "A concept used to analyze or produce effective collaboration; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of accountability in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "shared authorship",
+      "definition": "A concept used to analyze or produce effective collaboration; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of shared authorship in a mentor text or student work and explain its effect."
+    }
+  ],
+  "targets": [
+    "I can arrive with annotations, questions, and a contribution plan.",
+    "I can agree on norms, goals, milestones, and equitable roles; revisit them when needed.",
+    "I can synthesize contrasting ideas, offer actionable feedback, and document how the group improved a shared text."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Crucible",
+      "author": "Arthur Miller",
+      "genre": "Drama",
+      "purpose": "Use conflicting interpretations of character motives to practice evidence-based dialogue.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "A Raisin in the Sun",
+      "author": "Lorraine Hansberry",
+      "genre": "Drama",
+      "purpose": "Discuss competing values and practice listening across perspectives.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "Fences",
+      "author": "August Wilson",
+      "genre": "Drama",
+      "purpose": "Hold a collaborative seminar about responsibility, generational tension, and interpretation.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O’Brien",
+      "genre": "Linked short fiction",
+      "purpose": "Compare narrators and negotiate a defensible group interpretation.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Investigate ethical questions using assigned source-evaluation roles.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Novel",
+      "purpose": "Collaboratively evaluate responsibility using evidence from multiple voices.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "25–35 minutes",
+      "title": "Prepared discussion circle",
+      "activity": "Students bring two annotated quotations and one question; use rotating roles to complete a ten-minute evidence-based discussion.",
+      "materials": "Short shared excerpt; role cards; preparation slip",
+      "scaffolds": "Model paraphrasing before disagreement; provide turn-taking prompts.",
+      "success": "Each participant offers evidence and accurately builds on another contribution.",
+      "alignment": "12.P.CP.1"
+    },
+    {
+      "level": "on-level",
+      "time": "50–75 minutes",
+      "title": "Collaborative interpretation brief",
+      "activity": "Teams establish norms and milestones, debate two interpretations of a literary work, and coauthor a 700-word evidence-based brief.",
+      "materials": "Shared text; agenda; shared drafting space",
+      "scaffolds": "Use a contribution log and mid-project norms check.",
+      "success": "The final brief synthesizes positions and documents revision based on feedback.",
+      "alignment": "12.P.CP.1"
+    },
+    {
+      "level": "enrichment",
+      "time": "2–3 class periods",
+      "title": "Editorial board simulation",
+      "activity": "Run a student editorial board producing a thematic digital literary journal with fact-checking, inclusive review, and transparent editorial decisions.",
+      "materials": "Submission packet; editing rubric; publication plan",
+      "scaffolds": "Assign rotating leadership and require decision memos.",
+      "success": "Publication has coherent editorial standards and individual accountability evidence.",
+      "alignment": "12.P.CP.1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Prepare relevant evidence, questions, and tasks before group discussion. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates prepared participation with specific evidence: Submit an annotated source and two discussion questions before the meeting.",
+      "rationale": "Assesses 12.P.CP.1.a by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.1.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Establish and adjust norms, goals, roles, and procedures for a shared product. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates group norms and process with specific evidence: Create a team agreement, milestones, and a documented mid-project adjustment.",
+      "rationale": "Assesses 12.P.CP.1.b by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.1.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Offer ideas, listen, paraphrase, and provide actionable feedback. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates responsive contribution with specific evidence: Discussion notes show a claim, a paraphrase, and a revision prompted by feedback.",
+      "rationale": "Assesses 12.P.CP.1.c by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.1.c"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Investigate a question and create a unified text through genuine collaboration. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates shared inquiry and creation with specific evidence: Submit a jointly authored product and reflection showing synthesis of contributions.",
+      "rationale": "Assesses 12.P.CP.1.d by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.1.d"
+    }
+  ],
+  "skills": {
+    "12.P.CP.1.a": {
+      "focus": "Prepared participation",
+      "studentFriendly": "I can prepare relevant evidence, questions, and tasks before group discussion.",
+      "officialExpectation": "Arrive to group discussions and collaborative meetings prepared to be an active participant in the work. (I/C)",
+      "know": [
+        "collaborative norms",
+        "agenda",
+        "role allocation",
+        "active listening"
+      ],
+      "understand": [
+        "Effective collaboration requires preparation and transparent responsibility, not just dividing tasks."
+      ],
+      "do": [
+        "Prepare relevant evidence, questions, and tasks before group discussion."
+      ],
+      "targets": [
+        "I can prepare relevant evidence, questions, and tasks before group discussion."
+      ],
+      "instruction": [
+        "Model prepared participation using a short shared mentor text or authentic task.",
+        "Have students practice: Prepare relevant evidence, questions, and tasks before group discussion.",
+        "Use feedback to check: Submit an annotated source and two discussion questions before the meeting."
+      ],
+      "evidence": [
+        "Submit an annotated source and two discussion questions before the meeting."
+      ],
+      "watchFor": [
+        "Students attend but have no usable evidence or questions."
+      ]
+    },
+    "12.P.CP.1.b": {
+      "focus": "Group norms and process",
+      "studentFriendly": "I can establish and adjust norms, goals, roles, and procedures for a shared product.",
+      "officialExpectation": "Collaborate with others to determine group norms, establish goals and procedures, and facilitate productivity when working on shared projects. (I/C)",
+      "know": [
+        "collaborative norms",
+        "agenda",
+        "role allocation",
+        "active listening"
+      ],
+      "understand": [
+        "Effective collaboration requires preparation and transparent responsibility, not just dividing tasks."
+      ],
+      "do": [
+        "Establish and adjust norms, goals, roles, and procedures for a shared product."
+      ],
+      "targets": [
+        "I can establish and adjust norms, goals, roles, and procedures for a shared product."
+      ],
+      "instruction": [
+        "Model group norms and process using a short shared mentor text or authentic task.",
+        "Have students practice: Establish and adjust norms, goals, roles, and procedures for a shared product.",
+        "Use feedback to check: Create a team agreement, milestones, and a documented mid-project adjustment."
+      ],
+      "evidence": [
+        "Create a team agreement, milestones, and a documented mid-project adjustment."
+      ],
+      "watchFor": [
+        "One member performs all planning or invisible labor."
+      ]
+    },
+    "12.P.CP.1.c": {
+      "focus": "Responsive contribution",
+      "studentFriendly": "I can offer ideas, listen, paraphrase, and provide actionable feedback.",
+      "officialExpectation": "Contribute to discussions and shared projects by offering ideas, listening to the ideas of others, and providing feedback. (I/C)",
+      "know": [
+        "collaborative norms",
+        "agenda",
+        "role allocation",
+        "active listening"
+      ],
+      "understand": [
+        "Effective collaboration requires preparation and transparent responsibility, not just dividing tasks."
+      ],
+      "do": [
+        "Offer ideas, listen, paraphrase, and provide actionable feedback."
+      ],
+      "targets": [
+        "I can offer ideas, listen, paraphrase, and provide actionable feedback."
+      ],
+      "instruction": [
+        "Model responsive contribution using a short shared mentor text or authentic task.",
+        "Have students practice: Offer ideas, listen, paraphrase, and provide actionable feedback.",
+        "Use feedback to check: Discussion notes show a claim, a paraphrase, and a revision prompted by feedback."
+      ],
+      "evidence": [
+        "Discussion notes show a claim, a paraphrase, and a revision prompted by feedback."
+      ],
+      "watchFor": [
+        "Feedback is praise alone or disagreement without evidence."
+      ]
+    },
+    "12.P.CP.1.d": {
+      "focus": "Shared inquiry and creation",
+      "studentFriendly": "I can investigate a question and create a unified text through genuine collaboration.",
+      "officialExpectation": "Work with others to discuss topics, investigate questions, solve problems, and explore and create texts. (I/C)",
+      "know": [
+        "collaborative norms",
+        "agenda",
+        "role allocation",
+        "active listening"
+      ],
+      "understand": [
+        "Effective collaboration requires preparation and transparent responsibility, not just dividing tasks."
+      ],
+      "do": [
+        "Investigate a question and create a unified text through genuine collaboration."
+      ],
+      "targets": [
+        "I can investigate a question and create a unified text through genuine collaboration."
+      ],
+      "instruction": [
+        "Model shared inquiry and creation using a short shared mentor text or authentic task.",
+        "Have students practice: Investigate a question and create a unified text through genuine collaboration.",
+        "Use feedback to check: Submit a jointly authored product and reflection showing synthesis of contributions."
+      ],
+      "evidence": [
+        "Submit a jointly authored product and reflection showing synthesis of contributions."
+      ],
+      "watchFor": [
+        "Final work is disconnected pieces with no integrated reasoning."
+      ]
+    }
+  },
+  "evidence": [
+    "An annotated mentor text, plan, or rehearsal documenting choices in collaboration.",
+    "A completed product with relevant evidence and a clear audience or purpose.",
+    "A short reflection identifying a concrete revision and its effect."
+  ],
+  "instruction": [
+    "Model a high-quality example of collaboration and think aloud about its choices.",
+    "Use a brief guided practice task before independent application.",
+    "Assess the product and the explanation of choices, with actionable feedback."
+  ],
+  "watchFor": [
+    "Evaluate purposeful communication, not merely surface polish.",
+    "Confirm evidence, attribution, and accessibility as appropriate.",
+    "These suggestions are independently developed, not official Georgia Department of Education guidance."
+  ],
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+},
+{
+  "code": "12.P.CP.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Presentation",
+  "officialStandard": "**Presentation** Use presentation skills to tailor communication to target audiences for specific purposes.",
+  "studentFriendly": "I can present ideas clearly, choose effective media, adapt my delivery, respond to listeners, and perform meaningful language with understanding.",
+  "know": [
+    "audience analysis",
+    "thesis and signposting",
+    "oral citation",
+    "visual support",
+    "pace and emphasis",
+    "nonverbal communication",
+    "dialogue",
+    "recitation"
+  ],
+  "understand": [
+    "Clear presentations organize complex information so a particular audience can follow and evaluate it.",
+    "Voice, movement, timing, and media influence meaning; more slides do not necessarily improve communication.",
+    "Responding to questions and reciting important language require comprehension and preparation, not memorized performance alone."
+  ],
+  "do": [
+    "Develop and deliver a concise evidence-based presentation with clear structure and attribution.",
+    "Select visual or audio supports appropriate to audience and purpose.",
+    "Adjust delivery after practice, answer authentic questions, and recite a significant poem or speech excerpt with an explanation of its context."
+  ],
+  "vocabulary": [
+    {
+      "term": "audience analysis",
+      "definition": "A concept used to analyze or produce effective presentation; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of audience analysis in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "thesis and signposting",
+      "definition": "A concept used to analyze or produce effective presentation; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of thesis and signposting in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "oral citation",
+      "definition": "A concept used to analyze or produce effective presentation; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of oral citation in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "visual support",
+      "definition": "A concept used to analyze or produce effective presentation; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of visual support in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "pace and emphasis",
+      "definition": "A concept used to analyze or produce effective presentation; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of pace and emphasis in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "nonverbal communication",
+      "definition": "A concept used to analyze or produce effective presentation; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of nonverbal communication in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "dialogue",
+      "definition": "A concept used to analyze or produce effective presentation; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of dialogue in a mentor text or student work and explain its effect."
+    },
+    {
+      "term": "recitation",
+      "definition": "A concept used to analyze or produce effective presentation; define it precisely using the class mentor text.",
+      "example": "Identify a specific instance of recitation in a mentor text or student work and explain its effect."
+    }
+  ],
+  "targets": [
+    "I can develop and deliver a concise evidence-based presentation with clear structure and attribution.",
+    "I can select visual or audio supports appropriate to audience and purpose.",
+    "I can adjust delivery after practice, answer authentic questions, and recite a significant poem or speech excerpt with an explanation of its context."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "I Have a Dream",
+      "author": "Martin Luther King Jr.",
+      "genre": "Public speech",
+      "purpose": "Study repetition, cadence, and audience connection; use authorized excerpts.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "Ain’t I a Woman? (compare historical versions)",
+      "author": "Sojourner Truth (attributed)",
+      "genre": "Historical speech",
+      "purpose": "Discuss source variants, rhetorical delivery, and audience.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "We Shall Fight on the Beaches",
+      "author": "Winston Churchill",
+      "genre": "Public speech",
+      "purpose": "Analyze pacing, repetition, and high-stakes audience purpose.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "The Hill We Climb",
+      "author": "Amanda Gorman",
+      "genre": "Inaugural poem",
+      "purpose": "Examine performance choices and imagery in a contemporary civic poem.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Public address",
+      "purpose": "Practice purposeful recitation and analyze concise structure.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    },
+    {
+      "title": "Still I Rise",
+      "author": "Maya Angelou",
+      "genre": "Poem",
+      "purpose": "Compare print and performance effects through emphasis and pacing.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability, accessibility, and edition."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "25–35 minutes",
+      "title": "Two-minute idea talk",
+      "activity": "Present one claim and two supporting details; rehearse with a partner and answer one clarifying question.",
+      "materials": "Claim-evidence organizer; timer; optional cue cards",
+      "scaffolds": "Provide a sample introduction and optional rehearsal recording.",
+      "success": "Listeners can restate the claim and one piece of evidence.",
+      "alignment": "12.P.CP.2"
+    },
+    {
+      "level": "on-level",
+      "time": "50–75 minutes",
+      "title": "Evidence-based public briefing",
+      "activity": "Deliver a five-minute presentation for a defined school audience using at most three purposeful visuals, oral source credits, and a live Q&A.",
+      "materials": "Credible source set; slide or poster tool; peer checklist",
+      "scaffolds": "Use timed rehearsal, audience-analysis template, and feedback on pacing.",
+      "success": "Clear claim, accurate evidence, accessible media, and substantive answers.",
+      "alignment": "12.P.CP.2"
+    },
+    {
+      "level": "enrichment",
+      "time": "2–3 class periods",
+      "title": "Comparative performance and defense",
+      "activity": "Present a seven-minute interpretation of a significant speech or poem, recite a meaningful excerpt, compare two performance choices, and defend decisions in questions.",
+      "materials": "Two performances or editions; annotated script; recording option",
+      "scaffolds": "Require contextual source checking and a written rhetorical rationale.",
+      "success": "Recitation and explanation demonstrate context, interpretive choices, and responsiveness.",
+      "alignment": "12.P.CP.2"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Present an intelligible central idea with logical transitions and accurate evidence. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates clarity and organization with specific evidence: A recorded talk includes a focused claim, signposts, and oral citations.",
+      "rationale": "Assesses 12.P.CP.2.a by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.2.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Choose presentation formats and media that fit purpose and audience. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates purposeful modes with specific evidence: A media rationale explains why each slide, image, or demonstration is needed.",
+      "rationale": "Assesses 12.P.CP.2.b by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.2.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Vary tone, pace, and gesture to improve understanding and engagement. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates expressive delivery with specific evidence: Before-and-after rehearsal clips show deliberate emphasis and improved clarity.",
+      "rationale": "Assesses 12.P.CP.2.c by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.2.c"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Ask and answer questions using listening, evidence, and respectful clarification. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates audience dialogue with specific evidence: A Q&A transcript shows a direct answer and thoughtful follow-up.",
+      "rationale": "Assesses 12.P.CP.2.d by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.2.d"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific mentor text, discussion, or original product, demonstrate this skill: Recite an appropriate significant poem or speech passage and explain its significance. Cite or describe observable evidence and explain its effect.",
+      "answer": "A proficient response demonstrates recitation with understanding with specific evidence: Recitation is paired with an explanation of context and interpretive choices.",
+      "rationale": "Assesses 12.P.CP.2.e by requiring observable analysis, creation, or reflection.",
+      "alignment": "12.P.CP.2.e"
+    }
+  ],
+  "skills": {
+    "12.P.CP.2.a": {
+      "focus": "Clarity and organization",
+      "studentFriendly": "I can present an intelligible central idea with logical transitions and accurate evidence.",
+      "officialExpectation": "Communicate clearly to present ideas, information, and texts. (I/C)",
+      "know": [
+        "audience analysis",
+        "thesis and signposting",
+        "oral citation",
+        "visual support"
+      ],
+      "understand": [
+        "Clear presentations organize complex information so a particular audience can follow and evaluate it."
+      ],
+      "do": [
+        "Present an intelligible central idea with logical transitions and accurate evidence."
+      ],
+      "targets": [
+        "I can present an intelligible central idea with logical transitions and accurate evidence."
+      ],
+      "instruction": [
+        "Model clarity and organization using a short shared mentor text or authentic task.",
+        "Have students practice: Present an intelligible central idea with logical transitions and accurate evidence.",
+        "Use feedback to check: A recorded talk includes a focused claim, signposts, and oral citations."
+      ],
+      "evidence": [
+        "A recorded talk includes a focused claim, signposts, and oral citations."
+      ],
+      "watchFor": [
+        "Fluent delivery disguises missing or inaccurate evidence."
+      ]
+    },
+    "12.P.CP.2.b": {
+      "focus": "Purposeful modes",
+      "studentFriendly": "I can choose presentation formats and media that fit purpose and audience.",
+      "officialExpectation": "Integrate modes and genres most appropriate to purpose and audience. (I/C)",
+      "know": [
+        "audience analysis",
+        "thesis and signposting",
+        "oral citation",
+        "visual support"
+      ],
+      "understand": [
+        "Clear presentations organize complex information so a particular audience can follow and evaluate it."
+      ],
+      "do": [
+        "Choose presentation formats and media that fit purpose and audience."
+      ],
+      "targets": [
+        "I can choose presentation formats and media that fit purpose and audience."
+      ],
+      "instruction": [
+        "Model purposeful modes using a short shared mentor text or authentic task.",
+        "Have students practice: Choose presentation formats and media that fit purpose and audience.",
+        "Use feedback to check: A media rationale explains why each slide, image, or demonstration is needed."
+      ],
+      "evidence": [
+        "A media rationale explains why each slide, image, or demonstration is needed."
+      ],
+      "watchFor": [
+        "Slides repeat the entire spoken script or lack accessibility."
+      ]
+    },
+    "12.P.CP.2.c": {
+      "focus": "Expressive delivery",
+      "studentFriendly": "I can vary tone, pace, and gesture to improve understanding and engagement.",
+      "officialExpectation": "Vary tone, pace, and nonverbal gestures as appropriate to purpose and audience. (I/C)",
+      "know": [
+        "audience analysis",
+        "thesis and signposting",
+        "oral citation",
+        "visual support"
+      ],
+      "understand": [
+        "Clear presentations organize complex information so a particular audience can follow and evaluate it."
+      ],
+      "do": [
+        "Vary tone, pace, and gesture to improve understanding and engagement."
+      ],
+      "targets": [
+        "I can vary tone, pace, and gesture to improve understanding and engagement."
+      ],
+      "instruction": [
+        "Model expressive delivery using a short shared mentor text or authentic task.",
+        "Have students practice: Vary tone, pace, and gesture to improve understanding and engagement.",
+        "Use feedback to check: Before-and-after rehearsal clips show deliberate emphasis and improved clarity."
+      ],
+      "evidence": [
+        "Before-and-after rehearsal clips show deliberate emphasis and improved clarity."
+      ],
+      "watchFor": [
+        "Performance gestures distract from meaning or become forced."
+      ]
+    },
+    "12.P.CP.2.d": {
+      "focus": "Audience dialogue",
+      "studentFriendly": "I can ask and answer questions using listening, evidence, and respectful clarification.",
+      "officialExpectation": "Engage in dialogue with audiences by asking and answering questions. (I/C)",
+      "know": [
+        "audience analysis",
+        "thesis and signposting",
+        "oral citation",
+        "visual support"
+      ],
+      "understand": [
+        "Clear presentations organize complex information so a particular audience can follow and evaluate it."
+      ],
+      "do": [
+        "Ask and answer questions using listening, evidence, and respectful clarification."
+      ],
+      "targets": [
+        "I can ask and answer questions using listening, evidence, and respectful clarification."
+      ],
+      "instruction": [
+        "Model audience dialogue using a short shared mentor text or authentic task.",
+        "Have students practice: Ask and answer questions using listening, evidence, and respectful clarification.",
+        "Use feedback to check: A Q&A transcript shows a direct answer and thoughtful follow-up."
+      ],
+      "evidence": [
+        "A Q&A transcript shows a direct answer and thoughtful follow-up."
+      ],
+      "watchFor": [
+        "Presenters dodge questions or invent unsupported answers."
+      ]
+    },
+    "12.P.CP.2.e": {
+      "focus": "Recitation with understanding",
+      "studentFriendly": "I can recite an appropriate significant poem or speech passage and explain its significance.",
+      "officialExpectation": "Build background knowledge by reciting all or part of significant poems and speeches as appropriate by grade level. (I/C)",
+      "know": [
+        "audience analysis",
+        "thesis and signposting",
+        "oral citation",
+        "visual support"
+      ],
+      "understand": [
+        "Clear presentations organize complex information so a particular audience can follow and evaluate it."
+      ],
+      "do": [
+        "Recite an appropriate significant poem or speech passage and explain its significance."
+      ],
+      "targets": [
+        "I can recite an appropriate significant poem or speech passage and explain its significance."
+      ],
+      "instruction": [
+        "Model recitation with understanding using a short shared mentor text or authentic task.",
+        "Have students practice: Recite an appropriate significant poem or speech passage and explain its significance.",
+        "Use feedback to check: Recitation is paired with an explanation of context and interpretive choices."
+      ],
+      "evidence": [
+        "Recitation is paired with an explanation of context and interpretive choices."
+      ],
+      "watchFor": [
+        "Memorization is assessed without comprehension or source context."
+      ]
+    }
+  },
+  "evidence": [
+    "An annotated mentor text, plan, or rehearsal documenting choices in presentation.",
+    "A completed product with relevant evidence and a clear audience or purpose.",
+    "A short reflection identifying a concrete revision and its effect."
+  ],
+  "instruction": [
+    "Model a high-quality example of presentation and think aloud about its choices.",
+    "Use a brief guided practice task before independent application.",
+    "Assess the product and the explanation of choices, with actionable feedback."
+  ],
+  "watchFor": [
+    "Evaluate purposeful communication, not merely surface polish.",
+    "Confirm evidence, attribution, and accessibility as appropriate.",
+    "These suggestions are independently developed, not official Georgia Department of Education guidance."
+  ],
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+}
   ]
 }
 
