@@ -6637,6 +6637,1035 @@
   },
   "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
 }
+    ,
+{
+  "code": "12.P.EICC.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Reader & Writer Identity",
+  "officialStandard": "**Reader & Writer Identity** Build an identity as a reader and writer, developing a repertoire of resources and tools to continuously expand participation as an active consumer and producer of texts.",
+  "studentFriendly": "I can make independent, purposeful choices as a reader and writer, reflect on my growth, and contribute to a community of readers and writers.",
+  "know": [
+    "reading identity",
+    "writing identity",
+    "metacognition",
+    "self-assessment",
+    "reading repertoire",
+    "genre",
+    "revision",
+    "feedback literacy"
+  ],
+  "understand": [
+    "Reading and writing identities change as people encounter new genres, purposes, and communities.",
+    "Strategic readers and writers select tools and approaches based on the task rather than relying on one routine.",
+    "Independence includes setting goals, seeking useful feedback, and evaluating progress."
+  ],
+  "do": [
+    "Set evidence-based goals and revisit them after authentic reading and writing.",
+    "Choose and justify a personally meaningful and academically demanding text.",
+    "Build a portfolio demonstrating strategic choices, revisions, and growing independence."
+  ],
+  "vocabulary": [
+    {
+      "term": "reading identity",
+      "definition": "A reader’s evolving interests, habits, strengths, and sense of belonging in reading communities.",
+      "example": "Identify and explain “reading identity” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "writing identity",
+      "definition": "A writer’s evolving voice, purposes, strategies, and sense of agency.",
+      "example": "Identify and explain “writing identity” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "metacognition",
+      "definition": "Awareness and regulation of one’s own thinking and learning.",
+      "example": "Identify and explain “metacognition” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "self-assessment",
+      "definition": "Judging one’s work against evidence and explicit criteria.",
+      "example": "Identify and explain “self-assessment” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "reading repertoire",
+      "definition": "The range of genres, strategies, and texts a reader can use.",
+      "example": "Identify and explain “reading repertoire” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "genre",
+      "definition": "A category of texts with recognizable purposes and conventions.",
+      "example": "Identify and explain “genre” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "revision",
+      "definition": "Reconsidering and changing a text to improve its meaning or effect.",
+      "example": "Identify and explain “revision” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "feedback literacy",
+      "definition": "The ability to interpret, use, and respond constructively to feedback.",
+      "example": "Identify and explain “feedback literacy” in a relevant mentor text or student composition."
+    }
+  ],
+  "targets": [
+    "I can set evidence-based goals and revisit them after authentic reading and writing.",
+    "I can choose and justify a personally meaningful and academically demanding text.",
+    "I can build a portfolio demonstrating strategic choices, revisions, and growing independence."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Book of Delights",
+      "author": "Ross Gay",
+      "genre": "Essay collection",
+      "purpose": "Explore how a writer develops a distinctive observing and reflective practice.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "On Writing: A Memoir of the Craft",
+      "author": "Stephen King",
+      "genre": "Craft memoir",
+      "purpose": "Evaluate an author’s account of reading and writing habits.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Poet X",
+      "author": "Elizabeth Acevedo",
+      "genre": "Verse novel",
+      "purpose": "Discuss how a writer’s voice and identity develop through an audience and community.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "genre": "Vignette novel",
+      "purpose": "Explore how brief forms support a developing writer’s voice.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Bird by Bird",
+      "author": "Anne Lamott",
+      "genre": "Writing craft nonfiction",
+      "purpose": "Analyze revision, drafting, and writer confidence.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "genre": "Extended essay",
+      "purpose": "Examine material and social conditions that shape writing identity.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "30 minutes",
+      "title": "Guided reading-and-writing identity map",
+      "activity": "Complete a modeled interest inventory, choose between two short texts, and use sentence frames to set one measurable reading and one writing goal.",
+      "materials": "Interest inventory, two accessible excerpts, model portfolio, goal-setting frames",
+      "scaffolds": "Teacher think-aloud, paired goal conference, and annotated examples",
+      "success": "Identify two evidence-based preferences and create a realistic revision-ready goal.",
+      "alignment": "12.P.EICC.1"
+    },
+    {
+      "level": "on-level",
+      "time": "50–70 minutes",
+      "title": "Independent literacy portfolio",
+      "activity": "Curate a self-selected text, two response artifacts, and one revised composition; annotate choices and assess progress toward personal and academic goals.",
+      "materials": "Choice reading, drafts, feedback notes, portfolio template",
+      "scaffolds": "Optional conferencing checkpoints and peer feedback protocol",
+      "success": "Explain at least three intentional strategy or revision decisions with portfolio evidence.",
+      "alignment": "12.P.EICC.1"
+    },
+    {
+      "level": "enrichment",
+      "time": "Two class periods plus independent work",
+      "title": "Public-facing literary mentorship",
+      "activity": "Design and pilot a reading or writing experience for a real audience, such as a book-talk series or peer writing workshop, and analyze audience feedback.",
+      "materials": "Student-selected texts, publication or presentation tools, audience feedback",
+      "scaffolds": "Student-designed milestones and consultation as needed",
+      "success": "Defend the design choices and document a substantive improvement based on audience evidence.",
+      "alignment": "12.P.EICC.1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can generate, understand, monitor, and discuss personal and academic reading and writing goals, revising as appropriate. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Generate, understand, monitor, and discuss personal and academic reading and writing goals, revising as appropriate.",
+      "rationale": "Assesses the performance required by 12.P.EICC.1.a; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.1.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can discuss or write about personal and academic reading and writing preferences, referring to specific techniques, topics, modes, and genres that resonate most. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Discuss or write about personal and academic reading and writing preferences, referring to specific techniques, topics, modes, and genres that resonate most.",
+      "rationale": "Assesses the performance required by 12.P.EICC.1.b; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.1.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can select, read, and write texts of personal interest and academic relevance to grade-level texts and topics. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Select, read, and write texts of personal interest and academic relevance to grade-level texts and topics.",
+      "rationale": "Assesses the performance required by 12.P.EICC.1.c; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.1.c"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can build a repertoire of comprehension and composition skills, strategies, and techniques, drawing from them as needed to aid the interpretation and construction of texts. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Build a repertoire of comprehension and composition skills, strategies, and techniques, drawing from them as needed to aid the interpretation and construction of texts.",
+      "rationale": "Assesses the performance required by 12.P.EICC.1.d; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.1.d"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can participate in a community of readers and writers by developing group norms, discussing texts, sharing individual writing, listening as others share their writing, and offering and responding to feedback. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Participate in a community of readers and writers by developing group norms, discussing texts, sharing individual writing, listening as others share their writing, and offering and responding to feedback.",
+      "rationale": "Assesses the performance required by 12.P.EICC.1.e; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.1.e"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can develop independence and autonomy as a reader and writer. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Develop independence and autonomy as a reader and writer.",
+      "rationale": "Assesses the performance required by 12.P.EICC.1.f; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.1.f"
+    }
+  ],
+  "evidence": [
+    "Annotated reading or research showing specific textual and/or contextual evidence.",
+    "An original written or spoken product designed for a clear purpose and audience.",
+    "A brief reflection or revision note explaining choices and next steps."
+  ],
+  "instruction": [
+    "Model a concrete decision using a brief mentor text and an explicit think-aloud.",
+    "Move from supported comparison to independent application with purposeful peer feedback.",
+    "Assess transferable decisions with evidence, not completion of a worksheet alone."
+  ],
+  "watchFor": [
+    "Avoid treating personal preference or historical background as a substitute for textual evidence.",
+    "Differentiate student interpretation from documented facts about authors or audiences.",
+    "Suggested texts and instructional strategies are independent recommendations, not official Georgia Department of Education guidance."
+  ],
+  "skills": {
+    "12.P.EICC.1.a": {
+      "focus": "Goal setting",
+      "studentFriendly": "I can set a specific reading and writing goal, track evidence of progress, and revise the goal after reflection.",
+      "know": [
+        "reading identity",
+        "writing identity",
+        "metacognition"
+      ],
+      "understand": [
+        "Reading and writing identities change as people encounter new genres, purposes, and communities."
+      ],
+      "do": [
+        "Set a specific reading and writing goal, track evidence of progress, and revise the goal after reflection."
+      ],
+      "targets": [
+        "I can set a specific reading and writing goal, track evidence of progress, and revise the goal after reflection."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Generate, understand, monitor, and discuss personal and academic reading and writing goals, revising as appropriate.",
+        "Model a short example of goal setting with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Set a specific reading and writing goal, track evidence of progress, and revise the goal after reflection."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Set a specific reading and writing goal, track evidence of progress, and revise the goal after reflection.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.1.b": {
+      "focus": "Preferences and craft",
+      "studentFriendly": "I can explain which genres, topics, modes, and techniques sustain your engagement, using specific text examples.",
+      "know": [
+        "reading identity",
+        "writing identity",
+        "metacognition"
+      ],
+      "understand": [
+        "Reading and writing identities change as people encounter new genres, purposes, and communities."
+      ],
+      "do": [
+        "Explain which genres, topics, modes, and techniques sustain your engagement, using specific text examples."
+      ],
+      "targets": [
+        "I can explain which genres, topics, modes, and techniques sustain your engagement, using specific text examples."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Discuss or write about personal and academic reading and writing preferences, referring to specific techniques, topics, modes, and genres that resonate most.",
+        "Model a short example of preferences and craft with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Explain which genres, topics, modes, and techniques sustain your engagement, using specific text examples."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Explain which genres, topics, modes, and techniques sustain your engagement, using specific text examples.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.1.c": {
+      "focus": "Purposeful selection",
+      "studentFriendly": "I can independently choose a challenging text and writing task that meet both personal interests and academic goals.",
+      "know": [
+        "reading identity",
+        "writing identity",
+        "metacognition"
+      ],
+      "understand": [
+        "Reading and writing identities change as people encounter new genres, purposes, and communities."
+      ],
+      "do": [
+        "Independently choose a challenging text and writing task that meet both personal interests and academic goals."
+      ],
+      "targets": [
+        "I can independently choose a challenging text and writing task that meet both personal interests and academic goals."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Select, read, and write texts of personal interest and academic relevance to grade-level texts and topics.",
+        "Model a short example of purposeful selection with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Independently choose a challenging text and writing task that meet both personal interests and academic goals."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Independently choose a challenging text and writing task that meet both personal interests and academic goals.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.1.d": {
+      "focus": "Strategic repertoire",
+      "studentFriendly": "I can choose and explain a comprehension or composition strategy suited to a new task.",
+      "know": [
+        "reading identity",
+        "writing identity",
+        "metacognition"
+      ],
+      "understand": [
+        "Reading and writing identities change as people encounter new genres, purposes, and communities."
+      ],
+      "do": [
+        "Choose and explain a comprehension or composition strategy suited to a new task."
+      ],
+      "targets": [
+        "I can choose and explain a comprehension or composition strategy suited to a new task."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Build a repertoire of comprehension and composition skills, strategies, and techniques, drawing from them as needed to aid the interpretation and construction of texts.",
+        "Model a short example of strategic repertoire with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Choose and explain a comprehension or composition strategy suited to a new task."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Choose and explain a comprehension or composition strategy suited to a new task.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.1.e": {
+      "focus": "Literary community",
+      "studentFriendly": "I can use discussion norms and specific feedback to strengthen a peer’s work and revise your own.",
+      "know": [
+        "reading identity",
+        "writing identity",
+        "metacognition"
+      ],
+      "understand": [
+        "Reading and writing identities change as people encounter new genres, purposes, and communities."
+      ],
+      "do": [
+        "Use discussion norms and specific feedback to strengthen a peer’s work and revise your own."
+      ],
+      "targets": [
+        "I can use discussion norms and specific feedback to strengthen a peer’s work and revise your own."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Participate in a community of readers and writers by developing group norms, discussing texts, sharing individual writing, listening as others share their writing, and offering and responding to feedback.",
+        "Model a short example of literary community with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Use discussion norms and specific feedback to strengthen a peer’s work and revise your own."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Use discussion norms and specific feedback to strengthen a peer’s work and revise your own.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.1.f": {
+      "focus": "Autonomy",
+      "studentFriendly": "I can plan, complete, and evaluate an independent reading-and-writing cycle without relying on step-by-step teacher direction.",
+      "know": [
+        "reading identity",
+        "writing identity",
+        "metacognition"
+      ],
+      "understand": [
+        "Reading and writing identities change as people encounter new genres, purposes, and communities."
+      ],
+      "do": [
+        "Plan, complete, and evaluate an independent reading-and-writing cycle without relying on step-by-step teacher direction."
+      ],
+      "targets": [
+        "I can plan, complete, and evaluate an independent reading-and-writing cycle without relying on step-by-step teacher direction."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Develop independence and autonomy as a reader and writer.",
+        "Model a short example of autonomy with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Plan, complete, and evaluate an independent reading-and-writing cycle without relying on step-by-step teacher direction."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Plan, complete, and evaluate an independent reading-and-writing cycle without relying on step-by-step teacher direction.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    }
+  },
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+},
+{
+  "code": "12.P.EICC.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Engagement & Intention",
+  "officialStandard": "**Engagement & Intention** Engage in written or spoken dialogue as author and audience for a variety of tasks and purposes, making intentional connections within, between, and beyond texts.",
+  "studentFriendly": "I can use reading, writing, speaking, and listening deliberately to tell stories, learn, explain, evaluate, and influence real decisions.",
+  "know": [
+    "communicative purpose",
+    "narrative",
+    "synthesis",
+    "explanation",
+    "evaluation",
+    "argument",
+    "stakeholder",
+    "call to action"
+  ],
+  "understand": [
+    "A text’s purpose affects its genre, evidence, organization, and tone.",
+    "The same issue can be explored through narrative, explanatory, analytical, and persuasive texts.",
+    "Responsible communication considers the needs of the audience and the consequences of claims."
+  ],
+  "do": [
+    "Select a mode and genre that match a clearly stated communication purpose.",
+    "Synthesize multiple sources into an explanation or evaluation with traceable evidence.",
+    "Create and revise a text intended to inform a decision or address a real problem."
+  ],
+  "vocabulary": [
+    {
+      "term": "communicative purpose",
+      "definition": "The outcome a creator wants a text to achieve.",
+      "example": "Identify and explain “communicative purpose” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "narrative",
+      "definition": "A text that organizes experiences or events into a story.",
+      "example": "Identify and explain “narrative” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "synthesis",
+      "definition": "Combining information from multiple sources into a new understanding.",
+      "example": "Identify and explain “synthesis” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "explanation",
+      "definition": "A text that clarifies how or why something works or happens.",
+      "example": "Identify and explain “explanation” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "evaluation",
+      "definition": "A judgment supported by explicit criteria and evidence.",
+      "example": "Identify and explain “evaluation” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "argument",
+      "definition": "A defensible claim supported by reasons and evidence.",
+      "example": "Identify and explain “argument” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "stakeholder",
+      "definition": "A person or group affected by a decision or issue.",
+      "example": "Identify and explain “stakeholder” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "call to action",
+      "definition": "Language asking an audience to take a specific step.",
+      "example": "Identify and explain “call to action” in a relevant mentor text or student composition."
+    }
+  ],
+  "targets": [
+    "I can select a mode and genre that match a clearly stated communication purpose.",
+    "I can synthesize multiple sources into an explanation or evaluation with traceable evidence.",
+    "I can create and revise a text intended to inform a decision or address a real problem."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Just Mercy",
+      "author": "Bryan Stevenson",
+      "genre": "Memoir and argument",
+      "purpose": "Trace how personal stories and legal evidence support public understanding and reform.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Investigative nonfiction",
+      "purpose": "Study how narrative and explanation build scientific and ethical understanding.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "genre": "Satirical essay",
+      "purpose": "Analyze how purpose and irony change the meaning of an argument.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Fire Next Time",
+      "author": "James Baldwin",
+      "genre": "Essay and letter",
+      "purpose": "Explore how direct address and historical analysis shape an audience response.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Things They Carried",
+      "author": "Tim O’Brien",
+      "genre": "Linked fiction",
+      "purpose": "Examine how stories communicate complex experiences and questions of truth.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "genre": "Environmental nonfiction",
+      "purpose": "Analyze how scientific explanation supports a call for public action.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "30 minutes",
+      "title": "One issue, three purposes",
+      "activity": "Read an accessible issue brief and classify a short narrative, explanation, and recommendation by purpose; draft a paragraph for one chosen audience.",
+      "materials": "Short source set, purpose chart, audience cards",
+      "scaffolds": "Annotated models, guided comparison, and claim-evidence frames",
+      "success": "Correctly identify three purposes and create a paragraph whose choices match one purpose.",
+      "alignment": "12.P.EICC.2"
+    },
+    {
+      "level": "on-level",
+      "time": "50–70 minutes",
+      "title": "Community issue communication portfolio",
+      "activity": "Investigate a school or community question; create a narrative opening, evidence-based explainer, and recommendation for different audiences.",
+      "materials": "Credible source set, audience profile, drafting tools",
+      "scaffolds": "Research checkpoints and peer review by audience",
+      "success": "Produce three distinct forms and justify changes in evidence, tone, and structure.",
+      "alignment": "12.P.EICC.2"
+    },
+    {
+      "level": "enrichment",
+      "time": "Two class periods plus independent work",
+      "title": "Stakeholder decision brief",
+      "activity": "Synthesize conflicting sources and stakeholder perspectives into a decision memo, then test its clarity and fairness with an authentic audience.",
+      "materials": "Primary and secondary sources, interview notes if available, decision memo model",
+      "scaffolds": "Optional mentor consultation and evidence-audit protocol",
+      "success": "Present a defensible recommendation, acknowledge uncertainty, and revise after feedback.",
+      "alignment": "12.P.EICC.2"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can share real or imagined experiences by interpreting and constructing texts that tell or include stories. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Share real or imagined experiences by interpreting and constructing texts that tell or include stories.",
+      "rationale": "Assesses the performance required by 12.P.EICC.2.a; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.2.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can make use of texts to build knowledge, develop skills, make informed decisions, and share information and ideas. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Make use of texts to build knowledge, develop skills, make informed decisions, and share information and ideas.",
+      "rationale": "Assesses the performance required by 12.P.EICC.2.b; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.2.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can explain and learn concepts and processes by interpreting and constructing texts. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Explain and learn concepts and processes by interpreting and constructing texts.",
+      "rationale": "Assesses the performance required by 12.P.EICC.2.c; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.2.c"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can interpret and construct texts to aid the analysis and evaluation of texts and ideas. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Interpret and construct texts to aid the analysis and evaluation of texts and ideas.",
+      "rationale": "Assesses the performance required by 12.P.EICC.2.d; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.2.d"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can consume and produce texts in order to solve problems or influence decisions. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Consume and produce texts in order to solve problems or influence decisions.",
+      "rationale": "Assesses the performance required by 12.P.EICC.2.e; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.EICC.2.e"
+    }
+  ],
+  "evidence": [
+    "Annotated reading or research showing specific textual and/or contextual evidence.",
+    "An original written or spoken product designed for a clear purpose and audience.",
+    "A brief reflection or revision note explaining choices and next steps."
+  ],
+  "instruction": [
+    "Model a concrete decision using a brief mentor text and an explicit think-aloud.",
+    "Move from supported comparison to independent application with purposeful peer feedback.",
+    "Assess transferable decisions with evidence, not completion of a worksheet alone."
+  ],
+  "watchFor": [
+    "Avoid treating personal preference or historical background as a substitute for textual evidence.",
+    "Differentiate student interpretation from documented facts about authors or audiences.",
+    "Suggested texts and instructional strategies are independent recommendations, not official Georgia Department of Education guidance."
+  ],
+  "skills": {
+    "12.P.EICC.2.a": {
+      "focus": "Storytelling",
+      "studentFriendly": "I can use a story, real or imagined, to communicate an experience and identify the effect intended for the audience.",
+      "know": [
+        "communicative purpose",
+        "narrative",
+        "synthesis"
+      ],
+      "understand": [
+        "A text’s purpose affects its genre, evidence, organization, and tone."
+      ],
+      "do": [
+        "Use a story, real or imagined, to communicate an experience and identify the effect intended for the audience."
+      ],
+      "targets": [
+        "I can use a story, real or imagined, to communicate an experience and identify the effect intended for the audience."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Share real or imagined experiences by interpreting and constructing texts that tell or include stories.",
+        "Model a short example of storytelling with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Use a story, real or imagined, to communicate an experience and identify the effect intended for the audience."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Use a story, real or imagined, to communicate an experience and identify the effect intended for the audience.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.2.b": {
+      "focus": "Knowledge and decisions",
+      "studentFriendly": "I can use credible texts to learn about an issue, make a defensible decision, and communicate the reasoning.",
+      "know": [
+        "communicative purpose",
+        "narrative",
+        "synthesis"
+      ],
+      "understand": [
+        "A text’s purpose affects its genre, evidence, organization, and tone."
+      ],
+      "do": [
+        "Use credible texts to learn about an issue, make a defensible decision, and communicate the reasoning."
+      ],
+      "targets": [
+        "I can use credible texts to learn about an issue, make a defensible decision, and communicate the reasoning."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Make use of texts to build knowledge, develop skills, make informed decisions, and share information and ideas.",
+        "Model a short example of knowledge and decisions with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Use credible texts to learn about an issue, make a defensible decision, and communicate the reasoning."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Use credible texts to learn about an issue, make a defensible decision, and communicate the reasoning.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.2.c": {
+      "focus": "Explaining processes",
+      "studentFriendly": "I can translate a complex concept or process into a clear explanation for a specified audience.",
+      "know": [
+        "communicative purpose",
+        "narrative",
+        "synthesis"
+      ],
+      "understand": [
+        "A text’s purpose affects its genre, evidence, organization, and tone."
+      ],
+      "do": [
+        "Translate a complex concept or process into a clear explanation for a specified audience."
+      ],
+      "targets": [
+        "I can translate a complex concept or process into a clear explanation for a specified audience."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Explain and learn concepts and processes by interpreting and constructing texts.",
+        "Model a short example of explaining processes with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Translate a complex concept or process into a clear explanation for a specified audience."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Translate a complex concept or process into a clear explanation for a specified audience.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.2.d": {
+      "focus": "Analysis and evaluation",
+      "studentFriendly": "I can analyze competing interpretations or claims and construct a justified evaluation.",
+      "know": [
+        "communicative purpose",
+        "narrative",
+        "synthesis"
+      ],
+      "understand": [
+        "A text’s purpose affects its genre, evidence, organization, and tone."
+      ],
+      "do": [
+        "Analyze competing interpretations or claims and construct a justified evaluation."
+      ],
+      "targets": [
+        "I can analyze competing interpretations or claims and construct a justified evaluation."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Interpret and construct texts to aid the analysis and evaluation of texts and ideas.",
+        "Model a short example of analysis and evaluation with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Analyze competing interpretations or claims and construct a justified evaluation."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Analyze competing interpretations or claims and construct a justified evaluation.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.EICC.2.e": {
+      "focus": "Problem solving and influence",
+      "studentFriendly": "I can create a responsible, evidence-based text intended to solve a problem or influence a decision.",
+      "know": [
+        "communicative purpose",
+        "narrative",
+        "synthesis"
+      ],
+      "understand": [
+        "A text’s purpose affects its genre, evidence, organization, and tone."
+      ],
+      "do": [
+        "Create a responsible, evidence-based text intended to solve a problem or influence a decision."
+      ],
+      "targets": [
+        "I can create a responsible, evidence-based text intended to solve a problem or influence a decision."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Consume and produce texts in order to solve problems or influence decisions.",
+        "Model a short example of problem solving and influence with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Create a responsible, evidence-based text intended to solve a problem or influence a decision."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Create a responsible, evidence-based text intended to solve a problem or influence a decision.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    }
+  },
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+},
+{
+  "code": "12.P.ST.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Context",
+  "officialStandard": "**Context** Develop and apply knowledge of key components of context such as background information, geographic location, cultural influences, time period, and contemporary events when interpreting and constructing texts.",
+  "studentFriendly": "I can research and use the historical, cultural, geographic, and social circumstances that shape a text’s creation and reception.",
+  "know": [
+    "historical context",
+    "cultural context",
+    "geographic setting",
+    "contemporary events",
+    "situated audience",
+    "authorial purpose",
+    "reception",
+    "contextual evidence"
+  ],
+  "understand": [
+    "A text is produced and interpreted within particular circumstances rather than in isolation.",
+    "Different audiences may respond differently to the same text because their contexts differ.",
+    "Context supports interpretation but does not replace close reading or justify unsupported claims about an author."
+  ],
+  "do": [
+    "Identify the contextual details most relevant to a particular passage or composition.",
+    "Explain how context shapes an author’s purpose and an audience’s expectations.",
+    "Use contextual research alongside textual evidence to interpret a work or make deliberate writing choices."
+  ],
+  "vocabulary": [
+    {
+      "term": "historical context",
+      "definition": "The events and conditions surrounding a text’s creation or reception.",
+      "example": "Identify and explain “historical context” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "cultural context",
+      "definition": "Shared values, practices, and assumptions relevant to a text.",
+      "example": "Identify and explain “cultural context” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "geographic setting",
+      "definition": "The location and physical environment relevant to a text.",
+      "example": "Identify and explain “geographic setting” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "contemporary events",
+      "definition": "Events occurring during the period being examined.",
+      "example": "Identify and explain “contemporary events” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "situated audience",
+      "definition": "Readers or listeners whose circumstances influence interpretation.",
+      "example": "Identify and explain “situated audience” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "authorial purpose",
+      "definition": "What an author seeks to accomplish for an audience.",
+      "example": "Identify and explain “authorial purpose” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "reception",
+      "definition": "How audiences respond to a text in a particular time or setting.",
+      "example": "Identify and explain “reception” in a relevant mentor text or student composition."
+    },
+    {
+      "term": "contextual evidence",
+      "definition": "Verifiable information about circumstances that informs interpretation.",
+      "example": "Identify and explain “contextual evidence” in a relevant mentor text or student composition."
+    }
+  ],
+  "targets": [
+    "I can identify the contextual details most relevant to a particular passage or composition.",
+    "I can explain how context shapes an author’s purpose and an audience’s expectations.",
+    "I can use contextual research alongside textual evidence to interpret a work or make deliberate writing choices."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Narrative of the Life of Frederick Douglass",
+      "author": "Frederick Douglass",
+      "genre": "Autobiography",
+      "purpose": "Examine abolitionist-era publication, intended readers, and the rhetoric of testimony.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Their Eyes Were Watching God",
+      "author": "Zora Neale Hurston",
+      "genre": "Novel",
+      "purpose": "Consider the Harlem Renaissance, language, and debates about representation.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "A Raisin in the Sun",
+      "author": "Lorraine Hansberry",
+      "genre": "Drama",
+      "purpose": "Research mid-century housing discrimination and family aspirations.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Crucible",
+      "author": "Arthur Miller",
+      "genre": "Drama",
+      "purpose": "Compare the Salem setting with the play’s Cold War-era production context.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "Persepolis",
+      "author": "Marjane Satrapi",
+      "genre": "Graphic memoir",
+      "purpose": "Investigate the Iranian Revolution and the audiences for a retrospective memoir.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Novel",
+      "purpose": "Consider 1920s wealth, race, social mobility, and changing readerships.",
+      "access": "Use a licensed school/library copy or authorized excerpt; verify local suitability and accessibility."
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "remediation",
+      "time": "30 minutes",
+      "title": "Context and passage evidence pairs",
+      "activity": "Read a short excerpt with a two-paragraph vetted background note; match two contextual facts to precise textual details and explain each connection.",
+      "materials": "Excerpt, vetted context note, two-column organizer",
+      "scaffolds": "Teacher modeling and context-versus-inference labels",
+      "success": "Explain two supported connections without claiming context proves an author’s private intention.",
+      "alignment": "12.P.ST.1"
+    },
+    {
+      "level": "on-level",
+      "time": "50–70 minutes",
+      "title": "Two audiences, one text",
+      "activity": "Research the publication context of a selected work, compare a plausible original audience with a present-day audience, and write a close-reading analysis.",
+      "materials": "Selected text, reputable historical sources, source log",
+      "scaffolds": "Context research checklist and evidence conference",
+      "success": "Use two credible context sources and three textual details to support a nuanced comparison.",
+      "alignment": "12.P.ST.1"
+    },
+    {
+      "level": "enrichment",
+      "time": "Two class periods plus independent work",
+      "title": "Reception across time",
+      "activity": "Compare contemporary reviews or documented responses with later critical interpretations and produce a short scholarly introduction to the text.",
+      "materials": "Archival reviews or credible scholarship, original text, citation guide",
+      "scaffolds": "Source-authenticity checks and optional research consultation",
+      "success": "Distinguish documented reception from inference and explain how shifting contexts change interpretations.",
+      "alignment": "12.P.ST.1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can use prior knowledge, formal or informal research, and discussions with others to identify the key components of context that are most relevant. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Use prior knowledge, formal or informal research, and discussions with others to identify the key components of context that are most relevant.",
+      "rationale": "Assesses the performance required by 12.P.ST.1.a; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.ST.1.a"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can consider how context impacts the purposes of the author and the audience. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Consider how context impacts the purposes of the author and the audience.",
+      "rationale": "Assesses the performance required by 12.P.ST.1.b; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.ST.1.b"
+    },
+    {
+      "type": "constructed response",
+      "prompt": "Using a specific text, artifact, or draft, demonstrate how you can explore how context shapes the author’s decisions and the audience’s responses during the interpretation and construction of texts. Cite or describe precise evidence.",
+      "answer": "A defensible response shows the stated action, uses specific evidence, and explains its significance: Explore how context shapes the author’s decisions and the audience’s responses during the interpretation and construction of texts.",
+      "rationale": "Assesses the performance required by 12.P.ST.1.c; score evidence and explanation, not unsupported assertion.",
+      "alignment": "12.P.ST.1.c"
+    }
+  ],
+  "evidence": [
+    "Annotated reading or research showing specific textual and/or contextual evidence.",
+    "An original written or spoken product designed for a clear purpose and audience.",
+    "A brief reflection or revision note explaining choices and next steps."
+  ],
+  "instruction": [
+    "Model a concrete decision using a brief mentor text and an explicit think-aloud.",
+    "Move from supported comparison to independent application with purposeful peer feedback.",
+    "Assess transferable decisions with evidence, not completion of a worksheet alone."
+  ],
+  "watchFor": [
+    "Avoid treating personal preference or historical background as a substitute for textual evidence.",
+    "Differentiate student interpretation from documented facts about authors or audiences.",
+    "Suggested texts and instructional strategies are independent recommendations, not official Georgia Department of Education guidance."
+  ],
+  "skills": {
+    "12.P.ST.1.a": {
+      "focus": "Relevant context",
+      "studentFriendly": "I can identify and verify the historical, cultural, geographic, or contemporary facts that illuminate a particular text.",
+      "know": [
+        "historical context",
+        "cultural context",
+        "geographic setting"
+      ],
+      "understand": [
+        "A text is produced and interpreted within particular circumstances rather than in isolation."
+      ],
+      "do": [
+        "Identify and verify the historical, cultural, geographic, or contemporary facts that illuminate a particular text."
+      ],
+      "targets": [
+        "I can identify and verify the historical, cultural, geographic, or contemporary facts that illuminate a particular text."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Use prior knowledge, formal or informal research, and discussions with others to identify the key components of context that are most relevant.",
+        "Model a short example of relevant context with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Identify and verify the historical, cultural, geographic, or contemporary facts that illuminate a particular text."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Identify and verify the historical, cultural, geographic, or contemporary facts that illuminate a particular text.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.ST.1.b": {
+      "focus": "Purpose and audience",
+      "studentFriendly": "I can explain how circumstances shape what an author seeks to accomplish and what an audience expects.",
+      "know": [
+        "historical context",
+        "cultural context",
+        "geographic setting"
+      ],
+      "understand": [
+        "A text is produced and interpreted within particular circumstances rather than in isolation."
+      ],
+      "do": [
+        "Explain how circumstances shape what an author seeks to accomplish and what an audience expects."
+      ],
+      "targets": [
+        "I can explain how circumstances shape what an author seeks to accomplish and what an audience expects."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Consider how context impacts the purposes of the author and the audience.",
+        "Model a short example of purpose and audience with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Explain how circumstances shape what an author seeks to accomplish and what an audience expects."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Explain how circumstances shape what an author seeks to accomplish and what an audience expects.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    },
+    "12.P.ST.1.c": {
+      "focus": "Composition and reception",
+      "studentFriendly": "I can support an interpretation of an author’s choices and different audience responses with both textual and contextual evidence.",
+      "know": [
+        "historical context",
+        "cultural context",
+        "geographic setting"
+      ],
+      "understand": [
+        "A text is produced and interpreted within particular circumstances rather than in isolation."
+      ],
+      "do": [
+        "Support an interpretation of an author’s choices and different audience responses with both textual and contextual evidence."
+      ],
+      "targets": [
+        "I can support an interpretation of an author’s choices and different audience responses with both textual and contextual evidence."
+      ],
+      "instruction": [
+        "Introduce the official expectation: Explore how context shapes the author’s decisions and the audience’s responses during the interpretation and construction of texts.",
+        "Model a short example of composition and reception with an authentic text or composition.",
+        "Ask students to practice and explain how their evidence demonstrates: Support an interpretation of an author’s choices and different audience responses with both textual and contextual evidence."
+      ],
+      "evidence": [
+        "A student artifact demonstrating: Support an interpretation of an author’s choices and different audience responses with both textual and contextual evidence.",
+        "A brief explanation linking choices to textual evidence, purpose, or audience."
+      ],
+      "watchFor": [
+        "Do not accept an unsupported claim or generic summary in place of demonstrated application."
+      ]
+    }
+  },
+  "readingSelectionNote": "Mentor texts are optional, independently selected examples; verify school suitability, licensing, accessibility, and available editions."
+}
   ]
 }
 
