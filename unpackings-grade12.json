@@ -2469,6 +2469,1059 @@
   },
   "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify editions, classroom suitability, availability, permissions, and source credibility."
 }
+    ,
+{
+  "code": "12.T.T.4",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Poetic Techniques",
+  "studentFriendly": "I can analyze how poetic choices shape meaning and write poetry whose form and language serve a deliberate purpose.",
+  "know": [
+    "line break",
+    "enjambment",
+    "caesura",
+    "imagery",
+    "extended metaphor",
+    "volta",
+    "The official standard and its lettered expectations",
+    "The relationship among form, language, audience, and purpose"
+  ],
+  "understand": [
+    "Writers and creators select techniques to shape how readers understand and respond.",
+    "Sound analysis explains how and why a technique works in context."
+  ],
+  "do": [
+    "I can evaluate how poetic techniques shape a poem’s presentation, meaning, and theme.",
+    "I can select and revise poetic techniques to create a poem for a defined audience and purpose.",
+    "Support interpretations with relevant textual evidence and revise based on feedback."
+  ],
+  "vocabulary": [
+    {
+      "term": "line break",
+      "definition": "Where a poetic line ends, shaping emphasis and pacing.",
+      "example": "In revision, mark one instance of line break and explain its effect on a reader."
+    },
+    {
+      "term": "enjambment",
+      "definition": "A sentence continuing beyond a line ending.",
+      "example": "In revision, mark one instance of enjambment and explain its effect on a reader."
+    },
+    {
+      "term": "caesura",
+      "definition": "A pause within a line of poetry.",
+      "example": "In revision, mark one instance of caesura and explain its effect on a reader."
+    },
+    {
+      "term": "imagery",
+      "definition": "Language evoking sensory experience.",
+      "example": "In revision, mark one instance of imagery and explain its effect on a reader."
+    },
+    {
+      "term": "extended metaphor",
+      "definition": "A comparison developed across several lines or a whole work.",
+      "example": "In revision, mark one instance of extended metaphor and explain its effect on a reader."
+    },
+    {
+      "term": "volta",
+      "definition": "A turn in a poem’s thought or emotion.",
+      "example": "In revision, mark one instance of volta and explain its effect on a reader."
+    }
+  ],
+  "targets": [
+    "I can analyze a deliberate craft choice using accurate evidence.",
+    "I can explain the effect of that choice on a specific audience.",
+    "I can create or revise a text and justify the choices I made."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "The Fish",
+      "author": "Elizabeth Bishop",
+      "genre": "Poetry",
+      "purpose": "Trace how close observation and the final turn change the speaker’s attitude.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "How can an ordinary encounter become a moral revelation?",
+      "teachingPrompt": "Trace how close observation and the final turn change the speaker’s attitude. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.T.4.a"
+      ]
+    },
+    {
+      "title": "We Real Cool",
+      "author": "Gwendolyn Brooks",
+      "genre": "Poetry",
+      "purpose": "Test how line endings and collective voice complicate the speakers’ confidence.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "What happens when the most important word falls at a line ending?",
+      "teachingPrompt": "Test how line endings and collective voice complicate the speakers’ confidence. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.T.4.a"
+      ]
+    },
+    {
+      "title": "Harlem",
+      "author": "Langston Hughes",
+      "genre": "Poetry",
+      "purpose": "Compare sensory similes and the final question to evaluate thematic pressure.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "How can a series of questions feel like an argument?",
+      "teachingPrompt": "Compare sensory similes and the final question to evaluate thematic pressure. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.T.4.a"
+      ]
+    },
+    {
+      "title": "The Summer Day",
+      "author": "Mary Oliver",
+      "genre": "Poetry",
+      "purpose": "Analyze questions, pacing, and observation as invitations to reflect.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "What makes a question linger after a poem ends?",
+      "teachingPrompt": "Analyze questions, pacing, and observation as invitations to reflect. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.T.4.a"
+      ]
+    },
+    {
+      "title": "One Art",
+      "author": "Elizabeth Bishop",
+      "genre": "Villanelle",
+      "purpose": "Analyze refrain, controlled form, and shifts in emotional control.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "Can repetition conceal an emotion?",
+      "teachingPrompt": "Analyze refrain, controlled form, and shifts in emotional control. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.T.4.a"
+      ]
+    },
+    {
+      "title": "Still I Rise",
+      "author": "Maya Angelou",
+      "genre": "Poetry",
+      "purpose": "Examine repetition, direct address, and defiant voice for audience impact.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "How does a repeated phrase build power?",
+      "teachingPrompt": "Examine repetition, direct address, and defiant voice for audience impact. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.T.4.a"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25–35 minutes",
+      "title": "Remediation Poetic Techniques studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Annotate two poems for sound, form, imagery, and a turning point; explain how each feature affects meaning using quoted evidence. Then produce or revise a short original response that demonstrates compose for purpose.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Short excerpt with key moves highlighted",
+        "Teacher think-aloud and a two-column effect chart"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.T.4.a",
+        "12.T.T.4.b"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "On-Level Poetic Techniques studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Annotate two poems for sound, form, imagery, and a turning point; explain how each feature affects meaning using quoted evidence. Then produce or revise a short original response that demonstrates compose for purpose.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Paired annotation and peer feedback",
+        "Claim-evidence-effect organizer"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.T.4.a",
+        "12.T.T.4.b"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "50–65 minutes",
+      "title": "Enrichment Poetic Techniques studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Annotate two poems for sound, form, imagery, and a turning point; explain how each feature affects meaning using quoted evidence. Then produce or revise a short original response that demonstrates compose for purpose.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Independent text or audience comparison",
+        "Self-designed evaluation criteria"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.T.4.a",
+        "12.T.T.4.b"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "Choose one mentor text. How does a specific technique or design choice support its meaning or purpose? Cite two details.",
+      "answer": "A defensible claim naming the choice, two accurate details, and a causal explanation of audience effect.",
+      "rationale": "Assesses analysis beyond feature identification.",
+      "alignment": [
+        "12.T.T.4.a"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create or revise a short text for a named audience and purpose. Annotate at least three decisions and explain their intended effects.",
+      "answer": "Use a rubric for alignment to audience/purpose, purposeful choices, and quality of written justification.",
+      "rationale": "Assesses transfer to composition and revision.",
+      "alignment": [
+        "12.T.T.4.b"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe one choice that would be effective for one audience but less effective for another. Explain why.",
+      "answer": "A plausible comparison grounded in audience needs and textual evidence.",
+      "rationale": "Checks rhetorical flexibility and awareness of context.",
+      "alignment": [
+        "12.T.T.4.a",
+        "12.T.T.4.b"
+      ]
+    }
+  ],
+  "evidence": [
+    "Evidence-based annotation and comparison",
+    "A revised original composition with writer’s commentary",
+    "A short conference explaining choices and audience impact"
+  ],
+  "instruction": [
+    "Compare the consequences of changing line breaks or imagery before students write original poetry.",
+    "Teach the lettered expectations through a sequence of notice, explain, imitate, revise, and reflect.",
+    "Use brief mentor texts before moving to more complex independent application."
+  ],
+  "watchFor": [
+    "Confusing a device label with an explanation of its impact",
+    "Generalizing about audiences without evidence",
+    "Treating all forms or genres as interchangeable"
+  ],
+  "skills": {
+    "12.T.T.4.a": {
+      "focus": "Critique poetic choices",
+      "studentFriendly": "I can evaluate how poetic techniques shape a poem’s presentation, meaning, and theme.",
+      "know": [
+        "Critique poetic choices terminology and the distinction between observation and inference",
+        "How audience, purpose, and context shape a successful choice"
+      ],
+      "understand": [
+        "A choice matters because of its effect on meaning and audience, not merely because it can be named."
+      ],
+      "do": [
+        "evaluate how poetic techniques shape a poem’s presentation, meaning, and theme.",
+        "Use evidence or an annotated draft to justify the conclusion"
+      ],
+      "targets": [
+        "I can explain the relevant choice with a specific example.",
+        "I can revise or evaluate the choice against the stated purpose."
+      ],
+      "instruction": [
+        "Annotate two poems for sound, form, imagery, and a turning point; explain how each feature affects meaning using quoted evidence.",
+        "Model a strong and weak example, then invite students to explain the difference."
+      ],
+      "evidence": [
+        "Annotated evidence with a cause-and-effect explanation",
+        "Revised work or analysis justified by audience and purpose"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effects",
+        "Assuming all audiences interpret language identically"
+      ]
+    },
+    "12.T.T.4.b": {
+      "focus": "Compose for purpose",
+      "studentFriendly": "I can select and revise poetic techniques to create a poem for a defined audience and purpose.",
+      "know": [
+        "Compose for purpose terminology and the distinction between observation and inference",
+        "How audience, purpose, and context shape a successful choice"
+      ],
+      "understand": [
+        "A choice matters because of its effect on meaning and audience, not merely because it can be named."
+      ],
+      "do": [
+        "select and revise poetic techniques to create a poem for a defined audience and purpose.",
+        "Use evidence or an annotated draft to justify the conclusion"
+      ],
+      "targets": [
+        "I can explain the relevant choice with a specific example.",
+        "I can revise or evaluate the choice against the stated purpose."
+      ],
+      "instruction": [
+        "Draft a poem with an intentional formal choice and at least two techniques; annotate and justify revisions against the intended effect.",
+        "Model a strong and weak example, then invite students to explain the difference."
+      ],
+      "evidence": [
+        "Annotated evidence with a cause-and-effect explanation",
+        "Revised work or analysis justified by audience and purpose"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effects",
+        "Assuming all audiences interpret language identically"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "12.T.C.1",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Purposes & Audiences",
+  "studentFriendly": "I can determine why a text was made, judge how its voice reaches readers, and design a multimodal message for a particular audience.",
+  "know": [
+    "rhetorical situation",
+    "disciplinary purpose",
+    "voice",
+    "tone",
+    "multimodal",
+    "audience analysis",
+    "The official standard and its lettered expectations",
+    "The relationship among form, language, audience, and purpose"
+  ],
+  "understand": [
+    "Writers and creators select techniques to shape how readers understand and respond.",
+    "Sound analysis explains how and why a technique works in context."
+  ],
+  "do": [
+    "I can use a text’s technical, disciplinary, or personal purpose to make sense of its choices.",
+    "I can explain how voice and tone influence different audiences’ trust and response.",
+    "I can combine modes to meet more than one purpose for a specific audience, then evaluate my design.",
+    "Support interpretations with relevant textual evidence and revise based on feedback."
+  ],
+  "vocabulary": [
+    {
+      "term": "rhetorical situation",
+      "definition": "The interplay of speaker, audience, purpose, context, and message.",
+      "example": "In revision, mark one instance of rhetorical situation and explain its effect on a reader."
+    },
+    {
+      "term": "disciplinary purpose",
+      "definition": "The goal a text serves within a particular field.",
+      "example": "In revision, mark one instance of disciplinary purpose and explain its effect on a reader."
+    },
+    {
+      "term": "voice",
+      "definition": "A writer’s distinctive expressive presence.",
+      "example": "In revision, mark one instance of voice and explain its effect on a reader."
+    },
+    {
+      "term": "tone",
+      "definition": "The writer’s attitude conveyed through choices in language.",
+      "example": "In revision, mark one instance of tone and explain its effect on a reader."
+    },
+    {
+      "term": "multimodal",
+      "definition": "Combining communication modes such as text, image, sound, or layout.",
+      "example": "In revision, mark one instance of multimodal and explain its effect on a reader."
+    },
+    {
+      "term": "audience analysis",
+      "definition": "Studying readers’ needs, knowledge, and expectations.",
+      "example": "In revision, mark one instance of audience analysis and explain its effect on a reader."
+    }
+  ],
+  "targets": [
+    "I can analyze a deliberate craft choice using accurate evidence.",
+    "I can explain the effect of that choice on a specific audience.",
+    "I can create or revise a text and justify the choices I made."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter",
+      "purpose": "Analyze the intended and secondary audiences and shifts in tone.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "How does a writer answer critics while speaking to the public?",
+      "teachingPrompt": "Analyze the intended and secondary audiences and shifts in tone. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.C.1.a"
+      ]
+    },
+    {
+      "title": "Ain’t I a Woman?",
+      "author": "Sojourner Truth (compare documented versions)",
+      "genre": "Speech",
+      "purpose": "Investigate audience, transcription, and historical context before attributing wording.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "Whose version of a famous speech are we reading?",
+      "teachingPrompt": "Investigate audience, transcription, and historical context before attributing wording. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.C.1.a"
+      ]
+    },
+    {
+      "title": "The Danger of a Single Story",
+      "author": "Chimamanda Ngozi Adichie",
+      "genre": "TED talk",
+      "purpose": "Examine personal storytelling used to inform and persuade a global audience.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "How can one story change an assumption?",
+      "teachingPrompt": "Examine personal storytelling used to inform and persuade a global audience. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.C.1.a"
+      ]
+    },
+    {
+      "title": "NASA Artemis mission overview",
+      "author": "NASA",
+      "genre": "Technical public-information webpage",
+      "purpose": "Contrast technical and public-facing explanations of the same mission.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "Why does an agency explain the same mission differently?",
+      "teachingPrompt": "Contrast technical and public-facing explanations of the same mission. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.C.1.a"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Narrative nonfiction",
+      "purpose": "Compare narrative and scientific purposes in a researched excerpt.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "What changes when science is told through a family’s story?",
+      "teachingPrompt": "Compare narrative and scientific purposes in a researched excerpt. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.C.1.a"
+      ]
+    },
+    {
+      "title": "A local public-health infographic",
+      "author": "CDC or local public-health department",
+      "genre": "Multimodal informational text",
+      "purpose": "Assess how visual hierarchy, citations, and tone serve two audiences.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "What makes a graphic understandable without oversimplifying?",
+      "teachingPrompt": "Assess how visual hierarchy, citations, and tone serve two audiences. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.C.1.a"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25–35 minutes",
+      "title": "Remediation Purposes & Audiences studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Compare a technical report and public summary on the same issue; annotate which details are emphasized and why. Then produce or revise a short original response that demonstrates design and self-evaluate multimodal work.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Short excerpt with key moves highlighted",
+        "Teacher think-aloud and a two-column effect chart"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.C.1.a",
+        "12.T.C.1.b",
+        "12.T.C.1.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "On-Level Purposes & Audiences studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Compare a technical report and public summary on the same issue; annotate which details are emphasized and why. Then produce or revise a short original response that demonstrates design and self-evaluate multimodal work.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Paired annotation and peer feedback",
+        "Claim-evidence-effect organizer"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.C.1.a",
+        "12.T.C.1.b",
+        "12.T.C.1.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "50–65 minutes",
+      "title": "Enrichment Purposes & Audiences studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Compare a technical report and public summary on the same issue; annotate which details are emphasized and why. Then produce or revise a short original response that demonstrates design and self-evaluate multimodal work.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Independent text or audience comparison",
+        "Self-designed evaluation criteria"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.C.1.a",
+        "12.T.C.1.b",
+        "12.T.C.1.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "Choose one mentor text. How does a specific technique or design choice support its meaning or purpose? Cite two details.",
+      "answer": "A defensible claim naming the choice, two accurate details, and a causal explanation of audience effect.",
+      "rationale": "Assesses analysis beyond feature identification.",
+      "alignment": [
+        "12.T.C.1.a"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create or revise a short text for a named audience and purpose. Annotate at least three decisions and explain their intended effects.",
+      "answer": "Use a rubric for alignment to audience/purpose, purposeful choices, and quality of written justification.",
+      "rationale": "Assesses transfer to composition and revision.",
+      "alignment": [
+        "12.T.C.1.b",
+        "12.T.C.1.c"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe one choice that would be effective for one audience but less effective for another. Explain why.",
+      "answer": "A plausible comparison grounded in audience needs and textual evidence.",
+      "rationale": "Checks rhetorical flexibility and awareness of context.",
+      "alignment": [
+        "12.T.C.1.a",
+        "12.T.C.1.b",
+        "12.T.C.1.c"
+      ]
+    }
+  ],
+  "evidence": [
+    "Evidence-based annotation and comparison",
+    "A revised original composition with writer’s commentary",
+    "A short conference explaining choices and audience impact"
+  ],
+  "instruction": [
+    "Have students name the audience and purpose before analyzing or designing the message.",
+    "Teach the lettered expectations through a sequence of notice, explain, imitate, revise, and reflect.",
+    "Use brief mentor texts before moving to more complex independent application."
+  ],
+  "watchFor": [
+    "Confusing a device label with an explanation of its impact",
+    "Generalizing about audiences without evidence",
+    "Treating all forms or genres as interchangeable"
+  ],
+  "skills": {
+    "12.T.C.1.a": {
+      "focus": "Identify disciplinary and personal purposes",
+      "studentFriendly": "I can use a text’s technical, disciplinary, or personal purpose to make sense of its choices.",
+      "know": [
+        "Identify disciplinary and personal purposes terminology and the distinction between observation and inference",
+        "How audience, purpose, and context shape a successful choice"
+      ],
+      "understand": [
+        "A choice matters because of its effect on meaning and audience, not merely because it can be named."
+      ],
+      "do": [
+        "use a text’s technical, disciplinary, or personal purpose to make sense of its choices.",
+        "Use evidence or an annotated draft to justify the conclusion"
+      ],
+      "targets": [
+        "I can explain the relevant choice with a specific example.",
+        "I can revise or evaluate the choice against the stated purpose."
+      ],
+      "instruction": [
+        "Compare a technical report and public summary on the same issue; annotate which details are emphasized and why.",
+        "Model a strong and weak example, then invite students to explain the difference."
+      ],
+      "evidence": [
+        "Annotated evidence with a cause-and-effect explanation",
+        "Revised work or analysis justified by audience and purpose"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effects",
+        "Assuming all audiences interpret language identically"
+      ]
+    },
+    "12.T.C.1.b": {
+      "focus": "Evaluate voice and tone",
+      "studentFriendly": "I can explain how voice and tone influence different audiences’ trust and response.",
+      "know": [
+        "Evaluate voice and tone terminology and the distinction between observation and inference",
+        "How audience, purpose, and context shape a successful choice"
+      ],
+      "understand": [
+        "A choice matters because of its effect on meaning and audience, not merely because it can be named."
+      ],
+      "do": [
+        "explain how voice and tone influence different audiences’ trust and response.",
+        "Use evidence or an annotated draft to justify the conclusion"
+      ],
+      "targets": [
+        "I can explain the relevant choice with a specific example.",
+        "I can revise or evaluate the choice against the stated purpose."
+      ],
+      "instruction": [
+        "Rewrite a passage for a second audience and justify how changes in diction, register, and tone affect reception.",
+        "Model a strong and weak example, then invite students to explain the difference."
+      ],
+      "evidence": [
+        "Annotated evidence with a cause-and-effect explanation",
+        "Revised work or analysis justified by audience and purpose"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effects",
+        "Assuming all audiences interpret language identically"
+      ]
+    },
+    "12.T.C.1.c": {
+      "focus": "Design and self-evaluate multimodal work",
+      "studentFriendly": "I can combine modes to meet more than one purpose for a specific audience, then evaluate my design.",
+      "know": [
+        "Design and self-evaluate multimodal work terminology and the distinction between observation and inference",
+        "How audience, purpose, and context shape a successful choice"
+      ],
+      "understand": [
+        "A choice matters because of its effect on meaning and audience, not merely because it can be named."
+      ],
+      "do": [
+        "combine modes to meet more than one purpose for a specific audience, then evaluate my design.",
+        "Use evidence or an annotated draft to justify the conclusion"
+      ],
+      "targets": [
+        "I can explain the relevant choice with a specific example.",
+        "I can revise or evaluate the choice against the stated purpose."
+      ],
+      "instruction": [
+        "Create an evidence-based explainer combining text and visuals or audio; apply an audience-and-purpose rubric to revise.",
+        "Model a strong and weak example, then invite students to explain the difference."
+      ],
+      "evidence": [
+        "Annotated evidence with a cause-and-effect explanation",
+        "Revised work or analysis justified by audience and purpose"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effects",
+        "Assuming all audiences interpret language identically"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+},
+{
+  "code": "12.T.SS.2",
+  "status": "draft — independently developed instructional guidance; educator review recommended",
+  "focus": "Craft",
+  "studentFriendly": "I can evaluate the effects of literary and rhetorical language and make deliberate choices that establish meaning, tone, and credibility.",
+  "know": [
+    "connotation",
+    "rhetorical appeal",
+    "figurative language",
+    "ethos",
+    "register",
+    "authoritative tone",
+    "The official standard and its lettered expectations",
+    "The relationship among form, language, audience, and purpose"
+  ],
+  "understand": [
+    "Writers and creators select techniques to shape how readers understand and respond.",
+    "Sound analysis explains how and why a technique works in context."
+  ],
+  "do": [
+    "I can explain how figurative, connotative, and rhetorical choices develop meaning, tone, or mood.",
+    "I can choose literary and rhetorical devices that suit my purpose and audience.",
+    "I can sustain a formal, knowledgeable tone without overstating my evidence.",
+    "Support interpretations with relevant textual evidence and revise based on feedback."
+  ],
+  "vocabulary": [
+    {
+      "term": "connotation",
+      "definition": "Associations and feelings attached to a word beyond its definition.",
+      "example": "In revision, mark one instance of connotation and explain its effect on a reader."
+    },
+    {
+      "term": "rhetorical appeal",
+      "definition": "A persuasive approach based on credibility, emotion, or reasoning.",
+      "example": "In revision, mark one instance of rhetorical appeal and explain its effect on a reader."
+    },
+    {
+      "term": "figurative language",
+      "definition": "Expression that moves beyond literal meaning to create effects.",
+      "example": "In revision, mark one instance of figurative language and explain its effect on a reader."
+    },
+    {
+      "term": "ethos",
+      "definition": "A rhetorical appeal grounded in credibility or character.",
+      "example": "In revision, mark one instance of ethos and explain its effect on a reader."
+    },
+    {
+      "term": "register",
+      "definition": "A level and style of language suited to context.",
+      "example": "In revision, mark one instance of register and explain its effect on a reader."
+    },
+    {
+      "term": "authoritative tone",
+      "definition": "A confident, precise voice grounded in expertise and evidence.",
+      "example": "In revision, mark one instance of authoritative tone and explain its effect on a reader."
+    }
+  ],
+  "targets": [
+    "I can analyze a deliberate craft choice using accurate evidence.",
+    "I can explain the effect of that choice on a specific audience.",
+    "I can create or revise a text and justify the choices I made."
+  ],
+  "suggestedTexts": [
+    {
+      "title": "Letter from Birmingham Jail",
+      "author": "Martin Luther King Jr.",
+      "genre": "Open letter",
+      "purpose": "Evaluate analogy, allusion, and appeals to ethical authority.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "How can a writer sound principled and urgent at once?",
+      "teachingPrompt": "Evaluate analogy, allusion, and appeals to ethical authority. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.SS.2.a"
+      ]
+    },
+    {
+      "title": "The Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "genre": "Speech",
+      "purpose": "Trace parallel structure, repetition, and collective pronouns.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "How does a short speech make an enormous claim?",
+      "teachingPrompt": "Trace parallel structure, repetition, and collective pronouns. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.SS.2.a"
+      ]
+    },
+    {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "genre": "Literary essay",
+      "purpose": "Analyze sustained metaphor, shifts in register, and reasoned authority.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "Why make an argument through an imagined scene?",
+      "teachingPrompt": "Analyze sustained metaphor, shifts in register, and reasoned authority. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.SS.2.a"
+      ]
+    },
+    {
+      "title": "The Hill We Climb",
+      "author": "Amanda Gorman",
+      "genre": "Inaugural poem",
+      "purpose": "Examine alliteration, imagery, and public-facing rhetorical language.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "What makes language memorable when heard aloud?",
+      "teachingPrompt": "Examine alliteration, imagery, and public-facing rhetorical language. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.SS.2.a"
+      ]
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Investigative nonfiction",
+      "purpose": "Analyze how precise explanation and humanizing details build credibility.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": true,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "Can a text be compassionate and rigorous at the same time?",
+      "teachingPrompt": "Analyze how precise explanation and humanizing details build credibility. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.SS.2.a"
+      ]
+    },
+    {
+      "title": "A scientific editorial from a reputable journal",
+      "author": "Nature or Science editorial",
+      "genre": "Editorial",
+      "purpose": "Compare evidence, qualification, and confident professional register.",
+      "access": "Library, authorized excerpt, publisher, or reputable institutional source; verify rights and edition.",
+      "readingTime": "10–25 minutes (selected excerpt or performance)",
+      "highInterest": false,
+      "accessibility": "Offer a short annotated excerpt, audio/performance when available, and a vocabulary guide.",
+      "interestHook": "What makes expertise sound trustworthy rather than arrogant?",
+      "teachingPrompt": "Compare evidence, qualification, and confident professional register. Support the claim with precise textual evidence.",
+      "alignment": [
+        "12.T.SS.2.a"
+      ]
+    }
+  ],
+  "differentiation": [
+    {
+      "level": "Remediation",
+      "time": "25–35 minutes",
+      "title": "Remediation Craft studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Close-read a short passage; connect three specific language choices to audience response and the writer’s purpose. Then produce or revise a short original response that demonstrates establish authoritative credibility.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Short excerpt with key moves highlighted",
+        "Teacher think-aloud and a two-column effect chart"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.SS.2.a",
+        "12.T.SS.2.b",
+        "12.T.SS.2.c"
+      ]
+    },
+    {
+      "level": "On-Level",
+      "time": "40–50 minutes",
+      "title": "On-Level Craft studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Close-read a short passage; connect three specific language choices to audience response and the writer’s purpose. Then produce or revise a short original response that demonstrates establish authoritative credibility.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Paired annotation and peer feedback",
+        "Claim-evidence-effect organizer"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.SS.2.a",
+        "12.T.SS.2.b",
+        "12.T.SS.2.c"
+      ]
+    },
+    {
+      "level": "Enrichment",
+      "time": "50–65 minutes",
+      "title": "Enrichment Craft studio",
+      "activity": "Use one or two mentor texts to analyze a purposeful choice; Close-read a short passage; connect three specific language choices to audience response and the writer’s purpose. Then produce or revise a short original response that demonstrates establish authoritative credibility.",
+      "materials": [
+        "Selected mentor-text excerpt",
+        "Annotation and drafting tools",
+        "Audience/purpose checklist"
+      ],
+      "scaffolds": [
+        "Independent text or audience comparison",
+        "Self-designed evaluation criteria"
+      ],
+      "success": "Student identifies a specific choice, demonstrates its effect with evidence, and makes a defensible revision.",
+      "alignment": [
+        "12.T.SS.2.a",
+        "12.T.SS.2.b",
+        "12.T.SS.2.c"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "type": "Constructed Response",
+      "prompt": "Choose one mentor text. How does a specific technique or design choice support its meaning or purpose? Cite two details.",
+      "answer": "A defensible claim naming the choice, two accurate details, and a causal explanation of audience effect.",
+      "rationale": "Assesses analysis beyond feature identification.",
+      "alignment": [
+        "12.T.SS.2.a"
+      ]
+    },
+    {
+      "type": "Performance Task",
+      "prompt": "Create or revise a short text for a named audience and purpose. Annotate at least three decisions and explain their intended effects.",
+      "answer": "Use a rubric for alignment to audience/purpose, purposeful choices, and quality of written justification.",
+      "rationale": "Assesses transfer to composition and revision.",
+      "alignment": [
+        "12.T.SS.2.b",
+        "12.T.SS.2.c"
+      ]
+    },
+    {
+      "type": "Short Response",
+      "prompt": "Describe one choice that would be effective for one audience but less effective for another. Explain why.",
+      "answer": "A plausible comparison grounded in audience needs and textual evidence.",
+      "rationale": "Checks rhetorical flexibility and awareness of context.",
+      "alignment": [
+        "12.T.SS.2.a",
+        "12.T.SS.2.b",
+        "12.T.SS.2.c"
+      ]
+    }
+  ],
+  "evidence": [
+    "Evidence-based annotation and comparison",
+    "A revised original composition with writer’s commentary",
+    "A short conference explaining choices and audience impact"
+  ],
+  "instruction": [
+    "Distinguish confident evidence-based authority from unsupported certainty and inflated vocabulary.",
+    "Teach the lettered expectations through a sequence of notice, explain, imitate, revise, and reflect.",
+    "Use brief mentor texts before moving to more complex independent application."
+  ],
+  "watchFor": [
+    "Confusing a device label with an explanation of its impact",
+    "Generalizing about audiences without evidence",
+    "Treating all forms or genres as interchangeable"
+  ],
+  "skills": {
+    "12.T.SS.2.a": {
+      "focus": "Analyze effects of language",
+      "studentFriendly": "I can explain how figurative, connotative, and rhetorical choices develop meaning, tone, or mood.",
+      "know": [
+        "Analyze effects of language terminology and the distinction between observation and inference",
+        "How audience, purpose, and context shape a successful choice"
+      ],
+      "understand": [
+        "A choice matters because of its effect on meaning and audience, not merely because it can be named."
+      ],
+      "do": [
+        "explain how figurative, connotative, and rhetorical choices develop meaning, tone, or mood.",
+        "Use evidence or an annotated draft to justify the conclusion"
+      ],
+      "targets": [
+        "I can explain the relevant choice with a specific example.",
+        "I can revise or evaluate the choice against the stated purpose."
+      ],
+      "instruction": [
+        "Close-read a short passage; connect three specific language choices to audience response and the writer’s purpose.",
+        "Model a strong and weak example, then invite students to explain the difference."
+      ],
+      "evidence": [
+        "Annotated evidence with a cause-and-effect explanation",
+        "Revised work or analysis justified by audience and purpose"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effects",
+        "Assuming all audiences interpret language identically"
+      ]
+    },
+    "12.T.SS.2.b": {
+      "focus": "Craft purposeful effects",
+      "studentFriendly": "I can choose literary and rhetorical devices that suit my purpose and audience.",
+      "know": [
+        "Craft purposeful effects terminology and the distinction between observation and inference",
+        "How audience, purpose, and context shape a successful choice"
+      ],
+      "understand": [
+        "A choice matters because of its effect on meaning and audience, not merely because it can be named."
+      ],
+      "do": [
+        "choose literary and rhetorical devices that suit my purpose and audience.",
+        "Use evidence or an annotated draft to justify the conclusion"
+      ],
+      "targets": [
+        "I can explain the relevant choice with a specific example.",
+        "I can revise or evaluate the choice against the stated purpose."
+      ],
+      "instruction": [
+        "Write two versions of a short argument for different audiences; explain each rhetorical choice and revise for effect.",
+        "Model a strong and weak example, then invite students to explain the difference."
+      ],
+      "evidence": [
+        "Annotated evidence with a cause-and-effect explanation",
+        "Revised work or analysis justified by audience and purpose"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effects",
+        "Assuming all audiences interpret language identically"
+      ]
+    },
+    "12.T.SS.2.c": {
+      "focus": "Establish authoritative credibility",
+      "studentFriendly": "I can sustain a formal, knowledgeable tone without overstating my evidence.",
+      "know": [
+        "Establish authoritative credibility terminology and the distinction between observation and inference",
+        "How audience, purpose, and context shape a successful choice"
+      ],
+      "understand": [
+        "A choice matters because of its effect on meaning and audience, not merely because it can be named."
+      ],
+      "do": [
+        "sustain a formal, knowledgeable tone without overstating my evidence.",
+        "Use evidence or an annotated draft to justify the conclusion"
+      ],
+      "targets": [
+        "I can explain the relevant choice with a specific example.",
+        "I can revise or evaluate the choice against the stated purpose."
+      ],
+      "instruction": [
+        "Revise an informal opinion into a sourced expert explanation with precise claims, qualification, and consistent register.",
+        "Model a strong and weak example, then invite students to explain the difference."
+      ],
+      "evidence": [
+        "Annotated evidence with a cause-and-effect explanation",
+        "Revised work or analysis justified by audience and purpose"
+      ],
+      "watchFor": [
+        "Listing devices without explaining their effects",
+        "Assuming all audiences interpret language identically"
+      ]
+    }
+  },
+  "readingSelectionNote": "Text recommendations are independently developed, not Georgia-prescribed. Verify permissions, editions, source credibility, and age suitability."
+}
   ]
 }
 
